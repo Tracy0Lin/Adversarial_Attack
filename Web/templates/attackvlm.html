@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AttackVLM - MLLM 攻防驗證平台</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Specific Styles for Image Slider Comparison */
+        .comparison-container {
+            position: relative;
+            width: 100%;
+            height: 380px;
+            overflow: hidden;
+            border-radius: 12px;
+            border: 1px solid var(--border-card);
+            background: #0f172a;
+        }
+        .img-slider {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        .img-before {
+            z-index: 1;
+        }
+        .img-after {
+            z-index: 2;
+            width: 50%; /* Initial split width */
+            border-right: 2px solid #fff;
+            box-shadow: 10px 0 15px rgba(0,0,0,0.5);
+        }
+        .slider-handle-bar {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: #ffffff;
+            left: 50%;
+            margin-left: -2px;
+            z-index: 10;
+            cursor: ew-resize;
+            box-shadow: 0 0 10px rgba(0,0,0,0.8);
+        }
+        .slider-handle-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 40px;
+            height: 40px;
+            background: var(--color-primary);
+            border: 2px solid white;
+            color: white;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            box-shadow: 0 0 8px rgba(99, 102, 241, 0.6);
+            pointer-events: none;
+            z-index: 11;
+        }
+        .terminal-box {
+            background-color: #050811;
+            border: 1px solid var(--border-card);
+            border-radius: 12px;
+            padding: 16px;
+            font-family: 'Courier New', Courier, monospace;
+            color: #38bdf8;
+            height: 100%;
+            min-height: 140px;
+            box-shadow: inset 0 0 10px rgba(0,0,0,0.8);
+        }
+    </style>
+</head>
+<body>
+
+<!-- 頂部導覽列 -->
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom">
+    <div class="container">
+        <a class="navbar-brand navbar-brand-custom" href="/">MLLM 攻防驗證平台</a>
+        <div class="collapse navbar-collapse show" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom" href="/">核心驗證 Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom" href="/vlattack">VLAttack (純圖片干擾)</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom active" href="/attackvlm">AttackVLM (語意扭曲)</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom" href="/anyattack">AnyAttack (CLIP 檢索崩潰)</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container my-5">
+    <div class="row">
+        <!-- 標題與說明 -->
+        <div class="col-12 mb-4">
+            <h1 class="section-title">AttackVLM: 白盒語意扭曲攻擊 (Targeted Semantic Manipulation)</h1>
+            <p class="text-secondary">在白盒梯度可取得的情況下，攻擊者可藉由操縱底圖中微不可察的畫素，強迫多模態大模型輸出與圖中內容完全相左的指定惡意目標語意。</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- 左側互動區 -->
+        <div class="col-lg-6">
+            <!-- 樣本與目標選擇 -->
+            <div class="glass-card">
+                <h4 class="mb-4" style="font-family: var(--font-heading); font-weight: 600;">1. 攻擊情境設定</h4>
+                
+                <div class="mb-3">
+                    <label class="form-label text-secondary">點擊選取範例圖片</label>
+                    <div class="d-flex gap-3">
+                        <div class="photo-item border border-primary p-1 bg-dark rounded cursor-pointer text-center" style="width: 100px;" onclick="selectImage('cat')">
+                            <img src="/static/images/cat.png" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;" alt="Cat">
+                            <span class="d-block mt-1 font-weight-bold" style="font-size: 0.8rem;">貓咪 (原始)</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label text-secondary" for="target-prompt">自訂惡意目標語意 (Target Response)</label>
+                    <input type="text" class="form-control form-control-custom" id="target-prompt" value="這是一輛裝甲車" placeholder="請輸入欲操縱模型輸出的文字">
+                    <small class="text-secondary">在此輸入你想強迫多模態模型「胡說八道」的惡意敘述。</small>
+                </div>
+
+                <button class="btn btn-custom w-100 py-3" id="exec-btn" onclick="executeVlmAttack()">
+                    執行攻擊 (Execute White-box Gradient Attack)
+                </button>
+            </div>
+
+            <!-- 互動滑塊對比 -->
+            <div class="glass-card">
+                <h4 class="mb-3" style="font-family: var(--font-heading); font-weight: 600;">2. 前端動態比對 (原圖 vs 對抗樣本)</h4>
+                <p class="text-secondary">拖動下圖中間的拉桿，可以看到注入對抗擾動後的變化。你會發現兩側外觀幾乎沒有差別，維持極高度的自然感與隱蔽性。</p>
+                
+                <div class="comparison-container" id="slider-box" onmousemove="handleSliderMove(event)" ontouchmove="handleSliderMove(event)">
+                    <!-- 原圖 (背景) -->
+                    <div class="img-slider img-before" style="background-image: url('/static/images/cat.png');"></div>
+                    <!-- 對抗樣本 (覆蓋，寬度受拉桿控制) -->
+                    <div class="img-slider img-after" id="perturbed-slide" style="background-image: url('/static/images/cat.png'); filter: contrast(1.02) saturate(1.03);"></div>
+                    <!-- 拉桿 -->
+                    <div class="slider-handle-bar" id="slider-bar"></div>
+                    <div class="slider-handle-button" id="slider-button">↔</div>
+                </div>
+                <div class="d-flex justify-content-between mt-2 px-1">
+                    <span class="text-secondary">&larr; 左：原始圖片</span>
+                    <span class="text-secondary">右：對抗樣本 (干擾極小) &rarr;</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 右側輸出與量化看板 -->
+        <div class="col-lg-6">
+            <!-- 輸出比對終端機 -->
+            <div class="glass-card d-flex flex-column" style="min-height: 250px;">
+                <h4 class="mb-3" style="font-family: var(--font-heading); font-weight: 600;">3. 模型特徵輸出比對</h4>
+                
+                <div class="row flex-grow-1">
+                    <div class="col-md-6 mb-3 mb-md-0">
+                        <span class="d-block text-secondary mb-2">正常圖片描述 (原始模型)</span>
+                        <div class="terminal-box" style="color: #10b981;">
+                            <div class="mb-2 text-secondary">&gt; Input: "Describe this image"</div>
+                            <div id="original-desc">這是一隻可愛的貓咪躺在木頭地板上，正看著鏡頭。</div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <span class="d-block text-secondary mb-2">受攻擊描述 (對抗模型)</span>
+                        <div class="terminal-box" style="color: #ef4444; position: relative;">
+                            <div class="mb-2 text-secondary">&gt; Input: "Describe this image"</div>
+                            <div id="attack-desc" class="typing-effect">等待攻擊中...</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 量化數據看板 -->
+            <div class="glass-card">
+                <h4 class="mb-3" style="font-family: var(--font-heading); font-weight: 600;">4. 量化數據看板 (Metrics Dashboard)</h4>
+                <p class="text-secondary">白盒梯度透過操作木偶般的微調，讓描述的相似性指標劇烈下滑，並實現 Cross-Entropy 損失趨近於零的精準操縱。</p>
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6 class="text-center text-secondary mb-2">語義相似性 $CIDEr$ 指標</h6>
+                        <div style="position: relative; height: 180px;">
+                            <canvas id="ciderChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h6 class="text-center text-secondary mb-2">白盒優化損失收斂 (Cross-Entropy Loss)</h6>
+                        <div style="position: relative; height: 180px;">
+                            <canvas id="lossChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 學術透析 -->
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="glass-card" style="border-left: 5px solid var(--color-danger);">
+                <h4 class="text-danger mb-3" style="font-family: var(--font-heading); font-weight: 600;">💡 學術透析：白盒梯度與語意木偶效應</h4>
+                <p class="mb-0">
+                    在<b>白盒攻擊</b>中，攻擊者對目標視覺語言模型的內部架構、權重、梯度皆具有完全的知情權與控制權。
+                    藉由設定目標描述（如：「這是一輛裝甲車」）並最小化對應文字解碼 token 的<b>交叉熵損失（Cross-Entropy Loss）</b>，攻擊者能將梯度誤差一路反向傳播至輸入層的<b>畫素值</b>上。
+                    <br><br>
+                    透過對畫素施加精巧的微小修改，視覺特徵提取器輸出的高維特徵向量（Visual Tokens）會被強行推入預設的目標特徵區。
+                    這時，文本解碼器便會在「深信自己看到了裝甲車」的情況下，以 100% 精準度輸出錯誤描述，而此時反應文字相似度的 $CIDEr$ 指標也會雪崩式驟降（例如：1.59 驟降至 0.17）。這充分證明了白盒梯度是如何能像操作拉線木偶一般，精準且無痕地扭曲多模態模型的語意輸出。
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // 圖片對比滑桿互動邏輯
+    function handleSliderMove(e) {
+        const box = document.getElementById('slider-box');
+        const rect = box.getBoundingClientRect();
+        
+        let clientX = 0;
+        if (e.changedTouches) {
+            clientX = e.changedTouches[0].clientX;
+        } else {
+            clientX = e.clientX;
+        }
+        
+        let offsetX = clientX - rect.left;
+        let percentage = (offsetX / rect.width) * 100;
+        
+        if (percentage < 0) percentage = 0;
+        if (percentage > 100) percentage = 100;
+        
+        // 更新遮罩圖片寬度與拉桿位置
+        document.getElementById('perturbed-slide').style.width = percentage + '%';
+        document.getElementById('slider-bar').style.left = percentage + '%';
+        document.getElementById('slider-button').style.left = percentage + '%';
+    }
+
+    // 初始化 Chart.js
+    let ciderChart;
+    let lossChart;
+
+    function initCharts() {
+        // CIDEr 柱狀圖
+        const ctx1 = document.getElementById('ciderChart').getContext('2d');
+        ciderChart = new Chart(ctx1, {
+            type: 'bar',
+            data: {
+                labels: ['原始影像 (Original)', '對抗影像 (Attacked)'],
+                datasets: [{
+                    label: 'CIDEr 分數 (越高越貼近原意)',
+                    data: [1.59, 1.59], // 初始都設為 1.59，攻擊後動態下墜
+                    backgroundColor: [
+                        'rgba(16, 185, 129, 0.6)',
+                        'rgba(239, 68, 68, 0.6)'
+                    ],
+                    borderColor: [
+                        '#10b981',
+                        '#ef4444'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    x: { ticks: { color: '#94a3b8' } },
+                    y: { 
+                        grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                        ticks: { color: '#94a3b8' },
+                        max: 2.0
+                    }
+                }
+            }
+        });
+
+        // Loss 折線圖
+        const ctx2 = document.getElementById('lossChart').getContext('2d');
+        lossChart = new Chart(ctx2, {
+            type: 'line',
+            data: {
+                labels: Array.from({length: 10}, (_, i) => i * 5),
+                datasets: [{
+                    label: 'Loss',
+                    data: [2.8, 2.5, 2.1, 1.8, 1.4, 0.9, 0.5, 0.25, 0.12, 0.03],
+                    borderColor: '#f59e0b',
+                    backgroundColor: 'rgba(245, 158, 11, 0.05)',
+                    borderWidth: 2,
+                    tension: 0.3
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { display: false } },
+                scales: {
+                    x: { ticks: { color: '#94a3b8' } },
+                    y: { 
+                        grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                        ticks: { color: '#94a3b8' }
+                    }
+                }
+            }
+        });
+    }
+
+    // 執行攻擊模擬
+    function executeVlmAttack() {
+        const btn = document.getElementById('exec-btn');
+        const targetText = document.getElementById('target-prompt').value.trim() || "這是一輛裝甲車";
+        const attackOutput = document.getElementById('attack-desc');
+        
+        btn.disabled = true;
+        btn.innerText = "計算梯度與注入擾動中...";
+        attackOutput.innerText = "優化迭代中...";
+        attackOutput.classList.remove('typing-effect');
+
+        // 在對抗圖片上疊加微小雜訊效果 (藉由改變濾鏡與陰影)
+        const perturbedImg = document.getElementById('perturbed-slide');
+        perturbedImg.style.filter = "contrast(1.05) saturate(1.05) hue-rotate(2deg)";
+
+        // 模擬白盒 loss 下墜與 CIDEr 指標暴跌
+        let steps = 0;
+        let originalLossData = [2.8, 2.4, 1.9, 1.3, 0.8, 0.45, 0.22, 0.11, 0.05, 0.01];
+        lossChart.data.datasets[0].data = [];
+        
+        const interval = setInterval(() => {
+            if (steps >= 10) {
+                clearInterval(interval);
+                
+                // 攻擊成功，觸發精準突變文字打字效果
+                btn.disabled = false;
+                btn.innerText = "執行攻擊 (Execute White-box Gradient Attack)";
+                
+                // 動態修改輸出內容
+                typeWriter(targetText, attackOutput);
+                
+                // 更新 CIDEr 指標
+                ciderChart.data.datasets[0].data = [1.59, 0.17];
+                ciderChart.update();
+                return;
+            }
+
+            // 動態更新 Loss 圖表
+            lossChart.data.datasets[0].data.push(originalLossData[steps]);
+            lossChart.update();
+            
+            steps++;
+        }, 150);
+    }
+
+    // 打字機動畫
+    function typeWriter(text, element, i = 0) {
+        if (i === 0) {
+            element.innerHTML = '';
+            element.classList.add('typing-effect');
+        }
+        if (i < text.length) {
+            element.innerHTML += text.charAt(i);
+            setTimeout(() => typeWriter(text, element, i + 1), 100);
+        } else {
+            setTimeout(() => element.classList.remove('typing-effect'), 1000);
+        }
+    }
+
+    // 初始化載入
+    window.onload = function() {
+        initCharts();
+    }
+</script>
+
+</body>
+</html>

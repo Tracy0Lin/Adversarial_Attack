@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AnyAttack - MLLM 攻防驗證平台</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Card wall specifically for ranking list collapse */
+        .card-img-placeholder {
+            width: 100%;
+            aspect-ratio: 1/1;
+            background: #1e293b;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 8px;
+            color: var(--text-secondary);
+        }
+        .card-img-placeholder svg {
+            width: 48px;
+            height: 48px;
+            fill: currentColor;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+
+<!-- 頂部導覽列 -->
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom">
+    <div class="container">
+        <a class="navbar-brand navbar-brand-custom" href="/">MLLM 攻防驗證平台</a>
+        <div class="collapse navbar-collapse show" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom" href="/">核心驗證 Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom" href="/vlattack">VLAttack (純圖片干擾)</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom" href="/attackvlm">AttackVLM (語意扭曲)</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-custom active" href="/anyattack">AnyAttack (CLIP 檢索崩潰)</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container my-5">
+    <div class="row">
+        <!-- 標題與說明 -->
+        <div class="col-12 mb-4">
+            <h1 class="section-title">AnyAttack: CLIP 跨類別檢索崩潰與視覺遮蔽</h1>
+            <p class="text-secondary">本頁面將受攻擊目標轉移至對抗敏感度極高的雙塔 CLIP 檢索模型，結合 COCO 及 ImageNet 資料集展示檢索排行榜的毀滅性崩潰，並探討人類感知與演算法漏洞間的「視覺遮蔽效應」。</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- 左側檢索與卡片牆區 -->
+        <div class="col-lg-7">
+            <div class="glass-card">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h4 class="m-0" style="font-family: var(--font-heading); font-weight: 600;">1. CLIP 跨類別檢索測試</h4>
+                    <span class="badge-custom badge-low" id="retrieval-status">狀態: 正常檢索中</span>
+                </div>
+
+                <div class="input-group mb-4">
+                    <span class="input-group-text bg-dark text-secondary border-secondary">類別檢索關鍵字</span>
+                    <select class="form-select form-control-custom" id="search-keyword" onchange="performSearch()">
+                        <option value="appliances">家電與電器類 (Appliances)</option>
+                        <option value="birds">鳥類與自然紋理 (Birds)</option>
+                    </select>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <button class="btn btn-outline-custom w-100 mb-2" id="clean-mode-btn" onclick="toggleAttack(false)">
+                            還原乾淨圖像 (未受攻擊)
+                        </button>
+                    </div>
+                    <div class="col-md-6">
+                        <button class="btn btn-custom w-100 mb-2" style="background: var(--color-danger); box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);" id="attack-mode-btn" onclick="toggleAttack(true)">
+                            啟用 AnyAttack 對抗擾動
+                        </button>
+                    </div>
+                </div>
+
+                <!-- 檢索前五名排行榜卡片牆 -->
+                <h5 class="mb-3 text-secondary" style="font-family: var(--font-heading);">檢索結果前五名 (Top 5 Ranking)</h5>
+                
+                <div class="ranking-grid" id="ranking-wall">
+                    <!-- 卡片 1 (Microwave / Banana) -->
+                    <div class="ranking-card position-relative" id="card-1">
+                        <div class="rank-num">1</div>
+                        <img src="/static/images/appliance.png" id="img-card-1" alt="Appliance">
+                        <div class="font-weight-bold mb-1" id="title-card-1">微波爐 (Microwave)</div>
+                        <div class="score" id="score-card-1">相似度: 94.2%</div>
+                    </div>
+                    
+                    <!-- 卡片 2 (TV / Shoe) -->
+                    <div class="ranking-card position-relative" id="card-2">
+                        <div class="rank-num">2</div>
+                        <div class="card-img-placeholder" id="placeholder-2">
+                            <svg viewBox="0 0 24 24"><path d="M21 6H3c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H3V8h18v10zM9 10v6l5-3z"/></svg>
+                        </div>
+                        <img src="/static/images/shoe.png" id="img-card-2" style="display:none;" alt="Shoe">
+                        <div class="font-weight-bold mb-1" id="title-card-2">液晶電視 (Television)</div>
+                        <div class="score" id="score-card-2">相似度: 89.5%</div>
+                    </div>
+
+                    <!-- 卡片 3 (Blender / Airplane) -->
+                    <div class="ranking-card position-relative" id="card-3">
+                        <div class="rank-num">3</div>
+                        <div class="card-img-placeholder" id="placeholder-3">
+                            <svg viewBox="0 0 24 24"><path d="M12.3 22h-.6c-.5 0-.9-.3-1-.8l-1.5-6h-3.4l-1.8 1.8c-.3.3-.8.3-1.1 0l-.4-.4c-.3-.3-.3-.8 0-1.1l2-2v-3l-2-2c-.3-.3-.3-.8 0-1.1l.4-.4c.3-.3.8-.3 1.1 0l1.8 1.8h3.4l1.5-6c.1-.5.5-.8 1-.8h.6c.6 0 1 .5 1 1.1v6.9h5.1c.5 0 .9-.3 1-.8l.8-3.2c.1-.5.5-.8 1-.8h.4c.5 0 .9.5.8 1.1l-1 5.9v.6l1 5.9c.1.6-.3 1.1-.8 1.1h-.4c-.5 0-.9-.3-1-.8l-.8-3.2c-.1-.5-.5-.8-1-.8h-5.1v6.9c0 .6-.4 1.1-1 1.1z"/></svg>
+                        </div>
+                        <img src="" id="img-card-3" style="display:none;" alt="Airplane">
+                        <div class="font-weight-bold mb-1" id="title-card-3">果汁機 (Blender)</div>
+                        <div class="score" id="score-card-3">相似度: 85.1%</div>
+                    </div>
+
+                    <!-- 卡片 4 (Washing Machine / Car) -->
+                    <div class="ranking-card position-relative" id="card-4">
+                        <div class="rank-num">4</div>
+                        <div class="card-img-placeholder" id="placeholder-4">
+                            <svg viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>
+                        </div>
+                        <img src="" id="img-card-4" style="display:none;" alt="Car">
+                        <div class="font-weight-bold mb-1" id="title-card-4">洗衣機 (Washing)</div>
+                        <div class="score" id="score-card-4">相似度: 82.3%</div>
+                    </div>
+
+                    <!-- 卡片 5 (Fridge / Strawberry) -->
+                    <div class="ranking-card position-relative" id="card-5">
+                        <div class="rank-num">5</div>
+                        <div class="card-img-placeholder" id="placeholder-5">
+                            <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+                        </div>
+                        <img src="" id="img-card-5" style="display:none;" alt="Strawberry">
+                        <div class="font-weight-bold mb-1" id="title-card-5">冰箱 (Refrigerator)</div>
+                        <div class="score" id="score-card-5">相似度: 78.4%</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 右側視覺遮蔽體驗區 -->
+        <div class="col-lg-5">
+            <!-- 視覺遮蔽效應展示 -->
+            <div class="glass-card">
+                <h4 class="mb-3" style="font-family: var(--font-heading); font-weight: 600;">2. 視覺遮蔽效應 (Visual Masking)</h4>
+                <p class="text-secondary">
+                    <b>人類的視覺盲點：</b>在光滑平整的底圖（如電器類）中，噪點非常容易被肉眼察覺；但在羽毛紋理複雜的「鳥類」底圖中，人類大腦會被高頻紋理干擾，進而忽略對抗噪點，使感知失真（LPIPS）急遽下滑，但攻擊成功率依然強勁。
+                </p>
+
+                <!-- 資料集與圖示 -->
+                <div class="row align-items-center mb-4">
+                    <div class="col-6 text-center">
+                        <span class="d-block mb-2 text-secondary">平滑底圖 (家電類)</span>
+                        <div class="image-box-wrapper" style="height: 120px;">
+                            <img src="/static/images/appliance.png" alt="Appliance">
+                        </div>
+                    </div>
+                    <div class="col-6 text-center">
+                        <span class="d-block mb-2 text-secondary">紋理底圖 (鳥類)</span>
+                        <div class="image-box-wrapper" style="height: 120px;">
+                            <img src="/static/images/bird.png" alt="Bird">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 量化指標對比 -->
+                <div class="mb-4">
+                    <div class="d-flex justify-content-between mb-1">
+                        <span>人眼感知失真 (LPIPS 分數 - 越低越難察覺)</span>
+                        <span id="lpips-score" class="font-weight-bold text-warning">0.125</span>
+                    </div>
+                    <div class="custom-progress">
+                        <div class="custom-progress-bar" id="lpips-bar" style="width: 60%; background: var(--color-warning);"></div>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <div class="d-flex justify-content-between mb-1">
+                        <span>CLIP 檢索干擾成功率 (ASR %)</span>
+                        <span id="asr-score" class="font-weight-bold text-danger">93.4%</span>
+                    </div>
+                    <div class="custom-progress">
+                        <div class="custom-progress-bar" id="asr-bar" style="width: 93.4%; background: var(--color-danger);"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 量化折線圖 -->
+            <div class="glass-card">
+                <h5 class="mb-3" style="font-family: var(--font-heading);">檢索成功率下滑消長曲線</h5>
+                <div style="position: relative; height: 180px;">
+                    <canvas id="retrievalSuccessChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 學術透析 -->
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="glass-card" style="border-left: 5px solid var(--color-warning);">
+                <h4 class="text-warning mb-3" style="font-family: var(--font-heading); font-weight: 600;">💡 學術透析：視覺遮蔽與檢索空間崩潰</h4>
+                <p class="mb-0">
+                    在 CLIP 雙塔模型中，視覺特徵空間與文本特徵空間會進行對比式對齊（Contrastive Alignment）。
+                    <b>AnyAttack</b> 對抗攻擊藉由擾動圖片的視覺 Embedding，使其在 CLIP 的高維向量空間中與原本的文字類別（如 Appliances）完全錯位，並朝向任意其他方向偏移。
+                    這會導致原本的檢索前五名排行榜在極短時間內發生「崩潰」，檢索成功率劇烈下滑至 53% 左右，且卡片牆會被無關的圖片給「洗版」取代。
+                    <br><br>
+                    此外，本實驗還演示了<b>「視覺遮蔽效應（Visual Masking Effect）」</b>：當我們將底圖切換到羽毛紋理極度複雜的鳥類（Birds）時，圖片的複雜紋理本身會在大腦中形成遮蔽，使得對人眼而言的感知失真指標 <b>$LPIPS$ 分數大幅下降（從 0.125 降至 0.038）</b>。
+                    然而，由於模型梯度仍然存在且能對畫素實施有效優化，<b>對抗攻擊成功率（ASR）依然維持在 90% 以上</b>。這揭示了基於人類大腦特徵的「感知隱蔽性」與神經網路演算法漏洞之間的深刻不對稱性。
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let isAttacked = false;
+    let currentCategory = 'appliances';
+
+    // 搜尋數據對應表
+    const searchData = {
+        appliances: {
+            clean: [
+                { title: '微波爐 (Microwave)', similarity: '94.2%', isImage: true, src: '/static/images/appliance.png' },
+                { title: '液晶電視 (Television)', similarity: '89.5%', isImage: false, svg: 'tv' },
+                { title: '果汁機 (Blender)', similarity: '85.1%', isImage: false, svg: 'blender' },
+                { title: '洗衣機 (Washing Machine)', similarity: '82.3%', isImage: false, svg: 'washing' },
+                { title: '冰箱 (Refrigerator)', similarity: '78.4%', isImage: false, svg: 'fridge' }
+            ],
+            attacked: [
+                { title: '香蕉 (Banana)', similarity: '91.8%', isImage: true, src: '/static/images/banana.png' },
+                { title: '慢跑鞋 (Running Shoe)', similarity: '87.4%', isImage: true, src: '/static/images/shoe.png' },
+                { title: '客機 (Airplane)', similarity: '84.0%', isImage: false, svg: 'airplane' },
+                { title: '轎車 (Car)', similarity: '81.1%', isImage: false, svg: 'car' },
+                { title: '草莓 (Strawberry)', similarity: '75.6%', isImage: false, svg: 'strawberry' }
+            ]
+        },
+        birds: {
+            clean: [
+                { title: '金剛鸚鵡 (Macaw)', similarity: '95.6%', isImage: true, src: '/static/images/bird.png' },
+                { title: '麻雀 (Sparrow)', similarity: '88.1%', isImage: false, svg: 'bird-icon' },
+                { title: '金鵰 (Golden Eagle)', similarity: '84.2%', isImage: false, svg: 'bird-icon' },
+                { title: '貓頭鷹 (Owl)', similarity: '81.0%', isImage: false, svg: 'bird-icon' },
+                { title: '孔雀 (Peacock)', similarity: '77.5%', isImage: false, svg: 'bird-icon' }
+            ],
+            attacked: [
+                { title: '慢跑鞋 (Running Shoe)', similarity: '92.1%', isImage: true, src: '/static/images/shoe.png' },
+                { title: '香蕉 (Banana)', similarity: '86.5%', isImage: true, src: '/static/images/banana.png' },
+                { title: '液晶電視 (Television)', similarity: '82.2%', isImage: false, svg: 'tv' },
+                { title: '客機 (Airplane)', similarity: '79.5%', isImage: false, svg: 'airplane' },
+                { title: '微波爐 (Microwave)', similarity: '76.0%', isImage: true, src: '/static/images/appliance.png' }
+            ]
+        }
+    };
+
+    // SVG 圖標集合
+    const svgIcons = {
+        tv: `<svg viewBox="0 0 24 24"><path d="M21 6H3c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H3V8h18v10zM9 10v6l5-3z"/></svg>`,
+        blender: `<svg viewBox="0 0 24 24"><path d="M12.3 22h-.6c-.5 0-.9-.3-1-.8l-1.5-6h-3.4l-1.8 1.8c-.3.3-.8.3-1.1 0l-.4-.4c-.3-.3-.3-.8 0-1.1l2-2v-3l-2-2c-.3-.3-.3-.8 0-1.1l.4-.4c.3-.3.8-.3 1.1 0l1.8 1.8h3.4l1.5-6c.1-.5.5-.8 1-.8h.6c.6 0 1 .5 1 1.1v6.9h5.1c.5 0 .9-.3 1-.8l.8-3.2c.1-.5.5-.8 1-.8h.4c.5 0 .9.5.8 1.1l-1 5.9v.6l1 5.9c.1.6-.3 1.1-.8 1.1h-.4c-.5 0-.9-.3-1-.8l-.8-3.2c-.1-.5-.5-.8-1-.8h-5.1v6.9c0 .6-.4 1.1-1 1.1z"/></svg>`,
+        washing: `<svg viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>`,
+        fridge: `<svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>`,
+        airplane: `<svg viewBox="0 0 24 24"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L14 19v-5.5l7 2.5z"/></svg>`,
+        car: `<svg viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>`,
+        strawberry: `<svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>`,
+        'bird-icon': `<svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>`
+    };
+
+    let retrievalSuccessChart;
+
+    // 初始化檢索趨勢折線圖
+    function initChart() {
+        const ctx = document.getElementById('retrievalSuccessChart').getContext('2d');
+        retrievalSuccessChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['未受攻擊', 'AnyAttack (5步)', 'AnyAttack (15步)', 'AnyAttack (30步)'],
+                datasets: [{
+                    label: 'CLIP 檢索成功率 (Accuracy %)',
+                    data: [96.5, 78.2, 62.4, 53.0],
+                    borderColor: '#ef4444',
+                    backgroundColor: 'rgba(239, 68, 68, 0.05)',
+                    borderWidth: 2,
+                    tension: 0.2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { ticks: { color: '#94a3b8' } },
+                    y: { 
+                        grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                        ticks: { color: '#94a3b8', callback: value => value + '%' },
+                        min: 30,
+                        max: 100
+                    }
+                },
+                plugins: { legend: { display: false } }
+            }
+        });
+    }
+
+    // 執行搜尋與卡片更新
+    function performSearch() {
+        currentCategory = document.getElementById('search-keyword').value;
+        updateUI();
+    }
+
+    // 切換攻擊模式
+    function toggleAttack(attackState) {
+        isAttacked = attackState;
+        
+        const statusBadge = document.getElementById('retrieval-status');
+        const cleanBtn = document.getElementById('clean-mode-btn');
+        const attackBtn = document.getElementById('attack-mode-btn');
+
+        if (isAttacked) {
+            statusBadge.innerText = '狀態: 對抗干擾生效中';
+            statusBadge.className = 'badge-custom badge-high';
+            attackBtn.classList.add('active');
+            cleanBtn.classList.remove('active');
+
+            // 觸發洗版動畫：卡片抖動並置換
+            const cards = document.querySelectorAll('.ranking-card');
+            cards.forEach(card => card.classList.add('glitch-item'));
+
+            setTimeout(() => {
+                updateUI();
+                cards.forEach(card => card.classList.remove('glitch-item'));
+            }, 500);
+
+        } else {
+            statusBadge.innerText = '狀態: 正常檢索中';
+            statusBadge.className = 'badge-custom badge-low';
+            cleanBtn.classList.add('active');
+            attackBtn.classList.remove('active');
+            updateUI();
+        }
+    }
+
+    // 更新 UI 卡片牆與視覺遮蔽指標
+    function updateUI() {
+        const mode = isAttacked ? 'attacked' : 'clean';
+        const dataList = searchData[currentCategory][mode];
+
+        // 1. 更新卡片牆內容
+        for (let i = 0; i < 5; i++) {
+            const cardData = dataList[i];
+            const cardNum = i + 1;
+            
+            const imgEl = document.getElementById(`img-card-${cardNum}`);
+            const placeholderEl = document.getElementById(`placeholder-${cardNum}`);
+            const titleEl = document.getElementById(`title-card-${cardNum}`);
+            const scoreEl = document.getElementById(`score-card-${cardNum}`);
+
+            titleEl.innerText = cardData.title;
+            scoreEl.innerText = `相似度: ${cardData.similarity}`;
+
+            if (cardData.isImage) {
+                imgEl.src = cardData.src;
+                imgEl.style.display = 'block';
+                if (placeholderEl) placeholderEl.style.display = 'none';
+            } else {
+                imgEl.style.display = 'none';
+                if (placeholderEl) {
+                    placeholderEl.style.display = 'flex';
+                    placeholderEl.innerHTML = svgIcons[cardData.svg] || '';
+                }
+            }
+        }
+
+        // 2. 更新視覺遮蔽數據
+        const lpipsScoreEl = document.getElementById('lpips-score');
+        const lpipsBarEl = document.getElementById('lpips-bar');
+        const asrScoreEl = document.getElementById('asr-score');
+        const asrBarEl = document.getElementById('asr-bar');
+
+        let lpips = 0;
+        let asr = 0;
+
+        if (currentCategory === 'appliances') {
+            // 家電類（光滑，高失真）
+            lpips = isAttacked ? 0.125 : 0.000;
+            asr = isAttacked ? 93.4 : 2.1;
+            lpipsBarEl.style.background = 'var(--color-warning)';
+        } else {
+            // 鳥類（豐富紋理，低失真，視覺遮蔽）
+            lpips = isAttacked ? 0.038 : 0.000;
+            asr = isAttacked ? 91.8 : 1.8;
+            lpipsBarEl.style.background = 'var(--color-success)';
+        }
+
+        lpipsScoreEl.innerText = lpips.toFixed(3);
+        lpipsBarEl.style.width = (lpips * 500) + '%'; // 比例縮放
+
+        asrScoreEl.innerText = asr.toFixed(1) + '%';
+        asrBarEl.style.width = asr + '%';
+        
+        // 折線圖動態趨勢
+        if (isAttacked) {
+            retrievalSuccessChart.data.datasets[0].data = [96.5, 78.2, 62.4, 53.0];
+        } else {
+            retrievalSuccessChart.data.datasets[0].data = [96.5, 95.8, 96.1, 95.9];
+        }
+        retrievalSuccessChart.update();
+    }
+
+    // 初始化載入
+    window.onload = function() {
+        initChart();
+        toggleAttack(false); // 預設乾淨模式
+    }
+</script>
+
+</body>
+</html>
