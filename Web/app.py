@@ -8,7 +8,9 @@ RESULT_FOLDER = 'static/results'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(RESULT_FOLDER, exist_ok=True)
 
+# ===== 1. 首頁路由 (雙重設定) =====
 @app.route('/')
+@app.route('/index.html')
 def index():
     return render_template('index.html')
 
@@ -42,17 +44,18 @@ def process_image():
         "prediction": "這裡顯示模型的回答 (範例)"
     })
 
+# ===== 2. VLAttack 頁面路由 (雙重設定) =====
 @app.route('/vlattack')
+@app.route('/vlattack.html')
 def vlattack():
     return render_template('vlattack.html')
 
+# ===== 3. AttackVLM 頁面路由 (雙重設定) =====
 @app.route('/attackvlm')
+@app.route('/attackvlm.html')
 def attackvlm():
     return render_template('attackvlm.html')
 
-@app.route('/anyattack')
-def anyattack():
-    return render_template('anyattack.html')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5005, debug=True)

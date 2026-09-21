@@ -1,150 +1,267 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <meta charset="UTF-8">
-    <title>MLLM 攻防驗證平台</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body { background-color: #f4f7f9; font-family: "Microsoft JhengHei"; padding: 20px; }
-        .section-title { border-bottom: 2px solid #34495e; margin: 30px 0 20px; padding-bottom: 10px; font-weight: bold; }
-        .photo-grid { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 20px; }
-        .photo-item { border: 1px solid #ddd; background: white; flex: 1; text-align: center; padding: 10px; border-radius: 5px; }
-        .photo-box { width: 100%; aspect-ratio: 1/1; background: #eee; display: flex; align-items: center; justify-content: center; margin-top: 10px; overflow: hidden; }
-        .photo-box img { width: 100%; height: 100%; object-fit: cover; }
-        .input-group-custom { display: flex; gap: 10px; margin-bottom: 10px; }
-        .risk-badge { padding: 5px 15px; border-radius: 20px; font-size: 14px; display: inline-block; }
-        .low-risk { background: #e8f5e9; color: #01B468; }
-        .mid-risk { background: #fff7e7; color: #fb902d; }
-        .high-risk { background: #ffebee; color: #d32f2f; }
-        textarea { width: 100%; border: 1px solid #ccc; border-radius: 4px; padding: 10px; background: #fafafa; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MLLM 攻防驗證平台</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/static/style.css" rel="stylesheet">
+<style>
+  :root {
+    --bg-page: #f8fafc;
+    --bg-card: #ffffff;
+    --border-color: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-secondary: #64748b;
+    --color-primary: #2563eb;
+    --color-danger: #dc2626;
+    --color-success: #16a34a;
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  /* 導覽列 */
+  .navbar-custom {
+    background-color: #ffffff;
+    border-bottom: 1px solid var(--border-color);
+    position: sticky; 
+    top: 0; 
+    z-index: 1050; 
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  .navbar-brand-custom { font-weight: 700; color: var(--text-primary) !important; font-size: 1.2rem; }
+  .nav-link-custom { color: var(--text-secondary) !important; font-weight: 500; padding: 0.5rem 1rem !important; border-radius: 6px; transition: all 0.2s; }
+  .nav-link-custom:hover { color: var(--color-primary) !important; background-color: #f1f5f9; }
+  .nav-link-custom.active { color: var(--color-primary) !important; font-weight: 600; }
+
+  /* 介面卡片 */
+  .content-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 28px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  }
+
+  /* 主標題區 */
+  .hero-section {
+    padding: 48px 0 32px;
+    text-align: center;
+  }
+  .hero-title {
+    font-weight: 700;
+    font-size: 2.1rem;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+  }
+  .hero-subtitle {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    max-width: 760px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  /* 流程步驟標記 */
+  .step-badge {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #0f172a;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 0.85rem;
+    margin-right: 8px;
+  }
+
+  /* 按鈕樣式 */
+  .btn-nav-primary {
+    background-color: var(--color-primary);
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 6px;
+    padding: 10px 24px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+  .btn-nav-primary:hover {
+    background-color: #1d4ed8;
+    color: #ffffff;
+  }
+
+  .btn-nav-danger {
+    background-color: var(--color-danger);
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 6px;
+    padding: 10px 24px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+  .btn-nav-danger:hover {
+    background-color: #b91c1c;
+    color: #ffffff;
+  }
+</style>
 </head>
 <body>
 
-<!-- 頂部導覽列 -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4 shadow-sm">
-    <div class="container">
-        <a class="navbar-brand" href="/" style="font-weight: 700; font-family: sans-serif; background: linear-gradient(135deg, #6366f1 0%, #10b981 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MLLM 攻防驗證平台</a>
-        <div class="collapse navbar-collapse show" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item">
-                    <a class="nav-link active" href="/">核心驗證 Dashboard</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/vlattack">VLAttack (純圖片干擾)</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/attackvlm">AttackVLM (語意扭曲)</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/anyattack">AnyAttack (CLIP 檢索崩潰)</a>
-                </li>
-            </ul>
-        </div>
+<nav class="navbar navbar-expand-lg navbar-custom py-3">
+  <div class="container">
+    <a class="navbar-brand navbar-brand-custom" href="index.html">MLLM 攻防驗證平台</a>
+    <div class="collapse navbar-collapse show" id="navbarNav">
+      <ul class="navbar-nav ms-auto gap-1">
+        <li class="nav-item"><a class="nav-link nav-link-custom active" href="index.html">平台導覽</a></li>
+        <li class="nav-item"><a class="nav-link nav-link-custom" href="vlattack.html">VLAttack (純圖片干擾)</a></li>
+        <li class="nav-item"><a class="nav-link nav-link-custom" href="attackvlm.html">AttackVLM (語意扭曲)</a></li>
+      </ul>
     </div>
+  </div>
 </nav>
 
-<div class="container">
-    <div class="bg-white p-4 shadow-sm mb-4">
-        <h2 class="m-0">對抗性樣本生成與驗證</h2>
-    </div>
-    <h4 class="section-title">攻擊方法實作</h4>
-    <div class="input-group-custom">
-        <input type="text" class="form-control" placeholder="請輸入問題 (Question)">
-        <input type="text" class="form-control" placeholder="請輸入目標語意 (Target)">
-    </div>
+<div class="container mb-5">
+  
+  <div class="hero-section">
+    <span class="badge bg-light text-secondary border mb-3 px-3 py-2 fw-semibold">多模態模型安全性評估系統</span>
+    <h1 class="hero-title">多模態大語言模型（MLLM）攻防驗證與分析平台</h1>
+    <p class="hero-subtitle">
+      本平台針對多模態模型在視覺特徵提取與文字生成間的協同機制進行安全測試，
+      透過控制變因驗證「視覺對抗干擾」與「白盒語意覆寫」兩類主要威脅，並整合幾何轉換風險偵測（TC-VAD）與特徵重構防禦流程。
+    </p>
+  </div>
 
-    <div class="photo-grid">
-        <div class="photo-item">原圖<div class="photo-box" onclick="document.getElementById('fileInput').click()">點擊上傳</div></div>
-        <div class="photo-item">VLAttack<div class="photo-box" id="res1"></div></div>
-        <div class="photo-item">Any Attack<div class="photo-box" id="res2"></div></div>
-        <div class="photo-item">Attack VLM<div class="photo-box" id="res3"></div></div>
+  <div class="row g-4 mb-4">
+    <div class="col-12">
+      <h4 class="fw-bold mb-2" style="font-size: 1.25rem;">評估模組與攻防架構</h4>
     </div>
-    <input type="file" id="fileInput" style="display:none">
-
-    <button class="btn btn-dark w-100 mb-4" onclick="checkAndAttack()">偵測輸入並開始 Attack</button>
-
-    <div class="mb-3">
-        <div class="row">
-            <div class="col-md-3">
-                <p>問題答案<textarea id="textAtk" rows="1" readonly>這是原始的回答...</textarea></p>
-                <p>語義<textarea id="textAtk" rows="1" readonly>這是原始的回答...</textarea></p>
-            </div>
-            <div class="col-md-3">
-                <p>問題答案<textarea id="textAtk" rows="1" readonly>這是攻擊後的回答...</textarea></p>
-                <p>語義<textarea id="textAtk" rows="1" readonly>這是攻擊後的回答...</textarea></p>
-            </div>
-            <div class="col-md-3">
-                <p>問題答案<textarea id="textAtk" rows="1" readonly>這是攻擊後的回答...</textarea></p>
-                <p>語義<textarea id="textAtk" rows="1" readonly>這是攻擊後的回答...</textarea></p>
-            </div>
-            <div class="col-md-3">
-                <p>問題答案<textarea id="textAtk" rows="1" readonly>這是攻擊後的回答...</textarea></p>
-                <p>語義<textarea id="textAtk" rows="1" readonly>這是攻擊後的回答...</textarea></p>
-            </div>
-        </div>
-    </div>
-
-    <!-- 第二區：TC-VAD 風險評估 -->
-    <div class="row align-items-center section-title">
-        <!-- 左邊的小盒子：放標題 (佔 8 格) -->
-        <div class="col-8">
-            <h4><strong>TC-VAD 風險監測</strong></h4>
+    
+    <div class="col-lg-6">
+      <div class="content-card h-100" style="border-top: 4px solid var(--color-primary);">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <h5 class="fw-bold text-primary mb-0">模組 A：VLAttack（純圖片干擾）</h5>
+          <span class="badge bg-light text-primary border border-primary">視覺模態擾動</span>
         </div>
         
-        <!-- 右邊的小盒子：放按鈕 (佔 4 格)，並讓按鈕靠右對齊 -->
-        <div class="col-4 text-end">
-            <button class="btn btn-outline-primary" onclick="runRiskDetection()">風險偵測</button>
-        </div>
-    </div>
-    <p class="text-center"> 10 % (低風險) < 有風險 < 80% (高風險)</p>
-    <div class="photo-grid">
-        <!-- 1. 原圖部分 -->
-        <div class="photo-item">
-            原圖
-            <div class="photo-box"></div>
-            <div class="mt-2">Risk: 0.00</div> <!-- 個別的 Risk 值 -->
-            <span class="risk-badge low-risk"><b>低風險</b></span>
+        <div class="text-center mb-4">
+          <img src="{{ url_for('static', filename='images/VLAttack.png') }}" alt="VLAttack Framework" class="img-fluid rounded border shadow-sm" style="height: 260px; width: 100%; object-fit: contain; background-color: #f8fafc; padding: 10px;">
         </div>
 
-        <!-- 2. VLAttack 部分 -->
-        <div class="photo-item">
-            VLAttack
-            <div class="photo-box"></div>
-            <div class="mt-2">Risk: 0.12</div> <!-- 個別的 Risk 值 -->
-            <span class="risk-badge mid-risk"><b>有風險</b></span>
+        <p class="text-secondary small mb-3">
+          <b>實驗情境：</b>在文字提示（Prompt）保持乾淨與中立的前提下，僅對輸入圖像施加微小噪點擾動。
+        </p>
+        <p class="text-secondary small mb-4">
+          <b>分析重點：</b>探討解碼器如何依賴語言先驗知識（常識）對受干擾的視覺特徵進行自動校正，以及擾動強度（&epsilon;）與攻擊成功率（ASR）的消長關係。
+        </p>
+        <div class="border-top pt-3 text-secondary small">
+          <b>驗證指標：</b>ASR 攀升速率、跨模型遷移性（BLIP / BLIP-2 / LLaVA）。
         </div>
-
-        <!-- 3. Any Attack 部分 -->
-        <div class="photo-item">
-            Any Attack
-            <div class="photo-box"></div>
-            <div class="mt-2">Risk: 0.87</div> <!-- 個別的 Risk 值 -->
-            <span class="risk-badge high-risk"><b>高風險</b></span>
-        </div>
-
-        <!-- 4. Attack VLM 部分 -->
-        <div class="photo-item">
-            Attack VLM
-            <div class="photo-box"></div>
-            <div class="mt-2">Risk: 0.45</div> <!-- 個別的 Risk 值 -->
-            <span class="risk-badge mid-risk"><b>有風險</b></span>
-        </div>
+      </div>
     </div>
 
-    <!-- 第三區：防禦區 -->
-    <h4 class="section-title">防禦處理 (僅選取有風險者)</h4>
-    <div class="photo-grid" style="justify-content: center; gap: 50px;">
-        <div class="photo-item" style="max-width: 200px;">防禦結果 1<div class="photo-box"></div></div>
-        <div class="photo-item" style="max-width: 200px;">防禦結果 2<div class="photo-box"></div></div>
-    </div>
+    <div class="col-lg-6">
+      <div class="content-card h-100" style="border-top: 4px solid var(--color-danger);">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <h5 class="fw-bold text-danger mb-0">模組 B：AttackVLM（語意扭曲）</h5>
+          <span class="badge bg-light text-danger border border-danger">白盒梯度攻擊</span>
+        </div>
 
-    <div class="mt-4">
-        <p>原 text: <textarea rows="1"></textarea></p>
-        <p>攻擊: <textarea rows="1"></textarea></p>
-        <p>防禦: <textarea rows="1"></textarea></p>
+        <div class="text-center mb-4">
+          <img src="../static/images/AttackVLM.png" alt="AttackVLM Framework" class="img-fluid rounded border shadow-sm" style="height: 260px; width: 100%; object-fit: contain; background-color: #f8fafc; padding: 10px;">
+        </div>
+
+        <p class="text-secondary small mb-3">
+          <b>實驗情境：</b>在白盒條件下，利用模型梯度反向傳播，將指定的目標語意（Target Response）精準覆寫進圖像特徵。
+        </p>
+        <p class="text-secondary small mb-4">
+          <b>分析重點：</b>觀察視覺特徵被強行推入預設向量空間後，模型如何在保持圖像視覺隱蔽性的同時，輸出與真實畫面完全不符的描述。
+        </p>
+        <div class="border-top pt-3 text-secondary small">
+          <b>驗證指標：</b>交叉熵損失（Loss）收斂狀況、語意相似度（CIDEr）指標變化。
+        </div>
+      </div>
     </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-12">
+      <div class="content-card" style="border-top: 4px solid var(--color-success);">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+          <h5 class="fw-bold text-success mb-0">防禦機制：TC-VAD 風險偵測與特徵重構 (RADAR-VLM)</h5>
+          <span class="badge bg-light text-success border border-success">藍隊防護模型</span>
+        </div>
+        
+        <div class="text-center mb-4">
+          <img src="/static/images/RADAR.png" alt="RADAR-VLM Pipeline" class="img-fluid rounded border shadow-sm" style="max-height: 480px; width: 100%; object-fit: contain; background-color: #f8fafc; padding: 15px;">
+        </div>
+
+        <p class="text-secondary small mb-2">
+          <b>機制原理：</b>針對上述的視覺干擾與白盒語意覆寫，本系統導入基於「幾何轉換一致性（Transformation Consistency）」的 <strong>TC-VAD 偵測模組</strong>。
+        </p>
+        <p class="text-secondary small mb-0">
+          <b>分流與淨化：</b>系統會先對輸入影像進行多元幾何轉換萃取特徵，計算風險分數 $r$ 進行攔截分流。針對具潛在風險的樣本，將進一步觸發 <strong>SSS (Sweet Spot Score) 去雜訊模組</strong>，透過演算尋找最佳過濾參數，成功淨化遭劫持的惡意特徵，保障下游 MLLM 推論的安全與正確性。
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-12">
+      <div class="content-card">
+        <h4 class="fw-bold mb-4" style="font-size: 1.25rem;">系統操作流程</h4>
+        
+        <div class="row g-4">
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge">1</span><span class="fw-bold">樣本與條件設定</span></div>
+              <p class="text-secondary small mb-0">載入測試影像，並設定擾動預算參數或指定目標覆寫語意。</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge">2</span><span class="fw-bold">對抗優化計算</span></div>
+              <p class="text-secondary small mb-0">執行迭代優化，觀察 Loss 收斂曲線與對抗樣本生成過程。</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge">3</span><span class="fw-bold">跨模型推論對照</span></div>
+              <p class="text-secondary small mb-0">比對原圖與對抗樣本在不同架構模型下的輸出結果與遷移表現。</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge" style="background-color: var(--color-success);">4</span><span class="fw-bold text-success">風險評估與防禦</span></div>
+              <p class="text-secondary small mb-0">觸發 TC-VAD 風險分流機制，並透過特徵重構還原正常推論。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-12 text-center">
+      <div class="content-card py-4 bg-light border">
+        <h5 class="fw-bold mb-3">選擇要執行的驗證模組</h5>
+        <div class="d-flex justify-content-center gap-3 flex-wrap">
+          <a href="vlattack.html" class="btn btn-nav-primary">前往 VLAttack（純圖片干擾）</a>
+          <a href="attackvlm.html" class="btn btn-nav-danger">前往 AttackVLM（語意扭曲）</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
