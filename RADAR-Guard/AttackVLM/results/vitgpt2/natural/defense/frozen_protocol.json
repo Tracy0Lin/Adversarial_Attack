@@ -1,0 +1,39 @@
+{
+  "model": "ViT-GPT2",
+  "checkpoint": "nlpconnect/vit-gpt2-image-captioning",
+  "revision": "dc68f91c06a1ba6f15268e5b9c13ae7a7c514084",
+  "mfii_results": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_vitgpt2_coco1000_v1/formal1000_v1/mfii/results.json",
+  "mfii_results_sha256": "5a3131ae21dc95d033891533da820747552834c3917103c5a74090b2be839405",
+  "mftt_results": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_vitgpt2_coco1000_v1/formal1000_v1/mftt/results.json",
+  "mftt_results_sha256": "b3baf75bd25126c15e767c7cd0d781be3d19b971fba1d0885743ef46c84efaaa",
+  "caption_source": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/generate_blip_21captions_all.py",
+  "caption_source_sha256": "9c3a6097903d796c07fd7400b66e8ae920825020aa6d6fec6644dc04b8c85354",
+  "feature_source": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/extract_clip_angular_features.py",
+  "feature_source_sha256": "bbb5ad24bc5946a81583e3bab394f4d860cae909910f278def38a7f8971e48e2",
+  "driver_sha256": "3a687f213c23a71b64eca7fce3d6b53d297d5ac5cf33321f55266063f4787553",
+  "decoding": {
+    "do_sample": false,
+    "num_beams": 4,
+    "max_new_tokens": 32
+  },
+  "seed": 20260729,
+  "output_size": [
+    224,
+    224
+  ],
+  "num_image_ids": 1000,
+  "labels": [
+    "clean",
+    "mf_tt"
+  ],
+  "captions_per_image": 21,
+  "feature_order": [
+    "d_center",
+    "d_iqr",
+    "d_tail",
+    "d_q95"
+  ],
+  "torch": "2.5.1+cu121",
+  "transformers": "4.26.1",
+  "base_caption_recheck_policy": "record exact-text differences; current-run captions remain authoritative"
+}

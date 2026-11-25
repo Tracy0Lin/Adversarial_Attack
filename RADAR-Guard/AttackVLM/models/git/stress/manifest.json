@@ -1,0 +1,27 @@
+{
+  "caption_model": "git",
+  "scenario": "stress",
+  "purpose": "deployment_full_training",
+  "feature_order": [
+    "d_center",
+    "d_iqr",
+    "d_tail",
+    "d_q95"
+  ],
+  "training_samples": 2000,
+  "training_image_ids": 1000,
+  "svm": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "class_weight": "balanced"
+  },
+  "sklearn": "1.6.1",
+  "source_features": "results/git/stress/tcvad/stage1/features/git_large_coco_clip_vitb32_angular_features_experiment2_1000pairs.json",
+  "source_features_sha256": "0a643e613c89e3ddf76fb0f149db64b52e846a9932c85798dedab99727ff4612",
+  "formal_result": "results/git/stress/tcvad/stage1/svm_group5fold/results.json",
+  "formal_result_sha256": "f3d9680aa61ebd19cbcb4c6cd65a31e17ad937371f1a7b271d3a23a4f29de0ad",
+  "deployment_joblib_sha256": "f7f8cd56e46801ae9a9cd2f3cdd74c08660676d4f6857c048280582b53c9c8e9",
+  "independent_test_metric": null,
+  "note": "Full-data deployment artifact; formal five-fold OOF metrics do not apply."
+}

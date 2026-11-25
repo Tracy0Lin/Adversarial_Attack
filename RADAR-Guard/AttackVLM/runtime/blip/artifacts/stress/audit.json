@@ -1,0 +1,28 @@
+{
+  "scenario": "stress",
+  "records": 2000,
+  "max_margin_error": 0.0,
+  "max_risk_error": 0.0,
+  "prediction_mismatches": 0,
+  "fold_mismatches": 0,
+  "routing_mismatches": 0,
+  "sklearn": "1.6.1",
+  "numpy": "1.23.5",
+  "reference_oof_metrics": {
+    "tn": 952,
+    "fp": 48,
+    "fn": 33,
+    "tp": 967,
+    "accuracy": 0.9595,
+    "balanced_accuracy": 0.9595,
+    "precision": 0.9527093596059113,
+    "recall_sensitivity": 0.967,
+    "specificity": 0.952,
+    "fpr": 0.048,
+    "fnr": 0.033,
+    "f1": 0.9598014888337469,
+    "roc_auc": 0.9899409999999998
+  },
+  "serialized_models_verified": 5,
+  "deployment_model_exported": false
+}

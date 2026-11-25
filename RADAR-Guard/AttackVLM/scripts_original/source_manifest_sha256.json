@@ -1,0 +1,106 @@
+[
+  {
+    "path": "work_code/mf_ii_git_large_coco.py",
+    "sha256": "7ac78033675c1e171954b78773179360a874abc15604ab653f4bb339a5151bed"
+  },
+  {
+    "path": "work_code/mfii_git_large_coco_formal1000_resume.py",
+    "sha256": "fd0cb4a3b26d488db03fe825370977c374b0f1284fa09b14550b9f45335140e8"
+  },
+  {
+    "path": "work_code/run_git_large_coco_mftt_pilot5.py",
+    "sha256": "1779d347c279d7ea83cf33649615854f1851857e687d17a6b4e6316bb3940d6d"
+  },
+  {
+    "path": "work_code/mf_tt_query.py",
+    "sha256": "073bb3aa47095038de27b80cfe20f704082fa9ebef277196e30f07596f90dad4"
+  },
+  {
+    "path": "work_code/run_small_caption_mftt_formal1000.py",
+    "sha256": "d24726e03fae38490024cb72c64dc62827cb81ab297963374fcc813370fae2fa"
+  },
+  {
+    "path": "work_code/run_small_caption_defense_formal1000.py",
+    "sha256": "3a687f213c23a71b64eca7fce3d6b53d297d5ac5cf33321f55266063f4787553"
+  },
+  {
+    "path": "work_code/evaluate_small_caption_rbf_svm_group5fold.py",
+    "sha256": "0d4fd22a11a2ece76a344ef6311db20b787da22252a72bdb146b8d06e6297068"
+  },
+  {
+    "path": "work_code/run_small_caption_sss_bilateral_strong_formal1000.py",
+    "sha256": "cbc267890ef9d14576a5610ae67b8f181bb5cec682442344de891bd69213727d"
+  },
+  {
+    "path": "formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/generate_blip_21captions_all.py",
+    "sha256": "9c3a6097903d796c07fd7400b66e8ae920825020aa6d6fec6644dc04b8c85354"
+  },
+  {
+    "path": "formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/extract_clip_angular_features.py",
+    "sha256": "bbb5ad24bc5946a81583e3bab394f4d860cae909910f278def38a7f8971e48e2"
+  },
+  {
+    "path": "formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/evaluate_blip_rbf_svm_group5fold.py",
+    "sha256": "cd76595c3560ae99f08bdcbfd3592116edc38c053fb3c56920a3fcfc9dd9dc27"
+  },
+  {
+    "path": "formal_tests/attackvlm_three_scenarios_v1/git_large_coco/experiment2_stress/tcvad/run_git_stage1_captions.py",
+    "sha256": "df0eee82a3241c3913f6ac39ed8b5301b8fcc78831c7c88ab80a7c7b49a796a7"
+  },
+  {
+    "path": "formal_tests/attackvlm_three_scenarios_v1/git_large_coco/experiment2_stress/tcvad/stage1/scripts/evaluate_git_experiment2_svm.py",
+    "sha256": "103d68cb42ccccfd9802a4bbba32d185b2d140f44f9fd0322b1223c6c7a6402f"
+  },
+  {
+    "path": "formal_tests/attackvlm_three_scenarios_v1/git_large_coco/experiment2_stress/tcvad/run_git_experiment2_stage2.py",
+    "sha256": "9ee9fda95d69bbdd4b87f322a476ea0ece5395b4abe3e0fec635b4b34ea59ebe"
+  },
+  {
+    "path": "formal_tests/paper_git_large_coco1000_v1/mftt5_20261006T173421Z_45148/results.json",
+    "sha256": "b983f20217e532d8bbf183e1165c6f15ce6675215633764cae3bdae5a7d48780"
+  },
+  {
+    "path": "work_code/mf_ii_vitgpt2.py",
+    "sha256": "e983fe339bf586803883ff4852dc12e3bebb2ffe7dd73664d266bdc48f17e0f1"
+  },
+  {
+    "path": "work_code/mfii_vitgpt2_formal1000_resume.py",
+    "sha256": "5ee68a5ff7f20f1a2fbc6d6c6503cc80acf515ec8c38caa66c6103b15fceb705"
+  },
+  {
+    "path": "work_code/run_vitgpt2_mftt_pilot5.py",
+    "sha256": "57cc11bcec062f4e6ed3ea3fd9af7dd71bb5afa14413e786e619fe1d1e5640bb"
+  },
+  {
+    "path": "formal_tests/paper_vitgpt2_coco1000_v1/mftt5_20261006T163747Z_24697/results.json",
+    "sha256": "75b1d6b52788fff2cc144e609a46b3b1868c774502d36b8cd729b46e8f69ded2"
+  },
+  {
+    "path": "work_code/mf_ii_transfer.py",
+    "sha256": "5843b1cfd72b7c8c7e1074571272a143e152123ed85fd46572414f6517a4c88f"
+  },
+  {
+    "path": "work_code/generate_captions.py",
+    "sha256": "2dbdf25ef71ed189444946bede49287337deaab2ca8fe43bc578618deeec4dc3"
+  },
+  {
+    "path": "formal_tests/paper_coco1000_v1/tcvad/experiment2_sss_blip/scripts/generate_sss_stage2_alone_all2000_images.py",
+    "sha256": "7fb8c4a43fa8a255f57ea9bc48260e1ea22555236e443b64547cd079b0e98eac"
+  },
+  {
+    "path": "formal_tests/paper_coco1000_v1/tcvad/experiment2_sss_blip/scripts/generate_sss_stage2_alone_all2000_captions.py",
+    "sha256": "864b81c2b47dcc70b669cfc71fe7a3338910ab132301e9b4d31eb9ca53732302"
+  },
+  {
+    "path": "formal_tests/attackvlm_three_scenarios_v1/blip/experiment2_stress/tcvad/stage1_candidate434/scripts/generate_blip_21captions_candidate434.py",
+    "sha256": "943974495da5472590e5b3b3a68afaec2b72c700a3e646864147b5594166fd5c"
+  },
+  {
+    "path": "formal_tests/attackvlm_three_scenarios_v1/blip/experiment2_stress/tcvad/stage1_candidate434/scripts/extract_clip_angular_features_candidate434.py",
+    "sha256": "7714722aa1a01f4d9ade4a9083fb91550892667ae5a0eb9e6c234efd4b15d55a"
+  },
+  {
+    "path": "formal_tests/attackvlm_three_scenarios_v1/blip/experiment2_stress/tcvad/stage1/scripts/evaluate_blip_rbf_svm_group5fold.py",
+    "sha256": "4fbc44c8dbbe9406c836d62d96e53041a135c699917ee186ad8000f417f510e0"
+  }
+]

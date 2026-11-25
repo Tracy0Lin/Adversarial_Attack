@@ -1,0 +1,27 @@
+{
+  "caption_model": "vitgpt2",
+  "scenario": "natural",
+  "purpose": "deployment_full_training",
+  "feature_order": [
+    "d_center",
+    "d_iqr",
+    "d_tail",
+    "d_q95"
+  ],
+  "training_samples": 2000,
+  "training_image_ids": 1000,
+  "svm": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "class_weight": "balanced"
+  },
+  "sklearn": "1.6.1",
+  "source_features": "results/vitgpt2/natural/defense/features/angular_features_1000pairs.json",
+  "source_features_sha256": "5ed74544b44b6421d19883346e1583c8cfce39416eab800d4c3c01e7bbaf89e3",
+  "formal_result": "results/vitgpt2/natural/defense/svm_group5fold/results.json",
+  "formal_result_sha256": "fff381d60fe6b8516b0d83cc8e7b2d764d00e1fa9ea1b888d031e44f94952076",
+  "deployment_joblib_sha256": "1b548baa5a279dc4b6a464a1a6cccf4a7bb7ac99620a9c7cabe5dfb8275815ad",
+  "independent_test_metric": null,
+  "note": "Full-data deployment artifact; formal five-fold OOF metrics do not apply."
+}

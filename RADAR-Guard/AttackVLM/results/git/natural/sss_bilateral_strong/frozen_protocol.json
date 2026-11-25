@@ -1,0 +1,38 @@
+{
+  "model": "GIT-large-COCO",
+  "checkpoint": "microsoft/git-large-coco",
+  "revision": "b644b0b41274649f87de8846fa15f9a22dad7583",
+  "mfii_results": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_git_large_coco1000_v1/formal1000_v1/mfii/results.json",
+  "mfii_results_sha256": "0321d6e78304d388f57f7d899971221f2c93f6d8f83bd90121539979e1999481",
+  "attack_results": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_git_large_coco1000_v1/formal1000_v1/mftt/results.json",
+  "attack_results_sha256": "7721a0285ed27656eef03dc0c40c52d2bd185325d98d08ca21423ae1063a207e",
+  "oof_risk_predictions": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_git_large_coco1000_v1/formal1000_v1/defense/svm_group5fold/oof_predictions.csv",
+  "oof_risk_predictions_sha256": "96242b1d21df60b659f99fc73017f2900ab781ff585451239392eedd2f94db61",
+  "source_sss_grid": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_coco1000_v1/tcvad/experiment2_sss_blip/formal/configs/sss_formal_ssa_grid.json",
+  "source_sss_grid_sha256": "6d8ca4441ca1f8f083181699afc9dac30ad2b0d17ba8f791717449c676e23cf7",
+  "repair": {
+    "name": "bilateral_strong",
+    "method": "bilateral",
+    "diameter": 7,
+    "sigma_color": 50.0,
+    "sigma_space": 7.0
+  },
+  "risk_thresholds": {
+    "low_upper_exclusive": 0.3,
+    "high_lower_inclusive": 0.8
+  },
+  "target_success_threshold": 0.8,
+  "caption_decoding": {
+    "do_sample": false,
+    "num_beams": 4,
+    "max_new_tokens": 32
+  },
+  "driver_sha256": "cbc267890ef9d14576a5610ae67b8f181bb5cec682442344de891bd69213727d",
+  "git_generation_adapter": "/workspace/projects/couser/AttackVLM_Official_Reproduction/work_code/run_git_large_coco_mftt_pilot5.py",
+  "git_generation_adapter_sha256": "1779d347c279d7ea83cf33649615854f1851857e687d17a6b4e6316bb3940d6d",
+  "routing_policy": {
+    "low": "pass unchanged",
+    "medium": "bilateral_strong then caption",
+    "high": "block"
+  }
+}

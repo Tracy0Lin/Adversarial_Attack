@@ -1,0 +1,34 @@
+{
+  "checkpoint": "nlpconnect/vit-gpt2-image-captioning",
+  "revision": "dc68f91c06a1ba6f15268e5b9c13ae7a7c514084",
+  "mfii_results_sha256": "5a3131ae21dc95d033891533da820747552834c3917103c5a74090b2be839405",
+  "manifest_sha256": "496b37f7c67a4b82499d9ebdfad74915f665bcd5df23bc9638d1808720765963",
+  "adapter_sha256": "57cc11bcec062f4e6ed3ea3fd9af7dd71bb5afa14413e786e619fe1d1e5640bb",
+  "legacy_sha256": "073bb3aa47095038de27b80cfe20f704082fa9ebef277196e30f07596f90dad4",
+  "driver_sha256": "d24726e03fae38490024cb72c64dc62827cb81ab297963374fcc813370fae2fa",
+  "lavis_defaults_sha256": "a6c60cd1728734635f2b9e3ea425d3c995fb4a214e2f3e18d0cec2df2913c594",
+  "torch": "2.5.1+cu121",
+  "transformers": "4.26.1",
+  "attack_caption_preset": {
+    "do_sample": true,
+    "num_beams": 1,
+    "num_return_sequences": 1,
+    "max_length": 30,
+    "min_length": 10,
+    "top_p": 0.9,
+    "repetition_penalty": 1.1
+  },
+  "evaluation_caption_preset": {
+    "do_sample": false,
+    "num_beams": 4,
+    "max_new_tokens": 32
+  },
+  "git_vision_cache_enabled": false,
+  "seed": 2023,
+  "steps": 8,
+  "num_query": 100,
+  "num_sub_query": 50,
+  "sigma": 8,
+  "epsilon": 8,
+  "alpha": 1
+}

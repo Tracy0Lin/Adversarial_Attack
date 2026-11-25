@@ -1,0 +1,42 @@
+{
+  "model": "GIT-large-COCO",
+  "checkpoint": "microsoft/git-large-coco",
+  "revision": "b644b0b41274649f87de8846fa15f9a22dad7583",
+  "mfii_results": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_git_large_coco1000_v1/formal1000_v1/mfii/results.json",
+  "mfii_results_sha256": "0321d6e78304d388f57f7d899971221f2c93f6d8f83bd90121539979e1999481",
+  "mftt_results": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_git_large_coco1000_v1/formal1000_v1/mftt/results.json",
+  "mftt_results_sha256": "7721a0285ed27656eef03dc0c40c52d2bd185325d98d08ca21423ae1063a207e",
+  "caption_source": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/generate_blip_21captions_all.py",
+  "caption_source_sha256": "9c3a6097903d796c07fd7400b66e8ae920825020aa6d6fec6644dc04b8c85354",
+  "feature_source": "/workspace/projects/couser/AttackVLM_Official_Reproduction/formal_tests/paper_coco1000_v1/tcvad/experiment1_blip/scripts/extract_clip_angular_features.py",
+  "feature_source_sha256": "bbb5ad24bc5946a81583e3bab394f4d860cae909910f278def38a7f8971e48e2",
+  "driver_sha256": "3a687f213c23a71b64eca7fce3d6b53d297d5ac5cf33321f55266063f4787553",
+  "decoding": {
+    "do_sample": false,
+    "num_beams": 4,
+    "max_new_tokens": 32
+  },
+  "seed": 20260729,
+  "output_size": [
+    224,
+    224
+  ],
+  "num_image_ids": 1000,
+  "labels": [
+    "clean",
+    "mf_tt"
+  ],
+  "captions_per_image": 21,
+  "base_caption_recheck_policy": "record exact-text differences; current-run captions remain authoritative",
+  "feature_order": [
+    "d_center",
+    "d_iqr",
+    "d_tail",
+    "d_q95"
+  ],
+  "torch": "2.5.1+cu121",
+  "transformers": "4.26.1",
+  "git_generation_adapter": "/workspace/projects/couser/AttackVLM_Official_Reproduction/work_code/run_git_large_coco_mftt_pilot5.py",
+  "git_generation_adapter_sha256": "1779d347c279d7ea83cf33649615854f1851857e687d17a6b4e6316bb3940d6d",
+  "git_vision_cache_enabled": true
+}

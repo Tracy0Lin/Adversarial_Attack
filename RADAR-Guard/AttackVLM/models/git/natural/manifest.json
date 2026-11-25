@@ -1,0 +1,27 @@
+{
+  "caption_model": "git",
+  "scenario": "natural",
+  "purpose": "deployment_full_training",
+  "feature_order": [
+    "d_center",
+    "d_iqr",
+    "d_tail",
+    "d_q95"
+  ],
+  "training_samples": 2000,
+  "training_image_ids": 1000,
+  "svm": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "class_weight": "balanced"
+  },
+  "sklearn": "1.6.1",
+  "source_features": "results/git/natural/defense/features/angular_features_1000pairs.json",
+  "source_features_sha256": "4f34b4be001c8807d7a9f6e1b4ed38c45cc009244a8f5220c95f094fbdcc0850",
+  "formal_result": "results/git/natural/defense/svm_group5fold/results.json",
+  "formal_result_sha256": "ca694259e74fc34cb68abd595f9a6c7f61db08e0768a5c9ecd9c3a56d6c79c7d",
+  "deployment_joblib_sha256": "f49fc3b072f01917434797363ad6e959e583803105ca81c36dfbd950e0c9aa67",
+  "independent_test_metric": null,
+  "note": "Full-data deployment artifact; formal five-fold OOF metrics do not apply."
+}

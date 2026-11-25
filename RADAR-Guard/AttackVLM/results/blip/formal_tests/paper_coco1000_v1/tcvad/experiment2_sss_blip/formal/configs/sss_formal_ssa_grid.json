@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "strategy": "SS-A deterministic grid search",
+  "status": "formal frozen candidate grid",
+  "identity_role": "Baseline only; not a denoising candidate.",
+  "configs": [
+    {
+      "name": "identity",
+      "method": "identity",
+      "parameters": {}
+    },
+    {
+      "name": "gaussian_sigma_0p5",
+      "method": "gaussian",
+      "parameters": {
+        "sigma": 0.5
+      }
+    },
+    {
+      "name": "gaussian_sigma_1p0",
+      "method": "gaussian",
+      "parameters": {
+        "sigma": 1.0
+      }
+    },
+    {
+      "name": "gaussian_sigma_1p5",
+      "method": "gaussian",
+      "parameters": {
+        "sigma": 1.5
+      }
+    },
+    {
+      "name": "median_k3",
+      "method": "median",
+      "parameters": {
+        "kernel_size": 3
+      }
+    },
+    {
+      "name": "median_k5",
+      "method": "median",
+      "parameters": {
+        "kernel_size": 5
+      }
+    },
+    {
+      "name": "bilateral_weak",
+      "method": "bilateral",
+      "parameters": {
+        "diameter": 3,
+        "sigma_color": 15.0,
+        "sigma_space": 3.0
+      }
+    },
+    {
+      "name": "bilateral_medium",
+      "method": "bilateral",
+      "parameters": {
+        "diameter": 5,
+        "sigma_color": 30.0,
+        "sigma_space": 5.0
+      }
+    },
+    {
+      "name": "bilateral_strong",
+      "method": "bilateral",
+      "parameters": {
+        "diameter": 7,
+        "sigma_color": 50.0,
+        "sigma_space": 7.0
+      }
+    },
+    {
+      "name": "fft_cutoff_0p95",
+      "method": "fft_lowpass",
+      "parameters": {
+        "cutoff_ratio": 0.95
+      }
+    },
+    {
+      "name": "fft_cutoff_0p85",
+      "method": "fft_lowpass",
+      "parameters": {
+        "cutoff_ratio": 0.85
+      }
+    },
+    {
+      "name": "fft_cutoff_0p70",
+      "method": "fft_lowpass",
+      "parameters": {
+        "cutoff_ratio": 0.7
+      }
+    }
+  ],
+  "mss_protocol": {
+    "captions_per_image": 21,
+    "rotation_degrees": [
+      -5,
+      -4,
+      -3,
+      -2,
+      -1,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "rescale_factors": [
+      0.9,
+      0.92,
+      0.94,
+      0.96,
+      0.98,
+      1.02,
+      1.04,
+      1.06,
+      1.08,
+      1.1
+    ],
+    "caption_model": "BLIP base_coco",
+    "decoding": "LAVIS default deterministic beam decoding"
+  },
+  "score": {
+    "delta_asr_threshold": 0.8,
+    "iqp": "(SSIM*(1-LPIPS)*LapVarTerm*BRISQUETerm)^(1/4)",
+    "mss": "mean caption-center cosine",
+    "sp": "sqrt(CLIPImageSimilarity*MSS)",
+    "sss": "(DeltaASR*IQP*SP)^(1/3)"
+  }
+}

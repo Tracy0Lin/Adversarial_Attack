@@ -1,0 +1,126 @@
+{
+  "status": "formal_sources_and_oof_reconstruction_verified_gpu_adapter_not_end_to_end_tested",
+  "caption_model": {
+    "name": "blip_caption",
+    "model_type": "base_coco",
+    "weights": "not_collected"
+  },
+  "clip_model": "ViT-B/32",
+  "input_size": [
+    384,
+    384
+  ],
+  "stage1": {
+    "rotations": [
+      -5,
+      -4,
+      -3,
+      -2,
+      -1,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "scales": [
+      0.9,
+      0.92,
+      0.94,
+      0.96,
+      0.98,
+      1.02,
+      1.04,
+      1.06,
+      1.08,
+      1.1
+    ],
+    "include_base": true,
+    "captions": 21,
+    "seed": 20260729,
+    "image_operations": "Preserve make_variants and fixed_rescale exactly; TF.rotate and PIL resize defaults are dependency-version-sensitive.",
+    "defense_generate_arguments": {
+      "use_nucleus_sampling": false,
+      "num_beams": 3,
+      "max_length": 30,
+      "min_length": 10,
+      "top_p": 0.9,
+      "repetition_penalty": 1.0,
+      "num_captions": 1
+    },
+    "defense_generate_provenance": "Actual installed lavis/models/blip_models/blip_caption.py generate defaults, collected from attackvlm environment."
+  },
+  "features": {
+    "order": [
+      "d_center",
+      "d_iqr",
+      "d_tail",
+      "d_q95"
+    ],
+    "embedding_normalization": "Each caption embedding is L2-normalized; their mean is L2-normalized to obtain the center.",
+    "distance": "arccos(clip(embedding dot center, -1, 1)) / pi",
+    "quantile_method": "linear",
+    "d_center": "mean of 21 normalized angular distances",
+    "d_iqr": "q75 - q25",
+    "d_tail": "q90 - q50",
+    "d_q95": "q95"
+  },
+  "classifier": {
+    "pipeline": [
+      "StandardScaler",
+      "SVC"
+    ],
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "class_weight": "balanced",
+    "probability": false,
+    "random_state": 20260729,
+    "risk": "sigmoid(decision_function / 1.0)",
+    "saved_classifier_in_uploaded_sources": false,
+    "evaluation": "5 folds; sorted unique IDs shuffled with np.random.default_rng(20260729), np.array_split into 5 groups; pairs kept together.",
+    "default_export": "five original OOF fold models per scenario only",
+    "deployment_export": "explicit --include-deployment-model; separately labelled and not part of recorded OOF results"
+  },
+  "routing": {
+    "low": "risk < 0.30",
+    "medium": "0.30 <= risk < 0.80",
+    "high": "risk >= 0.80"
+  },
+  "repair": {
+    "name": "bilateral_strong",
+    "diameter": 7,
+    "sigma_color": 50.0,
+    "sigma_space": 7.0,
+    "input_conversion": "RGB uint8, 384x384 via PIL BICUBIC",
+    "implementation": "cv2.bilateralFilter(array, d=7, sigmaColor=50, sigmaSpace=7); borderType not explicitly passed in selected stage2 source.",
+    "apply_to": "standardized incoming image for Medium; not a rotated/rescaled detector variant"
+  },
+  "attack": {
+    "parameter_provenance": "8/11 formal execution record; defaults in scripts are not the complete formal configuration.",
+    "mfii": {
+      "batch_size": 1,
+      "steps": 100,
+      "epsilon": 8,
+      "alpha": 1
+    },
+    "mftt": {
+      "batch_size": 1,
+      "steps": 8,
+      "epsilon": 8,
+      "alpha": 1,
+      "input_res": 384,
+      "num_query": 100,
+      "num_sub_query": 50,
+      "sigma": 8,
+      "delta_argument": "zero"
+    },
+    "caption_sampling": true,
+    "mftt_sha256": "073bb3aa47095038de27b80cfe20f704082fa9ebef277196e30f07596f90dad4",
+    "threshold": {
+      "target_similarity": 0.8,
+      "meaning": "evaluation only; distinct from risk threshold"
+    }
+  },
+  "handoff_scope": "formal_experiments_only_no_legacy_web_implementation"
+}

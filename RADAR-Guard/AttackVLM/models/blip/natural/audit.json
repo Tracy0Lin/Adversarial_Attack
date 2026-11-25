@@ -1,0 +1,28 @@
+{
+  "scenario": "natural",
+  "records": 2000,
+  "max_margin_error": 0.0,
+  "max_risk_error": 0.0,
+  "prediction_mismatches": 0,
+  "fold_mismatches": 0,
+  "routing_mismatches": 0,
+  "sklearn": "1.6.1",
+  "numpy": "1.23.5",
+  "reference_oof_metrics": {
+    "tn": 943,
+    "fp": 57,
+    "fn": 56,
+    "tp": 944,
+    "accuracy": 0.9435,
+    "balanced_accuracy": 0.9435,
+    "precision": 0.9430569430569431,
+    "recall_sensitivity": 0.944,
+    "specificity": 0.943,
+    "fpr": 0.057,
+    "fnr": 0.056,
+    "f1": 0.9435282358820589,
+    "roc_auc": 0.9813525
+  },
+  "serialized_models_verified": 5,
+  "deployment_model_exported": true
+}
