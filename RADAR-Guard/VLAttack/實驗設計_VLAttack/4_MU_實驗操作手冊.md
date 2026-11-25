@@ -1,0 +1,101 @@
+# VLAttack 與 RADAR-Guard 實驗操作手冊（Experiment Manual, MU）
+
+**適用範圍**：`實驗設計_VLAttack/`（資料前處理、對抗樣本生成、Stage 1 SVM 訓練、Stage 2 SSS／翻轉偵測與 11/22 正式對照評估）  
+**執行環境**：`C:\Users\tracy\github\VLAttack\vlattack_env\Scripts\python.exe`（實驗環境）或 `VLAttack_Web\.venv\Scripts\python.exe`（SVM 訓練與表格分析）
+
+---
+
+## 1. 實驗目錄結構對應
+
+| 資料夾 | 核心腳本與職責 |
+|---|---|
+| `1_資料前處理/` | VQAv2 答對題篩選 (`prepare_vqa.py`)、候選答案建表 (`create_answer_list.py`)、VLAttack BSA PGD 生成 (`attack_vqa.py`, `attack/VQA/adv_attack_blip_vla.py`)、Exp2/Exp3 建置 (`build_success_dataset.py`, `build_exp3.py`)、11 句旋轉 BLIP Caption 與 4D 角距離萃取 (`evaluate_best_stage1_new.py`, `run_captions.py`) |
+| `2_訓練腳本/` | Stage 1 StandardScaler + RBF-SVM 訓練與 `.joblib` 匯出 (`train_stage1_svm.py`)、GroupKFold 訓練與評估 (`analyze.py`, `evaluate_best_stage1_new.py`, `evaluate_stage2_gaussian.py`) |
+| `3_評估腳本/` | 完整端到端串接 (`run_full_pipeline.py`)、風險分流統計 (`analyze_risk_results.py`)、SSS 高斯網格搜尋 (`sss_denoise.py`)、答案翻轉偵測 (`answer_flip_detector.py`)、緩解後 ASR 彙整 (`mitigation_summary.py`)、11/22 Cosine vs Angular 正式對照 (`run_rotation_cos_vs_ang.py`, `compute_rpf1.py`) |
+| `5_資料集/` | 標註檔、300 張 COCO `val2014` 良性圖、109 對成對樣本圖，以及 Exp1/Exp2/Exp3 與 11/22 完整特徵 CSV/JSON |
+| `6_模型參數/` | 實測訓練匯出之 `.joblib` 模型、`model_metadata.json`、`radar_guard_params.json`、`sss_best_theta.json`、`theta_det.json`、`checkpoints_manifest.json` |
+
+---
+
+## 2. 實驗設計設定總覽
+
+### 2.1 三個獨立實驗情境
+1. **實驗一（Exp1, 混合自然攻擊，`exp1_mixed1000`）**：對 1,000 題 BLIP 原本答對的 VQAv2 題目執行 VLAttack（保留所有成功與失敗樣本），加上 1,000 張對應良性原圖，共 **2,000 列**；初始自然 ASR = **46.2%**（462/1,000），平均 SSIM = **0.8003**。
+2. **實驗二（Exp2, 全成功攻擊，`exp2_success1000`）**：從 2,298 題攻擊紀錄篩選 **1,000 張確定攻擊成功**（`VQA(adv) != original_prediction`）的樣本，搭配 1,000 張良性圖，共 **2,000 列**；初始 ASR = **100%**。
+3. **實驗三（Exp3, 跨照片純攻擊泛化，`exp3_success1000`）**：1,000 張攻擊成功樣本，且刻意確保其來源 `photo_id` **不與 Exp1 / Exp2 重疊**（無良性列，專用於驗證跨照片泛化攔截率與殘存 ASR）。
+
+### 2.2 攻擊與防禦固定超參數
+- **VLAttack BSA PGD**：`ε = 0.125`（張量空間 [-1, 1]；對應像素空間 0.0625）、`α = 0.002`、`steps = 100`、`image_size = 480`。
+- **Stage 1 TC-VAD**：原圖 1 張 + 固定隨機種子對 ±5° 旋轉 10 次（共 11 視角）→ BLIP Caption（`num_beams=3, max_len=30`）→ `all-MiniLM-L6-v2` 384D 嵌入 → 質心角距離 `arccos(cos)/π` → 4D 特徵 `[d_center, d_iqr, d_tail, d_q95]` → `StandardScaler + SVC(kernel='rbf', C=1.0, class_weight='balanced')` → `r = 0.5*tanh(margin/2)+0.5` → 分流門檻 `r ≤ 0.30`（Low）、`0.30 < r < 0.70`（Mid）、`r ≥ 0.70`（High）。
+- **Stage 2 SSS 與翻轉偵測**：`5×5` 2D Gaussian Blur；修復甜蜜點 **`σ* = 0.8`**；答案翻轉探針 **`σ_det = 1.5`**。
+
+---
+
+## 3. 階段式實作與重現指令
+
+### 步驟 A：資料前處理與對抗樣本生成（需 GPU 與 BLIP 權重）
+```powershell
+cd C:\Users\tracy\github\RADAR-Guard_專題成果_20261125\實驗設計_VLAttack\1_資料前處理
+
+# 1. 篩選 BLIP-VQA 原本答對的 VQAv2 題目（需先備妥 val2014 影像與 vqa_val.json）
+python prepare_vqa.py --config configs/VQA.yaml
+
+# 2. 執行 VLAttack BSA PGD 對抗攻擊（ε=0.125, α=0.002, 100 steps）
+python attack_vqa.py --config configs/VQA.yaml --adv 4
+
+# 3. 萃取 Stage 1 11 句旋轉 Caption 與 4D 角距離特徵
+python evaluate_best_stage1_new.py --methods rotate_5 --k 10
+```
+
+### 步驟 B：Stage 1 RBF-SVM 訓練與模型參數匯出（無需 GPU，約 10 秒完成）
+使用本資料夾整理之獨立訓練腳本 `2_訓練腳本/train_stage1_svm.py`，可直接在 CPU 上從 `5_資料集/tabular_features_and_logs/` 重現 5-fold GroupKFold（依 `photo_id` 防洩漏）驗證並匯出部署用 `.joblib`：
+
+```powershell
+cd C:\Users\tracy\github\RADAR-Guard_專題成果_20261125\實驗設計_VLAttack\2_訓練腳本
+C:\Users\tracy\github\VLAttack_Web\.venv\Scripts\python.exe train_stage1_svm.py
+```
+
+執行後將於 `6_模型參數/` 生成／更新：
+- `stage1_rbf_svm_rotate5_exp1.joblib`（同步至系統 `models_params/`）
+- `stage1_rbf_svm_formal1122_exp1.joblib`
+- `stage1_rbf_svm_formal1122_exp2.joblib`
+- `model_metadata.json`
+
+### 步驟 C：Stage 2 評估、SSS 搜尋與 11/22 Cosine vs Angular 正式對照
+```powershell
+cd C:\Users\tracy\github\RADAR-Guard_專題成果_20261125\實驗設計_VLAttack\3_評估腳本
+
+# 1. 風險分級統計（不需 GPU）
+python analyze_risk_results.py --experiment_root ..\5_資料集\tabular_features_and_logs\exp2_success1000
+
+# 2. 依既有 sss_per_theta_raw.csv 與 Stage 1 CSV 重算緩解後 ASR（不需 GPU）
+python mitigation_summary.py --experiment_root ..\5_資料集\tabular_features_and_logs\exp2_success1000
+
+# 3. 11/22 正式重跑之 Precision / Recall / F1 計算（讀取 rotation_cos_vs_ang/oof_scores.csv，不重訓、不需 GPU）
+python compute_rpf1.py ..\5_資料集\tabular_features_and_logs\rotation_cos_vs_ang\oof_scores.csv
+```
+
+> **安全提醒**：請勿在未確認輸出路徑備份前執行原始開發流程中的 `run_end_to_end.py`（含自動 git commit）或 `attack_supervisor.py`（會覆寫輸出目錄）。本資料夾已完成所有關鍵數據重整，建議直接執行上述模組化腳本進行驗證。
+
+---
+
+## 4. 正式實測關鍵數據備查
+
+### 4.1 11/22 正式重跑：Cosine 4D vs Angular 4D（BLIP Caption, 5-fold GroupKFold）
+來源：`5_資料集/tabular_features_and_logs/rotation_cos_vs_ang/{svm_summary.csv, formal_1122_rpf1.csv, bootstrap_delta.csv}`
+
+| 實驗 | 特徵空間 | 樣本數 (Photos) | AUROC | Recall | Precision | F1 | 95% Bootstrap CI (ΔAUROC) |
+|---|---|---|---|---|---|---|---|
+| Exp1（混合 1,000） | Cosine 4D | 2,000 (207) | 0.6640 | 0.4660 | 0.6873 | 0.5554 | `[-0.0204, 0.0214]` |
+| Exp1（混合 1,000） | Angular 4D | 2,000 (207) | **0.6653** | **0.4920** | 0.6694 | **0.5671** | （平均 +0.0012） |
+| Exp2（全成功 1,000） | Cosine 4D | 2,000 (388) | 0.7217 | 0.6050 | 0.7043 | 0.6509 | `[-0.0090, 0.0130]` |
+| Exp2（全成功 1,000） | Angular 4D | 2,000 (388) | **0.7233** | **0.6790** | 0.6893 | **0.6841** | （平均 +0.0019） |
+
+### 4.2 兩階段端到端防禦成效（BLIP-VQA, Stage 1 分流 + Stage 2 `5×5` 高斯 `σ*=0.8`）
+來源：`系統/1_系統完整程式/templates/results.html` 與 `5_資料集/tabular_features_and_logs/multi_captioner_blip/RESULTS_簡明.md`
+
+| 實驗情境 | 初始 ASR | Stage 1 後 ASR | 兩階段（+σ*=0.8）後 ASR | ASR 總下降 |
+|---|---|---|---|---|
+| 實驗一（混合攻擊, 1,000 題） | 46.2% | 29.8% | **24.1%** | **22.1 個百分點** |
+| 實驗二（全成功攻擊, 1,000 題） | 100.0% | 55.8% | **40.9%** | **59.1 個百分點** |
+| 實驗三（跨照片純攻擊, 1,000 題） | 100.0% | 50.9% | **36.0%** | **64.0 個百分點** |

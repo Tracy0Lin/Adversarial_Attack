@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MLLM 攻防驗證平台</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/static/style.css" rel="stylesheet">
+<style>
+  :root {
+    --bg-page: #f8fafc;
+    --bg-card: #ffffff;
+    --border-color: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-secondary: #64748b;
+    --color-primary: #2563eb;
+    --color-danger: #dc2626;
+    --color-success: #16a34a;
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+  }
+
+  /* 導覽列 */
+  .navbar-custom {
+    background-color: #ffffff;
+    border-bottom: 1px solid var(--border-color);
+    position: sticky; 
+    top: 0; 
+    z-index: 1050; 
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  .navbar-brand-custom { font-weight: 700; color: var(--text-primary) !important; font-size: 1.2rem; }
+  .nav-link-custom { color: var(--text-secondary) !important; font-weight: 500; padding: 0.5rem 1rem !important; border-radius: 6px; transition: all 0.2s; }
+  .nav-link-custom:hover { color: var(--color-primary) !important; background-color: #f1f5f9; }
+  .nav-link-custom.active { color: var(--color-primary) !important; font-weight: 600; }
+
+  /* 介面卡片 */
+  .content-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 28px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  }
+
+  /* 主標題區 */
+  .hero-section {
+    padding: 48px 0 32px;
+    text-align: center;
+  }
+  .hero-title {
+    font-weight: 700;
+    font-size: 2.1rem;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+  }
+  .hero-subtitle {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    max-width: 760px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  /* 流程步驟標記 */
+  .step-badge {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #0f172a;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 0.85rem;
+    margin-right: 8px;
+  }
+
+  /* 按鈕樣式 */
+  .btn-nav-primary {
+    background-color: var(--color-primary);
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 6px;
+    padding: 10px 24px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+  .btn-nav-primary:hover { background-color: #1d4ed8; color: #ffffff; }
+
+  .btn-nav-danger {
+    background-color: var(--color-danger);
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 6px;
+    padding: 10px 24px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+  .btn-nav-danger:hover { background-color: #b91c1c; color: #ffffff; }
+
+  /* 🌟 圖片縮放特效與游標設定 🌟 */
+  .zoomable-img {
+    cursor: zoom-in;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  }
+  .zoomable-img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1) !important;
+  }
+
+  /* 🌟 彈出視窗(Modal)的客製化樣式 🌟 */
+  .modal-dialog-custom { max-width: 900px; }
+  .modal-desc-box {
+    background-color: #f8fafc;
+    border-left: 4px solid var(--color-primary);
+    padding: 15px;
+    border-radius: 0 6px 6px 0;
+  }
+  .nav-dropdown { position: relative; }
+  button.nav-dropdown-toggle { background: transparent; border: 0; }
+  .nav-dropdown-menu {
+    display: none; position: absolute; top: calc(100% + 6px); left: 0; min-width: 168px;
+    margin: 0; padding: 6px; list-style: none; background: #ffffff; border: 1px solid #e2e8f0;
+    border-radius: 8px; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12); z-index: 1060;
+  }
+  .nav-dropdown-menu li { list-style: none; }
+  .nav-dropdown:hover > .nav-dropdown-menu,
+  .nav-dropdown:focus-within > .nav-dropdown-menu { display: block; }
+  .nav-dropdown-menu a { display: block; padding: 8px 12px; border-radius: 6px; color: #334155; text-decoration: none; font-weight: 500; white-space: nowrap; }
+  .nav-dropdown-menu a:hover, .nav-dropdown-menu a.active { color: #2563eb; background: #f1f5f9; }
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-custom py-3">
+  <div class="container">
+    <a class="navbar-brand navbar-brand-custom" href="index.html">MLLM 攻防驗證平台</a>
+    <div class="collapse navbar-collapse show" id="navbarNav">
+      <ul class="navbar-nav ms-auto gap-1">
+        <li class="nav-item"><a class="nav-link nav-link-custom active" href="index.html">平台導覽</a></li>
+        <li class="nav-item nav-dropdown">
+          <button type="button" class="nav-link nav-link-custom nav-dropdown-toggle" aria-haspopup="true">VLAttack</button>
+          <ul class="nav-dropdown-menu">
+            <li><a href="vlattack-live.html">即時流程</a></li>
+            <li><a href="vlattack-cases.html">案例示範</a></li>
+            <li><a href="results.html">實驗結果</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container mb-5">
+  
+  <div class="hero-section">
+    <span class="badge bg-light text-secondary border mb-3 px-3 py-2 fw-semibold">多模態模型安全性評估系統</span>
+    <h1 class="hero-title">多模態大語言模型（MLLM）攻防驗證與分析平台</h1>
+    <p class="hero-subtitle">
+      本平台針對多模態模型在視覺特徵提取與文字生成間的協同機制進行安全測試，
+      針對 VLAttack 視覺模態對抗干擾進行攻擊驗證與防禦評估，並整合基於幾何轉換一致性的兩階段偵測與修復架構 RADAR-Guard（TC-VAD + SSS 高斯去雜訊）。
+    </p>
+  </div>
+
+  <div class="row g-4 mb-4">
+    <div class="col-12">
+      <h4 class="fw-bold mb-2" style="font-size: 1.25rem;">評估模組與攻防架構</h4>
+    </div>
+    
+    <div class="col-12">
+      <div class="content-card h-100" style="border-top: 4px solid var(--color-primary);">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <h5 class="fw-bold text-primary mb-0">模組 A：VLAttack（純圖片干擾）</h5>
+          <span class="badge bg-light text-primary border border-primary">視覺模態擾動</span>
+        </div>
+        
+        <div class="text-center mb-4">
+          <img src="{{ url_for('static', filename='images/VLAttack.png') }}" alt="VLAttack Framework" class="img-fluid rounded border shadow-sm zoomable-img" style="height: 260px; width: 100%; object-fit: contain; background-color: #f8fafc; padding: 10px;" data-bs-toggle="modal" data-bs-target="#modal-vlattack" title="點擊放大查看說明">
+        </div>
+
+        <p class="text-secondary small mb-3">
+          <b>實驗情境：</b>在文字提示（Prompt）保持乾淨與中立的前提下，僅對輸入圖像施加微小噪點擾動。
+        </p>
+        <p class="text-secondary small mb-4">
+          <b>分析重點：</b>探討解碼器如何依賴語言先驗知識（常識）對受干擾的視覺特徵進行自動校正，以及擾動強度（&epsilon;）與攻擊成功率（ASR）的消長關係。
+        </p>
+        <div class="border-top pt-3 text-secondary small">
+          <b>驗證指標：</b>ASR 攀升速率、跨模型遷移性（BLIP / BLIP-2 / LLaVA）。旁邊另有「即時流程」與「案例示範」教學頁。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-12">
+      <div class="content-card" style="border-top: 4px solid var(--color-success);">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+          <h5 class="fw-bold text-success mb-0">防禦機制：TC-VAD 風險偵測與特徵重構 (RADAR-VLM)</h5>
+          <span class="badge bg-light text-success border border-success">藍隊防護模型</span>
+        </div>
+        
+        <div class="text-center mb-4">
+          <img src="{{ url_for('static', filename='images/RADAR英文.JPG') }}" alt="RADAR-VLM Pipeline" class="img-fluid rounded border shadow-sm zoomable-img" style="max-height: 480px; width: 100%; object-fit: contain; background-color: #f8fafc; padding: 15px;" data-bs-toggle="modal" data-bs-target="#modal-radar" title="點擊放大查看說明">
+        </div>
+
+        <p class="text-secondary small mb-2">
+          <b>機制原理：</b>針對上述的視覺干擾與白盒語意覆寫，本系統導入基於「幾何轉換一致性（Transformation Consistency）」的 <strong>TC-VAD 偵測模組</strong>。
+        </p>
+        <p class="text-secondary small mb-0">
+          <b>分流與淨化：</b>系統會先對輸入影像進行多元幾何轉換萃取特徵，計算風險分數 $r$ 進行攔截分流。針對具潛在風險的樣本，將進一步觸發 <strong>SSS (Sweet Spot Score) 去雜訊模組</strong>，透過演算尋找最佳過濾參數，成功淨化遭劫持的惡意特徵，保障下游 MLLM 推論的安全與正確性。
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-12">
+      <div class="content-card">
+        <h4 class="fw-bold mb-4" style="font-size: 1.25rem;">系統操作流程</h4>
+        
+        <div class="row g-4">
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge">1</span><span class="fw-bold">樣本與條件設定</span></div>
+              <p class="text-secondary small mb-0">載入測試影像，並設定擾動預算參數或指定目標覆寫語意。</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge">2</span><span class="fw-bold">對抗優化計算</span></div>
+              <p class="text-secondary small mb-0">執行迭代優化，觀察 Loss 收斂曲線與對抗樣本生成過程。</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge">3</span><span class="fw-bold">跨模型推論對照</span></div>
+              <p class="text-secondary small mb-0">比對原圖與對抗樣本在不同架構模型下的輸出結果與遷移表現。</p>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="p-3 bg-light rounded border h-100">
+              <div class="mb-2"><span class="step-badge" style="background-color: var(--color-success);">4</span><span class="fw-bold text-success">風險評估與防禦</span></div>
+              <p class="text-secondary small mb-0">觸發 TC-VAD 風險分流機制，並透過特徵重構還原正常推論。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-12 text-center">
+      <div class="content-card py-4 bg-light border">
+        <h5 class="fw-bold mb-3">選擇要執行的驗證模組</h5>
+        <div class="d-flex justify-content-center gap-3 flex-wrap">
+          <a href="results.html" class="btn btn-nav-primary">看實驗結果</a>
+          <a href="vlattack-live.html" class="btn btn-nav-primary" style="background:#1d4ed8;">即時流程</a>
+          <a href="vlattack-cases.html" class="btn btn-nav-primary" style="background:#1e40af;">案例示範</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- ================= 🌟 隱藏的 Modal 彈出視窗區域 🌟 ================= -->
+
+<!-- Modal: VLAttack -->
+<div class="modal fade" id="modal-vlattack" tabindex="-1" aria-labelledby="modalLabelVL" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl" style="max-width: 1150px;">
+    <div class="modal-content border-0 shadow-lg">
+      <div class="modal-header border-bottom-0 pb-0">
+        <h5 class="modal-title fw-bold text-primary fs-4" id="modalLabelVL">VLAttack：迭代式提示詞對抗優化 (Jailbreak)</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body pt-3 pb-4">
+        <div class="row align-items-stretch">
+          <div class="col-lg-7 d-flex align-items-center">
+            <img src="{{ url_for('static', filename='images/VLAttack.png') }}" class="img-fluid rounded border shadow-sm w-100" alt="VLAttack 放大圖">
+          </div>
+          <div class="col-lg-5 mt-3 mt-lg-0">
+            <div class="modal-desc-box h-100 d-flex flex-column justify-content-center" style="background-color: #f8fafc; border-left: 4px solid var(--color-primary); padding: 28px; border-radius: 0 8px 8px 0;">
+              <h5 class="fw-bold text-dark mb-4" style="border-bottom: 2px solid #e2e8f0; padding-bottom: 12px;">📌 核心機制與攻擊流程</h5>
+              
+              <div class="mb-4">
+                <h6 class="fw-bold text-primary mb-2" style="font-size: 1.1rem;">1. Initialization (初始化)</h6>
+                <div class="text-secondary" style="line-height: 1.6; font-size: 0.95rem;">攻擊者輸入原始查詢（如：詢問公車號碼），系統建立初始對抗提示詞 (P<sub>0</sub>) 並產生初步受干擾的圖片。</div>
+              </div>
+
+              <div class="mb-4">
+                <h6 class="fw-bold text-primary mb-2" style="font-size: 1.1rem;">2. Iterative Prompt Optimization (迭代優化)</h6>
+                <div class="text-secondary" style="line-height: 1.6; font-size: 0.95rem;">動態攻防迴圈。受干擾圖片輸入凍結的視覺語言模型 (VLM) 後，利用後端 LLM 評估是否成功誤導。若失敗，LLM 會分析結果並生成更強的干擾提示詞 (P<sub>t</sub>) 打擊模型弱點。</div>
+              </div>
+
+              <div>
+                <h6 class="fw-bold text-primary mb-2" style="font-size: 1.1rem;">3 & 4. Generation & Termination (生成與終止)</h6>
+                <div class="text-secondary" style="line-height: 1.6; font-size: 0.95rem;">透過圖像編輯模型將優化後的提示詞應用於原圖。當成功誤導模型輸出錯誤答案（例如將號碼 22 誤認為 39）或達到最大迭代次數時終止。</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: RADAR -->
+<div class="modal fade" id="modal-radar" tabindex="-1" aria-labelledby="modalLabelRadar" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl" style="max-width: 1150px;">
+    <div class="modal-content border-0 shadow-lg">
+      <div class="modal-header border-bottom-0 pb-0">
+        <h5 class="modal-title fw-bold text-success fs-4" id="modalLabelRadar">RADAR-Guard：兩階段偵測與防禦淨化 Pipeline</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body pt-3 pb-4">
+        <div class="row align-items-stretch">
+          <div class="col-lg-7 d-flex align-items-center">
+            <img src="{{ url_for('static', filename='images/RADAR英文.JPG') }}" class="img-fluid rounded border shadow-sm w-100" alt="RADAR 放大圖">
+          </div>
+          <div class="col-lg-5 mt-3 mt-lg-0">
+            <div class="modal-desc-box h-100 d-flex flex-column justify-content-center" style="background-color: #f8fafc; border-left: 4px solid var(--color-success); padding: 28px; border-radius: 0 8px 8px 0;">
+              <h5 class="fw-bold text-dark mb-4" style="border-bottom: 2px solid #e2e8f0; padding-bottom: 12px;">📌 雙層防護機制說明</h5>
+              
+              <div class="mb-4">
+                <h6 class="fw-bold text-success mb-2" style="font-size: 1.1rem;">第一階段：TC-VAD 偵測模組</h6>
+                <div class="text-secondary" style="line-height: 1.6; font-size: 0.95rem;">對輸入影像施加多次幾何轉換（翻轉、縮放等），取得 VLM 描述並轉為語意向量。接著計算四個核心指標：D<sub>center</sub>（中心不一致度）、D<sub>IQR</sub>（語意離散程度）、D<sub>tail</sub> 與 D<sub>q95</sub>（極端偏差）。</div>
+              </div>
+
+              <div class="mb-4">
+                <h6 class="fw-bold text-success mb-2" style="font-size: 1.1rem;">風險分流器 (Risk Classifier)</h6>
+                <div class="text-secondary" style="line-height: 1.6; font-size: 0.95rem;">
+                  根據風險分數 r 分流：<br>
+                  🟢 <b>低風險 (r &lt; 0.3)：</b> 語意一致，直接放行。<br>
+                  🔴 <b>高風險 (r &ge; 0.7)：</b> 高度疑似惡意樣本，拒絕回答。<br>
+                  🟡 <b>中風險：</b> 進入第二階段淨化。
+                </div>
+              </div>
+
+              <div>
+                <h6 class="fw-bold text-success mb-2" style="font-size: 1.1rem;">第二階段：SSS 去雜訊重構</h6>
+                <div class="text-secondary" style="line-height: 1.6; font-size: 0.95rem;">針對中度風險樣本，利用 <b>Sweet Spot Score (SSS)</b> 演算法，在影像品質保留度、語意保留度與去雜訊攻擊下降幅度 (&Delta;ASR) 中搜尋最佳過濾參數 &theta;<sup>*</sup>，輸出淨化影像供安全推論。</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 解決代理伺服器下 Flask url_for 破圖的問題 -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const currentPath = window.location.pathname;
+    if (currentPath.includes('/proxy/')) {
+        const proxyPrefix = currentPath.substring(0, currentPath.indexOf('/', 7) + 1);
+        document.querySelectorAll('img').forEach(img => {
+            const imgSrc = img.getAttribute('src');
+            if (imgSrc && imgSrc.startsWith('/static/')) {
+                img.src = proxyPrefix + imgSrc.substring(1);
+            }
+        });
+    }
+});
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

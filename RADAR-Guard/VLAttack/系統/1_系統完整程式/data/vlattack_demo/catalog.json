@@ -1,0 +1,880 @@
+{
+  "source": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\exp1_mixed1000",
+  "attack": {
+    "method": "VLAttack BSA",
+    "whitebox": "BLIP pretrain model_base.pth",
+    "blackbox": "BLIP VQA model_vqa.pth",
+    "steps": 100,
+    "alpha": 0.002,
+    "linf": 0.125,
+    "image_size": 480,
+    "asr": 0.462,
+    "asr_count": "462/1000",
+    "mean_ssim": 0.8003
+  },
+  "pipeline": [
+    "VQAv2 原圖 + 問題（文字 prompt 保持乾淨）",
+    "VLAttack PGD：steps=100、α=0.002、L∞=0.125，白盒梯度來自 BLIP pretrain",
+    "黑盒 BLIP-VQA 推論：攻擊成功 ⇔ 對抗圖答案 ≠ 原圖答案",
+    "TC-VAD Stage 1：rotate_5 × k=10 → BLIP caption → 4-D 角距離 → SVM 風險 r",
+    "分流：r<0.3 放行、r≥0.7 攔截、其餘送 Stage 2",
+    "Stage 2 偵測：答案翻轉 VQA(blur 5×5 σ=1.5) ≠ VQA(x)",
+    "緩解 SSS：gaussian 5×5 σ=0.8 去噪後再問，尋找 Sweet Spot"
+  ],
+  "metrics": {
+    "stage1_auroc": 0.6655,
+    "residual_asr": {
+      "mild_defense": {
+        "residual_attack_count": 344,
+        "residual_attack_rate_percent": 74.46
+      },
+      "strong_defense": {
+        "residual_attack_count": 206,
+        "residual_attack_rate_percent": 44.59
+      },
+      "gaussian_mild": {
+        "residual_attack_count": 264,
+        "residual_attack_rate_percent": 57.14
+      },
+      "gaussian_strong": {
+        "residual_attack_count": 171,
+        "residual_attack_rate_percent": 37.01
+      },
+      "resize_gaussian": {
+        "residual_attack_count": 191,
+        "residual_attack_rate_percent": 41.34
+      }
+    },
+    "sss_best": {
+      "scope": "set_level",
+      "method_type": "rotate_5",
+      "kernel": 5,
+      "sigma": 0.8,
+      "sss": 0.5833972888866383,
+      "delta_asr": 0.47878787878787876,
+      "iqp": 0.46013117720310653,
+      "sp": 0.9012980092276456,
+      "per_sample_delta_asr": 0.7333333333333333,
+      "per_sample_sigma_hist": {
+        "0.3": 662,
+        "0.5": 15,
+        "0.8": 67,
+        "1.0": 22,
+        "1.5": 20
+      }
+    },
+    "theta_det": {
+      "scope": "detection",
+      "method_type": "rotate_5",
+      "kernel": 5,
+      "sigma": 1.5,
+      "TPR": 0.40664961636828645,
+      "FPR": 0.053164556962025315,
+      "youden_j": 0.3534850594062611,
+      "TPR_fooled_only": 0.8303030303030303,
+      "multi_sigma": {
+        "n_sigma": 5,
+        "auroc": 0.7034575415196349,
+        "threshold": 1.0,
+        "TPR": 0.4731457800511509,
+        "FPR": 0.0759493670886076,
+        "youden_j": 0.39719641296254327
+      }
+    },
+    "end_to_end": [
+      {
+        "name": "Stage 1 僅 high",
+        "tpr": 0.289,
+        "fpr": 0.057,
+        "j": 0.232
+      },
+      {
+        "name": "caption-SVM Stage 2",
+        "tpr": 0.328,
+        "fpr": 0.111,
+        "j": 0.217
+      },
+      {
+        "name": "答案翻轉 σ=1.5",
+        "tpr": 0.448,
+        "fpr": 0.078,
+        "j": 0.37
+      },
+      {
+        "name": "flip_count ≥ 1",
+        "tpr": 0.474,
+        "fpr": 0.087,
+        "j": 0.387
+      }
+    ],
+    "sss_grid": [
+      {
+        "sigma": 0.3,
+        "delta_asr": 0.018,
+        "sss": 0.253
+      },
+      {
+        "sigma": 0.5,
+        "delta_asr": 0.073,
+        "sss": 0.372
+      },
+      {
+        "sigma": 0.8,
+        "delta_asr": 0.479,
+        "sss": 0.583
+      },
+      {
+        "sigma": 1.0,
+        "delta_asr": 0.57,
+        "sss": 0.573
+      },
+      {
+        "sigma": 1.5,
+        "delta_asr": 0.697,
+        "sss": 0.558
+      }
+    ]
+  },
+  "samples": [
+    {
+      "id": "A_correct_clean",
+      "question_id": "393225001",
+      "slot": "A_correct_clean",
+      "why": "乾淨圖、低風險：Stage 1 正確放行",
+      "feed": "clean",
+      "question": "is this a creamy soup?",
+      "ground_truth": "no",
+      "original_prediction": "no",
+      "adversarial_prediction": "yes",
+      "attack_success": true,
+      "attack_type": "image",
+      "ssim": 0.7829721570014954,
+      "lpips": 0.44704872369766235,
+      "clip": 0.890625,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "yes",
+          "attack_success": true
+        },
+        "gaussian_strong": {
+          "prediction": "yes",
+          "attack_success": true
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "yes",
+          "attack_success": true
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "yes",
+          "attack_success": true
+        },
+        "resize_gaussian": {
+          "prediction": "yes",
+          "attack_success": true
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.26886170326103825,
+        "risk_bin": "low",
+        "action": "放行",
+        "d_center": 0.0,
+        "d_iqr": 0.0,
+        "d_tail": 0.0,
+        "d_q95": 0.0,
+        "clean": {
+          "risk_score": 0.26886170326103825,
+          "risk_bin": "low"
+        },
+        "attack": {
+          "risk_score": 0.8149430238227603,
+          "risk_bin": "high"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": null,
+        "sss_sigma08": null,
+        "flips": [],
+        "end_to_end_flagged": false
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/393225001/ori.png",
+        "atk": "/static/vlattack_demo/393225001/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/393225001/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/393225001/gaussian_mild.png"
+      }
+    },
+    {
+      "id": "B_correct_attack",
+      "question_id": "524361001",
+      "slot": "B_correct_attack",
+      "why": "攻擊成功、高風險：Stage 1 正確攔截",
+      "feed": "attack",
+      "question": "how many birds?",
+      "ground_truth": "1",
+      "original_prediction": "1",
+      "adversarial_prediction": "0",
+      "attack_success": true,
+      "attack_type": "image",
+      "ssim": 0.7742258906364441,
+      "lpips": 0.5559841990470886,
+      "clip": 0.68798828125,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "0",
+          "attack_success": true
+        },
+        "gaussian_strong": {
+          "prediction": "1",
+          "attack_success": false
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "0",
+          "attack_success": true
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "1",
+          "attack_success": false
+        },
+        "resize_gaussian": {
+          "prediction": "1",
+          "attack_success": false
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.7825771671998121,
+        "risk_bin": "high",
+        "action": "攔截",
+        "d_center": 0.2406506985425949,
+        "d_iqr": 0.03385624289512634,
+        "d_tail": 0.0,
+        "d_q95": 0.2656186372041702,
+        "clean": {
+          "risk_score": 0.7419599954462284,
+          "risk_bin": "high"
+        },
+        "attack": {
+          "risk_score": 0.7825771671998121,
+          "risk_bin": "high"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": null,
+        "sss_sigma08": null,
+        "flips": [],
+        "end_to_end_flagged": true
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/524361001/ori.png",
+        "atk": "/static/vlattack_demo/524361001/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/524361001/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/524361001/gaussian_mild.png"
+      }
+    },
+    {
+      "id": "C_false_alarm",
+      "question_id": "393254002",
+      "slot": "C_false_alarm",
+      "why": "乾淨圖被判高風險：假警報",
+      "feed": "clean",
+      "question": "where is the camping tent?",
+      "ground_truth": "woods",
+      "original_prediction": "woods",
+      "adversarial_prediction": "background",
+      "attack_success": true,
+      "attack_type": "image",
+      "ssim": 0.8569790720939636,
+      "lpips": 0.26679736375808716,
+      "clip": 0.95703125,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "background",
+          "attack_success": true
+        },
+        "gaussian_strong": {
+          "prediction": "background",
+          "attack_success": true
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "background",
+          "attack_success": true
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "background",
+          "attack_success": true
+        },
+        "resize_gaussian": {
+          "prediction": "background",
+          "attack_success": true
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.7509788727475388,
+        "risk_bin": "high",
+        "action": "攔截",
+        "d_center": 0.18862000107765198,
+        "d_iqr": 0.03939029574394226,
+        "d_tail": 0.03939029574394226,
+        "d_q95": 0.21010562777519226,
+        "clean": {
+          "risk_score": 0.7509788727475388,
+          "risk_bin": "high"
+        },
+        "attack": {
+          "risk_score": 0.7520143406720474,
+          "risk_bin": "high"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": null,
+        "sss_sigma08": null,
+        "flips": [],
+        "end_to_end_flagged": true
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/393254002/ori.png",
+        "atk": "/static/vlattack_demo/393254002/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/393254002/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/393254002/gaussian_mild.png"
+      }
+    },
+    {
+      "id": "D_miss_attack",
+      "question_id": "262522002",
+      "slot": "D_miss_attack",
+      "why": "攻擊成功卻低風險：Stage 1 漏抓",
+      "feed": "attack",
+      "question": "was this taken at night?",
+      "ground_truth": "yes",
+      "original_prediction": "yes",
+      "adversarial_prediction": "no",
+      "attack_success": true,
+      "attack_type": "image",
+      "ssim": 0.7871972918510437,
+      "lpips": 0.5210708975791931,
+      "clip": 0.90625,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "no",
+          "attack_success": true
+        },
+        "gaussian_strong": {
+          "prediction": "yes",
+          "attack_success": false
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "no",
+          "attack_success": true
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "yes",
+          "attack_success": false
+        },
+        "resize_gaussian": {
+          "prediction": "yes",
+          "attack_success": false
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.26886170326103825,
+        "risk_bin": "low",
+        "action": "放行",
+        "d_center": 0.0,
+        "d_iqr": 0.0,
+        "d_tail": 0.0,
+        "d_q95": 0.0,
+        "clean": {
+          "risk_score": 0.3733283536737604,
+          "risk_bin": "mid"
+        },
+        "attack": {
+          "risk_score": 0.26886170326103825,
+          "risk_bin": "low"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": null,
+        "sss_sigma08": null,
+        "flips": [],
+        "end_to_end_flagged": false
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/262522002/ori.png",
+        "atk": "/static/vlattack_demo/262522002/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/262522002/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/262522002/gaussian_mild.png"
+      }
+    },
+    {
+      "id": "E_clean_mid",
+      "question_id": "393777005",
+      "slot": "E_clean_mid",
+      "why": "乾淨圖中風險：應送 Stage 2",
+      "feed": "clean",
+      "question": "is there a baby?",
+      "ground_truth": "yes",
+      "original_prediction": "yes",
+      "adversarial_prediction": "no",
+      "attack_success": true,
+      "attack_type": "image",
+      "ssim": 0.7835207581520081,
+      "lpips": 0.4228628873825073,
+      "clip": 0.85595703125,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "yes",
+          "attack_success": false
+        },
+        "gaussian_strong": {
+          "prediction": "yes",
+          "attack_success": false
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "yes",
+          "attack_success": false
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "yes",
+          "attack_success": false
+        },
+        "resize_gaussian": {
+          "prediction": "yes",
+          "attack_success": false
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.6997787742032564,
+        "risk_bin": "mid",
+        "action": "送 Stage 2",
+        "d_center": 0.17707215249538422,
+        "d_iqr": 0.03636440634727478,
+        "d_tail": 0.03636440634727478,
+        "d_q95": 0.19690729677677155,
+        "clean": {
+          "risk_score": 0.6997787742032564,
+          "risk_bin": "mid"
+        },
+        "attack": {
+          "risk_score": 0.7236511657721103,
+          "risk_bin": "high"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": {
+          "sigma": 1.5,
+          "kernel": 5,
+          "pred_ref": "yes",
+          "pred_denoised": "yes",
+          "flipped": false,
+          "rescued": false,
+          "fooled_before": false,
+          "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+          "caption_denoised": "a young boy sitting on a blue couch in front of a tv",
+          "ssim": 0.9043964281381478,
+          "clip_sim": 0.943359375
+        },
+        "sss_sigma08": {
+          "sigma": 0.8,
+          "kernel": 5,
+          "pred_ref": "yes",
+          "pred_denoised": "yes",
+          "flipped": false,
+          "rescued": false,
+          "fooled_before": false,
+          "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+          "caption_denoised": "a young boy sitting on a blue couch in front of a tv",
+          "ssim": 0.9600507311957575,
+          "clip_sim": 0.97998046875
+        },
+        "flips": [
+          {
+            "sigma": 0.3,
+            "kernel": 5,
+            "pred_ref": "yes",
+            "pred_denoised": "yes",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": false,
+            "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+            "caption_denoised": "a young boy sitting on a blue chair in front of a tv",
+            "ssim": 0.9972901632112054,
+            "clip_sim": 1.0
+          },
+          {
+            "sigma": 0.5,
+            "kernel": 5,
+            "pred_ref": "yes",
+            "pred_denoised": "yes",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": false,
+            "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+            "caption_denoised": "a young boy sitting on a blue chair in front of a tv",
+            "ssim": 0.9916320304772043,
+            "clip_sim": 0.9970703125
+          },
+          {
+            "sigma": 0.8,
+            "kernel": 5,
+            "pred_ref": "yes",
+            "pred_denoised": "yes",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": false,
+            "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+            "caption_denoised": "a young boy sitting on a blue couch in front of a tv",
+            "ssim": 0.9600507311957575,
+            "clip_sim": 0.97998046875
+          },
+          {
+            "sigma": 1.0,
+            "kernel": 5,
+            "pred_ref": "yes",
+            "pred_denoised": "yes",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": false,
+            "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+            "caption_denoised": "a young boy sitting on a blue couch in front of a tv",
+            "ssim": 0.9395007266872296,
+            "clip_sim": 0.966796875
+          },
+          {
+            "sigma": 1.5,
+            "kernel": 5,
+            "pred_ref": "yes",
+            "pred_denoised": "yes",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": false,
+            "caption_ref": "a young boy sitting on a blue chair in front of a tv",
+            "caption_denoised": "a young boy sitting on a blue couch in front of a tv",
+            "ssim": 0.9043964281381478,
+            "clip_sim": 0.943359375
+          }
+        ],
+        "end_to_end_flagged": false
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/393777005/ori.png",
+        "atk": "/static/vlattack_demo/393777005/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/393777005/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/393777005/gaussian_mild.png"
+      }
+    },
+    {
+      "id": "F_boundary",
+      "question_id": "131089003",
+      "slot": "F_boundary",
+      "why": "攻擊失敗但高風險：邊界案例",
+      "feed": "attack",
+      "question": "is there a chain link fence in the image?",
+      "ground_truth": "no",
+      "original_prediction": "no",
+      "adversarial_prediction": "no",
+      "attack_success": false,
+      "attack_type": "failed",
+      "ssim": 0.8214479088783264,
+      "lpips": 0.41281014680862427,
+      "clip": 0.85498046875,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "no",
+          "attack_success": false
+        },
+        "gaussian_strong": {
+          "prediction": "yes",
+          "attack_success": true
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "no",
+          "attack_success": false
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "yes",
+          "attack_success": true
+        },
+        "resize_gaussian": {
+          "prediction": "no",
+          "attack_success": false
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.747130848824035,
+        "risk_bin": "high",
+        "action": "攔截",
+        "d_center": 0.24676808714866638,
+        "d_iqr": 0.011016890406608582,
+        "d_tail": 0.0,
+        "d_q95": 0.28171589970588684,
+        "clean": {
+          "risk_score": 0.3797106619753762,
+          "risk_bin": "mid"
+        },
+        "attack": {
+          "risk_score": 0.747130848824035,
+          "risk_bin": "high"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": null,
+        "sss_sigma08": null,
+        "flips": [],
+        "end_to_end_flagged": true
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/131089003/ori.png",
+        "atk": "/static/vlattack_demo/131089003/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/131089003/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/131089003/gaussian_mild.png"
+      }
+    },
+    {
+      "id": "G_attack_mid",
+      "question_id": "262148000",
+      "slot": "G_attack_mid",
+      "why": "攻擊成功、中風險：完整走 Stage 2 翻轉 + SSS 去噪",
+      "feed": "attack",
+      "question": "where is he looking?",
+      "ground_truth": "down",
+      "original_prediction": "down",
+      "adversarial_prediction": "up",
+      "attack_success": true,
+      "attack_type": "image",
+      "ssim": 0.8791164755821228,
+      "lpips": 0.480112224817276,
+      "clip": 0.888671875,
+      "defenses": {
+        "gaussian_mild": {
+          "prediction": "down",
+          "attack_success": false
+        },
+        "gaussian_strong": {
+          "prediction": "down",
+          "attack_success": false
+        },
+        "mild_resize": {
+          "scale": "0.9-1.0",
+          "prediction": "down",
+          "attack_success": false
+        },
+        "strong_resize": {
+          "scale": "0.5-0.7",
+          "prediction": "down",
+          "attack_success": false
+        },
+        "resize_gaussian": {
+          "prediction": "down",
+          "attack_success": false
+        }
+      },
+      "stage1": {
+        "method": "rotate_5",
+        "k": 10,
+        "risk_score": 0.4527383713412734,
+        "risk_bin": "mid",
+        "action": "送 Stage 2",
+        "d_center": 0.1067301332950592,
+        "d_iqr": 0.05059623718261719,
+        "d_tail": 0.05059623718261719,
+        "d_q95": 0.1573108211159706,
+        "clean": {
+          "risk_score": 0.5526206743800772,
+          "risk_bin": "mid"
+        },
+        "attack": {
+          "risk_score": 0.4527383713412734,
+          "risk_bin": "mid"
+        }
+      },
+      "stage2": {
+        "detector": "answer_flip",
+        "theta_det": {
+          "kernel": 5,
+          "sigma": 1.5
+        },
+        "theta_star": {
+          "kernel": 5,
+          "sigma": 0.8
+        },
+        "flip_sigma15": {
+          "sigma": 1.5,
+          "kernel": 5,
+          "pred_ref": "up",
+          "pred_denoised": "down",
+          "flipped": true,
+          "rescued": true,
+          "fooled_before": true,
+          "caption_ref": "a man riding a skateboard on top of a picnic table",
+          "caption_denoised": "a man riding a skateboard on top of a picnic table",
+          "ssim": 0.868746503894978,
+          "clip_sim": 0.93310546875
+        },
+        "sss_sigma08": {
+          "sigma": 0.8,
+          "kernel": 5,
+          "pred_ref": "up",
+          "pred_denoised": "down",
+          "flipped": true,
+          "rescued": true,
+          "fooled_before": true,
+          "caption_ref": "a man riding a skateboard on top of a picnic table",
+          "caption_denoised": "a man riding a skateboard on top of a picnic table",
+          "ssim": 0.9262086892410251,
+          "clip_sim": 0.97998046875
+        },
+        "flips": [
+          {
+            "sigma": 0.3,
+            "kernel": 5,
+            "pred_ref": "up",
+            "pred_denoised": "up",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": true,
+            "caption_ref": "a man riding a skateboard on top of a picnic table",
+            "caption_denoised": "a man riding a skateboard on top of a picnic table",
+            "ssim": 0.997381932042292,
+            "clip_sim": 0.99951171875
+          },
+          {
+            "sigma": 0.5,
+            "kernel": 5,
+            "pred_ref": "up",
+            "pred_denoised": "up",
+            "flipped": false,
+            "rescued": false,
+            "fooled_before": true,
+            "caption_ref": "a man riding a skateboard on top of a picnic table",
+            "caption_denoised": "a man riding a skateboard on top of a picnic table",
+            "ssim": 0.9823776834185577,
+            "clip_sim": 0.9951171875
+          },
+          {
+            "sigma": 0.8,
+            "kernel": 5,
+            "pred_ref": "up",
+            "pred_denoised": "down",
+            "flipped": true,
+            "rescued": true,
+            "fooled_before": true,
+            "caption_ref": "a man riding a skateboard on top of a picnic table",
+            "caption_denoised": "a man riding a skateboard on top of a picnic table",
+            "ssim": 0.9262086892410251,
+            "clip_sim": 0.97998046875
+          },
+          {
+            "sigma": 1.0,
+            "kernel": 5,
+            "pred_ref": "up",
+            "pred_denoised": "down",
+            "flipped": true,
+            "rescued": true,
+            "fooled_before": true,
+            "caption_ref": "a man riding a skateboard on top of a picnic table",
+            "caption_denoised": "a man riding a skateboard on top of a picnic table",
+            "ssim": 0.9019560897319808,
+            "clip_sim": 0.9658203125
+          },
+          {
+            "sigma": 1.5,
+            "kernel": 5,
+            "pred_ref": "up",
+            "pred_denoised": "down",
+            "flipped": true,
+            "rescued": true,
+            "fooled_before": true,
+            "caption_ref": "a man riding a skateboard on top of a picnic table",
+            "caption_denoised": "a man riding a skateboard on top of a picnic table",
+            "ssim": 0.868746503894978,
+            "clip_sim": 0.93310546875
+          }
+        ],
+        "end_to_end_flagged": true
+      },
+      "images": {
+        "ori": "/static/vlattack_demo/262148000/ori.png",
+        "atk": "/static/vlattack_demo/262148000/atk.png",
+        "gaussian_strong": "/static/vlattack_demo/262148000/gaussian_strong.png",
+        "gaussian_mild": "/static/vlattack_demo/262148000/gaussian_mild.png"
+      }
+    }
+  ]
+}

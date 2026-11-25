@@ -1,0 +1,13 @@
+Mitigation summary @ sigma=0.8 (theta* from sss_best_theta unless --sigma)
+Method: rotate_5
+
+                                             cohort    n  asr_before  asr_after  asr_drop_pp  rescued_count  rescued_rate
+                           mid_attack_all_sigma_0.8  350         1.0   0.542857    45.714286            160      0.457143
+                 mid_attack_fooled_before_sigma_0.8  350         1.0   0.542857    45.714286            160      0.457143
+                 mid_clean_answer_changed_sigma_0.8  326         NaN        NaN          NaN             18      0.055215
+         all_1000_attack_mid_denoise_only_sigma_0.8 1000         1.0   0.840000    16.000000            160      0.160000
+attack_success_log_n1000_mid_denoise_only_sigma_0.8 1000         1.0   0.840000    16.000000            160      0.160000
+   routed_low_pass_mid_denoise_high_block_sigma_0.8 1000         1.0   0.409000    59.100000            591      0.591000
+                        routed_attack_low_sigma_0.8  219         1.0   1.000000     0.000000              0      0.000000
+                        routed_attack_mid_sigma_0.8  350         1.0   0.542857    45.714286            160      0.457143
+                       routed_attack_high_sigma_0.8  431         1.0   0.000000   100.000000            431      1.000000

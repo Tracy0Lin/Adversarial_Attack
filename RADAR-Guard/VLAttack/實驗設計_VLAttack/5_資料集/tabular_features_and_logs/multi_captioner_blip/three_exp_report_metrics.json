@@ -1,0 +1,332 @@
+{
+  "exp1": {
+    "experiment": "exp1",
+    "n_attack": 1000,
+    "n_clean": 1000,
+    "initial_attack_rate_pct": 46.3,
+    "stage1_bins": {
+      "attack": {
+        "low": 318,
+        "mid": 381,
+        "high": 301
+      },
+      "clean": {
+        "low": 551,
+        "mid": 361,
+        "high": 88
+      }
+    },
+    "stage1_metrics_high_block": {
+      "TP": 301,
+      "FP": 88,
+      "FN": 699,
+      "TN": 912,
+      "Accuracy": 0.6065,
+      "Precision": 0.7738,
+      "Recall": 0.301,
+      "F1": 0.4334,
+      "AUC": 0.6623
+    },
+    "stage1_metrics_mid_or_high_flag": {
+      "TP": 682,
+      "FP": 449,
+      "FN": 318,
+      "TN": 551,
+      "Accuracy": 0.6165,
+      "Precision": 0.603,
+      "Recall": 0.682,
+      "F1": 0.6401,
+      "AUC": 0.6623
+    },
+    "attack_success_before_gaussian_by_risk": {
+      "low": 138,
+      "mid": 160,
+      "high": 165
+    },
+    "stage2_theta_star": 0.8,
+    "stage2_theta_det": 1.5,
+    "stage2_mid_only": {
+      "mid_attack_n": 381,
+      "mid_clean_n": 361,
+      "attack_success_before_gaussian": 160,
+      "attack_success_after_gaussian_theta_star_only": 103,
+      "attack_flip_flag_theta_det_in_mid": 153,
+      "attack_rescued_by_blur_only": 82,
+      "clean_blocked_e2e_in_mid": 20,
+      "clean_pass_e2e_in_mid": 341,
+      "clean_theta_det_flip_in_mid": 20,
+      "clean_theta_star_answer_changed_in_mid": 10
+    },
+    "attack_e2e_by_risk_bin": {
+      "low": {
+        "blocked": 0,
+        "attack_still_succeeds_e2e": 138
+      },
+      "mid": {
+        "blocked": 153,
+        "attack_still_succeeds_e2e": 41
+      },
+      "high": {
+        "blocked": 301,
+        "attack_still_succeeds_e2e": 0
+      },
+      "total_still_succeeds_e2e": 179
+    },
+    "clean_stage1_routing": {
+      "direct_pass_low": 551,
+      "into_repair_mid": 361,
+      "false_intercept_high": 88,
+      "direct_pass_pct": 55.1,
+      "into_repair_pct": 36.1,
+      "false_intercept_pct": 8.8
+    },
+    "clean_e2e": {
+      "blocked_any_e2e": 108,
+      "blocked_pct": 10.8,
+      "served": 892,
+      "service_pct": 89.2,
+      "served_unchanged_low": 551,
+      "served_answer_changed": 1,
+      "served_answer_changed_pct": 0.1
+    },
+    "clean_e2e_by_risk_bin": {
+      "low": {
+        "n": 551,
+        "blocked": 0,
+        "served": 551,
+        "served_answer_changed": 0
+      },
+      "mid": {
+        "n": 361,
+        "blocked": 20,
+        "served": 341,
+        "served_answer_changed": 1
+      },
+      "high": {
+        "n": 88,
+        "blocked": 88,
+        "served": 0,
+        "served_answer_changed": 0
+      },
+      "total_blocked": 108,
+      "total_served": 892,
+      "total_served_answer_changed": 1,
+      "blocked_pct": 10.8,
+      "service_pct": 89.2
+    },
+    "full_pipeline": {
+      "attacks_fooled_before": 461,
+      "attacks_still_fooling_e2e": 178,
+      "effective_asr_pct": 17.8,
+      "clean_blocked_e2e": 108,
+      "clean_blocked_rate_pct": 10.8
+    }
+  },
+  "exp2": {
+    "experiment": "exp2",
+    "n_attack": 1000,
+    "n_clean": 1000,
+    "initial_attack_rate_pct": 99.8,
+    "stage1_bins": {
+      "attack": {
+        "low": 220,
+        "mid": 338,
+        "high": 442
+      },
+      "clean": {
+        "low": 533,
+        "mid": 324,
+        "high": 143
+      }
+    },
+    "stage1_metrics_high_block": {
+      "TP": 442,
+      "FP": 143,
+      "FN": 558,
+      "TN": 857,
+      "Accuracy": 0.6495,
+      "Precision": 0.7556,
+      "Recall": 0.442,
+      "F1": 0.5577,
+      "AUC": 0.7167
+    },
+    "stage1_metrics_mid_or_high_flag": {
+      "TP": 780,
+      "FP": 467,
+      "FN": 220,
+      "TN": 533,
+      "Accuracy": 0.6565,
+      "Precision": 0.6255,
+      "Recall": 0.78,
+      "F1": 0.6943,
+      "AUC": 0.7167
+    },
+    "attack_success_before_gaussian_by_risk": {
+      "low": 220,
+      "mid": 338,
+      "high": 440
+    },
+    "stage2_theta_star": 0.8,
+    "stage2_theta_det": 1.5,
+    "stage2_mid_only": {
+      "mid_attack_n": 338,
+      "mid_clean_n": 324,
+      "attack_success_before_gaussian": 338,
+      "attack_success_after_gaussian_theta_star_only": 174,
+      "attack_flip_flag_theta_det_in_mid": 273,
+      "attack_rescued_by_blur_only": 164,
+      "clean_blocked_e2e_in_mid": 33,
+      "clean_pass_e2e_in_mid": 291,
+      "clean_theta_det_flip_in_mid": 33,
+      "clean_theta_star_answer_changed_in_mid": 17
+    },
+    "attack_e2e_by_risk_bin": {
+      "low": {
+        "blocked": 0,
+        "attack_still_succeeds_e2e": 220
+      },
+      "mid": {
+        "blocked": 273,
+        "attack_still_succeeds_e2e": 59
+      },
+      "high": {
+        "blocked": 442,
+        "attack_still_succeeds_e2e": 0
+      },
+      "total_still_succeeds_e2e": 279
+    },
+    "clean_stage1_routing": {
+      "direct_pass_low": 533,
+      "into_repair_mid": 324,
+      "false_intercept_high": 143,
+      "direct_pass_pct": 53.3,
+      "into_repair_pct": 32.4,
+      "false_intercept_pct": 14.3
+    },
+    "clean_e2e": {
+      "blocked_any_e2e": 176,
+      "blocked_pct": 17.6,
+      "served": 824,
+      "service_pct": 82.4,
+      "served_unchanged_low": 533,
+      "served_answer_changed": 2,
+      "served_answer_changed_pct": 0.2
+    },
+    "clean_e2e_by_risk_bin": {
+      "low": {
+        "n": 533,
+        "blocked": 0,
+        "served": 533,
+        "served_answer_changed": 0
+      },
+      "mid": {
+        "n": 324,
+        "blocked": 33,
+        "served": 291,
+        "served_answer_changed": 2
+      },
+      "high": {
+        "n": 143,
+        "blocked": 143,
+        "served": 0,
+        "served_answer_changed": 0
+      },
+      "total_blocked": 176,
+      "total_served": 824,
+      "total_served_answer_changed": 2,
+      "blocked_pct": 17.6,
+      "service_pct": 82.4
+    },
+    "full_pipeline": {
+      "attacks_fooled_before": 998,
+      "attacks_still_fooling_e2e": 279,
+      "effective_asr_pct": 27.9,
+      "clean_blocked_e2e": 176,
+      "clean_blocked_rate_pct": 17.6
+    }
+  },
+  "exp3": {
+    "experiment": "exp3",
+    "n_attack": 1000,
+    "n_clean": 0,
+    "initial_attack_rate_pct": 99.6,
+    "stage1_bins": {
+      "attack": {
+        "low": 198,
+        "mid": 311,
+        "high": 491
+      },
+      "clean": {
+        "low": 0,
+        "mid": 0,
+        "high": 0
+      }
+    },
+    "stage1_metrics_high_block": {
+      "TP": 491,
+      "FP": 0,
+      "FN": 509,
+      "TN": 0,
+      "Accuracy": 0.491,
+      "Precision": 1.0,
+      "Recall": 0.491,
+      "F1": 0.6586,
+      "AUC": null
+    },
+    "stage1_metrics_mid_or_high_flag": {
+      "TP": 802,
+      "FP": 0,
+      "FN": 198,
+      "TN": 0,
+      "Accuracy": 0.802,
+      "Precision": 1.0,
+      "Recall": 0.802,
+      "F1": 0.8901,
+      "AUC": null
+    },
+    "attack_success_before_gaussian_by_risk": {
+      "low": 197,
+      "mid": 310,
+      "high": 489
+    },
+    "stage2_theta_star": 0.8,
+    "stage2_theta_det": 1.5,
+    "stage2_mid_only": {
+      "mid_attack_n": 311,
+      "mid_clean_n": 0,
+      "attack_success_before_gaussian": 310,
+      "attack_success_after_gaussian_theta_star_only": 162,
+      "attack_flip_flag_theta_det_in_mid": 268,
+      "attack_rescued_by_blur_only": 148,
+      "clean_blocked_e2e_in_mid": 0,
+      "clean_pass_e2e_in_mid": 0,
+      "clean_theta_det_flip_in_mid": 0,
+      "clean_theta_star_answer_changed_in_mid": 0
+    },
+    "attack_e2e_by_risk_bin": {
+      "low": {
+        "blocked": 0,
+        "attack_still_succeeds_e2e": 197
+      },
+      "mid": {
+        "blocked": 268,
+        "attack_still_succeeds_e2e": 40
+      },
+      "high": {
+        "blocked": 491,
+        "attack_still_succeeds_e2e": 0
+      },
+      "total_still_succeeds_e2e": 237
+    },
+    "clean_stage1_routing": null,
+    "clean_e2e": null,
+    "clean_e2e_by_risk_bin": null,
+    "full_pipeline": {
+      "attacks_fooled_before": 996,
+      "attacks_still_fooling_e2e": 237,
+      "effective_asr_pct": 23.7,
+      "clean_blocked_e2e": null,
+      "clean_blocked_rate_pct": null
+    }
+  }
+}

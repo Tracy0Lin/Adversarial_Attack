@@ -1,0 +1,41 @@
+{
+  "project": "RADAR-Guard (VLAttack Defense System)",
+  "attack_protocol": {
+    "algorithm": "VLAttack BSA PGD (Image-only L_inf perturbation)",
+    "eps_tensor": 0.125,
+    "eps_pixel": 0.0625,
+    "alpha_tensor": 0.002,
+    "steps": 100,
+    "image_size": 480,
+    "norm_mean": [0.5, 0.5, 0.5],
+    "norm_std": [0.5, 0.5, 0.5],
+    "victim_vqa_inference": "rank",
+    "victim_vqa_k_test": 128
+  },
+  "stage1_detection": {
+    "method": "rotate_5",
+    "k_rotations": 10,
+    "rotation_angles_deg": [-5.0, 5.0],
+    "total_captions_per_image": 11,
+    "caption_model": "BLIP base caption (model_base_caption_capfilt_large.pth)",
+    "caption_decoding": {"num_beams": 3, "max_length": 30, "sample": false},
+    "text_encoder": "sentence-transformers/all-MiniLM-L6-v2 (384-d mean pooling + L2 norm)",
+    "distance_metric": "angular_distance = arccos(clip(cos, -1, 1)) / pi",
+    "feature_columns": ["d_center", "d_iqr", "d_tail", "d_q95"],
+    "classifier": "Pipeline(StandardScaler(), SVC(kernel='rbf', C=1.0, class_weight='balanced'))",
+    "risk_score_mapping": "0.5 * tanh(decision_function(x) / 2.0) + 0.5",
+    "routing_thresholds": {
+      "low_risk_max": 0.30,
+      "high_risk_min": 0.70,
+      "mid_risk_range": [0.30, 0.70]
+    }
+  },
+  "stage2_repair_and_probe": {
+    "filter": "2D Gaussian Blur (PyTorch torchvision.transforms.functional.gaussian_blur)",
+    "kernel_size": [5, 5],
+    "repair_sigma_star": 0.8,
+    "flip_probe_sigma_det": 1.5,
+    "sss_selection_source": "exp2_success1000/sss_best_theta.json",
+    "flip_probe_source": "steps100_alpha0.002_run1000/theta_det.json"
+  }
+}

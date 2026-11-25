@@ -1,0 +1,2 @@
+mid_risk_n,mid_clean_n,mid_attack_n,clean_not_high_after_s2,attack_high_after_s2,still_mid_rate,TPR_stage1_high_only,FPR_stage1_high_only,TPR_after_stage2,FPR_after_stage2,gaussian_kernel,gaussian_sigma,theta_mode,theta_source,svm_scoring,method_type
+786,395,391,0.8632911392405064,0.09974424552429667,0.5954198473282443,0.289,0.057,0.328,0.111,5,0.8,set,sss:sss_best_theta.json,group_kfold_oof,rotate_5

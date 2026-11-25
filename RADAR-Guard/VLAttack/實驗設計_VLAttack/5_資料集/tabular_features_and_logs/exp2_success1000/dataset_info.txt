@@ -1,0 +1,6 @@
+source_run=C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000
+require_success=True
+target_n=1000
+selected=1000
+clean_rows=1000  adversarial_rows=1000  stage1_rows=2000
+mean_ssim=0.8016

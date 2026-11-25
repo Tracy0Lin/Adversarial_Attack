@@ -1,0 +1,5 @@
+pipeline,n,TPR,FPR,youden_j
+stage1 only (high bin),2000,0.431,0.141,0.29000000000000004
+stage1 + caption-SVM stage2,2000,0.504,0.19,0.314
+stage1 + answer-flip (sigma=1.5),2000,0.71,0.172,0.538
+stage1 + flip_count >= 1,2000,0.723,0.186,0.5369999999999999

@@ -1,0 +1,5 @@
+﻿run: 1000-sample VLAttack
+steps=100 alpha=0.002
+env=vlattack_gpu (torch 2.11.0+cu128)
+started=2026-09-12T12:18:07.5283441+08:00
+cmd=python -u attack_vqa.py --method VLAttack --steps 100 --alphas 0.002 --run_suffix _run1000 --num_samples 1000

@@ -1,0 +1,7 @@
+kind,answer_type,high,low,mid
+attack,Number,28,33,42
+attack,Other,135,126,154
+attack,Yes/No,126,161,195
+clean,Number,7,55,41
+clean,Other,22,230,163
+clean,Yes/No,28,263,191

@@ -1,0 +1,30 @@
+{
+  "total_samples": 1000,
+  "attack_success_count": 462,
+  "attack_success_rate": 0.462,
+  "attack_success_rate_percent": 46.2,
+  "residual_asr_denominator": 462,
+  "defense_residual_asr": {
+    "mild_defense": {
+      "residual_attack_count": 344,
+      "residual_attack_rate_percent": 74.46
+    },
+    "strong_defense": {
+      "residual_attack_count": 206,
+      "residual_attack_rate_percent": 44.59
+    },
+    "gaussian_mild": {
+      "residual_attack_count": 264,
+      "residual_attack_rate_percent": 57.14
+    },
+    "gaussian_strong": {
+      "residual_attack_count": 171,
+      "residual_attack_rate_percent": 37.01
+    },
+    "resize_gaussian": {
+      "residual_attack_count": 191,
+      "residual_attack_rate_percent": 41.34
+    }
+  },
+  "mean_ssim_original_vs_attack": 0.8003
+}

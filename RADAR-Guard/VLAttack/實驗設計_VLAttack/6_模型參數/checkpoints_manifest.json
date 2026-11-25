@@ -1,0 +1,40 @@
+{
+  "note": "Large pretrained model weights (4.46 GB total) are NOT duplicated inside this deliverable folder to preserve disk space on LAPTOP-3AKL7OUA (17.48 GB free on C:). The system automatically resolves them from C:\\Users\\tracy\\github\\VLAttack\\BLIP_attack\\checkpoints or the VLATTACK_CHECKPOINTS_DIR environment variable.",
+  "local_checkpoints_dir": "C:\\Users\\tracy\\github\\VLAttack\\BLIP_attack\\checkpoints",
+  "huggingface_cache_dir": "C:\\Users\\tracy\\.cache\\huggingface\\hub",
+  "weights": [
+    {
+      "filename": "model_base_14M.pth",
+      "bytes": 2115792294,
+      "size_human": "1.97 GiB (2.12 GB)",
+      "role": "BLIP Pretrain (White-box surrogate for VLAttack BSA PGD generation)",
+      "env_override": "VLATTACK_ROOT / VLATTACK_CHECKPOINTS_DIR"
+    },
+    {
+      "filename": "model_vqa.pth",
+      "bytes": 1446244375,
+      "size_human": "1.35 GiB (1.45 GB)",
+      "role": "BLIP-VQA Victim Model (rank inference, k_test=128)",
+      "env_override": "VLATTACK_ROOT / VLATTACK_CHECKPOINTS_DIR"
+    },
+    {
+      "filename": "model_base_caption_capfilt_large.pth",
+      "bytes": 896081425,
+      "size_human": "854.6 MiB (896 MB)",
+      "role": "BLIP Caption Decoder (Stage 1 11-caption generation under +-5 deg rotation)",
+      "env_override": "VLATTACK_ROOT / VLATTACK_CHECKPOINTS_DIR"
+    }
+  ],
+  "huggingface_models": [
+    {
+      "repo_id": "sentence-transformers/all-MiniLM-L6-v2",
+      "cached_dir": "models--sentence-transformers--all-MiniLM-L6-v2",
+      "role": "384-d sentence embedding for Stage 1 angular dispersion features"
+    },
+    {
+      "repo_id": "bert-base-uncased",
+      "cached_dir": "models--bert-base-uncased",
+      "role": "BLIP BERT tokenizer/backbone config"
+    }
+  ]
+}

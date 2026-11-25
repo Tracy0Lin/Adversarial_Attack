@@ -1,0 +1,220 @@
+image_id,method_type,caption_model,attack_type,label,n_captions,d_center,d_iqr,d_tail,d_q95,risk_score,risk_bin,question,ground_truth,original_prediction,adversarial_prediction,attack_success,log_attack_type,ssim_ori_atk,lpips_ori_atk,answer_type,kind
+520000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is traveling under the bridge archway?,water,water,boat,True,image,0.8117880821228027,0.4614652991294861,Other,attack
+393874008,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is he wearing a bow tie?,no,no,yes,True,image,0.820728600025177,0.4472416043281555,Yes/No,attack
+661003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is there cheese on the sandwich?,no,no,yes,True,image,0.7575923800468445,0.5870016813278198,Yes/No,attack
+524977000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many drawers do you see?,4,4,2,True,image,0.7856228351593018,0.4834301471710205,Number,attack
+524977001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is the oven built in?,yes,yes,no,True,image,0.7870509028434753,0.47703292965888977,Yes/No,attack
+699000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,are there any people?,no,no,yes,True,image,0.8232340812683105,0.6202296614646912,Yes/No,attack
+393928003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what are the sheep standing on?,snow,snow,bed,True,image,0.7603926658630371,0.5843138694763184,Other,attack
+724003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what type of area is this?,residential,residential,rural,True,image,0.8091523051261902,0.4409141540527344,Other,attack
+43816015,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what color is the bat?,tan,tan,white,True,image,0.8196626305580139,0.38397490978240967,Other,attack
+764001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what animal is the man on?,none,none,grass,True,image,0.8743917346000671,0.22852173447608948,Number,attack
+371506003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is the broccoli doing?,standing,standing,eating,True,image,0.8435515761375427,0.519471287727356,Other,attack
+394033003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is in front of the guy?,carrots,carrots,food,True,image,0.8473988175392151,0.2773354649543762,Other,attack
+827002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the animal related to?,horse,horse,zebra,True,image,0.855597198009491,0.32122910022735596,Other,attack
+525118000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,are these home grown bananas?,yes,yes,no,True,image,0.7865352034568787,0.46109309792518616,Yes/No,attack
+525118003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the fruit resting on?,newspaper,newspaper,table,True,image,0.784809410572052,0.45721137523651123,Other,attack
+131938005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what color is the cat?,brown,brown,black,True,image,0.7997443675994873,0.42738401889801025,Other,attack
+872003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is green?,grass,grass,trees,True,image,0.8289599418640137,0.3497201204299927,Other,attack
+872004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,are the two players on the same team?,no,no,yes,True,image,0.833439290523529,0.3377685248851776,Yes/No,attack
+872005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is this baseball player holding a bat?,no,no,yes,True,image,0.8331219553947449,0.34002771973609924,Yes/No,attack
+525170000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is the woman doing?,eating,eating,sleeping,True,image,0.7842555046081543,0.5040022730827332,Other,attack
+262746002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the man wearing?,jacket,jacket,coat,True,image,0.8150439858436584,0.4046860933303833,Other,attack
+525183004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is this a country setting?,no,no,yes,True,image,0.8203561902046204,0.47463107109069824,Yes/No,attack
+262746000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many trees are in the picture?,20,20,10,True,image,0.8032168745994568,0.42646610736846924,Number,attack
+524889002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,are this the ancient days?,yes,yes,no,True,image,0.8471590876579285,0.40428733825683594,Yes/No,attack
+393659002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,how many towels can you see in the picture?,1,1,0,True,image,0.7593445777893066,0.5416777729988098,Number,attack
+131557001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what topping are on the pizza?,mushrooms,mushrooms,cheese,True,image,0.8101739883422852,0.38739532232284546,Other,attack
+131557002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what pattern is on the plate?,stripes,stripes,floral,True,image,0.8050978183746338,0.386366069316864,Other,attack
+131557004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what are the sources of protein on this pizza?,mushrooms,mushrooms,cheese,True,image,0.8153355717658997,0.3772807717323303,Other,attack
+393710000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,are there other people in the picture?,yes,yes,no,True,image,0.7833082675933838,0.4804821014404297,Yes/No,attack
+393720004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the skateboard sitting on?,ramp,ramp,snow,True,image,0.8530499935150146,0.39275896549224854,Other,attack
+393720006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is that a snowboard?,no,no,yes,True,image,0.8515472412109375,0.3877270817756653,Yes/No,attack
+262654000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is there anything healthy on the plate?,yes,yes,no,True,image,0.8221113085746765,0.36207255721092224,Yes/No,attack
+174989002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the man doing with his left hand?,holding phone,holding phone,pointing,True,image,0.7594653964042664,0.5006734132766724,Other,attack
+520002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is this a lake?,yes,yes,no,True,image,0.8045901656150818,0.4622015953063965,Yes/No,attack
+520005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,are they in a good location to catch fish?,yes,yes,no,True,image,0.8119844794273376,0.45293962955474854,Yes/No,attack
+520006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,are there ships in the water?,no,no,yes,True,image,0.8064612746238708,0.4759482741355896,Yes/No,attack
+536002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,how many people in the picture?,3,3,2,True,image,0.7669310569763184,0.555054783821106,Number,attack
+536018,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,are any of the people in the picture wearing hats?,no,no,yes,True,image,0.76507967710495,0.559830367565155,Yes/No,attack
+131611017,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,do either of the elephants have tusk?,no,no,yes,True,image,0.8116915822029114,0.427966445684433,Yes/No,attack
+262686006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what fruits are in the plastic bins?,bananas,bananas,apples,True,image,0.8100182414054871,0.3718588054180145,Other,attack
+139684000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what color is the wall?,yellow,yellow,white,True,image,0.8112967610359192,0.36842694878578186,Other,attack
+262738000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is this person on?,floor,floor,picture,True,image,0.7850233912467957,0.4517778158187866,Other,attack
+262738004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what brand is the computer?,dell,dell,apple,True,image,0.7803146243095398,0.4554859697818756,Other,attack
+524889006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is sitting on the ground?,luggage,luggage,vase,True,image,0.8472766876220703,0.41021931171417236,Other,attack
+525211000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what food is this?,donut,donut,pizza,True,image,0.8001675605773926,0.44444215297698975,Other,attack
+525211002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the outer coating of this food?,sugar,sugar,cheese,True,image,0.796328067779541,0.44898730516433716,Other,attack
+248810001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,does this giraffe have a glass enclosure around them?,no,no,yes,True,image,0.8516741394996643,0.27443501353263855,Yes/No,attack
+8771005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is it winter?,yes,yes,no,True,image,0.7549874186515808,0.5952959060668945,Yes/No,attack
+394510000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,how many bike handles are in the picture?,2,2,1,True,image,0.7819021344184875,0.49701958894729614,Number,attack
+394510004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what kind of car is in the picture?,sedan,sedan,none,True,image,0.7860794067382812,0.4980277121067047,Other,attack
+394510006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is the skateboarder moving?,no,no,yes,True,image,0.7831982970237732,0.4998055398464203,Yes/No,attack
+394510014,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is on the right of the bicycle?,car,car,tree,True,image,0.7888980507850647,0.49190494418144226,Other,attack
+394510015,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is striped?,shirt,shirt,umbrella,True,image,0.7863923907279968,0.49162667989730835,Other,attack
+394510017,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is the child walking?,no,no,yes,True,image,0.7790417075157166,0.5073066353797913,Yes/No,attack
+394510019,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what color are the shoes?,brown,brown,blue,True,image,0.7863738536834717,0.493034303188324,Other,attack
+394510021,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,does the boy look excited?,yes,yes,no,True,image,0.7852546572685242,0.5001212954521179,Yes/No,attack
+394510026,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what ethnicity is the boy?,asian,asian,white,True,image,0.7866327166557312,0.4928109645843506,Other,attack
+394510027,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is next to the boy?,bike,bike,tree,True,image,0.7828345894813538,0.5017554759979248,Other,attack
+394533000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,will be bust his head if he falls?,yes,yes,no,True,image,0.791546106338501,0.47040626406669617,Yes/No,attack
+525619001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what color is the dog's legs?,brown,brown,black,True,image,0.8673691749572754,0.3971109092235565,Other,attack
+263477006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many animals are in this forest?,2,2,1,True,image,0.9194640517234802,0.21659938991069794,Number,attack
+132415005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what type of device is being used to cut the pizza?,fork,fork,knife,True,image,0.7953760623931885,0.42655494809150696,Other,attack
+132415006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the plate made of?,paper,paper,ceramic,True,image,0.7937759757041931,0.4224291145801544,Other,attack
+132415008,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is there pepperoni on the pizza slice to the left?,yes,yes,no,True,image,0.7842249870300293,0.43370455503463745,Yes/No,attack
+132415014,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,how many pieces of pizza are there?,2,2,1,True,image,0.7951798439025879,0.4301793575286865,Number,attack
+132415015,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many slices are there?,2,2,1,True,image,0.793582022190094,0.42877593636512756,Number,attack
+8771003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,how many men have red and black snowboards?,1,1,0,True,image,0.74951171875,0.6066031455993652,Number,attack
+525542009,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what number is on the bus?,18,18,1,True,image,0.8208529949188232,0.3568599224090576,Number,attack
+525542003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the bus number?,18,18,1,True,image,0.8239560127258301,0.35229766368865967,Number,attack
+1149001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,how many of these people are soldiers?,3,3,0,True,image,0.8102399706840515,0.3774198889732361,Number,attack
+1000000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what are they preparing to do?,play tennis,play tennis,surf,True,image,0.8395755887031555,0.30497923493385315,Other,attack
+263163002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is there a backpack on the bench?,yes,yes,no,True,image,0.8175920844078064,0.3933282494544983,Yes/No,attack
+263163003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is sitting next to guy?,backpack,backpack,bench,True,image,0.8221128582954407,0.3753889203071594,Other,attack
+1029001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,are there clouds?,yes,yes,no,True,image,0.7761005759239197,0.5615619421005249,Yes/No,attack
+394259001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what color is the bowl?,white,white,silver,True,image,0.8246793150901794,0.2965194582939148,Other,attack
+525344001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,does this plane bear the american airlines logo?,no,no,yes,True,image,0.7660245895385742,0.5297588109970093,Yes/No,attack
+525344002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,how many planes in the picture?,2,2,1,True,image,0.7603656649589539,0.531435489654541,Number,attack
+263202000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what are the letters next to the woman's thumb?,lg,lg,,True,image,0.7735657691955566,0.538894534111023,Other,attack
+1063001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is the giraffe stretching his neck?,no,no,yes,True,image,0.8806695342063904,0.35303887724876404,Yes/No,attack
+393659001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,how many sinks are there?,2,2,0,True,image,0.7578584551811218,0.5412282943725586,Number,attack
+263223007,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what color are the jumpers pants?,black,black,blue,True,image,0.7881523966789246,0.4328119456768036,Other,attack
+525371000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what color is the traffic light?,green,green,red,True,image,0.818574845790863,0.3898848295211792,Other,attack
+394322001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what are the kids doing?,posing,posing,playing,True,image,0.8223876953125,0.4182899594306946,Other,attack
+394322003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is this a contemporary photo?,no,no,yes,True,image,0.8158043026924133,0.4412517547607422,Yes/No,attack
+263258003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the color of the fence?,green,green,brown,True,image,0.7589130997657776,0.5552148818969727,Other,attack
+394334001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many donuts are on display?,24,24,12,True,image,0.8108391761779785,0.35433000326156616,Number,attack
+394352001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what color is the car?,white,white,silver,True,image,0.8022837042808533,0.44475555419921875,Other,attack
+394352002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many zebras?,3,3,2,True,image,0.8041353225708008,0.44563180208206177,Number,attack
+1138002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is in the fireplace?,fire,fire,logs,True,image,0.8108450770378113,0.36887067556381226,Other,attack
+1146003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is he wearing?,tie,tie,glasses,True,image,0.783997118473053,0.5463336110115051,Other,attack
+263223008,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the blue object used for?,warmth,warmth,skiing,True,image,0.7866349220275879,0.44942280650138855,Other,attack
+393659000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,are the lights on?,yes,yes,no,True,image,0.7642599940299988,0.5363609194755554,Yes/No,attack
+174989003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what color is the man's suit?,black,black,gray,True,image,0.7814832329750061,0.473106324672699,Other,attack
+262391004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what color is the door?,white,white,brown,True,image,0.7696518301963806,0.5407550930976868,Other,attack
+393284001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what kind of object is the kid riding?,snowboard,snowboard,surfboard,True,image,0.7847641110420227,0.5433093309402466,Other,attack
+393282002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,are the animals in the shade?,no,no,yes,True,image,0.8070316314697266,0.4450226128101349,Yes/No,attack
+283006,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is this a high quality bottle of wine?,yes,yes,no,True,image,0.76267409324646,0.5188587307929993,Yes/No,attack
+283002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is the table made of?,glass,glass,stone,True,image,0.7674009799957275,0.5042555332183838,Other,attack
+143002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,who many birds are black?,0,0,2,True,image,0.8041723370552063,0.5066541433334351,Number,attack
+393478002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is there snow on the ground?,yes,yes,no,True,image,0.8444466590881348,0.30528178811073303,Yes/No,attack
+393478001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is the train passing a snowy area?,yes,yes,no,True,image,0.8488609194755554,0.29813313484191895,Yes/No,attack
+393469002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what color is the man's coat?,brown,brown,white,True,image,0.8224048018455505,0.3808842897415161,Other,attack
+393469000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is it cold?,yes,yes,no,True,image,0.8304112553596497,0.37175315618515015,Yes/No,attack
+262396002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is this cat clawing the chair?,yes,yes,no,True,image,0.8243152499198914,0.42097043991088867,Yes/No,attack
+240323000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is there meat on this plate?,yes,yes,no,True,image,0.7733537554740906,0.45413464307785034,Yes/No,attack
+240323002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the green fruit called?,avocado,avocado,lime,True,image,0.7808400988578796,0.43876248598098755,Other,attack
+546203001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,does this board have wheels?,no,no,yes,True,image,0.8241711258888245,0.3253157138824463,Yes/No,attack
+393372005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is this a male or female?,female,female,male,True,image,0.792317807674408,0.4584229588508606,Other,attack
+131159002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the color of the bear?,yellow,yellow,black,True,image,0.8113433718681335,0.4259142279624939,Other,attack
+262391000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,can you see through these curtains?,no,no,yes,True,image,0.7645155787467957,0.548036515712738,Yes/No,attack
+524450012,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the man holding?,bag,bag,camera,True,image,0.7808132171630859,0.4950486421585083,Other,attack
+131152001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,how are the waves?,small,small,calm,True,image,0.7721026539802551,0.523884654045105,Other,attack
+524459002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is this man disgusted?,no,no,yes,True,image,0.800391674041748,0.4378117322921753,Yes/No,attack
+393282010,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,where do these animals live?,zoo,zoo,africa,True,image,0.8070430755615234,0.43860960006713867,Other,attack
+393284000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is this a beach scene?,no,no,yes,True,image,0.7861550450325012,0.5443581342697144,Yes/No,attack
+196000,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,what is the yellow food?,corn,corn,rice,True,image,0.8339416980743408,0.28919559717178345,Other,attack
+196001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,are there lots of healthy options on the table?,yes,yes,no,True,image,0.821448802947998,0.3053435981273651,Yes/No,attack
+294014,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the object on the right?,microwave,microwave,umbrella,True,image,0.78517746925354,0.5098494291305542,Other,attack
+294015,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,how many pans are visible?,3,3,1,True,image,0.7856034636497498,0.508963942527771,Number,attack
+294010,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is this man cooking at home?,yes,yes,no,True,image,0.7775595188140869,0.521272599697113,Yes/No,attack
+524507002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,will this man's head get wet without the umbrella?,yes,yes,no,True,image,0.8137504458427429,0.3949298560619354,Yes/No,attack
+262522002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,was this taken at night?,yes,yes,no,True,image,0.7871972918510437,0.5210708975791931,Yes/No,attack
+262509009,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,where is the green boat located?,water,water,beach,True,image,0.8259781002998352,0.4378758668899536,Other,attack
+262162018,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,how many chairs are in the photo?,1,1,2,True,image,0.7970917820930481,0.5174111127853394,Number,attack
+359001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is this a city?,yes,yes,no,True,image,0.8267882466316223,0.5386239290237427,Yes/No,attack
+393274001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,can you see the hook up for the train?,no,no,yes,True,image,0.8812106251716614,0.27971798181533813,Yes/No,attack
+357001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is this a professional game?,yes,yes,no,True,image,0.7881247401237488,0.4413861334323883,Yes/No,attack
+524637007,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is missing on this toilet?,nothing,nothing,lid,True,image,0.7687005400657654,0.4916786253452301,Other,attack
+524637003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is this object called?,toilet,toilet,vase,True,image,0.7716442942619324,0.4857812225818634,Other,attack
+393284015,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what color is the man's jacket?,red,red,orange,True,image,0.7783878445625305,0.5561051368713379,Other,attack
+524681002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what are they walking toward?,kite,kite,curtain,True,image,0.7935318946838379,0.5374811887741089,Other,attack
+546191001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is the moon visible in the photo?,no,no,yes,True,image,0.7926714420318604,0.5165462493896484,Yes/No,attack
+21900003,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,is the man wearing a helmet?,yes,yes,no,True,image,0.8387157320976257,0.261122465133667,Yes/No,attack
+524681004,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,why is it a good idea to use these in an open space?,wind,wind,privacy,True,image,0.7920851111412048,0.5388209819793701,Other,attack
+262471005,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is the street name on top an unusual name for a street?,no,no,yes,True,image,0.8232895731925964,0.4081881642341614,Yes/No,attack
+262162027,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what is behind the foot of the bed?,chair,chair,cat,True,image,0.7883558869361877,0.5311263799667358,Other,attack
+415002,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,is he a professional athlete?,yes,yes,no,True,image,0.7688543200492859,0.4829835295677185,Yes/No,attack
+262440012,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,how many lights are on?,1,1,0,True,image,0.7678570747375488,0.5248448848724365,Number,attack
+262440001,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689068187894391,low,what color are the tiles?,white,white,gray,True,image,0.7718304991722107,0.5161192417144775,Other,attack
+393284009,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.268962192196344,low,what is the man doing?,snowboarding,snowboarding,surfing,True,image,0.7844961285591125,0.5426741242408752,Other,attack
+262162014,rotate_5,BLIP,VLAttack,1,11,0.0,0.0,0.0,0.0,0.2689665078608216,low,is the bed made?,yes,yes,no,True,image,0.79401034116745,0.5183653831481934,Yes/No,attack
+74002,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.268634744537959,low,what is the dog doing?,sleeping,sleeping,sitting,True,image,0.8036916255950928,0.44102510809898376,Other,attack
+525119007,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.268634744537959,low,what kind of food is this?,hot dog,hot dog,fish,True,image,0.7742196917533875,0.4635086953639984,Other,attack
+262609011,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2689227168213032,low,where is the apple emblem?,building,building,on building,True,image,0.8388031125068665,0.35836082696914673,Other,attack
+74001,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2689227168213032,low,where is the dog laying?,sidewalk,sidewalk,bed,True,image,0.8067371845245361,0.4301009476184845,Other,attack
+590000,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2688843782609116,low,what kind of room would you call the one pictured here?,bathroom,bathroom,kitchen,True,image,0.7988865971565247,0.4202454388141632,Other,attack
+1296001,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.268634744537966,low,what is on the cover of the phone the woman's holding?,hello kitty,hello kitty,girl,True,image,0.7835057377815247,0.48788022994995117,Other,attack
+131581002,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.268634744537959,low,how many engines are in the picture?,2,2,0,True,image,0.8526957631111145,0.26764851808547974,Number,attack
+1296003,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2689227168212928,low,does the woman have on sunglasses?,no,no,yes,True,image,0.7813157439231873,0.49219179153442383,Yes/No,attack
+74000,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2688843782609116,low,does this dog have a collar?,no,no,yes,True,image,0.79742032289505,0.45334360003471375,Yes/No,attack
+524601011,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2689227168213032,low,is this indoors?,yes,yes,no,True,image,0.7786777019500732,0.46322712302207947,Yes/No,attack
+590001,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2689227168213032,low,would this be considered an old fashion bathroom?,no,no,yes,True,image,0.7980604767799377,0.423145055770874,Yes/No,attack
+1296002,rotate_5,BLIP,VLAttack,1,11,0.0001099018918466,0.0,0.0,0.0001099018918466,0.2688843782609011,low,what is on the back of her phone?,hello kitty,hello kitty,girl,True,image,0.7938470244407654,0.4781249165534973,Other,attack
+262386000,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,how many rolls of toilet paper are there?,1,1,0,True,image,0.7535473704338074,0.6055552363395691,Number,attack
+262386001,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,what is next to the toilet paper?,toilet,toilet,tree,True,image,0.7546204924583435,0.6113993525505066,Other,attack
+131207001,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,how many birds can be seen?,2,2,0,True,image,0.7775992751121521,0.5203569531440735,Number,attack
+394458004,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383563,low,where is this elephant at?,field,field,outside,True,image,0.8089594841003418,0.38328617811203003,Other,attack
+131207006,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,what color is the bench?,brown,brown,white,True,image,0.7742399573326111,0.5270586609840393,Other,attack
+1176002,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761319,low,is there a window in the photo?,yes,yes,no,True,image,0.8375760912895203,0.48410964012145996,Yes/No,attack
+394458000,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383563,low,are these two elephants bonding?,yes,yes,no,True,image,0.7909719944000244,0.41126003861427307,Yes/No,attack
+131207000,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,how many birds?,2,2,0,True,image,0.7749128937721252,0.5248217582702637,Number,attack
+262386002,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383556,low,is this a bathroom?,yes,yes,no,True,image,0.7469064593315125,0.6161512732505798,Yes/No,attack
+394458002,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,what are the elephants doing?,playing,playing,standing,True,image,0.8056034445762634,0.4008703827857971,Other,attack
+262386006,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,is this  toilet in the floor?,yes,yes,no,True,image,0.7568151950836182,0.5970328450202942,Yes/No,attack
+524333004,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,are they in a restaurant?,yes,yes,no,True,image,0.7987685203552246,0.38076046109199524,Yes/No,attack
+524333003,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,are the lights on?,yes,yes,no,True,image,0.805016815662384,0.3746449947357178,Yes/No,attack
+510657005,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,what is shining from the ceiling?,lights,lights,light,True,image,0.8080449104309082,0.40158554911613464,Other,attack
+510657004,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,what pattern is on the closest girl's shirt?,solid,solid,stripes,True,image,0.7936980128288269,0.4272453188896179,Other,attack
+510657000,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383556,low,are they all happy?,yes,yes,no,True,image,0.7944660186767578,0.43218153715133667,Yes/No,attack
+131203001,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383556,low,is the owner of the computer able to work on it?,yes,yes,no,True,image,0.7976264953613281,0.41674256324768066,Yes/No,attack
+262386004,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,can these fixtures be used right where they are?,yes,yes,no,True,image,0.7535935044288635,0.6081849336624146,Yes/No,attack
+394458001,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761319,low,are these indian elephants?,yes,yes,no,True,image,0.8087320327758789,0.3804013431072235,Yes/No,attack
+262386042,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383556,low,how many toilet paper rolls are there?,1,1,0,True,image,0.7571375966072083,0.6094791889190674,Number,attack
+262386039,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,do the toilets have lids?,yes,yes,no,True,image,0.7551946640014648,0.6075990200042725,Yes/No,attack
+262386036,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,is this toilet usable right now?,yes,yes,no,True,image,0.755620002746582,0.6047733426094055,Yes/No,attack
+262386035,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,how many toilets are there?,1,1,0,True,image,0.7586072087287903,0.6025614738464355,Number,attack
+262386029,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,is the toilet lid up?,yes,yes,no,True,image,0.7572105526924133,0.6010079383850098,Yes/No,attack
+262386026,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,is the floor wet?,no,no,yes,True,image,0.7590093612670898,0.6035177111625671,Yes/No,attack
+262386019,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2685223747383556,low,what color is the wall?,white,white,gray,True,image,0.7534089684486389,0.6087126135826111,Other,attack
+262386016,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2689047601104724,low,is there any toilet paper?,yes,yes,no,True,image,0.7526018023490906,0.6118168830871582,Yes/No,attack
+262386015,rotate_5,BLIP,VLAttack,1,11,0.0001554247282911,0.0,0.0,0.000155424742843,0.2688523079761358,low,are the toilets complete?,yes,yes,no,True,image,0.7493183016777039,0.613661527633667,Yes/No,attack
+262386040,rotate_5,BLIP,VLAttack,1,11,0.0050867875106632,0.0,0.0,0.0153878862038254,0.2939479194972113,low,what is the metal rack on the wall for?,toilet paper,toilet paper,clock,True,image,0.7519853711128235,0.6096851825714111,Other,attack
+524621005,rotate_5,BLIP,VLAttack,1,11,0.0090555306524038,0.0,0.0,0.0274458937346935,0.2699117975197534,low,is this a man made exhibit?,no,no,yes,True,image,0.7914835810661316,0.5025452971458435,Yes/No,attack
+524621027,rotate_5,BLIP,VLAttack,1,11,0.0090555306524038,0.0,0.0,0.0274458937346935,0.2699117975197534,low,what design does the giraffe have?,spots,spots,stripes,True,image,0.805797815322876,0.4874853491783142,Other,attack
+393372000,rotate_5,BLIP,VLAttack,1,11,0.0093094380572438,0.0,0.0,0.0282113440334796,0.2706292782244823,low,is her hair blue?,yes,yes,no,True,image,0.7934666275978088,0.4524971842765808,Yes/No,attack
+174989000,rotate_5,BLIP,VLAttack,1,11,0.0105017879977822,0.0,0.0,0.0318387635052204,0.2745975591549631,low,is this a prom or wedding or other similar formal event?,yes,yes,no,True,image,0.7655518651008606,0.4907916486263275,Yes/No,attack
+262274002,rotate_5,BLIP,VLAttack,1,11,0.010843782685697,0.0019876649603247,0.0019876649603247,0.0119279641658067,0.2640893725769371,low,what is written on the board?,lifeguard,lifeguard,miami,True,image,0.7573378682136536,0.593605637550354,Other,attack
+393226002,rotate_5,BLIP,VLAttack,1,11,0.0118661103770136,0.0069964919239282,0.0069964919239282,0.0163184236735105,0.2376754685329987,low,what does the truck on the left sell?,ice cream,ice cream,food,True,image,0.8180387020111084,0.3148328363895416,Other,attack
+525371002,rotate_5,BLIP,VLAttack,1,11,0.0118863377720117,0.0,0.0,0.0360615905374288,0.2803812855544418,low,does this building look old?,no,no,yes,True,image,0.8178961873054504,0.3884003758430481,Yes/No,attack
+131453004,rotate_5,BLIP,VLAttack,1,11,0.0129412738606333,0.0,0.0,0.0392782837152481,0.2856418358156921,low,are any of the animals laying down?,no,no,yes,True,image,0.8038399815559387,0.44339367747306824,Yes/No,attack
+525202000,rotate_5,BLIP,VLAttack,1,11,0.0145154269412159,0.0,0.0,0.0440988540649414,0.2949568388444678,low,has anyone eaten a slice of this pizza yet?,no,no,yes,True,image,0.8202095031738281,0.34571781754493713,Yes/No,attack
+524725000,rotate_5,BLIP,VLAttack,1,11,0.0176622569561004,0.0104200802743434,0.0104200802743434,0.0242932178080081,0.2266025627416223,low,is there snow in the picture?,yes,yes,no,True,image,0.7875618934631348,0.4693306088447571,Yes/No,attack
+131282003,rotate_5,BLIP,VLAttack,1,11,0.0263031348586082,0.0048339832574129,0.0048339832574129,0.0289398524910211,0.2222507302816534,low,what color is the sauce?,green,green,red,True,image,0.801217257976532,0.3889131546020508,Other,attack
+393372017,rotate_5,BLIP,VLAttack,1,11,0.0279777478426694,0.0051425192505121,0.0051425192505121,0.0307827573269605,0.2208503082745336,low,is the woman looking at the camera?,yes,yes,no,True,image,0.7853763699531555,0.4642331302165985,Yes/No,attack
+262386023,rotate_5,BLIP,VLAttack,1,11,0.0288851335644722,0.0166216325014829,0.0332432650029659,0.053062055259943,0.2064072776541291,low,is the toilet paper loaded to roll over or under?,over,over,under,True,image,0.7538514137268066,0.608886182308197,Other,attack
+262386014,rotate_5,BLIP,VLAttack,1,11,0.0288852881640195,0.0166213642805814,0.0332427266985178,0.0530618205666542,0.219494725239413,low,who has the copyright of this picture?,photographer,photographer,unknown,True,image,0.748813807964325,0.6130638718605042,Other,attack
+164000,rotate_5,BLIP,VLAttack,1,11,0.0301608275622129,0.0178361106663942,0.0178361106663942,0.0415110774338245,0.2086921325223552,low,how many paper towel rolls?,1,1,2,True,image,0.7913350462913513,0.44282710552215576,Number,attack
+393874001,rotate_5,BLIP,VLAttack,1,11,0.0358529798686504,0.0081110429018735,0.0081110429018735,0.060266388580203,0.2707097296780928,low,what cloth is the white hair man wearing?,cotton,cotton,sweater,True,image,0.8267466425895691,0.4412722587585449,Other,attack
+262162019,rotate_5,BLIP,VLAttack,1,11,0.0388527661561965,0.0224368963390588,0.0448737926781177,0.0714882463216781,0.2176475125423159,low,is the desk cluttered?,no,no,yes,True,image,0.789280891418457,0.527735710144043,Yes/No,attack
+262235005,rotate_5,BLIP,VLAttack,1,11,0.0430117696523666,0.0079348646104335,0.0079348646104335,0.047339878976345,0.2163721516254539,low,is this a woman or man?,woman,woman,man,True,image,0.7959948182106018,0.4084857702255249,Other,attack
+524577019,rotate_5,BLIP,VLAttack,1,11,0.0440343357622623,0.0261437557637691,0.0261437557637691,0.0606712736189365,0.2066976224482221,low,how many stories is the building on the right?,2,2,3,True,image,0.8209807872772217,0.37310081720352173,Number,attack
+262162009,rotate_5,BLIP,VLAttack,1,11,0.0453757978975772,0.0269532389938831,0.0269532389938831,0.0625278577208519,0.2084368942329973,low,what is the chair made of?,leather,leather,wood,True,image,0.7917199730873108,0.5236361622810364,Other,attack
+262162017,rotate_5,BLIP,VLAttack,1,11,0.0453759729862213,0.0269532650709152,0.0269532650709152,0.0625280514359474,0.2184774564704488,low,what kind of room is this?,bedroom,bedroom,bathroom,True,image,0.7899723052978516,0.5323787927627563,Other,attack
+569002,rotate_5,BLIP,VLAttack,1,11,0.0457623228430748,0.0241498425602912,0.0241498425602912,0.0686022583395242,0.2360952914949741,low,are some of the flowers red?,yes,yes,no,True,image,0.801081657409668,0.4283786416053772,Yes/No,attack
+263292002,rotate_5,BLIP,VLAttack,1,11,0.0466460436582565,0.0277199037373065,0.0277199037373065,0.0642859786748886,0.2206490151733582,low,is it raining or is it sunny?,sunny,sunny,raining,True,image,0.8405485153198242,0.27628064155578613,Other,attack
+525119005,rotate_5,BLIP,VLAttack,1,11,0.0534917972981929,0.031114611774683,0.062229223549366,0.0987494215369224,0.2782907370054915,low,what color is his hair?,blonde,blonde,black,True,image,0.7820799946784973,0.43330758810043335,Other,attack
+262626002,rotate_5,BLIP,VLAttack,1,11,0.0555757991969585,0.010295495390892,0.010295495390892,0.0611915253102779,0.2243643201873016,low,what animal is on the bed?,cat,cat,elephant,True,image,0.7781330943107605,0.4772002100944519,Other,attack
+524775001,rotate_5,BLIP,VLAttack,1,11,0.0559971593320369,0.0103749372065067,0.0103749372065067,0.0616562142968177,0.2248354318784492,low,what color is the words bus and boat tour?,red,red,yellow,True,image,0.7980579733848572,0.39349687099456787,Other,attack
+132189002,rotate_5,BLIP,VLAttack,1,11,0.0563432350754737,0.010441068559885,0.010441068559885,0.0620383657515049,0.2546734559583866,low,how many levels does the bus have?,1,1,2,True,image,0.823380172252655,0.3295867443084717,Number,attack
+394131004,rotate_5,BLIP,VLAttack,1,11,0.0607929192483425,0.0112853311002254,0.0112853311002254,0.0669485554099083,0.2608351067716308,low,do planes travel through the earth's atmosphere?,yes,yes,no,True,image,0.761479377746582,0.5936106443405151,Yes/No,attack
+546292001,rotate_5,BLIP,VLAttack,1,11,0.0609263814985752,0.0364243239164352,0.0364243239164352,0.0841054990887641,0.2642120855801205,low,is the clock held by chains?,no,no,yes,True,image,0.8188769221305847,0.4240574240684509,Yes/No,attack
+436936002,rotate_5,BLIP,VLAttack,1,11,0.0622644275426864,0.0115655586123466,0.0115655586123466,0.0685729086399078,0.263308763794811,low,what animal is this?,bear,bear,elephant,True,image,0.9260604381561279,0.12006919085979462,Other,attack
+143000,rotate_5,BLIP,VLAttack,1,11,0.0623635202646255,0.0115843340754508,0.0115843340754508,0.0686822533607482,0.263484245191751,low,what color is the tip of the birds' tails?,yellow,yellow,black,True,image,0.801441490650177,0.5058721303939819,Other,attack
+394050000,rotate_5,BLIP,VLAttack,1,11,0.0632974728941917,0.0378858707845211,0.0378858707845211,0.0874066650867462,0.2794594588947134,low,what sport does this kid like?,frisbee,frisbee,baseball,True,image,0.8180022239685059,0.30471041798591614,Other,attack
+536011,rotate_5,BLIP,VLAttack,1,11,0.0658750087022781,0.0394804701209068,0.0394804701209068,0.0909989401698112,0.2982343257158679,low,what is the woman holding in the left hand?,phone,phone,umbrella,True,image,0.7701180577278137,0.5474486351013184,Other,attack
+132182002,rotate_5,BLIP,VLAttack,1,11,0.071750670671463,0.0133856236934661,0.0133856236934661,0.0790519192814827,0.2532071080491826,low,what is the batter standing in front of?,home plate,home plate,fence,True,image,0.9013311266899109,0.2081645131111145,Other,attack
+757009,rotate_5,BLIP,VLAttack,1,11,0.071933314204216,0.0134209096431732,0.0134209096431732,0.0792538151144981,0.28568650551411,low,what is the elephant doing?,drinking,drinking,nothing,True,image,0.8080620765686035,0.40799418091773987,Other,attack
+810000,rotate_5,BLIP,VLAttack,1,11,0.0732249468564987,0.0295217148959636,0.0295217148959636,0.0906816571950912,0.2810374380606482,low,what color is the table top?,green,green,blue,True,image,0.8422970771789551,0.30699634552001953,Other,attack
+131539009,rotate_5,BLIP,VLAttack,1,11,0.0837829485535621,0.0157313421368598,0.0157313421368598,0.0923636853694915,0.2911549997399761,low,are there any trees visible?,no,no,yes,True,image,0.7570961117744446,0.5835082530975342,Yes/No,attack

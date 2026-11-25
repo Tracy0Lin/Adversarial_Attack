@@ -1,0 +1,5 @@
+source_log_entries=4423
+selected=1000 photos=447
+skipped={'not_success': 2391, 'in_exp1_or_exp2': 1000, 'shared_photo': 0, 'missing_image': 0}
+mean_ssim=0.8045
+rule: attack_success, qid not in exp1/exp2, photo not in exp1/exp2, both PNGs present

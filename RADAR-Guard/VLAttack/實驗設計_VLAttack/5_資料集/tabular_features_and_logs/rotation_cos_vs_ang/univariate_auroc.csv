@@ -1,0 +1,17 @@
+feature,space,auroc_toward_attack,attack_direction,experiment
+d_center,cosine,0.648315,lower,exp1
+d_center,angular,0.632209,higher,exp1
+d_iqr,cosine,0.5920770000000001,higher,exp1
+d_iqr,angular,0.5880399999999999,higher,exp1
+d_tail,cosine,0.559406,higher,exp1
+d_tail,angular,0.579439,higher,exp1
+d_q95,cosine,0.620822,lower,exp1
+d_q95,angular,0.667262,higher,exp1
+d_center,cosine,0.7115539999999999,lower,exp2
+d_center,angular,0.693831,higher,exp2
+d_iqr,cosine,0.6482720000000001,higher,exp2
+d_iqr,angular,0.64402,higher,exp2
+d_tail,cosine,0.5906275000000001,higher,exp2
+d_tail,angular,0.6108250000000001,higher,exp2
+d_q95,cosine,0.6781975,lower,exp2
+d_q95,angular,0.727636,higher,exp2

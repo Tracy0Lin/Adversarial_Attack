@@ -1,0 +1,7 @@
+slot,image_id,path,note
+A_correct_clean,393225001,C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000\teacher_examples\A_correct_clean_393225001,乾淨圖、低風險、d_center 低：一階正確放行
+B_correct_attack,524361001,C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000\teacher_examples\B_correct_attack_524361001,攻擊圖、高風險：一階正確攔截
+C_false_alarm_clean_high,393254002,C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000\teacher_examples\C_false_alarm_clean_high_393254002,乾淨圖被判高風險：假警報
+D_miss_attack_low,262522002,C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000\teacher_examples\D_miss_attack_low_262522002,攻擊圖被判低風險：漏抓
+E_clean_mid_consistency,393777005,C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000\teacher_examples\E_clean_mid_consistency_393777005,乾淨圖中風險：一致性比低風險差，應送二階
+F_boundary,131089003,C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\steps100_alpha0.002_run1000\teacher_examples\F_boundary_131089003,邊界案例：攻擊失敗卻高風險，或中風險攻擊

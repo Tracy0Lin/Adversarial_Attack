@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VLAttack 案例示範</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+:root {
+  --bg-page: #f8fafc; --bg-card: #ffffff; --border-color: #e2e8f0;
+  --text-primary: #0f172a; --text-secondary: #64748b;
+  --color-primary: #2563eb; --color-danger: #dc2626; --color-success: #16a34a;
+}
+body {
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-image:
+    radial-gradient(at 0% 0%, rgba(99, 102, 241, 0.1) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(16, 185, 129, 0.08) 0px, transparent 50%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+.navbar-nav { flex-direction: row; flex-wrap: wrap; align-items: center; }
+.navbar-custom { position: sticky; top: 0; z-index: 1050; background: #ffffff !important; border-bottom: 1px solid #e2e8f0; }
+.navbar-brand-custom { color: #0f172a !important; -webkit-text-fill-color: #0f172a; background: none; }
+.navbar-custom .nav-link-custom,
+.navbar-custom .nav-link-custom.active,
+.navbar-custom button.nav-dropdown-toggle { color: #334155 !important; background: transparent; border: 0; }
+.navbar-custom .nav-link-custom:hover,
+.navbar-custom button.nav-dropdown-toggle:hover { color: #2563eb !important; background: #f1f5f9; }
+.nav-dropdown { position: relative; }
+.nav-dropdown-menu {
+  display: none; position: absolute; top: calc(100% + 6px); left: 0; min-width: 168px;
+  margin: 0; padding: 6px; list-style: none; background: #ffffff; border: 1px solid #e2e8f0;
+  border-radius: 8px; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12); z-index: 1060;
+}
+.nav-dropdown-menu li { list-style: none; }
+.nav-dropdown:hover > .nav-dropdown-menu,
+.nav-dropdown:focus-within > .nav-dropdown-menu { display: block; }
+.nav-dropdown-menu a { display: block; padding: 8px 12px; border-radius: 6px; color: #334155 !important; text-decoration: none; font-weight: 500; white-space: nowrap; }
+.nav-dropdown-menu a:hover, .nav-dropdown-menu a.active { color: #2563eb !important; background: #f1f5f9; }
+.content-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 8px; padding: 24px; margin-bottom: 24px; }
+.section-title { font-weight: 700; color: var(--text-primary); -webkit-text-fill-color: var(--text-primary); background: none; }
+.btn-custom { background-color: var(--color-primary); color: #fff; font-weight: 600; border: none; border-radius: 6px; }
+.btn-custom:hover { background-color: #1d4ed8; color: #fff; }
+.photo-item { border: 2px solid transparent; border-radius: 6px; padding: 3px; background: #fff; cursor: pointer; width: 78px; }
+.photo-item.active { border-color: var(--color-primary); }
+.image-box-wrapper { width: min(100%, 240px); height: auto; aspect-ratio: 1 / 1; background: #fff; border-radius: 8px; display: flex; align-items: center; justify-content: center; overflow: hidden; margin-inline: auto; }
+.image-box-wrapper img { width: 100%; height: 100%; max-width: none; max-height: none; object-fit: contain; }
+.custom-progress { background: #f1f5f9; height: 10px; border-radius: 4px; overflow: hidden; border: 1px solid var(--border-color); }
+.custom-progress-bar { background: var(--color-primary); height: 100%; width: 0%; }
+.slot-card { border: 2px dashed #cbd5e1; border-radius: 8px; padding: 16px; background: #f8fafc; text-align: center; min-height: 260px; display: flex; flex-direction: column; justify-content: space-between; }
+.slot-active { border: 2px solid var(--color-danger) !important; background: #fff !important; }
+.slot-img-box { background: #f1f5f9; border-radius: 6px; height: 160px; display: flex; align-items: center; justify-content: center; overflow: hidden; margin: 10px 0; }
+.slot-img-box img { max-width: 100%; max-height: 100%; object-fit: contain; }
+.slot-empty-text { color: #94a3b8; }
+.risk-badge { font-size: 0.8rem; font-weight: 600; padding: 4px 12px; border-radius: 20px; }
+.risk-low { background: #dcfce7; color: #166534; }
+.risk-med { background: #fef9c3; color: #854d0e; }
+.risk-high { background: #fee2e2; color: #991b1b; }
+.section-header { border-bottom: 2px solid #0f172a; padding-bottom: 8px; margin-bottom: 16px; display: flex; justify-content: space-between; align-items: center; }
+.matrix-table { width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0; }
+.matrix-table td, .matrix-table th { vertical-align: middle; border-bottom: 1px solid var(--border-color); padding: 12px; }
+.matrix-table tbody th { background: #f1f5f9; width: 18%; text-align: center; }
+.col-clean { background: #f0fdf4; }
+.col-attack { background: #fef2f2; }
+.btn-defense-reveal { border-radius: 50px; background: linear-gradient(135deg, #2563eb, #1d4ed8); border: none; color: #fff; }
+.flow-step { flex: 1; min-width: 110px; text-align: center; padding: 10px 8px; border: 1px solid var(--border-color); border-radius: 8px; font-size: 0.78rem; font-weight: 600; color: var(--text-secondary); background: #fff; }
+.flow-step.active { border-color: var(--color-primary); color: var(--color-primary); background: #eff6ff; }
+.flow-step.done { border-color: var(--color-success); color: var(--color-success); background: #f0fdf4; }
+.flow-arrow { color: #94a3b8; font-weight: 700; align-self: center; }
+.trio-title { font-size: 0.85rem; font-weight: 700; margin-bottom: 8px; }
+.page-role { font-size: 0.9rem; color: var(--text-secondary); max-width: 760px; }
+.sample-label { font-size: 0.65rem; line-height: 1.2; color: var(--text-secondary); }
+</style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-custom py-3">
+  <div class="container">
+    <a class="navbar-brand navbar-brand-custom" href="index.html">MLLM 攻防驗證平台</a>
+    <div class="collapse navbar-collapse show">
+      <ul class="navbar-nav ms-auto gap-1">
+        <li class="nav-item"><a class="nav-link nav-link-custom" href="index.html">平台導覽</a></li>
+        <li class="nav-item nav-dropdown">
+          <button type="button" class="nav-link nav-link-custom nav-dropdown-toggle active" aria-haspopup="true">VLAttack</button>
+          <ul class="nav-dropdown-menu">
+            <li><a href="vlattack-live.html">即時流程</a></li>
+            <li><a class="active" href="vlattack-cases.html">案例示範</a></li>
+            <li><a href="results.html">實驗結果</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container my-5">
+  <h1 class="section-title mb-2">案例示範：看現成例子</h1>
+  <p class="page-role mb-4">這頁<b>不會現場算攻擊</b>，用做好的圖和 BLIP 答案，對照「放行、攔截、假警報、漏抓」。適合先讓人看懂<b>模型有沒有被騙、防禦有沒有救回</b>。要自己上傳請到「<a href="vlattack-live.html">即時流程</a>」。</p>
+  <div class="content-card mb-4" style="border-left:4px solid var(--color-primary);background:#f0f7ff;">
+    <h5 class="fw-bold text-primary mb-2">先看答案有沒有變</h5>
+    <p class="text-secondary mb-0">選一個結局標籤，再按「顯示這個例子」。這些是 BLIP 的現成圖：實驗一大約 46% 攻擊成功；5×5 去噪後大約還剩 37%。那是這一頁的統計，不是 Florence。Florence 特徵距離實驗一是 61.7%，兩階段後 32.8%，見 <a href="results.html">實驗結果</a>。</p>
+  </div>
+  <div class="d-flex flex-wrap gap-2 mb-4">
+    <div class="flow-step active" data-step="1">1. 選例子</div><div class="flow-arrow">→</div>
+    <div class="flow-step" data-step="2">2. 答案對照</div><div class="flow-arrow">→</div>
+    <div class="flow-step" data-step="3">3. 風險分流</div><div class="flow-arrow">→</div>
+    <div class="flow-step" data-step="4">4. 去噪對照</div>
+  </div>
+
+  <div class="row g-4 mb-4">
+    <div class="col-lg-4">
+      <div class="content-card h-100" style="border-top:4px solid var(--color-primary);">
+        <h5 class="fw-bold mb-3">1. 選一個範本 <span class="badge bg-primary">VLAttack</span></h5>
+        <div class="d-flex flex-wrap gap-2 mb-3" id="sample-picker"></div>
+        <p class="small text-secondary" id="sample-why">載入中…</p>
+        <label class="form-label small fw-bold">問題（保持乾淨）</label>
+        <textarea class="form-control bg-light mb-3" id="prompt-input" rows="2" readonly></textarea>
+        <p class="small text-secondary mb-3" id="opt-status">選好後按下面，立刻看到攻擊圖與答案。</p>
+        <button class="btn btn-custom w-100 py-2" id="start-attack-btn" onclick="startVLAttack()">顯示這個例子</button>
+      </div>
+    </div>
+    <div class="col-lg-8">
+      <div class="content-card p-0 overflow-hidden h-100">
+        <div class="bg-dark text-white px-3 py-2 d-flex justify-content-between"><span class="fw-bold">2. 原圖 vs 攻擊（含模型答案）</span><span class="badge bg-secondary" id="sample-qid"></span></div>
+        <table class="matrix-table text-center">
+          <thead><tr>
+            <th style="width:18%;"></th>
+            <th style="width:41%;background:#f0fdf4;"><span class="text-success fw-bold d-block mb-2">原圖</span><div class="image-box-wrapper border bg-white"><img id="original-img" alt="ori"></div></th>
+            <th style="width:41%;background:#fef2f2;"><span class="text-danger fw-bold d-block mb-2">攻擊後</span><div class="image-box-wrapper border bg-white position-relative"><span id="attack-placeholder" class="text-secondary position-absolute" style="top:50%;left:50%;transform:translate(-50%,-50%);">［按左下顯示］</span><img id="attack-img" style="display:none;" alt="atk"></div><div id="attack-params-display" class="mt-2" style="visibility:hidden;"></div></th>
+          </tr></thead>
+          <tbody>
+            <tr><th>BLIP 答案</th><td class="col-clean text-success fw-bold" id="cell-clean-ans">—</td><td class="col-attack text-danger fw-bold" id="cell-atk-ans">［等待］</td></tr>
+            <tr><th>Gaussian 5×5</th><td class="col-clean">—</td><td class="col-attack" id="cell-atk-def">［待防禦］</td></tr>
+            <tr><th>SSIM / CLIP</th><td class="col-clean">1.00 / 1.00</td><td class="col-attack" id="cell-metrics">［待計算］</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="row g-4 mb-5">
+    <div class="col-md-6"><div class="content-card"><h5 class="fw-bold mb-3">3. 這個例子有沒有被模糊翻轉</h5><div style="height:200px;"><canvas id="tugOfWarChart"></canvas></div><p class="small text-secondary mt-2 mb-0" id="flip-note"></p></div></div>
+    <div class="col-md-6"><div class="content-card"><h5 class="fw-bold mb-3">整體效果（統計，不是這一張）</h5><div style="height:200px;"><canvas id="tradeoffChart"></canvas></div></div></div>
+  </div>
+  <div class="text-center mb-5"><button class="btn btn-primary px-5 py-3 fs-5 btn-defense-reveal" id="btn-main-tcvad" onclick="triggerTCVADPipeline()" disabled>先顯示例子，再看風險格</button></div>
+  <div id="tcvad-wrapper" style="display:none;">
+    <div class="content-card mb-4" id="tcvad-section">
+      <div class="section-header"><h3 class="fw-bold mb-0 text-primary">3. 風險分流</h3><span class="badge border border-primary text-primary" id="tcvad-action"></span></div>
+      <div class="text-center small text-secondary fw-bold mb-2">r &lt; 0.3 放行　｜　中風險送二階　｜　r ≥ 0.7 攔截</div>
+      <div class="text-center small mb-4" id="tcvad-compare"></div>
+      <div class="row g-4">
+        <div class="col-md-4"><div class="slot-card" id="slot-low"><div class="fw-bold text-success">低風險</div><div class="slot-img-box" id="box-low"><span class="slot-empty-text">無樣本落入</span><img id="img-slot-low" style="display:none;" alt=""></div><div id="risk-val-low" class="fw-bold">Risk: ---</div><span class="risk-badge bg-light text-secondary" id="badge-low">待檢測</span></div></div>
+        <div class="col-md-4"><div class="slot-card" id="slot-med"><div class="fw-bold" style="color:#d97706;">中風險</div><div class="slot-img-box" id="box-med"><span class="slot-empty-text">無樣本落入</span><img id="img-slot-med" style="display:none;" alt=""></div><div id="risk-val-med" class="fw-bold">Risk: ---</div><span class="risk-badge bg-light text-secondary" id="badge-med">待檢測</span></div></div>
+        <div class="col-md-4"><div class="slot-card" id="slot-high"><div class="fw-bold text-danger">高風險</div><div class="slot-img-box" id="box-high"><span class="slot-empty-text">無樣本落入</span><img id="img-slot-high" style="display:none;" alt=""></div><div id="risk-val-high" class="fw-bold">Risk: ---</div><span class="risk-badge bg-light text-secondary" id="badge-high">待檢測</span></div></div>
+      </div>
+    </div>
+    <div class="text-center mb-5" id="enable-defense-container" style="display:none;"><button class="btn btn-primary px-5 py-3 btn-defense-reveal" id="btn-open-defense" onclick="openDefenseSection()">開啟防禦</button></div>
+    <div class="content-card" id="defense-section" style="display:none;">
+      <div class="section-header"><h3 class="fw-bold mb-0 text-primary">4. 去噪對照</h3><span class="badge bg-secondary">σ*=0.8　σ_det=1.5</span></div>
+      <div class="row g-3 mb-4">
+        <div class="col-md-4">
+          <div class="text-center trio-title text-success">原圖</div>
+          <div class="image-box-wrapper border bg-white"><img id="def-img-ori" alt=""></div>
+        </div>
+        <div class="col-md-4">
+          <div class="text-center trio-title text-danger">攻擊後</div>
+          <div class="image-box-wrapper border bg-white"><img id="def-img-atk" alt=""></div>
+        </div>
+        <div class="col-md-4">
+          <div class="text-center trio-title" style="color:#15803d;">去噪後</div>
+          <div class="image-box-wrapper border bg-white"><img id="def-img-purified" alt=""></div>
+          <small class="d-block text-center text-success fw-bold mt-2" id="def-caption"></small>
+        </div>
+      </div>
+      <div class="p-4 border rounded bg-white">
+        <label class="form-label fw-bold">乾淨圖答案</label><textarea class="form-control bg-light mb-3" rows="2" readonly id="txt-clean"></textarea>
+        <label class="form-label fw-bold text-danger">攻擊後</label><textarea class="form-control bg-light text-danger fw-bold mb-3" rows="2" readonly id="txt-attack"></textarea>
+        <label class="form-label fw-bold text-success">防禦後</label><textarea class="form-control bg-light text-success fw-bold" rows="2" readonly id="txt-defend"></textarea>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+let catalog=null, current=null, attackDone=false, tugOfWarChart, tradeoffChart;
+const LABELS = {
+  A_correct_clean: '正確放行', B_correct_attack: '成功攔截', C_false_alarm: '假警報',
+  D_miss_attack: '漏抓', E_clean_mid: '中風險（乾淨）', F_boundary: '邊界', G_attack_mid: '中風險走完二階'
+};
+function setFlow(n){document.querySelectorAll('.flow-step').forEach(el=>{const s=+el.dataset.step;el.classList.remove('active','done');if(s<n)el.classList.add('done');else if(s===n)el.classList.add('active');});}
+function renderPicker(samples){
+  document.getElementById('sample-picker').innerHTML = samples.map(s=>`<div class="photo-item text-center" data-id="${s.id}" onclick="selectSample('${s.id}')"><img src="${sameSite(s.thumb)}" class="w-100 rounded-1" style="aspect-ratio:1/1;object-fit:cover;" alt=""><span class="d-block mt-1 sample-label">${LABELS[s.id]||s.id}</span></div>`).join('');
+}
+async function selectSample(id){
+  current = await (await fetch(api('api/vlattack/sample/'+id))).json();
+  attackDone=false;
+  document.querySelectorAll('.photo-item').forEach(el=>el.classList.toggle('active', el.dataset.id===id));
+  document.getElementById('sample-why').innerText = current.why;
+  document.getElementById('sample-qid').innerText = LABELS[current.id]||current.id;
+  document.getElementById('prompt-input').value = current.question;
+  document.getElementById('original-img').src = sameSite(current.images.ori);
+  document.getElementById('attack-img').style.display='none';
+  document.getElementById('attack-placeholder').style.display='block';
+  document.getElementById('attack-params-display').style.visibility='hidden';
+  document.getElementById('cell-clean-ans').innerText = `GT: ${current.ground_truth}\nBLIP: ${current.original_prediction}`;
+  document.getElementById('cell-atk-ans').innerText='［等待］';
+  document.getElementById('cell-atk-def').innerText='［待防禦］';
+  document.getElementById('cell-metrics').innerText='［待計算］';
+  document.getElementById('opt-status').innerText='選好後按下面，立刻看到攻擊圖與答案。';
+  document.getElementById('btn-main-tcvad').disabled=true;
+  document.getElementById('tcvad-wrapper').style.display='none';
+  setFlow(1); updateFlipChart();
+}
+function startVLAttack(){
+  const btn=document.getElementById('start-attack-btn');
+  finishAttack();
+  btn.innerText='再看一次攻擊結果';
+}
+function finishAttack(){
+  attackDone=true;
+  document.getElementById('attack-placeholder').style.display='none';
+  const img=document.getElementById('attack-img'); img.src=sameSite(current.images.atk); img.style.display='block';
+  document.getElementById('attack-params-display').style.visibility='visible';
+  document.getElementById('attack-params-display').innerHTML=`<span class="badge border border-danger text-danger">${current.attack_success?'攻擊成功':'攻擊失敗'}　${current.original_prediction} → ${current.adversarial_prediction}</span>`;
+  document.getElementById('cell-atk-ans').innerText=current.adversarial_prediction;
+  document.getElementById('cell-metrics').innerText=`SSIM ${Number(current.ssim).toFixed(3)} / CLIP ${Number(current.clip).toFixed(3)}`;
+  document.getElementById('cell-atk-def').innerText=(current.defenses.gaussian_strong||{}).prediction||'—';
+  document.getElementById('opt-status').innerHTML=`<span class="text-success fw-bold">這一張：${current.original_prediction} → ${current.adversarial_prediction}（${current.attack_success?'攻擊成功':'攻擊失敗'}）。整體成功約 46%，不是這一張的分數。</span>`;
+  document.getElementById('btn-main-tcvad').disabled=false;
+  document.getElementById('btn-main-tcvad').innerText='看風險分到哪一格';
+  setFlow(2);
+}
+function resetSlots(){['low','med','high'].forEach(type=>{document.getElementById('slot-'+type).className='slot-card';document.getElementById('img-slot-'+type).style.display='none';document.getElementById('box-'+type).querySelector('.slot-empty-text').style.display='inline';document.getElementById('risk-val-'+type).innerText='Risk: ---';document.getElementById('badge-'+type).className='risk-badge bg-light text-secondary';document.getElementById('badge-'+type).innerText='待檢測';});}
+function triggerTCVADPipeline(){
+  if(!attackDone) return;
+  document.getElementById('tcvad-wrapper').style.display='block';
+  document.getElementById('defense-section').style.display='none';
+  document.getElementById('enable-defense-container').style.display='none';
+  setFlow(3); resetSlots();
+  const atk=current.stage1.attack, clean=current.stage1.clean;
+  const risk=+atk.risk_score; const bin=atk.risk_bin==='mid'?'mid':atk.risk_bin; const slotKey=bin==='mid'?'med':bin;
+  document.getElementById('tcvad-compare').innerHTML=`對抗圖 r=${risk.toFixed(3)}（${atk.risk_bin}）。乾淨圖 r=${(+clean.risk_score).toFixed(3)}（${clean.risk_bin}）。`;
+  document.getElementById('tcvad-action').innerText=current.stage1.action;
+  const slot=document.getElementById('slot-'+slotKey), img=document.getElementById('img-slot-'+slotKey), box=document.getElementById('box-'+slotKey);
+  slot.className='slot-card slot-active'; box.querySelector('.slot-empty-text').style.display='none';
+  img.src=sameSite(current.images.atk); img.style.display='inline-block';
+  document.getElementById('risk-val-'+slotKey).innerText=`Risk: ${risk.toFixed(3)}`;
+  const map={low:['risk-low','放行'],mid:['risk-med','送 Stage 2'],high:['risk-high','攔截']};
+  document.getElementById('badge-'+slotKey).className='risk-badge '+map[bin][0];
+  document.getElementById('badge-'+slotKey).innerText=map[bin][1];
+  document.getElementById('enable-defense-container').style.display='block';
+  document.getElementById('btn-open-defense').innerText = bin==='mid' ? '看 Stage 2 / SSS' : '看去噪對照';
+  document.getElementById('btn-main-tcvad').innerText='再看一次分流';
+}
+function openDefenseSection(){
+  document.getElementById('enable-defense-container').style.display='none';
+  const sec=document.getElementById('defense-section'); sec.style.display='block';
+  document.getElementById('def-img-ori').src=sameSite(current.images.ori);
+  document.getElementById('def-img-atk').src=sameSite(current.images.atk);
+  document.getElementById('def-img-purified').src=sameSite(current.images.gaussian_strong);
+  const gs=current.defenses.gaussian_strong||{}, flip=current.stage2.flip_sigma15, sss=current.stage2.sss_sigma08;
+  let note=`去噪後答案「${gs.prediction||'—'}」`;
+  if(flip) note+=`；σ=1.5 翻轉 ${flip.flipped?'是':'否'}`;
+  if(sss) note+=`；σ=0.8 ${sss.rescued?'救回':'未救回'}`;
+  document.getElementById('def-caption').innerText=note;
+  document.getElementById('txt-clean').value=`${current.question}\nBLIP：${current.original_prediction}（GT ${current.ground_truth}）`;
+  document.getElementById('txt-attack').value=`攻擊後：${current.adversarial_prediction}　${current.attack_success?'成功':'失敗'}`;
+  document.getElementById('txt-defend').value=`淨化後：${gs.prediction||'—'}\n端到端：${current.stage2.end_to_end_flagged?'標記為攻擊':'未標記'}`;
+  setFlow(4); sec.scrollIntoView({behavior:'smooth'});
+}
+function updateFlipChart(){
+  if(!tugOfWarChart||!current) return;
+  const flips=current.stage2.flips||[];
+  tugOfWarChart.data.labels=flips.length?flips.map(f=>'σ='+f.sigma):['無中風險掃描'];
+  tugOfWarChart.data.datasets[0].data=flips.length?flips.map(f=>f.flipped?1:0):[0];
+  tugOfWarChart.data.datasets[1].data=flips.length?flips.map(f=>+f.ssim):[0];
+  tugOfWarChart.update();
+  document.getElementById('flip-note').innerText=flips.length?'1 = 模糊後答案改變':'此範本不在中風險集合，沒有逐 σ 掃描。';
+}
+function initCharts(){
+  tugOfWarChart=new Chart(document.getElementById('tugOfWarChart'),{type:'bar',data:{labels:[],datasets:[{label:'翻轉',data:[],backgroundColor:'rgba(220,38,38,.7)',yAxisID:'y'},{label:'SSIM',data:[],type:'line',borderColor:'#2563eb',yAxisID:'y1'}]},options:{responsive:true,maintainAspectRatio:false,scales:{y:{min:0,max:1},y1:{min:.8,max:1,position:'right',grid:{drawOnChartArea:false}}}}});
+  const r=catalog.metrics.residual_asr;
+  tradeoffChart=new Chart(document.getElementById('tradeoffChart'),{type:'bar',data:{labels:['無防禦 ASR','mild resize','gaussian 3×3','gaussian 5×5','resize+gauss'],datasets:[{data:[catalog.attack.asr*100,r.mild_defense.residual_attack_rate_percent,r.gaussian_mild.residual_attack_rate_percent,r.gaussian_strong.residual_attack_rate_percent,r.resize_gaussian.residual_attack_rate_percent],backgroundColor:['#dc2626','#d97706','#2563eb','#16a34a','#0f766e']}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{y:{min:0,max:80}}}});
+}
+function sameSite(url) {
+  if (!url || /^https?:\/\//.test(url)) return url;
+  return new URL(String(url).replace(/^\//, ""), window.location.href).toString();
+}
+function api(path) { return sameSite(path); }
+window.onload=async()=>{
+  try {
+    const res = await fetch(api('api/vlattack/catalog'));
+    catalog = await res.json();
+    if (!res.ok) throw new Error(catalog.error || '案例資料讀取失敗');
+    renderPicker(catalog.samples);
+    initCharts();
+    await selectSample('G_attack_mid');
+  } catch (err) {
+    const note = document.querySelector('.page-role');
+    if (note) note.insertAdjacentHTML('afterend', '<p class="text-danger">'+err.message+'</p>');
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

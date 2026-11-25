@@ -1,0 +1,104 @@
+{
+  "exp1": {
+    "asr_before_pct": 46.1,
+    "effective_asr_pct": 17.8,
+    "asr_drop_pct": 28.3,
+    "bins": {
+      "clean": {
+        "low": 551,
+        "mid": 361,
+        "high": 88
+      },
+      "attack": {
+        "low": 318,
+        "mid": 381,
+        "high": 301
+      }
+    },
+    "full_tpr_pct": 45.4,
+    "full_fpr_pct": 10.8,
+    "clean_service_pct": 88.8,
+    "mid_stage2": {
+      "attack": {
+        "n": 381,
+        "ok_before": 74,
+        "ok_after": 69,
+        "wrong_before": 307,
+        "wrong_after": 312
+      },
+      "clean": {
+        "n": 361,
+        "ok_before": 361,
+        "ok_after": 360,
+        "wrong_before": 0,
+        "wrong_after": 1
+      }
+    },
+    "theta_det": 1.5,
+    "theta_star": 0.8
+  },
+  "exp2": {
+    "asr_before_pct": 99.8,
+    "effective_asr_pct": 27.9,
+    "asr_drop_pct": 71.9,
+    "bins": {
+      "clean": {
+        "low": 533,
+        "mid": 324,
+        "high": 143
+      },
+      "attack": {
+        "low": 220,
+        "mid": 338,
+        "high": 442
+      }
+    },
+    "full_tpr_pct": 71.5,
+    "full_fpr_pct": 17.6,
+    "clean_service_pct": 82.2,
+    "mid_stage2": {
+      "attack": {
+        "n": 338,
+        "ok_before": 0,
+        "ok_after": 1,
+        "wrong_before": 338,
+        "wrong_after": 337
+      },
+      "clean": {
+        "n": 324,
+        "ok_before": 324,
+        "ok_after": 322,
+        "wrong_before": 0,
+        "wrong_after": 2
+      }
+    },
+    "theta_det": 1.5,
+    "theta_star": 0.8
+  },
+  "exp3": {
+    "asr_before_pct": 99.6,
+    "effective_asr_pct": 23.7,
+    "asr_drop_pct": 75.9,
+    "bins": {
+      "attack": {
+        "low": 198,
+        "mid": 311,
+        "high": 491
+      }
+    },
+    "full_tpr_pct": 75.9,
+    "full_fpr_pct": null,
+    "clean_service_pct": null,
+    "mid_stage2": {
+      "attack": {
+        "n": 311,
+        "ok_before": 0,
+        "ok_after": 0,
+        "wrong_before": 311,
+        "wrong_after": 311
+      }
+    },
+    "theta_det": 1.5,
+    "theta_star": 0.8
+  }
+}

@@ -1,0 +1,5 @@
+experiment,feature,n_rows,n_photos,auroc,mean_unique_clean,mean_unique_attack,default_attack_n,default_attack_flagged,default_attack_catch_rate,default_clean_n,default_clean_flagged,default_clean_false_alarm_rate,tpr_interp_fpr5,tpr_atmost_fpr5,fpr_atmost_fpr5,tpr_interp_fpr10,tpr_atmost_fpr10,fpr_atmost_fpr10
+exp1,cosine_4d,2000,207,0.6639585,1.785,2.165,1000,466,0.466,1000,212,0.212,0.198,0.198,0.05,0.294,0.294,0.099
+exp1,angular_4d,2000,207,0.6653155,1.785,2.165,1000,492,0.492,1000,243,0.243,0.223,0.223,0.05,0.321,0.321,0.1
+exp2,cosine_4d,2000,388,0.7216720000000001,1.719,2.271,1000,605,0.605,1000,254,0.254,0.148,0.148,0.049,0.351,0.351,0.1
+exp2,angular_4d,2000,388,0.7232600000000001,1.719,2.271,1000,679,0.679,1000,306,0.306,0.161,0.161,0.05,0.353,0.353,0.1

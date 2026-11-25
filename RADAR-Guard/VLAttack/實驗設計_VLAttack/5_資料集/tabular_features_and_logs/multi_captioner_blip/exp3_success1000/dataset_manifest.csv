@@ -1,0 +1,1001 @@
+question_id,photo_id,question,original_prediction,adversarial_prediction,ssim
+263505000,263505,does the man have facial hair?,yes,no,0.8126444816589355
+1369001,1369,what is the man wearing?,wetsuit,robe,0.8165388703346252
+1369002,1369,is this man in the ocean?,yes,no,0.8111303448677063
+263520002,263520,what kind of animal is this?,giraffe,cat,0.9187512993812561
+263520003,263520,what is the animal?,giraffe,dog,0.9184702038764954
+525665002,525665,is it cloudy in this picture?,yes,no,0.7595478892326355
+525665003,525665,what type of animal is located in this image?,cow,dog,0.7602760791778564
+525665006,525665,what kind of building are the cows in?,beach,church,0.7641916275024414
+525665008,525665,what is the main color in this picture?,blue,gray,0.7701066136360168
+525665010,525665,where is civilization located?,background,china,0.7647183537483215
+525665013,525665,where are these animals?,beach,picture,0.7571780681610107
+525666000,525666,is there a ball in the water?,yes,no,0.8135831952095032
+525666001,525666,is this water?,yes,no,0.8117218613624573
+525667003,525667,how many people are wearing cropped pants?,2,1,0.8277533054351807
+394608001,394608,where is the surfboard?,beach,bed,0.7778399586677551
+394608002,394608,what color is his surfboard?,orange,red,0.7859988808631897
+1393002,1393,are the flowers open?,yes,no,0.8701496720314026
+394611002,394611,is this a safari?,yes,no,0.7676529884338379
+394611004,394611,what type of animal is in this photo?,giraffe,elephant,0.7675077319145203
+394611005,394611,what are the zebras doing?,eating,standing,0.7728994488716125
+1398001,1398,what color is the sweater that the person is wearing?,red,gray,0.8779869675636292
+525702005,525702,is the girl upset?,no,yes,0.7831372618675232
+525702012,525702,is the wall in the back one color?,yes,no,0.7913625836372375
+525705003,525705,did the player bunt the ball?,no,yes,0.8409885764122009
+394635000,394635,who is controlling the train?,conductor,man,0.845558226108551
+394635001,394635,what is reflection on window?,light,boat,0.8536970019340515
+394635003,394635,where is this photo taken place?,train station,city,0.8513942360877991
+65773002,65773,where is the man sitting?,chair,bed,0.8031256198883057
+1425002,1425,is there a container on the plate?,yes,no,0.7846510410308838
+1425003,1425,is this sandwich cut?,yes,no,0.7844915390014648
+1436000,1436,how many laptops is the man using?,3,0,0.7898982167243958
+1436003,1436,what is the person in the bathroom doing?,sitting,standing,0.7886250615119934
+1436005,1436,what is he lying on?,couch,nothing,0.79182368516922
+1436006,1436,what is the man sitting on?,couch,chair,0.7771322727203369
+1436008,1436,what color is the man's hair?,black,gray,0.7838628888130188
+132509001,132509,what is the lady carrying?,surfboard,purse,0.7741541862487793
+132509002,132509,could you paint this scene?,no,yes,0.7766819000244141
+132509003,132509,what is covering the ground?,water,carpet,0.7707152366638184
+132509004,132509,is the person wet?,yes,no,0.7731949687004089
+132510002,132510,is this person smiling?,yes,no,0.7853239178657532
+263586001,263586,what color are the player's shorts?,pink,red,0.8251693248748779
+394659000,394659,what color is the countertop in this photo?,blue,white,0.785574734210968
+394659002,394659,what appliance is in the kitchen?,stove,microwave,0.7921867966651917
+525732001,525732,what is the man wearing?,wetsuit,suit,0.8538947701454163
+394663001,394663,what is an elephants ear?,dirt,no,0.7935897707939148
+394663002,394663,what animal is in this photo?,elephant,human,0.7844962477684021
+1448002,1448,is the giraffe standing properly?,no,yes,0.8751081824302673
+1464000,1464,has the skier fallen?,yes,no,0.7697802186012268
+1464002,1464,what does it look like the skier is doing?,falling,smiling,0.7637764811515808
+394681001,394681,is this in a big city?,yes,no,0.7733616232872009
+263612000,263612,what does the dog have around his neck?,elephant,collar,0.7868848443031311
+263612001,263612,how old is the dog?,5,no dog,0.7999517321586609
+263612007,263612,what kind of dog is that?,husky,lab,0.7963719367980957
+263613002,263613,what color is the horse?,white,brown,0.8442348837852478
+132544001,132544,are these players tired out?,no,yes,0.8649182319641113
+132544002,132544,what game is this?,softball,baseball,0.8565840721130371
+525762001,525762,how many boxes?,2,1,0.7982584834098816
+525762003,525762,what color are the tennis player's shoes?,black,white,0.794895350933075
+525763001,525763,what is this?,marina,painting,0.8146265149116516
+525763002,525763,what color is the roof on the right?,orange,red,0.8182798027992249
+301201003,301201,are these books old?,no,yes,0.8288131356239319
+132554000,132554,is the woman standing up straight?,yes,no,0.7654581665992737
+132554004,132554,is this woman a hipster?,no,yes,0.7677769660949707
+132554005,132554,what kind of saddle does the horse have on?,western,leather,0.7697985172271729
+132554006,132554,are the horses taking their people out for a walk?,no,yes,0.7746676802635193
+524535001,524535,what color icing is on the doughnuts?,white,gray,0.7864933609962463
+525777002,525777,what color hat is the man wearing?,gray,black,0.8147153854370117
+1490001,1490,how many people do you see?,1,0,0.8357133269309998
+1490002,1490,has the skier won a headgear?,no,yes,0.8331000208854675
+1490003,1490,what is the person holding in his hand?,paddle,scissors,0.8333446979522705
+394715005,394715,is there papers in this picture?,yes,no,0.7801494598388672
+394715012,394715,what color is the wall?,white,brown,0.7769559025764465
+394715013,394715,is the desk big enough for the products on it?,yes,no,0.7783088684082031
+263644000,263644,what size bed is this?,queen,twin,0.7900025248527527
+262394002,262394,what animal is shown in this photo?,horse,dog,0.8400487899780273
+263647000,263647,how many people are in this scene?,1,0,0.7574024200439453
+132578000,132578,what is the cat sitting on?,bench,ledge,0.8388779759407043
+132578002,132578,is it a bright sunny day?,yes,no,0.8497870564460754
+394724001,394724,is that a man or a woman in the water?,man,woman,0.8788180947303772
+132587000,132587,what is this man sitting on?,bench,toilet,0.8163151741027832
+132587003,132587,what is this man doing?,sitting,surfing,0.8182570934295654
+263664002,263664,how many people are riding on the bike?,2,1,0.8785369396209717
+263664006,263664,what is red?,motorcycle,bike,0.8725831508636475
+263668002,263668,are there people in the image?,yes,no,0.7958560585975647
+1525000,1525,what type of building are they in?,hanger,hospital,0.809744656085968
+1525001,1525,how many tires are there?,6,0,0.8083042502403259
+1525003,1525,what vehicle can be seen?,airplane,bus,0.8098671436309814
+1525005,1525,where is the airplane?,hanger,on ground,0.8164187073707581
+1525007,1525,is this a boating dock?,no,yes,0.819484531879425
+1525010,1525,is this a large jet?,yes,no,0.8110480308532715
+1525012,1525,is this a fenced area?,no,yes,0.8147845268249512
+1525016,1525,is this a city?,no,yes,0.8181378841400146
+1525021,1525,what colors are on the middle beam?,white,black,0.8142604231834412
+1525025,1525,was the person taking this picture moving?,no,yes,0.8171799778938293
+1532003,1532,what is the street number not name?,101,7,0.7810662388801575
+502698001,502698,has this man shaved?,no,yes,0.7667326331138611
+502698002,502698,is this man wearing pajamas?,no,yes,0.7738545536994934
+263679003,263679,what are they about to do?,fly kite,surf,0.7747710347175598
+132612001,132612,where are the giraffes?,background,outside,0.8064238429069519
+132612002,132612,what is it called when all the zebra are together?,herd,family,0.8051618933677673
+132612003,132612,why are all these zebra together?,grazing,zoo,0.8042863011360168
+132612004,132612,are these animals common in india?,no,yes,0.8055813908576965
+22103001,22103,is she trying to feed the giraffe?,yes,no,0.8124898076057434
+132622000,132622,what animal is this?,bear,cat,0.7894579768180847
+132622002,132622,what is the color of the bear?,brown,gray,0.8062317967414856
+132622003,132622,is the bear upset?,no,yes,0.7857484817504883
+263696005,263696,what are they doing in the rain?,walking,dancing,0.8028356432914734
+263696006,263696,is it raining?,yes,no,0.8107573986053467
+263700002,263700,is this person in some sort of trouble?,no,yes,0.8038371205329895
+394773001,394773,what is the make of this motorcycle?,bmw,yamaha,0.8223371505737305
+394773003,394773,what kind of kickstand appears?,motorcycle,none,0.8196127414703369
+394773004,394773,what is on the back of this motorcycle?,bag,flag,0.8263413310050964
+525849000,525849,what is hanging on the wall?,poster,picture,0.777881920337677
+525849001,525849,what is the woman holding?,microphone,cat,0.7803252339363098
+525849003,525849,who is sitting beside the woman?,man,cat,0.781558096408844
+525849004,525849,is there more than one microphone?,yes,no,0.7824694514274597
+1563001,1563,is this skier a female?,yes,no,0.8038733005523682
+1563002,1563,what color are the skiis?,yellow,green,0.8093947768211365
+132644002,132644,does the man know how to cook?,yes,no,0.7972872853279114
+132644003,132644,what is this man wearing on his head?,nothing,hat,0.8076944947242737
+1577003,1577,are the vases full of water?,yes,no,0.7910391688346863
+1577004,1577,what is the center color of the flowers?,yellow,red,0.777071475982666
+263723001,263723,how many pieces has this dish been cut into?,4,8,0.7919571995735168
+132652004,132652,is the woman's hair long?,yes,no,0.8284317851066589
+132652005,132652,what is she holding?,phone,umbrella,0.8293913006782532
+132652006,132652,what is she holding in her left hand?,phone,pen,0.8288836479187012
+132652007,132652,what color is her hair?,brown,black,0.817996084690094
+132652008,132652,where are three fingers?,on phone,umbrella,0.8308113217353821
+132652009,132652,what is the woman holding?,phone,umbrella,0.8222548365592957
+132652010,132652,what color eyeshadow is the woman wearing?,brown,black,0.8203789591789246
+132652012,132652,is this a toy?,no,yes,0.8254528045654297
+132652013,132652,where is the word flow?,shirt,nowhere,0.8318961262702942
+132652014,132652,is the girl wearing a tied?,no,yes,0.8290069699287415
+132652016,132652,is the person talking on the phone?,yes,no,0.8205090165138245
+132652017,132652,how many people are in the image?,1,0,0.8231234550476074
+525869000,525869,are there trees?,yes,no,0.8002001643180847
+525869001,525869,what are the sheep eating?,hay,grass,0.8031783103942871
+525869002,525869,how many sheep are lying down?,3,0,0.8004944920539856
+1584000,1584,is this bus more than one color?,no,yes,0.7891766428947449
+394801001,394801,what are the different fruit shown in the picture?,bananas,banana,0.790825605392456
+394801002,394801,what is brown?,bananas,banana,0.7856139540672302
+1590000,1590,what are the items in?,truck,vase,0.8250254988670349
+1590002,1590,which object in this trailer is an animal?,cow,cat,0.8294508457183838
+1591001,1591,does there appear to be a show on the tv or is likely a reflection?,reflection,show,0.8314191699028015
+1591003,1591,how many remotes are there?,2,0,0.8307211995124817
+1592002,1592,what color is the umbrella?,red,pink,0.8350885510444641
+1599002,1599,does this appear to be an actual match?,yes,no,0.8202009797096252
+153184000,153184,how many birds are there?,3,1,0.8248338103294373
+153184001,153184,are there trees in the background?,yes,no,0.823415994644165
+371638001,371638,how many doors are visible on the train car?,0,1,0.8487734794616699
+22113002,22113,is there grass in this photo?,yes,no,0.8779409527778625
+132682000,132682,is the seat up?,yes,no,0.7660183310508728
+132682001,132682,how many toilets are there?,1,0,0.7690919041633606
+525899001,525899,is the photo in black and white?,yes,no,0.8375332355499268
+525899002,525899,how deep is the water?,deep,shallow,0.8372570872306824
+263758000,263758,how many engines does the plane have?,4,0,0.7595584988594055
+263758001,263758,is the plane at an airport?,yes,no,0.763116180896759
+525903000,525903,what is green dish on left top?,spinach,bowl,0.8206210732460022
+525903001,525903,what color plate is the spinach on?,white,blue,0.8073511123657227
+132689001,132689,what kind of benches are here?,stone,wooden,0.9131303429603577
+132690002,132690,where is a push vacuum?,background,floor,0.8133348822593689
+525908000,525908,what color is the man's outfit?,white,black,0.7989419102668762
+394841000,394841,how many doorways are there?,2,1,0.7722651958465576
+394841001,394841,what holds magnets?,refrigerator,suitcase,0.7603833675384521
+394841002,394841,what kitchen appliance is featured next to the door?,refrigerator,stove,0.7772243022918701
+132702000,132702,what should be removed before eating?,leaves,mouth,0.799659788608551
+132702001,132702,is this vegetable better cooked?,yes,no,0.7964615225791931
+132702002,132702,what vegetable is this?,broccoli,none,0.7987967133522034
+132706001,132706,is this meal made by a chef?,yes,no,0.8136460185050964
+132706002,132706,what is this?,food,mat,0.8130905032157898
+263780002,263780,what is the baby elephant doing?,walking,standing,0.7772242426872253
+263780004,263780,are these elephants in a zoo?,yes,no,0.7855267524719238
+263780005,263780,are there stones in the picture?,yes,no,0.7791324257850647
+263780010,263780,why is one elephant smaller than the other?,baby,younger,0.7796921133995056
+22118001,22118,how many umbrellas are there?,8,2,0.801405131816864
+22118004,22118,how many people are in the picture?,20,0,0.7917254567146301
+525927000,525927,is there a blue house in the photo?,yes,no,0.854426383972168
+289813000,289813,where is the boy and luggage?,grass,outside,0.8722594380378723
+289813001,289813,is the boys shirt plaid?,no,yes,0.8684175610542297
+289813002,289813,what does the boy have by him?,suitcase,leaves,0.8701720237731934
+306108001,306108,has this kitchen ever been used?,yes,no,0.7642927169799805
+263793007,263793,is this a park?,no,yes,0.8917112350463867
+263793008,263793,is there a red flower?,no,yes,0.893029510974884
+263796000,263796,what color is the toilet base?,red,white,0.8295316100120544
+1655000,1655,is the man proud?,yes,no,0.7669873237609863
+1655001,1655,what is the man holding on to?,phone,umbrella,0.7534810900688171
+1655002,1655,is this by a beach?,no,yes,0.763470470905304
+1655003,1655,is this man hairy?,no,yes,0.7569019794464111
+1655004,1655,what is the man holding?,camera,kite,0.7602983117103577
+1655005,1655,is the background of the picture blurry?,no,yes,0.7699353694915771
+1655007,1655,what is this man taking a picture of?,mountains,bridge,0.7622382044792175
+132733001,132733,what is the dog eating?,box,nothing,0.8003051280975342
+132733002,132733,what color is the dog's sweater?,green,gray,0.7935185432434082
+196885001,196885,what color is the batter's helmet?,blue,red,0.821893036365509
+196885002,196885,what kind of bat is the baseball player holding?,wooden,plastic,0.8185367584228516
+1667001,1667,what is pictured on the girls shirt?,cake,flowers,0.7902088165283203
+1675001,1675,what is the name of this cat?,fluffy,persian,0.7928543090820312
+1675002,1675,what animal is it?,cat,dog,0.7936091423034668
+394892000,394892,is this child outside?,yes,no,0.785902202129364
+394892001,394892,is this a safe neighborhood?,yes,no,0.7847049832344055
+1682001,1682,is the water clear?,yes,no,0.7833733558654785
+1682006,1682,how many sailboats are in the background?,1,0,0.7784550189971924
+1682010,1682,is that a sailboat?,yes,no,0.782920777797699
+1682011,1682,what temperature do you think the water is?,warm,cold,0.779318630695343
+525971001,525971,would this be considered a motorcycle convention?,yes,no,0.8198962807655334
+263828002,263828,how many bikes are present?,2,1,0.8291715979576111
+263828005,263828,does this motorcycle have custom paint?,no,yes,0.8344137072563171
+393497000,393497,what color is the sign in front of the podium?,blue,white,0.8608844876289368
+393497001,393497,are the men standing on the grass?,yes,no,0.8592211604118347
+394904003,394904,are these metal benches?,no,yes,0.8587262034416199
+263834000,263834,what are the kids on?,motorcycle,bus,0.8245468139648438
+394909002,394909,is this a scene on the beach?,yes,no,0.7743614315986633
+394909003,394909,what color is the sand?,tan,brown,0.7746562361717224
+525988000,525988,are these on display?,yes,no,0.7537301182746887
+525988003,525988,what color is the bear?,brown,white,0.7548081874847412
+525988004,525988,what is the bear's hobby?,photography,fishing,0.7631236910820007
+525988007,525988,what kind of bear is on display?,teddy,none,0.7538900971412659
+525988010,525988,where is the teddy bear?,table,nowhere,0.7611420154571533
+525988011,525988,what is holding the bear up?,camera,hand,0.7559990286827087
+525988016,525988,is the teddy bear smiling?,yes,no,0.7624195218086243
+525988017,525988,what kind of scene is this?,display,outdoor,0.7600011825561523
+525988019,525988,should you hug this animal?,yes,no,0.7686100602149963
+525988020,525988,where is the picture taken?,museum,outside,0.7537376284599304
+525988027,525988,what is in front of the bear?,camera,person,0.7585828900337219
+526000000,526000,is this person's hair color natural?,no,yes,0.7845252156257629
+263858001,263858,are the boats moving?,yes,no,0.7672341465950012
+526004000,526004,does this child have a lot of hair?,no,yes,0.8007424473762512
+526004001,526004,is this mother and child sitting at a kitchen table?,yes,no,0.7998037934303284
+526004002,526004,is this child being served food?,yes,no,0.7908918261528015
+263866000,263866,what is the name of the area the train is traveling in?,rural,station,0.8719887733459473
+394940002,394940,what color is the napkin?,blue,white,0.7719795107841492
+394941001,394941,is the ocean calm?,yes,no,0.863345205783844
+394941002,394941,is it a sunny day?,yes,no,0.8647565841674805
+394941003,394941,what is the person holding?,paddle,umbrella,0.8701426386833191
+394941004,394941,what is pushing the board?,paddle,person,0.8679382801055908
+394941006,394941,what is the person wearing?,shorts,backpack,0.8627815246582031
+526021003,526021,is that the man's home in the background?,yes,no,0.8710618019104004
+131361006,131361,is this scene indoors?,no,yes,0.8644633293151855
+131361010,131361,is there any chocolate on the donuts?,yes,no,0.865526020526886
+131361012,131361,what food is on the plates?,donuts,bread,0.8723929524421692
+263881000,263881,is the giraffe a baby?,no,yes,0.8161422610282898
+263881002,263881,what is the baby animal doing?,standing,sitting,0.8206223845481873
+263881007,263881,is the giraffe looking directly at the camera?,yes,no,0.8260045051574707
+1739000,1739,how many tires are on this truck?,6,0,0.8376818299293518
+526028000,526028,has any of this meal been eaten?,no,yes,0.7672703862190247
+526028001,526028,do you see a person here?,yes,no,0.770568311214447
+526028002,526028,is this a balanced meal?,yes,no,0.7645754218101501
+394957000,394957,is the bathroom dirty?,no,yes,0.7675437927246094
+394957001,394957,what room are they in?,bathroom,kitchen,0.7722876667976379
+394957002,394957,is this an airport bathroom?,no,yes,0.7657669186592102
+132814001,132814,what animal is behind the zebras?,giraffe,zebra,0.8539535403251648
+132814004,132814,how many stripes does the baby zebra have?,many,20,0.8521831631660461
+132814008,132814,how many zebras are there?,3,2,0.8552144169807434
+526040001,526040,did the man just fall over?,yes,no,0.8230230212211609
+526040002,526040,is this person wearing appropriate clothing for the weather?,yes,no,0.8157672882080078
+526044000,526044,what does the cow in the back seat?,no,yes,0.7845463156700134
+526044003,526044,what are the animals doing?,walking,standing,0.7834647297859192
+526044014,526044,is the cow standing in the water or on land?,water,land,0.7895260453224182
+526044016,526044,what is this animal walking on to?,water,ground,0.7870325446128845
+526044018,526044,what color are the cows noses?,white,black,0.7945985794067383
+526044021,526044,what kind of animal is this?,cow,cat,0.7853975296020508
+526044022,526044,what is this animal?,cow,cat,0.7897226810455322
+526044024,526044,how many cows are here?,1,0,0.7911748290061951
+526044026,526044,is this a wild cow?,yes,no,0.782365083694458
+526044027,526044,how many cows are there?,1,0,0.7808232307434082
+526044032,526044,does this cow give milk?,yes,no,0.7873944640159607
+526044033,526044,what landforms are behind the cows?,water,mountains,0.7918323874473572
+526044035,526044,what animal is this?,cow,cat,0.7869376540184021
+1757001,1757,are the ladies in a wine bar?,yes,no,0.7751558423042297
+1757003,1757,what letter is on the shirt?,m,,0.7830814719200134
+427782001,427782,is this orange slice already eaten?,yes,no,0.8151553273200989
+427782002,427782,is there any grass in the picture?,yes,no,0.8032049536705017
+1779002,1779,is this a town in california?,yes,no,0.8301270604133606
+263929000,263929,what animals are these?,cows,bears,0.7951294779777527
+263929001,263929,are these animals all facing the same direction?,yes,no,0.7964940667152405
+263929003,263929,what is this animal?,cow,bear,0.7857231497764587
+263929004,263929,what are the animals standing on?,dirt,bed,0.7849373817443848
+263929005,263929,what can be seen in the horizon?,mountains,sky,0.7964250445365906
+263929006,263929,what is the white substance on the ground?,rocks,sand,0.7818971276283264
+132861001,132861,is it night time?,no,yes,0.7693596482276917
+132861003,132861,how many spires are in the photo?,1,2,0.7645292282104492
+132861004,132861,how many clocks can be seen on this building?,2,0,0.7815859913825989
+132861005,132861,what is the weather like?,cloudy,rainy,0.773181140422821
+132861006,132861,how many windows by the clocks?,4,0,0.770961582660675
+132861007,132861,how many red lights in the picture?,0,1,0.7768523097038269
+437205009,437205,is the boy missing hair on his head?,no,yes,0.7803035378456116
+437205010,437205,is the boy two years old or three years old?,3,2,0.7876003384590149
+437205012,437205,is the child wearing pajamas?,no,yes,0.7790203094482422
+437205017,437205,does this shirt have a hood?,no,yes,0.7906661033630371
+437205021,437205,is this a nutritious snack?,yes,no,0.7832751870155334
+437205022,437205,where is the child sitting?,couch,bed,0.7886202335357666
+437205023,437205,what color is the baby's hair?,blonde,brown,0.7835595607757568
+526089000,526089,is this safe?,yes,no,0.8581706881523132
+526089002,526089,what color is his hair?,brown,black,0.8541542887687683
+427783001,427783,what color are the bater's sneakers?,red,white,0.7995297908782959
+526103001,526103,what is situated directly behind the elephant in the picture?,umbrella,person,0.8036492466926575
+526103002,526103,are there tires in the picture?,yes,no,0.8038485646247864
+263966000,263966,how many horses are there?,1,0,0.816377580165863
+263966002,263966,is this a farm?,yes,no,0.8260526657104492
+263969001,263969,how many candles can be seen?,3,0,0.8250153064727783
+263973002,263973,what kind of surface is this man standing on?,carpet,ground,0.7749426960945129
+263973004,263973,what kind of shirt is the man wearing?,polo,white,0.7739651799201965
+263973007,263973,what is the person holding?,surfboard,scissors,0.7812464237213135
+395046001,395046,is the train coming or leaving?,coming,leaving,0.8228914141654968
+526126003,526126,what sport is the man playing?,skateboarding,tennis,0.7973089814186096
+502749002,502749,what time of year is it?,christmas,fall,0.7757288813591003
+502749003,502749,is this kitchen clean?,yes,no,0.7761573195457458
+1840000,1840,which color of umbrella is prevalent?,white,purple,0.8790793418884277
+1841000,1841,is the girl wearing a tied?,yes,no,0.866855800151825
+526132002,526132,is one of the giraffes taking a nap?,no,yes,0.848921537399292
+526133000,526133,is this a snowboard?,yes,no,0.7870119214057922
+1852000,1852,what color is the hair?,white,black,0.7663998007774353
+1856001,1856,what color is his shirt?,green,white,0.7905285954475403
+1856002,1856,how is he looking at?,water,camera,0.7910178303718567
+1856003,1856,would you surf?,yes,no,0.7856453061103821
+1856004,1856,what clothing is the man wearing?,wetsuit,robe,0.7879884839057922
+132931000,132931,are these men on the same team?,no,yes,0.7868267893791199
+132931001,132931,where are the players looking at?,pitcher,ball,0.7863815426826477
+132931002,132931,what number is on his jersey?,6,8,0.7833353877067566
+395083000,395083,are there any bushes on the field?,yes,no,0.7484434247016907
+395083001,395083,what is flying in the sky?,kites,kite,0.7617347240447998
+395083006,395083,how many trees are in the picture?,20,0,0.7565571665763855
+395083007,395083,is this out in the countryside?,yes,no,0.7548210024833679
+395083010,395083,what are in the air?,kites,nothing,0.7587414383888245
+264017001,264017,is there parmesan cheese on the pizza?,yes,no,0.7981154918670654
+44003002,44003,what number is on the sign?,300,1,0.7970747947692871
+44003003,44003,is the sky clear?,yes,no,0.7947208881378174
+132953001,132953,what is man doing?,surfing,walking,0.8192033171653748
+264032002,264032,what color is the sink?,yellow,white,0.7763178944587708
+264032005,264032,what color are the cabinets?,brown,white,0.7786349654197693
+264032006,264032,is the sink being repaired?,no,yes,0.7759191393852234
+526186002,526186,does this kitchen have a microwave?,no,yes,0.7936627268791199
+526188001,526188,is the person on land?,yes,no,0.7755613327026367
+526188002,526188,how many people are flying the kite?,1,0,0.7816174030303955
+526188004,526188,are the lights on in the background?,no,yes,0.7822754979133606
+1903001,1903,what is in the lid?,nothing,cat,0.7899743914604187
+395124001,395124,what room is this?,bathroom,bedroom,0.7897451519966125
+395124002,395124,are the lights on?,no,yes,0.7911202311515808
+395124003,395124,is there a medicine cabinet?,yes,no,0.7840192914009094
+395124005,395124,what shape is the mirror?,square,round,0.785379946231842
+395124006,395124,is that a chain shower curtain?,no,yes,0.7832839488983154
+395124007,395124,what is on the shower curtain?,water,elephant,0.7902426719665527
+526197001,526197,are these donuts?,yes,no,0.7828916907310486
+526197003,526197,what section of the store is this?,bakery,luggage,0.7659886479377747
+132982000,132982,what color are the buses?,red,white,0.7955934405326843
+132982001,132982,is it raining?,yes,no,0.7943398356437683
+132982002,132982,is it raining?,yes,no,0.7916445732116699
+205196001,205196,how many pastries have powdered sugar?,1,0,0.7829875946044922
+205196002,205196,have any of these been partially eaten?,yes,no,0.7800830006599426
+132987000,132987,what color is the surfboard?,white,yellow,0.771935760974884
+175082001,175082,what color shirt does the kid in the middle have on?,blue,red,0.8079134821891785
+133000004,133000,is this an old train?,no,yes,0.8388922810554504
+133000009,133000,what color is the train?,silver,white,0.8394315242767334
+133002000,133002,is the red helmet in the lead?,yes,no,0.7791759967803955
+133002001,133002,what color is their helmet?,red,black,0.7803882956504822
+133002003,133002,"looking at the writing on the billboard, can you tell if this picture was taken in the middle east?",yes,no,0.7772483825683594
+133002005,133002,how many people are in this picture?,3,1,0.7759838700294495
+502766002,502766,what are the bigger animals?,sheep,bears,0.8565633296966553
+306159003,306159,how many urinals are there?,1,4,0.837622880935669
+1948002,1948,what is this man holding?,turkey,umbrella,0.838066577911377
+133025000,133025,how many people are wearing red?,3,2,0.8912685513496399
+133025001,133025,how many crates are stacked?,2,8,0.893090009689331
+1955001,1955,what kind of day is it?,cloudy,sunny,0.8426664471626282
+1960000,1960,which team will win?,blue,green,0.8273246884346008
+133034000,133034,what brand is the camera?,canon,sony,0.8063802123069763
+133034003,133034,is the phone nokia?,no,yes,0.8068766593933105
+133034007,133034,which devices do you see?,phone,phones,0.8091183304786682
+133034008,133034,how is the phone lying on?,table,head,0.8078536987304688
+395180000,395180,is there a river in this image?,yes,no,0.8532140254974365
+395180001,395180,what are the people in the water doing?,rowing,surfing,0.854322612285614
+264110000,264110,is something sleeping?,yes,no,0.767397403717041
+395185001,395185,what connects to the objects?,wire,feet,0.7738015055656433
+395185003,395185,what does the bottom sign say?,one way,bowling,0.7805803418159485
+395185004,395185,what season is it?,christmas,winter,0.7784882187843323
+133042000,133042,what is the player's number?,3,5,0.7895033955574036
+133042006,133042,what color are these guys shirts?,blue,black,0.7913508415222168
+133042008,133042,why are the players legs so far apart?,pitching,walking,0.7943283915519714
+133042012,133042,who is the man in the black shirt?,pitcher,batter,0.7902226448059082
+264121003,264121,what is keeping the vehicle from falling?,kickstand,stand,0.8078345656394958
+264121004,264121,is this a front or back view of this item?,front,back,0.8064951300621033
+133050001,133050,how many different type of vegetables are in the picture?,3,2,0.7773294448852539
+133050003,133050,what color are the dots on the handle of the utensil?,silver,white,0.7802555561065674
+133050006,133050,what is the top number?,28,5,0.7758124470710754
+133050009,133050,where is the book?,table,hand,0.7817223072052002
+264124001,264124,is he calling?,yes,no,0.7658407092094421
+264124004,264124,what is the man doing?,talking,sleeping,0.77083420753479
+133060000,133060,what position is this?,batter,vertical,0.7541324496269226
+133060001,133060,what team is playing?,red,unknown,0.7629484534263611
+133060003,133060,is the child wearing a helmet?,yes,no,0.7488408088684082
+133061002,133061,how many cows are present?,3,1,0.8634493947029114
+153249000,153249,how many boys sitting?,3,2,0.8109706044197083
+153249004,153249,are the people going to work?,no,yes,0.8114323019981384
+153249005,153249,is the skateboarder doing a trick?,yes,no,0.8107460141181946
+1993001,1993,what type of room is this?,bedroom,bathroom,0.7989584803581238
+1993002,1993,is the window open?,yes,no,0.7859794497489929
+175096001,175096,is this a backhand or forehand?,forehand,backhand,0.7852473258972168
+264155000,264155,what kind of cheese is on the plate?,mozzarella,american,0.8083475232124329
+264155008,264155,what course of the meal is this likely to be?,dinner,dessert,0.8076487183570862
+395230002,395230,what kind of car is it?,volkswagen,van,0.8039216995239258
+395230003,395230,is the door open?,yes,no,0.8075196146965027
+133087000,133087,are there any people in the picture?,no,yes,0.8508431315422058
+264161001,264161,what's the color of the purse?,tan,black,0.818358838558197
+264161004,264161,what color is the bag?,tan,black,0.8092219829559326
+264161006,264161,what are these items used for?,makeup,light,0.8154961466789246
+133090002,133090,is the player running?,yes,no,0.7966968417167664
+568315001,568315,do the elephants look happy?,yes,no,0.8137428164482117
+568315002,568315,are there birds on the ground?,yes,no,0.8184531331062317
+133098000,133098,what sort of animals are these?,sheep,birds,0.8268142342567444
+526319002,526319,is there any fruit in the picture?,yes,no,0.786835253238678
+133104001,133104,is this an unusual color for a meter?,yes,no,0.7887754440307617
+133104002,133104,does the meter need more money?,yes,no,0.7894279360771179
+133104004,133104,does the car have hubcaps?,no,yes,0.7938115000724792
+133104005,133104,is there a barber shop across the street?,no,yes,0.8020476698875427
+264180001,264180,what animal is this?,cow,dog,0.7831170558929443
+175102000,175102,what is the boy eating?,hot dog,pizza,0.7933714389801025
+264191003,264191,is this an old plate?,no,yes,0.7959567904472351
+133125001,133125,what color frame is the painting in?,white,black,0.7874380946159363
+133125002,133125,what is on the window?,flowers,nothing,0.7884103655815125
+526342005,526342,what does the machine sell?,pepsi,soda,0.8036877512931824
+2061000,2061,who is in the toilet?,no one,dog,0.7726104855537415
+526353001,526353,what are the children doing?,waiting,playing,0.8360896110534668
+526353002,526353,do all the people wear short-sleeves?,no,yes,0.8444206714630127
+395283003,395283,what is the man doing?,flying kite,standing,0.7697009444236755
+526359001,526359,is this room tidy?,yes,no,0.7860975861549377
+526359003,526359,what type of room is this?,living room,kitchen,0.7915499210357666
+526360002,526360,is there a door visible in this picture?,yes,no,0.776993453502655
+395289001,395289,what time of day is it?,night,afternoon,0.8129370808601379
+395289002,395289,where exactly is the camera positioned?,ground,above,0.8204829692840576
+395290000,395290,what is on the car?,cat,curtains,0.8157493472099304
+395290003,395290,what is the main color of the cat?,white,black,0.8183475136756897
+395291004,395291,what does he have in his right hand?,bat,baseball,0.8503303527832031
+526364000,526364,is there a window in the kitchen?,no,yes,0.7677926421165466
+526364001,526364,how many dishwashers are in the kitchen?,1,0,0.7693626880645752
+133149000,133149,is this bird in mid flight?,no,yes,0.7979462742805481
+264222001,264222,what is the boy eating?,sandwich,pizza,0.8695108294487
+264222002,264222,what color hair does the guy have?,brown,black,0.8746638298034668
+264222003,264222,what is the guy eating?,sandwich,pizza,0.8806681036949158
+526368001,526368,how many cords are on the laptop?,1,2,0.7743930816650391
+415408000,415408,what is behind the hydrant?,van,plane,0.8352581858634949
+415408001,415408,is this an urban setting?,yes,no,0.8308884501457214
+415408002,415408,what color is the hydrant?,red,yellow,0.8381391167640686
+415408010,415408,what is happening with the fire hydrant?,nothing,raining,0.8419238924980164
+526371001,526371,is the person bending backwards?,no,yes,0.7836301922798157
+264238006,264238,where is this picture taken?,london,inside,0.8076308369636536
+526394001,526394,is there chocolate sauce under the cake?,yes,no,0.8000431060791016
+526394002,526394,did the chef decorate the plate?,yes,no,0.8039815425872803
+395324006,395324,is the motorcycle for sale?,no,yes,0.8452208042144775
+415413001,415413,do you see a moon?,no,yes,0.7899479866027832
+526401002,526401,why type of bike is this?,motorcycle,bicycle,0.7847385406494141
+526401004,526401,what turn can you make according to the sign?,left,right,0.7904071807861328
+526401005,526401,are there more than one lane on this road?,yes,no,0.7889241576194763
+526401007,526401,what are they riding?,motorcycles,train,0.783052921295166
+133195001,133195,is it possible ships would note this tower from afar?,yes,no,0.7865431308746338
+133195004,133195,can you see sand?,no,yes,0.7854592204093933
+264268000,264268,what is blocking the road?,zebra,nothing,0.7830912470817566
+526414002,526414,is this in someone's home?,yes,no,0.8095399737358093
+395344001,395344,what color is the bed sheets?,blue,white,0.8214271664619446
+526418002,526418,what color tie is the bear wearing?,blue,red,0.8432024121284485
+264279000,264279,is this person on the surfboard?,yes,no,0.7979522347450256
+264279002,264279,is the man getting wet?,yes,no,0.8098366856575012
+264279003,264279,is the surfer standing on both feet?,yes,no,0.7999126315116882
+264279004,264279,what sport is he doing?,surfing,rowing,0.8007655143737793
+526425001,526425,what breed of dog is that?,german shepherd,lab,0.8381950259208679
+526425002,526425,what does the dog have in its mouth?,frisbee,nothing,0.8329694867134094
+526425003,526425,what kind of dog is this?,german shepherd,sheepdog,0.8346405625343323
+133210000,133210,how many young men are standing?,2,4,0.8220067620277405
+2139002,2139,what in this photo is red and white?,umbrella,flag,0.8343285918235779
+2139004,2139,is this bike secured with chains?,no,yes,0.8233008980751038
+2142000,2142,is there a lot of pigeons in this picture?,yes,no,0.8345959782600403
+395363000,395363,is this photo in color?,no,yes,0.8092543482780457
+395363001,395363,what sport is this?,tennis,none,0.8123824000358582
+395363002,395363,what is this person playing?,tennis,nothing,0.8248265385627747
+395364000,395364,how many motorcycles are there?,3,0,0.8529136180877686
+395364001,395364,is everyone holding an umbrella?,no,yes,0.8464840054512024
+2149004,2149,how many stems can you see?,2,1,0.7817342877388
+2153000,2153,has the batter already swung the bat?,no,yes,0.8102055191993713
+2153001,2153,what color helmet is the pitcher wearing?,black,blue,0.8022403120994568
+2153002,2153,what color is the batters jersey?,white,green,0.7986748814582825
+2154000,2154,what are the color of the cafe's umbrellas?,green,white,0.8290306925773621
+2154001,2154,is the shopping cart parked in a corral?,no,yes,0.824701726436615
+2154002,2154,what does it look like the shopping cart is being used for?,trash,shopping,0.8256246447563171
+2157002,2157,what is on top of the cake?,berries,candles,0.8053181767463684
+526446003,526446,what color is the lettering of his name?,blue,black,0.8186808228492737
+133233002,133233,where is the fog?,mountains,nowhere,0.8070767521858215
+395378003,395378,are there any flowers in this picture?,yes,no,0.7642073631286621
+395379000,395379,is there a note on the wall above the stove?,yes,no,0.7650380730628967
+395379001,395379,what is this room?,kitchen,bathroom,0.7654344439506531
+395379002,395379,how many cups are shown?,1,2,0.765131413936615
+395379004,395379,what color is the wall?,white,gray,0.7704454064369202
+395379005,395379,can the plates above the cabinets be eaten off of?,no,yes,0.7711425423622131
+395379006,395379,is the kitchen messy?,no,yes,0.7694053053855896
+2164001,2164,what kind of building is in the background?,barn,house,0.7986962199211121
+2164004,2164,what color is the ground?,green,brown,0.7999379634857178
+133237002,133237,are they in their natural environment?,yes,no,0.853692352771759
+395382000,395382,what emergency vehicle would likely pull up to this device?,fire truck,ambulance,0.8134096264839172
+2171001,2171,what are the people are doing?,surfing,sitting,0.8215656876564026
+2171002,2171,what are the people doing?,surfing,sitting,0.8246941566467285
+2171003,2171,how many females do you see?,3,2,0.824072539806366
+395388002,395388,is this a farm?,yes,no,0.7918241620063782
+133251001,133251,what kind of dog is this?,collie,lab,0.7610442638397217
+133251004,133251,is this a picture taken recently?,yes,no,0.7689447402954102
+133251008,133251,what breed of dog is this canine?,collie,lab,0.7645251154899597
+133251010,133251,what is the animal inside of?,bed,cage,0.7685238718986511
+133251014,133251,what is the dog doing?,sleeping,sitting,0.7697818875312805
+133251015,133251,is the dog wearing a collar?,no,yes,0.7665593028068542
+133251017,133251,what is the dog wearing?,nothing,collar,0.7711573243141174
+133251018,133251,what is the cat doing?,sleeping,sitting,0.7604463696479797
+133251023,133251,what color is the cat?,white,black,0.7646031379699707
+133251024,133251,is this animal likely to get cold soon?,no,yes,0.7668642401695251
+395402000,395402,how many dogs can you see?,1,0,0.7822856903076172
+395402001,395402,is the dog sitting on the ground?,yes,no,0.7809491157531738
+395402002,395402,what kind of dog is this?,terrier,lab,0.7823836207389832
+395402003,395402,is this a domesticated animal?,yes,no,0.7854514718055725
+395402007,395402,what color is the dog's eye?,brown,black,0.7797686457633972
+395402008,395402,what color can you see in the dogs eye's?,brown,red,0.787346601486206
+395405002,395405,which room in the house is shown?,living room,bathroom,0.8025712966918945
+2191000,2191,what is the woman standing on?,surfboard,boat,0.7964054942131042
+2191002,2191,what is this person riding?,surfboard,boat,0.797440230846405
+2191003,2191,where is she?,ocean,beach,0.7930219769477844
+2191004,2191,what is the woman wearing?,wetsuit,suit,0.7893849015235901
+264338000,264338,what room in the house are the people in?,kitchen,bathroom,0.8049200177192688
+264347000,264347,what is this room?,kitchen,bathroom,0.7790265083312988
+264347001,264347,what color is the countertop?,gray,white,0.7702908515930176
+133279001,133279,is the car an suv?,no,yes,0.7972321510314941
+2212006,2212,what is the purpose of covering the sofa with the blanket?,protection,comfort,0.7841275334358215
+133291000,133291,are they drinking beer?,yes,no,0.8259316086769104
+133291001,133291,where are they eating?,pizza,outside,0.8320757746696472
+153288003,153288,is it wet outside?,no,yes,0.8212254643440247
+2235000,2235,what  game is the man playing?,tennis,baseball,0.7673640847206116
+395452000,395452,what is on the plate?,food,pizza,0.7968520522117615
+395452001,395452,is the food burnt?,no,yes,0.7972800135612488
+395452002,395452,what color is the dish the food is in?,green,yellow,0.7974290251731873
+395452003,395452,would this meal typically be served at breakfast?,no,yes,0.8058091998100281
+395452004,395452,what is green?,plate,leaves,0.7966483235359192
+264382001,264382,what is the players job in the foreground?,pitcher,batter,0.813176691532135
+2239003,2239,is the little girl a complete novice at playing tennis?,yes,no,0.7743327617645264
+2239009,2239,what color are the wires on the racket?,white,yellow,0.7719811797142029
+2240000,2240,how many teddy bears are in the scene?,3,1,0.8306691646575928
+2240002,2240,are the dolls weird?,yes,no,0.8285554051399231
+264385005,264385,does the mouse have a cord?,no,yes,0.8235664367675781
+264385007,264385,is the mouse cordless?,yes,no,0.8242104649543762
+395462000,395462,what are they standing on?,grass,sand,0.8634946942329407
+395463002,395463,is there any meat in the picture?,yes,no,0.8108229637145996
+395463003,395463,what is the box made out of?,plastic,cardboard,0.8208229541778564
+395463004,395463,is this a cooking class?,yes,no,0.810319721698761
+526536001,526536,is any of the food burnt?,no,yes,0.7982850074768066
+133327001,133327,what is this person doing?,skateboarding,biking,0.8447990417480469
+133327002,133327,is there a lot of concrete?,yes,no,0.8509048819541931
+2261000,2261,is this a man or a woman surfing?,man,woman,0.8012223243713379
+2261002,2261,what is he doing?,surfing,sitting,0.8003042340278625
+2261003,2261,did the wave get larger after this image was taken?,yes,no,0.8080665469169617
+306212002,306212,what color are the cabinets?,brown,white,0.7977256178855896
+526555004,526555,what color is the lid on the bottle?,blue,white,0.8226867318153381
+526555005,526555,how many women are there?,2,3,0.8351125717163086
+133343003,133343,how many piercings are visible?,2,3,0.7995088696479797
+526560004,526560,is the grass low cut?,no,yes,0.9101018309593201
+264420000,264420,what color is the animal?,gray,black,0.8641862273216248
+264420002,264420,what part of this animal was used to make piano keys?,tusk,tail,0.8591710925102234
+264420003,264420,where is the elephant at?,road,zoo,0.8685889840126038
+264423001,264423,what are the people doing?,flying kite,kissing,0.766322135925293
+264423002,264423,how many people are in the picture?,2,1,0.7661598324775696
+264424001,264424,where are the players playing?,baseball,bedroom,0.7870180010795593
+480173001,480173,what is the color of the pitch?,gray,white,0.7518994212150574
+480173002,480173,how many males are in the photo?,0,1,0.7562463879585266
+480173005,480173,what is the main color of e court green?,gray,green,0.7583155632019043
+526570001,526570,is the sidewalk slushy?,yes,no,0.8722519874572754
+526576000,526576,is he frightened?,yes,no,0.8900439143180847
+2290001,2290,is this a longboat?,yes,no,0.8423673510551453
+526580001,526580,are the chairs white at the back?,no,yes,0.7875521183013916
+526580003,526580,what game are they playing on the wii?,bowling,none,0.7878663539886475
+526580005,526580,does he have long hair?,no,yes,0.7866566181182861
+526580007,526580,are both men wearing blue jeans?,yes,no,0.7919235229492188
+526580010,526580,is one of the people learning something?,yes,no,0.7939167618751526
+526580011,526580,what game is being played?,bowling,wii,0.7832746505737305
+526580012,526580,is the man wearing a hat?,no,yes,0.7922806739807129
+526580014,526580,are both men smoking a cigarette?,no,yes,0.7929410934448242
+526580019,526580,is this man dressed formally?,no,yes,0.7905159592628479
+526580021,526580,what is hanging from the ceiling?,lights,light,0.7863225936889648
+526580023,526580,what sport is being shown on the screen?,bowling,none,0.789806604385376
+526580024,526580,does the man have a home?,yes,no,0.7885472774505615
+526580025,526580,is the dark man wearing bracelets?,no,yes,0.7927194237709045
+526580026,526580,are any women in the picture?,no,yes,0.7855831980705261
+526580028,526580,is it sunny out?,no,yes,0.7891963124275208
+526580029,526580,how many people are standing?,2,1,0.7845392823219299
+526580031,526580,what is the man jumping on?,floor,ground,0.7922467589378357
+526580032,526580,what color is the trouser that the man is wearing?,blue,black,0.7917332053184509
+526580033,526580,are there plants in this picture?,no,yes,0.7987691760063171
+2295001,2295,what is the cat looking at?,bowl,man,0.8066816329956055
+2295002,2295,is the cat sleeping?,no,yes,0.8069259524345398
+395512000,395512,are the countertops granite?,yes,no,0.8021766543388367
+264441000,264441,what color is the cat?,white,black,0.759713351726532
+264441001,264441,is the cat uncomfortable?,no,yes,0.7582371234893799
+264441002,264441,this chair will be covered in what?,fur,cloth,0.7623841762542725
+395514000,395514,how mine boys are there?,2,4,0.7901074290275574
+2302001,2302,how many horses are shown?,2,1,0.8964493870735168
+2302002,2302,is the lead person wearing a blue cap?,yes,no,0.8901762962341309
+133377002,133377,is this zebra facing the camera?,no,yes,0.8121219277381897
+133377003,133377,is this animal alive?,yes,no,0.8065572381019592
+133377005,133377,"what is the main part of the building, behind the zebras, made of?",wood,brick,0.8109205365180969
+133377006,133377,how many zebra are in this scene?,2,1,0.8082417845726013
+133380000,133380,what is the bird sitting on?,rocks,flowers,0.8347927927970886
+133380002,133380,what kind of bird is this?,sparrow,finch,0.8373338580131531
+133386006,133386,what are the people standing on?,skateboards,sand,0.7858455181121826
+133386013,133386,how many skateboards in the picture?,10,5,0.7755041718482971
+133386021,133386,what are they practicing?,skateboarding,skating,0.7800644040107727
+264461000,264461,are the patterns of the floor and wall tiles the same?,no,yes,0.7933775782585144
+387001,387,what kind of laptop is this?,asus,apple,0.8238549828529358
+387002,387,does the asus laptop have a white usb cable attached?,yes,no,0.8287785649299622
+387003,387,how many electronics are seen?,3,0,0.8281031250953674
+175151000,175151,is this a 2 lane road?,yes,no,0.7818105816841125
+395550002,395550,what does the cat have on the couch?,remote,pillow,0.8297324776649475
+264482001,264482,are the donuts chocolate flavored?,no,yes,0.757084310054779
+264482003,264482,what kind of food is this?,donut,pizza,0.7570609450340271
+153307001,153307,what kind of flowers?,daisy,none,0.8067586421966553
+133412000,133412,what is the pizza served on?,pan,plate,0.8236575722694397
+133412002,133412,what type of pizza is this?,supreme,cheese,0.8222785592079163
+395557001,395557,are the umbrellas used by one person?,no,yes,0.7827292084693909
+2346000,2346,are the flowers larger than the coin?,no,yes,0.8183112144470215
+526645003,526645,is there a baby giraffe?,no,yes,0.8862949013710022
+526645004,526645,what is the giraffe doing?,walking,standing,0.8798866868019104
+526645005,526645,are these giraffes in the wild?,yes,no,0.8868341445922852
+382345000,382345,does the girl on the right need to fix her swimsuit bottoms?,no,yes,0.7606384754180908
+395575000,395575,is this a pond?,yes,no,0.8302869200706482
+395575003,395575,is this a clear reflection of the sky?,yes,no,0.8269231915473938
+264506000,264506,is the sheep by itself?,no,yes,0.7618064284324646
+264506002,264506,are there any houses visible?,yes,no,0.7536213994026184
+264506004,264506,what is the snow on?,mountain,ground,0.7586604952812195
+264506005,264506,is there snow in this image?,yes,no,0.7569129467010498
+264506006,264506,where is this?,mountains,outside,0.7617409229278564
+526675000,526675,does the room appear clean?,yes,no,0.7882542610168457
+526675001,526675,how many windows are there?,2,1,0.779870331287384
+2388000,2388,who is using the toilet?,no one,nobody,0.7632438540458679
+2388001,2388,is there any privacy in this restroom?,yes,no,0.7545034289360046
+264535002,264535,what color is the bench?,green,brown,0.9047012329101562
+133464000,133464,what is the black object?,laptop,boat,0.8166791796684265
+264540001,264540,what are the green vegetables on the left?,broccoli,peppers,0.8019238114356995
+264540002,264540,what is the cultural origin of the food on the right?,japan,italy,0.8037328720092773
+133470001,133470,what is the girl sitting on?,grass,couch,0.8494299054145813
+133470002,133470,is there water in the scene?,yes,no,0.8502857685089111
+133470004,133470,how many are on the water?,3,0,0.8505280613899231
+133476000,133476,is there coffee in the cup?,no,yes,0.7827791571617126
+133476002,133476,what is in the clear cup?,soda,water,0.7775681614875793
+133476003,133476,what is floating in the drink?,lime,ice,0.7744130492210388
+133476005,133476,are these foods eaten half way?,no,yes,0.7816412448883057
+133476009,133476,is there a fork on the table?,no,yes,0.7783756256103516
+133476010,133476,how many drinks are there?,2,1,0.7747998833656311
+133476016,133476,what is the person drinking?,soda,wine,0.7692353129386902
+133476021,133476,is the food fresh?,yes,no,0.7770557999610901
+395621001,395621,how many people are in the picture?,5,3,0.8122326731681824
+395621004,395621,how many people are there?,5,3,0.8148431181907654
+395621005,395621,are they having pizza at a picnic?,no,yes,0.814412534236908
+395621006,395621,is this a potluck?,yes,no,0.8199706077575684
+395621007,395621,how many baskets are shown?,0,1,0.8139083981513977
+395621008,395621,how many people are in the photo?,5,3,0.8237141966819763
+133485002,133485,how many colors of flowers?,3,2,0.827960729598999
+395634001,395634,is she cute?,no,yes,0.8299362659454346
+395634002,395634,"reading the sign, what is not allowed on this street?",parking,dogs,0.8383490443229675
+395634004,395634,is this woman wearing a flower print dress?,no,yes,0.832043468952179
+264568001,264568,what is the woman doing?,cooking,reading,0.7899684906005859
+264568002,264568,what is she putting in the oven?,pizza,nothing,0.7895346283912659
+395644000,395644,what color is the bedspread?,red,white,0.8394494652748108
+395644001,395644,how many cats are depicted in the picture?,5,2,0.836465060710907
+2431000,2431,is the wine in the glass white?,no,yes,0.7741172313690186
+2431001,2431,what utensil is clearly shown?,knife,fork,0.7794755101203918
+2431002,2431,is there food on the table?,yes,no,0.7801219820976257
+526721000,526721,what is the cat doing?,eating,sleeping,0.7882397770881653
+526721001,526721,what kind of animal is this?,cat,dog,0.7859089970588684
+526721002,526721,what is the cat standing on?,floor,ground,0.7887374758720398
+2434000,2434,how many laptops are there?,2,0,0.7835869789123535
+2434001,2434,are the computers on?,yes,no,0.7850978374481201
+526723003,526723,what color is this person's raincoat?,red,gray,0.78546142578125
+526723005,526723,what is the person sitting on?,grass,chair,0.7864360809326172
+526723008,526723,what color is the jacket?,red,gray,0.7823433876037598
+526723009,526723,what color is the photo?,red,orange,0.7847083210945129
+526723010,526723,what is the woman holding to her head?,phone,nothing,0.790180504322052
+526723011,526723,what kind of clothing is this woman wearing?,jacket,dress,0.7906498908996582
+526723012,526723,what color is the shirt doing?,red,orange,0.7868282198905945
+526723013,526723,what is the girl doing?,sitting,reading,0.7835579514503479
+526723015,526723,is the woman wearing yellow?,no,yes,0.7762386798858643
+526728000,526728,are these people happy?,yes,no,0.8210830688476562
+526728002,526728,what is in front of the people?,luggage,pictures,0.8207785487174988
+502001001,502001,what are the people holding up?,cameras,suitcase,0.8144204020500183
+502001002,502001,how many light are hanging?,3,1,0.8192138671875
+502001003,502001,is there any food on the table?,yes,no,0.8189924359321594
+526732002,526732,are these displayed in a store?,yes,no,0.8317525386810303
+2453001,2453,is the bench wet or dry?,wet,dry,0.845512330532074
+2453002,2453,what is there to sit on?,bench,bed,0.8453827500343323
+264599003,264599,are cars allowed on this street?,yes,no,0.8485429286956787
+264599005,264599,how many trees are on the right side of the picture?,3,1,0.850606381893158
+264599006,264599,is this taken in the winter?,no,yes,0.8514804244041443
+69914001,69914,what are the people doing?,cooking,walking,0.8001018166542053
+69914003,69914,what is the red item on the wall?,apron,sign,0.8031375408172607
+69914005,69914,where is the food located?,table,cart,0.7983995079994202
+69914010,69914,what are the people sitting in?,kitchen,chairs,0.8041055798530579
+526751001,526751,is the water moving?,yes,no,0.8176593780517578
+133537002,133537,how many people are shown?,2,1,0.8156648278236389
+526756002,526756,do all clocks show the same time?,no,yes,0.8290438652038574
+502854000,502854,are there real trees?,no,yes,0.8148401379585266
+502854001,502854,is this indoors?,yes,no,0.8141471743583679
+502854002,502854,what is the woman doing?,smiling,walking,0.823692262172699
+264615004,264615,is there a fence in the picture?,yes,no,0.8010472655296326
+65948002,65948,was this photo taken in the daytime?,yes,no,0.7872782349586487
+526762001,526762,how many animals are there?,4,5,0.8498024940490723
+526762002,526762,what are these people riding on?,elephants,bikes,0.8519001007080078
+264619000,264619,is this a colorful picture?,no,yes,0.783745288848877
+264619002,264619,how many kites are up?,4,1,0.7933764457702637
+264619003,264619,how many sails are in the sky?,4,0,0.7948753833770752
+2477000,2477,does the man have good posture?,no,yes,0.7921035885810852
+2477001,2477,what is the man doing?,typing,sitting,0.7938031554222107
+2477002,2477,what is behind the man?,dog,umbrella,0.7892208695411682
+526767002,526767,what color is the restroom?,gray,white,0.7966647744178772
+526767007,526767,would two be cramped in here?,no,yes,0.7993016242980957
+264625000,264625,are these flowers daffodils?,yes,no,0.8768221735954285
+264625001,264625,what color are the flowers?,pink,red,0.8772275447845459
+264625003,264625,"will these petals eventually open out flat, like a daisy?",no,yes,0.8762497901916504
+395701000,395701,is there a red chair in the photo?,yes,no,0.7866547703742981
+133559002,133559,what are they doing?,baseball,walking,0.8673496246337891
+526778001,526778,what color are the bottom of the skies?,gray,black,0.8100913166999817
+133567000,133567,what color is the train?,blue,gray,0.8169300556182861
+133567001,133567,what is the man looking at?,train,hat,0.8198344707489014
+133567003,133567,is the train moving?,yes,no,0.8206772208213806
+133571000,133571,what color is the horse?,white,brown,0.7617147564888
+133571002,133571,what kind of landform is in the distance?,hill,mountain,0.7470782399177551
+133571003,133571,how many animals are in the photo?,1,0,0.7589405179023743
+133571004,133571,how many horses?,1,0,0.7631780505180359
+395717000,395717,is there land in the back?,no,yes,0.8095369935035706
+576200001,576200,what is the fence made out of?,wood,wire,0.8745655417442322
+576200002,576200,how many animals are there?,7,3,0.8692991137504578
+264659000,264659,what are the birds standing on?,car,table,0.7788159847259521
+264659002,264659,how can you tell this is a tropical location?,trees,no,0.7883420586585999
+264659003,264659,are there any people in the street?,yes,no,0.7827488780021667
+2521014,2521,what should one do when approaching the sign?,one way,stop,0.821850597858429
+133596002,133596,where is this taking place?,beach,city,0.802635908126831
+2529001,2529,how many cars are shown?,2,1,0.819847822189331
+2529006,2529,what color car in background?,black,white,0.8224100470542908
+2532002,2532,how cold is it?,very,cold,0.8034659028053284
+395749000,395749,what filter is being used in this image?,black and white,old,0.7976508736610413
+395749001,395749,are all the people elderly?,no,yes,0.8056042790412903
+395749002,395749,how many people can be seen?,4,3,0.8053507208824158
+395749004,395749,how many people are in the photo?,4,3,0.7957881093025208
+395752000,395752,what color are the mums in the front of the photo?,red,pink,0.8332697749137878
+395752003,395752,what color are the hubcaps?,red,silver,0.837110698223114
+264683000,264683,is this airplane inside?,yes,no,0.8463056087493896
+264686000,264686,how many side tables are there?,2,0,0.8132507801055908
+264686001,264686,how many windows are on the wall?,3,2,0.8110654950141907
+133620003,133620,is the woman happy?,yes,no,0.7764360308647156
+526837000,526837,is this man dressed for the weather?,yes,no,0.7826409935951233
+133622001,133622,what is the yellow topping?,cheese,banana,0.7921271920204163
+133622004,133622,what is the green topping?,broccoli,leaves,0.7856819033622742
+133622005,133622,what is the yellow item pictured?,cheese,building,0.7951331734657288
+133622007,133622,what vegetable is this?,broccoli,carrot,0.7938976883888245
+22271001,22271,are there people in the picture?,yes,no,0.7890731692314148
+133629002,133629,how many chairs have wheels?,1,2,0.7722601294517517
+133629003,133629,is this chair in the way of people who might walk through?,no,yes,0.7735750079154968
+133636006,133636,how many meters are there?,2,1,0.7886602878570557
+133645000,133645,is there someone on the bench?,no,yes,0.8000715374946594
+264718002,264718,which side of the sign is the road on?,right,left,0.7700059413909912
+264718005,264718,what phone number is on the sign?,0,2,0.7683281898498535
+133648000,133648,is the bat blue?,yes,no,0.8071070313453674
+133648003,133648,which game are they playing?,baseball,wii,0.7967448234558105
+459182000,459182,what are they carrying?,surfboards,blanket,0.7844262719154358
+459182001,459182,what is in the foreground?,rocks,couch,0.7875354290008545
+459182002,459182,how many people are there?,2,0,0.7846994400024414
+395801000,395801,is it morning or evening?,morning,evening,0.7879341244697571
+395801003,395801,how many people are in the picture?,7,0,0.7834870219230652
+2587000,2587,which food contains the most potassium?,banana,cat,0.7786949276924133
+2587001,2587,what is not healthy in the baggie?,donut,cat,0.778812825679779
+2587002,2587,is the donut filled?,no,yes,0.7731616497039795
+2592002,2592,what is the word on the mug?,pirate,skull,0.8235653042793274
+2592003,2592,is there a knife in the photo?,yes,no,0.8154506683349609
+131504002,131504,what color are the clock hands?,gold,black,0.7611269950866699
+133667000,133667,what is covering the floor?,rug,tile,0.7820088267326355
+133667002,133667,what is hanging on the ceiling?,flag,clock,0.7798475623130798
+526892002,526892,is the man wearing footwear?,no,yes,0.7941643595695496
+133679001,133679,is the floor clean?,yes,no,0.806037425994873
+133679002,133679,is there a window?,yes,no,0.7915378212928772
+133680001,133680,does this motorcycle have a special name?,no,yes,0.8738395571708679
+133680006,133680,is this in the usa?,yes,no,0.8712975978851318
+133680009,133680,how many people are on bikes?,0,1,0.8707907795906067
+264753001,264753,how many doors in this scene?,2,1,0.8169477581977844
+264753002,264753,what type of vehicle is this?,train,airplane,0.8192687630653381
+2613001,2613,what is the surface?,water,glass,0.8475647568702698
+2613002,2613,is the person surfing?,yes,no,0.8496777415275574
+2613003,2613,is there a bird in this picture?,no,yes,0.8501861095428467
+2613006,2613,how many people are swimming?,1,0,0.8531732559204102
+2613011,2613,how many surfer are there?,2,0,0.8469080328941345
+2613012,2613,how many people are in the picture?,2,0,0.8515956997871399
+395831000,395831,what food is this?,donuts,banana,0.7651737332344055
+133690000,133690,what is the woman snuggling with?,dog,cat,0.796895444393158
+133690006,133690,what is the doing hugging?,dog,cat,0.7931215763092041
+133693001,133693,what block is this street sign on?,5,brick,0.7882122993469238
+133693002,133693,what is the tall round object named?,light,clock,0.7815844416618347
+133693007,133693,is it cloudy?,yes,no,0.7806107401847839
+133693010,133693,what kind of light is that?,street,dark,0.777779757976532
+133693011,133693,what are those things on the poles?,signs,cloth,0.7771487236022949
+133693012,133693,are right turned allowed?,yes,no,0.7762052416801453
+133693013,133693,what no is written in yellow?,5,1,0.7782343029975891
+133693014,133693,what type of weather is here?,cloudy,clear,0.7787463665008545
+133693016,133693,how many yellow signs?,1,one,0.7808884978294373
+133693017,133693,does this picture need to be rotated?,no,yes,0.7899672985076904
+133693018,133693,is it cloudy or clear?,cloudy,clear,0.7837039828300476
+133693020,133693,what number is on the building?,5,2,0.7810328006744385
+133693021,133693,is there a watermark on the picture?,no,yes,0.7712099552154541
+133693022,133693,what is the block number?,5,100,0.7841073870658875
+264769003,264769,what color are the candles?,blue,white,0.8216381072998047
+264769005,264769,are the scissors open or closed?,closed,open,0.822889506816864
+264769006,264769,where are the tiny scissors?,on table,table,0.8263768553733826
+264769009,264769,what color are the pliers?,red,silver,0.8283187747001648
+264769010,264769,what room is the picture taken in?,living room,kitchen,0.8257048726081848
+133698002,133698,is this a split pizza order?,yes,no,0.8474511504173279
+264771000,264771,what sport is the man participating in?,skateboarding,none,0.7950766682624817
+264771002,264771,is this person standing still?,no,yes,0.7983648180961609
+395849001,395849,what color stands out the most in the photo?,red,blue,0.7914459109306335
+395849002,395849,what color is the tip of the plane?,black,white,0.7791635990142822
+395849003,395849,what symbol is on the side of the plane?,star,none,0.777505099773407
+395849004,395849,what color is on the plane to the right?,silver,red,0.7836328148841858
+133707000,133707,what is the animal sleeping on?,bench,bed,0.8277177214622498
+133707003,133707,what is the cat laying on?,bench,table,0.8347034454345703
+2640001,2640,what color is the stripe on the train?,red,black,0.8143876194953918
+2640002,2640,are there skyscrapers?,no,yes,0.8100720047950745
+264787000,264787,what color are the cat's eyes?,yellow,green,0.8224606513977051
+526933000,526933,is the man bored?,no,yes,0.8137899041175842
+526933002,526933,does the man have facial hair?,no,yes,0.8184059262275696
+395865000,395865,what is the avenue name?,elm,unknown,0.89668208360672
+395865001,395865,what color are the blossoms on the flowers under the tree?,yellow,pink,0.8940074443817139
+526940000,526940,why is the woman looking up?,banana,phone,0.7734448313713074
+526940002,526940,what is she holding?,banana,phone,0.7765674591064453
+526940003,526940,what is the woman eating?,banana,pizza,0.7760615944862366
+262587001,262587,what is this person standing on?,surfboard,skateboard,0.7652323842048645
+262587002,262587,how many of the surfer's hands can you see in the picture?,1,0,0.7577841281890869
+264805000,264805,what is the sink countertop made out of?,porcelain,marble,0.7932045459747314
+264805001,264805,where are the cups in the picture?,no,table,0.7878134846687317
+264805002,264805,what is on the shelf to the right?,towels,books,0.7988264560699463
+526956001,526956,what do you do with these?,eat,shade,0.8071701526641846
+526962000,526962,does the cat appear to be looking at an object in the distance?,no,yes,0.7769465446472168
+526962001,526962,what kind of animal is this?,cat,bear,0.7702262997627258
+526962002,526962,is this a cat?,yes,no,0.7754068970680237
+526962003,526962,what fruit is in the picture?,banana,apple,0.7716951370239258
+526962005,526962,what type of fruit toy is the cat holding?,banana,none,0.7674045562744141
+526962006,526962,what type of stuffed animal lays near the cat?,banana,none,0.7727357745170593
+526962008,526962,is the cat being silly?,yes,no,0.7836530208587646
+526962012,526962,does a cat have a collar?,no,yes,0.7784455418586731
+526962014,526962,is this a comfortable sleeping position for this cat?,yes,no,0.7792143821716309
+526962016,526962,what is the cat looking into?,camera,window,0.7742407917976379
+264819001,264819,what sort of shape has been made for the skateboarder to use?,ramp,circle,0.7837150692939758
+264819003,264819,are there spotlights?,yes,no,0.7889180183410645
+133750001,133750,what type of animal is pictured?,zebra,cat,0.7691147327423096
+2684000,2684,how many zebras are facing the camera?,1,2,0.8764862418174744
+2684001,2684,are there zebra's in the wild?,yes,no,0.8796300888061523
+2685000,2685,what color are the girl's pants?,black,yellow,0.7994306683540344
+2685001,2685,is this a wine tasting?,yes,no,0.790431022644043
+484551002,484551,what does the woman wear on her hand so she will know when it's about to get dark?,watch,ring,0.8147239685058594
+395903000,395903,how many surfer are there?,1,0,0.861774742603302
+395903003,395903,is he going into the ocean?,yes,no,0.8638782501220703
+395904001,395904,what is the man holding?,turkey,phone,0.8031322360038757
+395904003,395904,what is she holding?,turkey,umbrella,0.7990757822990417
+395904004,395904,is this a private kitchen?,yes,no,0.8029881119728088
+2690001,2690,could this roof be tiled?,yes,no,0.7940319180488586
+133778000,133778,are the calf and the mom the same color?,no,yes,0.8300247192382812
+264853000,264853,what is covering the man's eyes?,visor,glasses,0.7855336666107178
+264853001,264853,what color shorts is the man wearing?,blue,tan,0.7906983494758606
+264853005,264853,is this man dressed appropriately for tennis?,yes,no,0.786765992641449
+395928001,395928,is this bench overlooking the ocean?,yes,no,0.8929168581962585
+395928003,395928,are there flowers on the divider?,no,yes,0.8911676406860352
+527002004,527002,is the man in the water?,yes,no,0.7578089833259583
+109679002,109679,what color is his hat?,orange,brown,0.8285491466522217
+264870001,264870,what is beside the appliance?,trash can,toilet,0.7660849690437317
+264870002,264870,is the freezer on top?,no,yes,0.7747817039489746
+527022000,527022,how many people?,1,2,0.8270339965820312
+527022003,527022,are they in a park?,no,yes,0.8247770667076111
+527025001,527025,what is across the doorway?,ribbon,nothing,0.8170753121376038
+527025002,527025,what color is the wall?,orange,brown,0.8220387101173401
+527029002,527029,what is in the crates?,bananas,flowers,0.7996664047241211
+283785000,283785,what is the person speaking to the children dressed as?,bear,santa,0.8254756927490234
+283785002,283785,what is the man wearing?,costume,suit,0.8320944905281067
+133821001,133821,what is the peacock standing on?,bricks,ground,0.8689509034156799
+527038001,527038,is it raining?,yes,no,0.9264928698539734
+133827002,133827,how many tracks?,0,1,0.8174939751625061
+133827006,133827,what kind of buildings line the walkway?,apartments,church,0.8052625060081482
+133827009,133827,do the power lines go through the magnolia tree?,no,yes,0.8041899800300598
+133827010,133827,are any of these buildings unusually shaped?,no,yes,0.8042334914207458
+133827014,133827,how many traffic lights are visible?,0,2,0.8136026859283447
+133827016,133827,what are they selling on the left side of the street?,nothing,flowers,0.8086414337158203
+133827018,133827,is this scene in the united states?,yes,no,0.8026289343833923
+133827020,133827,what type of road do you see?,paved,dirt,0.8081746101379395
+395978002,395978,what season might this be in?,winter,summer,0.8042472004890442
+568439000,568439,is the man wearing a tie with his suit?,no,yes,0.8345253467559814
+264909000,264909,are sheep similar to clouds?,no,yes,0.8049988150596619
+264909002,264909,is this a black and white photo?,yes,no,0.8069615960121155
+527054001,527054,is it raining?,yes,no,0.8273318409919739
+527060000,527060,what are the candles for?,birthday,decoration,0.8283636569976807
+527060001,527060,is there a man in the picture?,yes,no,0.8260204195976257
+264919002,264919,what is in the mans right hand?,phone,umbrella,0.7880319952964783
+527064002,527064,is this pizza homemade?,yes,no,0.8418855667114258
+305609000,305609,is this breakfast?,yes,no,0.7706906199455261
+305609001,305609,which meal of the day is represented in this picture?,breakfast,dinner,0.7778620719909668
+305609002,305609,are the people finished eating?,no,yes,0.7683473229408264
+305609004,305609,what is on the center plate?,bacon,food,0.7638203501701355
+133867001,133867,what animal is in this photo?,elephant,dog,0.8232522010803223
+264940001,264940,what design is on this hydrant?,stars,star,0.8235196471214294
+133869000,133869,is it raining in the photo?,yes,no,0.8023163676261902
+133869004,133869,would someone on a balcony have difficulty seeing this?,no,yes,0.8072983622550964
+527086000,527086,how many men are sitting at the table?,9,4,0.8088605403900146
+527086003,527086,is this a college reunion?,no,yes,0.8061767220497131
+527086005,527086,is this an old picture?,no,yes,0.8088304996490479
+264948001,264948,what kind of tennis court is she playing on?,clay,pink,0.8261814713478088
+264957001,264957,how many mirrors are in the room?,2,1,0.8134732842445374
+2822000,2822,how do we know this picture is being taken from the road?,stop sign,sign,0.7830004096031189
+2822001,2822,is the grass tall?,yes,no,0.7846331596374512
+2822002,2822,do the clouds look stormy?,yes,no,0.7709758281707764
+264968006,264968,what is the man holding?,bat,glove,0.7995634078979492
+264976000,264976,what animal is this?,cat,bird,0.7671265602111816
+264976001,264976,is the toilet paper roll full?,no,yes,0.7637403607368469
+396051000,396051,is this a city?,no,yes,0.7814108729362488
+396051001,396051,what colors are the stripes on the light pole?,red,orange,0.7763137221336365
+396051002,396051,when is this picture taken at?,airport,daytime,0.7683873176574707
+396051003,396051,are all of the lights on?,no,yes,0.7828391194343567
+2839000,2839,is the child looking to the left?,no,yes,0.782841682434082
+264992002,264992,how many baskets are there?,2,1,0.7850289940834045
+153392000,153392,what color is the sky?,blue,gray,0.7660624384880066
+396068001,396068,is the woman playing video games?,yes,no,0.7891349792480469
+571847002,571847,is someone looking at a phone?,yes,no,0.7946712970733643
+133927008,133927,has the ball begun its journey?,no,yes,0.7636234164237976
+133928002,133928,how many boats are in the water?,1,0,0.773683488368988
+133928003,133928,what is the yellow boat shaped like?,swan,boat,0.7782219052314758
+133928009,133928,what color is the water?,green,blue,0.7822551131248474
+265001000,265001,how many birds are on the branch?,2,1,0.7685534954071045
+265003003,265003,what kind of toy does the dog have?,hat,none,0.836733877658844
+265003006,265003,is this an adult dog?,yes,no,0.8399775624275208
+133933000,133933,is this a well-lit room?,yes,no,0.7852097153663635
+133933001,133933,what kind of scene is this?,family,indoor,0.7894342541694641
+133933003,133933,where are the children?,living room,bedroom,0.7899575233459473
+133933004,133933,what type of floor is she standing on?,carpet,wood,0.7957773804664612
+133933008,133933,what is hanging on the wall behind the girl?,curtains,purse,0.7856261134147644
+133933011,133933,how many children are sitting on the floor?,0,2,0.791353702545166
+133933017,133933,what animal print is seen on her belt?,none,leopard,0.7893808484077454
+133933018,133933,what color is the girl's hair?,brown,black,0.7865578532218933
+133933035,133933,what color are the walls?,white,brown,0.7846941947937012
+133933038,133933,are these girls dressed for bed?,no,yes,0.7864180207252502
+527164001,527164,what colors is the diamond shaped sign?,white,yellow,0.8135931491851807
+527164002,527164,is it a clear day?,yes,no,0.8062703013420105
+396094000,396094,what kind of animal is hiding in the bag?,cat,human,0.8086399435997009
+396094001,396094,what color is the bag?,black,brown,0.8143952488899231
+396094002,396094,is the floor wooden?,no,yes,0.809579610824585
+2881005,2881,are there many clouds in the sky?,no,yes,0.799288809299469
+133963001,133963,what are the men playing?,wii,polo,0.8160082697868347
+2894001,2894,is it sunny?,yes,no,0.8390673995018005
+2894004,2894,how many trains are shown?,2,1,0.8310198783874512
+527193001,527193,what is standing between the two elephants?,pole,fence,0.819021463394165
+527193003,527193,what are these elephants doing?,playing,standing,0.8142020106315613
+240783002,240783,can you see brownies?,yes,no,0.7793036103248596
+265063002,265063,what number of men are wearing reflective outfits?,2,1,0.8424162268638611
+265063004,265063,how is the street?,empty,busy,0.8378534913063049
+265066002,265066,how tall is the person in front?,short,tall,0.7623591423034668
+265066003,265066,what is the number displayed on the person in the back?,80,30,0.7617476582527161
+265066005,265066,what number is on the skier's jersey?,80,30,0.7673771977424622
+133995002,133995,is this picture taken outside or inside?,outside,inside,0.8358820080757141
+527215000,527215,what is the person in the white shirt doing?,flying kite,walking,0.8337058424949646
+527215001,527215,what is in the sky?,kite,clouds,0.8325921893119812
+134001000,134001,is it cloudy?,yes,no,0.8277447819709778
+134001001,134001,how many floors are on this building?,3,5,0.8252556920051575
+527219002,527219,is the candle burning?,no,yes,0.7977667450904846
+134010002,134010,is the grass overgrown on the tracks?,no,yes,0.8392130732536316
+134010003,134010,how many of the trains cars have red on them?,2,1,0.8366227149963379
+134010006,134010,how many train cars are on this train?,3,2,0.8502368927001953
+134010007,134010,how many train cars are in the image?,3,2,0.8425042033195496
+134010010,134010,how many red train cars?,2,0,0.8479246497154236
+134010011,134010,how many train cars are visible?,3,2,0.8389506340026855
+134010013,134010,is the train moving or still?,moving,still,0.8475494980812073
+134010016,134010,how many people are visible in the photo?,0,1,0.8451345562934875
+134010017,134010,is this a train station?,no,yes,0.8437051773071289
+134016001,134016,what vegetable is most prominent within the white bowl?,beans,peas,0.8077361583709717
+134016002,134016,is the food ready?,yes,no,0.807940661907196
+134016003,134016,is there a tablecloth on the table?,no,yes,0.8031616806983948
+396167000,396167,what pattern is on the uniform?,solid,stripes,0.7840783596038818
+265096002,265096,does he have snuffleupagus eyelashes?,no,yes,0.8367578387260437
+265096004,265096,how many elephants are there?,1,2,0.8404838442802429
+527248000,527248,how many clocks in the tower?,1,2,0.8277255892753601
+527248003,527248,what kind of an event is this?,festival,fair,0.8282790184020996
+371864000,371864,what kind of computer is this?,desktop,laptop,0.7663555145263672
+371864002,371864,how many seats does this table have?,1,2,0.7705067992210388
+371864003,371864,what color is the keyboard in this photo?,white,black,0.7701618075370789
+371864004,371864,is the lid attached to the starbucks cup in the photo?,no,yes,0.7705256938934326
+371864006,371864,is there a coffee cup behind the phone?,yes,no,0.762572705745697
+134034002,134034,are both horses grazing?,yes,no,0.8962967395782471
+134034003,134034,are both of these animals horses?,yes,no,0.8974621891975403
+87875002,87875,what color is the yellow fire hydrant?,blue,yellow,0.8298187255859375
+265108000,265108,what is the black-and-white object beneath the red balloon?,umbrella,backpack,0.8484430313110352
+134042000,134042,is this a big airplane?,yes,no,0.7537453770637512
+2972002,2972,how many trains on the track?,2,1,0.8017309308052063
+265125000,265125,what is the woman holding?,umbrella,phone,0.7747249603271484
+265125001,265125,where is the woman putting her umbrella?,trunk,basket,0.7747790217399597
+265125002,265125,what color is the umbrella?,black,white,0.7764149308204651
+265125003,265125,what shape is the umbrella's handle?,straight,round,0.7758591175079346
+527270002,527270,is the bench being dedicated?,no,yes,0.8697969317436218
+527270003,527270,do these men know each other?,no,yes,0.8729138374328613
+527270004,527270,which hand is he holding up?,left,right,0.8742055892944336
+527270005,527270,what color is the photo?,black and white,gray,0.873929500579834
+527270009,527270,how many people are sitting on the bench?,1,2,0.8668716549873352
+396200001,396200,what is the young man carrying?,camera,skateboard,0.8335219025611877

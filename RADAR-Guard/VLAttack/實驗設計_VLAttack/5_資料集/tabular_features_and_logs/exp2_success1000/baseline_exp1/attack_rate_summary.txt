@@ -1,0 +1,12 @@
+VLAttack VQA Attack Rate Summary
+Total samples: 1000
+Attack success (no defense): 462 / 1000
+Attack success rate (ASR): 46.20%
+Mean SSIM (original vs attack): 0.8003
+
+Residual ASR under defense (among originally successful attacks):
+  - mild_defense: 344/462 (74.46%)
+  - strong_defense: 206/462 (44.59%)
+  - gaussian_mild: 264/462 (57.14%)
+  - gaussian_strong: 171/462 (37.01%)
+  - resize_gaussian: 191/462 (41.34%)
