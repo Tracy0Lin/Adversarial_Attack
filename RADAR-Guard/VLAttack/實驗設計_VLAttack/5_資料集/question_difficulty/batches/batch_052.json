@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262682013",
+    "question": "how many ovens are in this kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682013_1_ori.png"
+  },
+  {
+    "question_id": "262682014",
+    "question": "is this a modern style kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682014_1_ori.png"
+  },
+  {
+    "question_id": "262682015",
+    "question": "where is the setting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682015_1_ori.png"
+  },
+  {
+    "question_id": "262682016",
+    "question": "is there a person in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682016_1_ori.png"
+  },
+  {
+    "question_id": "262682017",
+    "question": "how many burners are occupied in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682017_1_ori.png"
+  },
+  {
+    "question_id": "262682020",
+    "question": "what is on the floor in front of the stove?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682020_1_ori.png"
+  },
+  {
+    "question_id": "262682021",
+    "question": "are there pots in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682021_1_ori.png"
+  },
+  {
+    "question_id": "262686000",
+    "question": "are they going on a trip together?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686000_1_ori.png"
+  },
+  {
+    "question_id": "262686002",
+    "question": "what is one thing the person in the background is selling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686002_1_ori.png"
+  },
+  {
+    "question_id": "262686003",
+    "question": "what color are his plastic bins?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686003_1_ori.png"
+  },
+  {
+    "question_id": "262686004",
+    "question": "does the man have a knife in his hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686004_1_ori.png"
+  },
+  {
+    "question_id": "262686005",
+    "question": "what color is the vehicle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686005_1_ori.png"
+  },
+  {
+    "question_id": "262686006",
+    "question": "what fruits are in the plastic bins?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686006_1_ori.png"
+  },
+  {
+    "question_id": "262686007",
+    "question": "are there a lot of carrots?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262686007_1_ori.png"
+  },
+  {
+    "question_id": "262703000",
+    "question": "what has happened?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262703000_1_ori.png"
+  },
+  {
+    "question_id": "262703001",
+    "question": "why is this person leaning down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262703001_1_ori.png"
+  },
+  {
+    "question_id": "262703004",
+    "question": "what color is the person's coat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262703004_1_ori.png"
+  },
+  {
+    "question_id": "262703005",
+    "question": "is there snow in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262703005_1_ori.png"
+  },
+  {
+    "question_id": "262736001",
+    "question": "what toy is the dog playing with?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262736001_1_ori.png"
+  },
+  {
+    "question_id": "262738000",
+    "question": "what is this person on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262738000_1_ori.png"
+  }
+]

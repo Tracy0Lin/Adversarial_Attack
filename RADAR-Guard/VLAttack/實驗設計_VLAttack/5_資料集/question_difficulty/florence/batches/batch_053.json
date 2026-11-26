@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526364003",
+    "question": "are there lights on behind the door?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526364003_1_ori.png"
+  },
+  {
+    "question_id": "526364004",
+    "question": "how many types of fruit can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526364004_1_ori.png"
+  },
+  {
+    "question_id": "544007",
+    "question": "does the catcher have his glove on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\544007_1_ori.png"
+  },
+  {
+    "question_id": "544008",
+    "question": "why are these three men in a line?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\544008_1_ori.png"
+  },
+  {
+    "question_id": "546203002",
+    "question": "can anyone ski in this place?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\546203002_1_ori.png"
+  },
+  {
+    "question_id": "546292000",
+    "question": "what time is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\546292000_1_ori.png"
+  },
+  {
+    "question_id": "546292002",
+    "question": "will the clock fall on someone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\546292002_1_ori.png"
+  },
+  {
+    "question_id": "554340001",
+    "question": "has the donut been eaten?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\554340001_1_ori.png"
+  },
+  {
+    "question_id": "568191001",
+    "question": "what type of bird is that?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\568191001_1_ori.png"
+  },
+  {
+    "question_id": "568191002",
+    "question": "what color is the bird?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\568191002_1_ori.png"
+  },
+  {
+    "question_id": "568315003",
+    "question": "is the ground grassy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\568315003_1_ori.png"
+  },
+  {
+    "question_id": "569000",
+    "question": "is this a color photograph?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\569000_1_ori.png"
+  },
+  {
+    "question_id": "569003",
+    "question": "is this a skate park?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\569003_1_ori.png"
+  },
+  {
+    "question_id": "569008",
+    "question": "what color are the flowers in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\569008_1_ori.png"
+  },
+  {
+    "question_id": "623000",
+    "question": "what is the color of the bears apron?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\623000_1_ori.png"
+  },
+  {
+    "question_id": "623001",
+    "question": "is the bear real?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\623001_1_ori.png"
+  },
+  {
+    "question_id": "623003",
+    "question": "is there a tag still on the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\623003_1_ori.png"
+  },
+  {
+    "question_id": "626002",
+    "question": "are the windows of the building open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\626002_1_ori.png"
+  },
+  {
+    "question_id": "626003",
+    "question": "how many clocks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\626003_1_ori.png"
+  },
+  {
+    "question_id": "632001",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\632001_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262738003",
+    "question": "are they the same person?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262738003_1_ori.png"
+  },
+  {
+    "question_id": "262738004",
+    "question": "what brand is the computer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262738004_1_ori.png"
+  },
+  {
+    "question_id": "262746000",
+    "question": "how many trees are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262746000_1_ori.png"
+  },
+  {
+    "question_id": "262746002",
+    "question": "what is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262746002_1_ori.png"
+  },
+  {
+    "question_id": "262758000",
+    "question": "what color is the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262758000_1_ori.png"
+  },
+  {
+    "question_id": "262800000",
+    "question": "is the plane gray?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262800000_1_ori.png"
+  },
+  {
+    "question_id": "262800001",
+    "question": "is it evening?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262800001_1_ori.png"
+  },
+  {
+    "question_id": "262800003",
+    "question": "is this a jet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262800003_1_ori.png"
+  },
+  {
+    "question_id": "262800006",
+    "question": "is the people on the plane tourists?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262800006_1_ori.png"
+  },
+  {
+    "question_id": "262873000",
+    "question": "what color is the man's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262873000_1_ori.png"
+  },
+  {
+    "question_id": "262873001",
+    "question": "how many people in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262873001_1_ori.png"
+  },
+  {
+    "question_id": "262873004",
+    "question": "what season is most likely shown here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262873004_1_ori.png"
+  },
+  {
+    "question_id": "262873005",
+    "question": "is the ground covered in sand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262873005_1_ori.png"
+  },
+  {
+    "question_id": "262873006",
+    "question": "what is the man riding on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262873006_1_ori.png"
+  },
+  {
+    "question_id": "262895000",
+    "question": "is part of the man's face missing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262895000_1_ori.png"
+  },
+  {
+    "question_id": "262895003",
+    "question": "what color is their hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262895003_1_ori.png"
+  },
+  {
+    "question_id": "262895007",
+    "question": "what is he wearing over his shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262895007_1_ori.png"
+  },
+  {
+    "question_id": "262895009",
+    "question": "is the hair color natural?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262895009_1_ori.png"
+  },
+  {
+    "question_id": "262895012",
+    "question": "what color is this man's hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262895012_1_ori.png"
+  },
+  {
+    "question_id": "262895014",
+    "question": "is he happy or sad?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262895014_1_ori.png"
+  }
+]

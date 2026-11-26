@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524621019",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621019_1_ori.png"
+  },
+  {
+    "question_id": "524621020",
+    "question": "is the giraffe carrying any passengers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621020_1_ori.png"
+  },
+  {
+    "question_id": "524621021",
+    "question": "how many giraffe's are in the shot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621021_1_ori.png"
+  },
+  {
+    "question_id": "524621023",
+    "question": "is the animal in an enclosure?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621023_1_ori.png"
+  },
+  {
+    "question_id": "524621024",
+    "question": "animal, vegetable or mineral?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621024_1_ori.png"
+  },
+  {
+    "question_id": "524621027",
+    "question": "what design does the giraffe have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621027_1_ori.png"
+  },
+  {
+    "question_id": "524621029",
+    "question": "is the giraffe standing up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621029_1_ori.png"
+  },
+  {
+    "question_id": "524627000",
+    "question": "are there any teenagers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524627000_1_ori.png"
+  },
+  {
+    "question_id": "524637001",
+    "question": "are there magazines on the toilet tank?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524637001_1_ori.png"
+  },
+  {
+    "question_id": "524637003",
+    "question": "what is this object called?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524637003_1_ori.png"
+  },
+  {
+    "question_id": "524637004",
+    "question": "is the floor tiled or hardwood?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524637004_1_ori.png"
+  },
+  {
+    "question_id": "524637005",
+    "question": "is the toilet clean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524637005_1_ori.png"
+  },
+  {
+    "question_id": "524637006",
+    "question": "is this a dormitory restroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524637006_1_ori.png"
+  },
+  {
+    "question_id": "524637007",
+    "question": "what is missing on this toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524637007_1_ori.png"
+  },
+  {
+    "question_id": "524638000",
+    "question": "is there a boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524638000_1_ori.png"
+  },
+  {
+    "question_id": "524638001",
+    "question": "is the boy dressed for sports?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524638001_1_ori.png"
+  },
+  {
+    "question_id": "524638002",
+    "question": "what color is the frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524638002_1_ori.png"
+  },
+  {
+    "question_id": "524642000",
+    "question": "is the room cluttered?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524642000_1_ori.png"
+  },
+  {
+    "question_id": "524642001",
+    "question": "how many cats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524642001_1_ori.png"
+  },
+  {
+    "question_id": "524642003",
+    "question": "what other items are on the shelf other than books?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524642003_1_ori.png"
+  }
+]

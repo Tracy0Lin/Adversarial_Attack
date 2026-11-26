@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131856000",
+    "question": "is it a cloudy day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131856000_1_ori.png"
+  },
+  {
+    "question_id": "131856001",
+    "question": "what landform is in the distance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131856001_1_ori.png"
+  },
+  {
+    "question_id": "131869000",
+    "question": "what is the court's surface made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131869000_1_ori.png"
+  },
+  {
+    "question_id": "131869001",
+    "question": "what sport is being played?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131869001_1_ori.png"
+  },
+  {
+    "question_id": "131869002",
+    "question": "what color is the person's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131869002_1_ori.png"
+  },
+  {
+    "question_id": "131895000",
+    "question": "is the zebra asleep?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131895000_1_ori.png"
+  },
+  {
+    "question_id": "131895002",
+    "question": "is this a lone zebra?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131895002_1_ori.png"
+  },
+  {
+    "question_id": "131895003",
+    "question": "is the zebra inside of an enclosure?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131895003_1_ori.png"
+  },
+  {
+    "question_id": "131919000",
+    "question": "is the woman wearing a backpack or shoulder bag?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131919000_1_ori.png"
+  },
+  {
+    "question_id": "131919001",
+    "question": "is there a child in the bike seat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131919001_1_ori.png"
+  },
+  {
+    "question_id": "131919002",
+    "question": "is the woman riding on the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131919002_1_ori.png"
+  },
+  {
+    "question_id": "131920000",
+    "question": "is the anything in the blender?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131920000_1_ori.png"
+  },
+  {
+    "question_id": "131920001",
+    "question": "what color is the blender?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131920001_1_ori.png"
+  },
+  {
+    "question_id": "131938001",
+    "question": "what are the white things in the cats face?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131938001_1_ori.png"
+  },
+  {
+    "question_id": "131938002",
+    "question": "are the cat's eyes green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131938002_1_ori.png"
+  },
+  {
+    "question_id": "131938004",
+    "question": "is the cat really wearing a necktie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131938004_1_ori.png"
+  },
+  {
+    "question_id": "131938006",
+    "question": "is this an ironic photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131938006_1_ori.png"
+  },
+  {
+    "question_id": "131938007",
+    "question": "is this cat snuggling with a teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131938007_1_ori.png"
+  },
+  {
+    "question_id": "131938009",
+    "question": "does the cat look happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131938009_1_ori.png"
+  },
+  {
+    "question_id": "131965000",
+    "question": "what color is the snow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131965000_1_ori.png"
+  }
+]

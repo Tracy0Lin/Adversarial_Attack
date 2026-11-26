@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133149000",
+    "question": "is this bird in mid flight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133149000_1_ori.png"
+  },
+  {
+    "question_id": "133195001",
+    "question": "is it possible ships would note this tower from afar?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133195001_1_ori.png"
+  },
+  {
+    "question_id": "133195004",
+    "question": "can you see sand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133195004_1_ori.png"
+  },
+  {
+    "question_id": "133210000",
+    "question": "how many young men are standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133210000_1_ori.png"
+  },
+  {
+    "question_id": "133233002",
+    "question": "where is the fog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133233002_1_ori.png"
+  },
+  {
+    "question_id": "133237002",
+    "question": "are they in their natural environment?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133237002_1_ori.png"
+  },
+  {
+    "question_id": "133251001",
+    "question": "what kind of dog is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251001_1_ori.png"
+  },
+  {
+    "question_id": "133251004",
+    "question": "is this a picture taken recently?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251004_1_ori.png"
+  },
+  {
+    "question_id": "133251008",
+    "question": "what breed of dog is this canine?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251008_1_ori.png"
+  },
+  {
+    "question_id": "133251010",
+    "question": "what is the animal inside of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251010_1_ori.png"
+  },
+  {
+    "question_id": "133251014",
+    "question": "what is the dog doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251014_1_ori.png"
+  },
+  {
+    "question_id": "133251015",
+    "question": "is the dog wearing a collar?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251015_1_ori.png"
+  },
+  {
+    "question_id": "133251017",
+    "question": "what is the dog wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251017_1_ori.png"
+  },
+  {
+    "question_id": "133251018",
+    "question": "what is the cat doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251018_1_ori.png"
+  },
+  {
+    "question_id": "133251023",
+    "question": "what color is the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251023_1_ori.png"
+  },
+  {
+    "question_id": "133251024",
+    "question": "is this animal likely to get cold soon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133251024_1_ori.png"
+  },
+  {
+    "question_id": "133279001",
+    "question": "is the car an suv?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133279001_1_ori.png"
+  },
+  {
+    "question_id": "133291000",
+    "question": "are they drinking beer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133291000_1_ori.png"
+  },
+  {
+    "question_id": "133291001",
+    "question": "where are they eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133291001_1_ori.png"
+  },
+  {
+    "question_id": "133327001",
+    "question": "what is this person doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133327001_1_ori.png"
+  }
+]

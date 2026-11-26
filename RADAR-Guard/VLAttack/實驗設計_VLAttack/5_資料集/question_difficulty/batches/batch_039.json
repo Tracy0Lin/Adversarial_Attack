@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262197011",
+    "question": "what color is the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197011_1_ori.png"
+  },
+  {
+    "question_id": "262200000",
+    "question": "is this an adult party?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262200000_1_ori.png"
+  },
+  {
+    "question_id": "262200001",
+    "question": "what is being celebrated?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262200001_1_ori.png"
+  },
+  {
+    "question_id": "262200002",
+    "question": "who is in front of the cake with candles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262200002_1_ori.png"
+  },
+  {
+    "question_id": "262227000",
+    "question": "are there pill bottles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262227000_1_ori.png"
+  },
+  {
+    "question_id": "262227001",
+    "question": "what kind of sign is above the doorway?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262227001_1_ori.png"
+  },
+  {
+    "question_id": "262227002",
+    "question": "is the computer a popular model?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262227002_1_ori.png"
+  },
+  {
+    "question_id": "262227003",
+    "question": "what color is the ribbon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262227003_1_ori.png"
+  },
+  {
+    "question_id": "262228001",
+    "question": "why are the bicycles chained?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262228001_1_ori.png"
+  },
+  {
+    "question_id": "262228003",
+    "question": "are these comfortable chairs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262228003_1_ori.png"
+  },
+  {
+    "question_id": "262229000",
+    "question": "what is gliding in the air?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262229000_1_ori.png"
+  },
+  {
+    "question_id": "262229001",
+    "question": "what sport are the girls playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262229001_1_ori.png"
+  },
+  {
+    "question_id": "262229002",
+    "question": "are the girls professionals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262229002_1_ori.png"
+  },
+  {
+    "question_id": "262229003",
+    "question": "how many babies are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262229003_1_ori.png"
+  },
+  {
+    "question_id": "262229004",
+    "question": "are these men or women?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262229004_1_ori.png"
+  },
+  {
+    "question_id": "262229006",
+    "question": "what game are they playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262229006_1_ori.png"
+  },
+  {
+    "question_id": "262235000",
+    "question": "what type of facial expression does the woman have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262235000_1_ori.png"
+  },
+  {
+    "question_id": "262235001",
+    "question": "what covers the window?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262235001_1_ori.png"
+  },
+  {
+    "question_id": "262235002",
+    "question": "what color are the woman's nails?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262235002_1_ori.png"
+  },
+  {
+    "question_id": "262235003",
+    "question": "what does the woman have around her neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262235003_1_ori.png"
+  }
+]

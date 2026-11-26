@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "568040003",
+    "question": "what type of animal is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568040003_1_ori.png"
+  },
+  {
+    "question_id": "568040004",
+    "question": "are these animals living in the wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568040004_1_ori.png"
+  },
+  {
+    "question_id": "568040005",
+    "question": "are the mountains in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568040005_1_ori.png"
+  },
+  {
+    "question_id": "568040006",
+    "question": "how many animals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568040006_1_ori.png"
+  },
+  {
+    "question_id": "568315001",
+    "question": "do the elephants look happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568315001_1_ori.png"
+  },
+  {
+    "question_id": "568315002",
+    "question": "are there birds on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568315002_1_ori.png"
+  },
+  {
+    "question_id": "568439000",
+    "question": "is the man wearing a tie with his suit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\568439000_1_ori.png"
+  },
+  {
+    "question_id": "569001",
+    "question": "what color are the plants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\569001_1_ori.png"
+  },
+  {
+    "question_id": "569002",
+    "question": "are some of the flowers red?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\569002_1_ori.png"
+  },
+  {
+    "question_id": "569004",
+    "question": "are the flowers beautiful?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\569004_1_ori.png"
+  },
+  {
+    "question_id": "569005",
+    "question": "what is the orange object?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\569005_1_ori.png"
+  },
+  {
+    "question_id": "569006",
+    "question": "is the woman holding the kites?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\569006_1_ori.png"
+  },
+  {
+    "question_id": "569007",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\569007_1_ori.png"
+  },
+  {
+    "question_id": "571847002",
+    "question": "is someone looking at a phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\571847002_1_ori.png"
+  },
+  {
+    "question_id": "576200001",
+    "question": "what is the fence made out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\576200001_1_ori.png"
+  },
+  {
+    "question_id": "576200002",
+    "question": "how many animals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\576200002_1_ori.png"
+  },
+  {
+    "question_id": "590000",
+    "question": "what kind of room would you call the one pictured here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\590000_1_ori.png"
+  },
+  {
+    "question_id": "590001",
+    "question": "would this be considered an old fashion bathroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\590001_1_ori.png"
+  },
+  {
+    "question_id": "590002",
+    "question": "is there a mirror seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\590002_1_ori.png"
+  },
+  {
+    "question_id": "623002",
+    "question": "is the bear standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\623002_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525371003",
+    "question": "what color is the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525371003_1_ori.png"
+  },
+  {
+    "question_id": "525373002",
+    "question": "what are the kids eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525373002_1_ori.png"
+  },
+  {
+    "question_id": "525373004",
+    "question": "what color are her eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525373004_1_ori.png"
+  },
+  {
+    "question_id": "525376002",
+    "question": "what is blue and yellow in the trunk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525376002_1_ori.png"
+  },
+  {
+    "question_id": "525420000",
+    "question": "does this room need maintenance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525420000_1_ori.png"
+  },
+  {
+    "question_id": "525420001",
+    "question": "is the water on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525420001_1_ori.png"
+  },
+  {
+    "question_id": "525420002",
+    "question": "what color is the tub?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525420002_1_ori.png"
+  },
+  {
+    "question_id": "525542003",
+    "question": "what is the bus number?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525542003_1_ori.png"
+  },
+  {
+    "question_id": "525542005",
+    "question": "what number is bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525542005_1_ori.png"
+  },
+  {
+    "question_id": "525542007",
+    "question": "what is the number in lights on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525542007_1_ori.png"
+  },
+  {
+    "question_id": "525542009",
+    "question": "what number is on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525542009_1_ori.png"
+  },
+  {
+    "question_id": "525568000",
+    "question": "is the zebra in the wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525568000_1_ori.png"
+  },
+  {
+    "question_id": "525568007",
+    "question": "does this zebra look lonely?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525568007_1_ori.png"
+  },
+  {
+    "question_id": "525587001",
+    "question": "what state is the license plate from?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525587001_1_ori.png"
+  },
+  {
+    "question_id": "525600000",
+    "question": "what species are the animals in this shot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525600000_1_ori.png"
+  },
+  {
+    "question_id": "525616002",
+    "question": "how many people are wearing hats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525616002_1_ori.png"
+  },
+  {
+    "question_id": "525619001",
+    "question": "what color is the dog's legs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525619001_1_ori.png"
+  },
+  {
+    "question_id": "525619002",
+    "question": "how many flags can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525619002_1_ori.png"
+  },
+  {
+    "question_id": "525619011",
+    "question": "was the camera laying on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525619011_1_ori.png"
+  },
+  {
+    "question_id": "525646001",
+    "question": "is the plate full?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525646001_1_ori.png"
+  }
+]

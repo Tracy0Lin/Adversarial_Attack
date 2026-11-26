@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "395462000",
+    "question": "what are they standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395462000_1_ori.png"
+  },
+  {
+    "question_id": "395463002",
+    "question": "is there any meat in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395463002_1_ori.png"
+  },
+  {
+    "question_id": "395463003",
+    "question": "what is the box made out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395463003_1_ori.png"
+  },
+  {
+    "question_id": "395463004",
+    "question": "is this a cooking class?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395463004_1_ori.png"
+  },
+  {
+    "question_id": "395512000",
+    "question": "are the countertops granite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395512000_1_ori.png"
+  },
+  {
+    "question_id": "395514000",
+    "question": "how mine boys are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395514000_1_ori.png"
+  },
+  {
+    "question_id": "395550002",
+    "question": "what does the cat have on the couch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395550002_1_ori.png"
+  },
+  {
+    "question_id": "395557001",
+    "question": "are the umbrellas used by one person?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395557001_1_ori.png"
+  },
+  {
+    "question_id": "395575000",
+    "question": "is this a pond?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395575000_1_ori.png"
+  },
+  {
+    "question_id": "395575003",
+    "question": "is this a clear reflection of the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395575003_1_ori.png"
+  },
+  {
+    "question_id": "395621001",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395621001_1_ori.png"
+  },
+  {
+    "question_id": "395621004",
+    "question": "how many people are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395621004_1_ori.png"
+  },
+  {
+    "question_id": "395621005",
+    "question": "are they having pizza at a picnic?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395621005_1_ori.png"
+  },
+  {
+    "question_id": "395621006",
+    "question": "is this a potluck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395621006_1_ori.png"
+  },
+  {
+    "question_id": "395621007",
+    "question": "how many baskets are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395621007_1_ori.png"
+  },
+  {
+    "question_id": "395621008",
+    "question": "how many people are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395621008_1_ori.png"
+  },
+  {
+    "question_id": "395634001",
+    "question": "is she cute?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395634001_1_ori.png"
+  },
+  {
+    "question_id": "395634002",
+    "question": "reading the sign, what is not allowed on this street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395634002_1_ori.png"
+  },
+  {
+    "question_id": "395634004",
+    "question": "is this woman wearing a flower print dress?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395634004_1_ori.png"
+  },
+  {
+    "question_id": "395644000",
+    "question": "what color is the bedspread?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395644000_1_ori.png"
+  }
+]

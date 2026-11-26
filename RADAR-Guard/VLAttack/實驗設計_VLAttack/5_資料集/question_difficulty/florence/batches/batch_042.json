@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524621012",
+    "question": "are any of the giraffe's looking at the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524621012_1_ori.png"
+  },
+  {
+    "question_id": "524621022",
+    "question": "what two animals are photoshopped together?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524621022_1_ori.png"
+  },
+  {
+    "question_id": "524637002",
+    "question": "what shape are the floor tiles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524637002_1_ori.png"
+  },
+  {
+    "question_id": "524638003",
+    "question": "what is the boy holding in his hands?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524638003_1_ori.png"
+  },
+  {
+    "question_id": "524642006",
+    "question": "the lamp would be good for helping a person do what while relaxing on the chair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524642006_1_ori.png"
+  },
+  {
+    "question_id": "524681005",
+    "question": "how many people are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524681005_1_ori.png"
+  },
+  {
+    "question_id": "524681006",
+    "question": "what color is the grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524681006_1_ori.png"
+  },
+  {
+    "question_id": "524702000",
+    "question": "how many people are wearing socks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524702000_1_ori.png"
+  },
+  {
+    "question_id": "524775000",
+    "question": "according to the sign what type of bus is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524775000_1_ori.png"
+  },
+  {
+    "question_id": "524775004",
+    "question": "where is the license plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524775004_1_ori.png"
+  },
+  {
+    "question_id": "524775005",
+    "question": "what colors are the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524775005_1_ori.png"
+  },
+  {
+    "question_id": "524799000",
+    "question": "how old is the child?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524799000_1_ori.png"
+  },
+  {
+    "question_id": "524822002",
+    "question": "is there room neat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524822002_1_ori.png"
+  },
+  {
+    "question_id": "524822012",
+    "question": "how many lamps are in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524822012_1_ori.png"
+  },
+  {
+    "question_id": "524822014",
+    "question": "is this room neat and tidy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524822014_1_ori.png"
+  },
+  {
+    "question_id": "524844004",
+    "question": "how hard is the guy going to hit the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524844004_1_ori.png"
+  },
+  {
+    "question_id": "524844006",
+    "question": "is the guy in black interested in the skater's performance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524844006_1_ori.png"
+  },
+  {
+    "question_id": "524844016",
+    "question": "where is the boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524844016_1_ori.png"
+  },
+  {
+    "question_id": "524850001",
+    "question": "how many engines do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524850001_1_ori.png"
+  },
+  {
+    "question_id": "524887001",
+    "question": "are the motorcycles the same color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524887001_1_ori.png"
+  }
+]

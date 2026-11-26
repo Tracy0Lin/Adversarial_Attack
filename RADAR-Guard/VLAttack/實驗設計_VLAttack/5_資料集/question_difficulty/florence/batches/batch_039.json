@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "437205007",
+    "question": "is the banana peeled?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205007_1_ori.png"
+  },
+  {
+    "question_id": "437205014",
+    "question": "what is the kid holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205014_1_ori.png"
+  },
+  {
+    "question_id": "437205015",
+    "question": "what is the kid eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205015_1_ori.png"
+  },
+  {
+    "question_id": "437205016",
+    "question": "where is the baby?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205016_1_ori.png"
+  },
+  {
+    "question_id": "437205019",
+    "question": "what did he just eat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205019_1_ori.png"
+  },
+  {
+    "question_id": "437205020",
+    "question": "what is the boy eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205020_1_ori.png"
+  },
+  {
+    "question_id": "437205024",
+    "question": "what is the child eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205024_1_ori.png"
+  },
+  {
+    "question_id": "43816003",
+    "question": "what color is the catcher wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816003_1_ori.png"
+  },
+  {
+    "question_id": "43816006",
+    "question": "what position is this man playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816006_1_ori.png"
+  },
+  {
+    "question_id": "43816008",
+    "question": "will the catcher catch the ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816008_1_ori.png"
+  },
+  {
+    "question_id": "43816009",
+    "question": "is the batter ready to hit the ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816009_1_ori.png"
+  },
+  {
+    "question_id": "43816010",
+    "question": "what team is at bat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816010_1_ori.png"
+  },
+  {
+    "question_id": "43816013",
+    "question": "how many players are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816013_1_ori.png"
+  },
+  {
+    "question_id": "43816014",
+    "question": "are these people professionals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816014_1_ori.png"
+  },
+  {
+    "question_id": "43816016",
+    "question": "what color is the catcher's mitt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816016_1_ori.png"
+  },
+  {
+    "question_id": "43816018",
+    "question": "what sport is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816018_1_ori.png"
+  },
+  {
+    "question_id": "43816019",
+    "question": "what color is the catchers shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816019_1_ori.png"
+  },
+  {
+    "question_id": "43816020",
+    "question": "is the batter wearing knee high socks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816020_1_ori.png"
+  },
+  {
+    "question_id": "43816023",
+    "question": "who is standing behind the catcher?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816023_1_ori.png"
+  },
+  {
+    "question_id": "43816024",
+    "question": "is he wearing a blue helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816024_1_ori.png"
+  }
+]

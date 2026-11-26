@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526723008",
+    "question": "what color is the jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723008_1_ori.png"
+  },
+  {
+    "question_id": "526723009",
+    "question": "what color is the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723009_1_ori.png"
+  },
+  {
+    "question_id": "526723010",
+    "question": "what is the woman holding to her head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723010_1_ori.png"
+  },
+  {
+    "question_id": "526723011",
+    "question": "what kind of clothing is this woman wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723011_1_ori.png"
+  },
+  {
+    "question_id": "526723012",
+    "question": "what color is the shirt doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723012_1_ori.png"
+  },
+  {
+    "question_id": "526723013",
+    "question": "what is the girl doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723013_1_ori.png"
+  },
+  {
+    "question_id": "526723015",
+    "question": "is the woman wearing yellow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723015_1_ori.png"
+  },
+  {
+    "question_id": "526728000",
+    "question": "are these people happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526728000_1_ori.png"
+  },
+  {
+    "question_id": "526728002",
+    "question": "what is in front of the people?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526728002_1_ori.png"
+  },
+  {
+    "question_id": "526732002",
+    "question": "are these displayed in a store?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526732002_1_ori.png"
+  },
+  {
+    "question_id": "526751001",
+    "question": "is the water moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526751001_1_ori.png"
+  },
+  {
+    "question_id": "526756002",
+    "question": "do all clocks show the same time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526756002_1_ori.png"
+  },
+  {
+    "question_id": "526762001",
+    "question": "how many animals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526762001_1_ori.png"
+  },
+  {
+    "question_id": "526762002",
+    "question": "what are these people riding on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526762002_1_ori.png"
+  },
+  {
+    "question_id": "526767002",
+    "question": "what color is the restroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526767002_1_ori.png"
+  },
+  {
+    "question_id": "526767007",
+    "question": "would two be cramped in here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526767007_1_ori.png"
+  },
+  {
+    "question_id": "526778001",
+    "question": "what color are the bottom of the skies?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526778001_1_ori.png"
+  },
+  {
+    "question_id": "526837000",
+    "question": "is this man dressed for the weather?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526837000_1_ori.png"
+  },
+  {
+    "question_id": "526892002",
+    "question": "is the man wearing footwear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526892002_1_ori.png"
+  },
+  {
+    "question_id": "526933000",
+    "question": "is the man bored?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526933000_1_ori.png"
+  }
+]

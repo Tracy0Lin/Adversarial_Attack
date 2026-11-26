@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "153184000",
+    "question": "how many birds are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153184000_1_ori.png"
+  },
+  {
+    "question_id": "153184001",
+    "question": "are there trees in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153184001_1_ori.png"
+  },
+  {
+    "question_id": "1532003",
+    "question": "what is the street number not name?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1532003_1_ori.png"
+  },
+  {
+    "question_id": "153249000",
+    "question": "how many boys sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153249000_1_ori.png"
+  },
+  {
+    "question_id": "153249004",
+    "question": "are the people going to work?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153249004_1_ori.png"
+  },
+  {
+    "question_id": "153249005",
+    "question": "is the skateboarder doing a trick?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153249005_1_ori.png"
+  },
+  {
+    "question_id": "153288003",
+    "question": "is it wet outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153288003_1_ori.png"
+  },
+  {
+    "question_id": "153307001",
+    "question": "what kind of flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153307001_1_ori.png"
+  },
+  {
+    "question_id": "153392000",
+    "question": "what color is the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\153392000_1_ori.png"
+  },
+  {
+    "question_id": "1563001",
+    "question": "is this skier a female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1563001_1_ori.png"
+  },
+  {
+    "question_id": "1563002",
+    "question": "what color are the skiis?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1563002_1_ori.png"
+  },
+  {
+    "question_id": "1577003",
+    "question": "are the vases full of water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1577003_1_ori.png"
+  },
+  {
+    "question_id": "1577004",
+    "question": "what is the center color of the flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1577004_1_ori.png"
+  },
+  {
+    "question_id": "1584000",
+    "question": "is this bus more than one color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1584000_1_ori.png"
+  },
+  {
+    "question_id": "1590000",
+    "question": "what are the items in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1590000_1_ori.png"
+  },
+  {
+    "question_id": "1590002",
+    "question": "which object in this trailer is an animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1590002_1_ori.png"
+  },
+  {
+    "question_id": "1591001",
+    "question": "does there appear to be a show on the tv or is likely a reflection?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1591001_1_ori.png"
+  },
+  {
+    "question_id": "1591003",
+    "question": "how many remotes are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1591003_1_ori.png"
+  },
+  {
+    "question_id": "1592002",
+    "question": "what color is the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1592002_1_ori.png"
+  },
+  {
+    "question_id": "1599002",
+    "question": "does this appear to be an actual match?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1599002_1_ori.png"
+  }
+]

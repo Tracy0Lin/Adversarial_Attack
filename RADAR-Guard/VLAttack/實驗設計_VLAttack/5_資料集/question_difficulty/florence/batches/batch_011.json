@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133090000",
+    "question": "what color are the shorts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133090000_1_ori.png"
+  },
+  {
+    "question_id": "133090001",
+    "question": "is the player about to fall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133090001_1_ori.png"
+  },
+  {
+    "question_id": "133098001",
+    "question": "what color are the sheep?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133098001_1_ori.png"
+  },
+  {
+    "question_id": "133098002",
+    "question": "does it look like it is going to rain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133098002_1_ori.png"
+  },
+  {
+    "question_id": "133100001",
+    "question": "is the zebra eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133100001_1_ori.png"
+  },
+  {
+    "question_id": "133100002",
+    "question": "is that a zebra?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133100002_1_ori.png"
+  },
+  {
+    "question_id": "133104000",
+    "question": "what color is the station?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133104000_1_ori.png"
+  },
+  {
+    "question_id": "133104003",
+    "question": "are the cars moving in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133104003_1_ori.png"
+  },
+  {
+    "question_id": "133131000",
+    "question": "is this stop meant only for northbound cars?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133131000_1_ori.png"
+  },
+  {
+    "question_id": "1340002",
+    "question": "what color is the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1340002_1_ori.png"
+  },
+  {
+    "question_id": "1342003",
+    "question": "what is the name of the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342003_1_ori.png"
+  },
+  {
+    "question_id": "1342005",
+    "question": "are these all novels?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342005_1_ori.png"
+  },
+  {
+    "question_id": "1342006",
+    "question": "would homer simpson like this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342006_1_ori.png"
+  },
+  {
+    "question_id": "1342016",
+    "question": "is there a drawing of a record?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342016_1_ori.png"
+  },
+  {
+    "question_id": "1342019",
+    "question": "who is the author of the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342019_1_ori.png"
+  },
+  {
+    "question_id": "1342022",
+    "question": "is this a photo or a drawing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342022_1_ori.png"
+  },
+  {
+    "question_id": "1342023",
+    "question": "is this person outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342023_1_ori.png"
+  },
+  {
+    "question_id": "1342024",
+    "question": "what is the title of the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342024_1_ori.png"
+  },
+  {
+    "question_id": "1342027",
+    "question": "what color paper is he holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342027_1_ori.png"
+  },
+  {
+    "question_id": "1342030",
+    "question": "what is depicted in the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342030_1_ori.png"
+  }
+]

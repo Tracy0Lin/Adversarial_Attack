@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394510019",
+    "question": "what color are the shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510019_1_ori.png"
+  },
+  {
+    "question_id": "394510021",
+    "question": "does the boy look excited?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510021_1_ori.png"
+  },
+  {
+    "question_id": "394510023",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510023_1_ori.png"
+  },
+  {
+    "question_id": "394510026",
+    "question": "what ethnicity is the boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510026_1_ori.png"
+  },
+  {
+    "question_id": "394510027",
+    "question": "what is next to the boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510027_1_ori.png"
+  },
+  {
+    "question_id": "394533000",
+    "question": "will be bust his head if he falls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394533000_1_ori.png"
+  },
+  {
+    "question_id": "394608001",
+    "question": "where is the surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394608001_1_ori.png"
+  },
+  {
+    "question_id": "394608002",
+    "question": "what color is his surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394608002_1_ori.png"
+  },
+  {
+    "question_id": "394611002",
+    "question": "is this a safari?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394611002_1_ori.png"
+  },
+  {
+    "question_id": "394611004",
+    "question": "what type of animal is in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394611004_1_ori.png"
+  },
+  {
+    "question_id": "394611005",
+    "question": "what are the zebras doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394611005_1_ori.png"
+  },
+  {
+    "question_id": "394635000",
+    "question": "who is controlling the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394635000_1_ori.png"
+  },
+  {
+    "question_id": "394635001",
+    "question": "what is reflection on window?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394635001_1_ori.png"
+  },
+  {
+    "question_id": "394635003",
+    "question": "where is this photo taken place?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394635003_1_ori.png"
+  },
+  {
+    "question_id": "394659000",
+    "question": "what color is the countertop in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394659000_1_ori.png"
+  },
+  {
+    "question_id": "394659002",
+    "question": "what appliance is in the kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394659002_1_ori.png"
+  },
+  {
+    "question_id": "394663001",
+    "question": "what is an elephants ear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394663001_1_ori.png"
+  },
+  {
+    "question_id": "394663002",
+    "question": "what animal is in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394663002_1_ori.png"
+  },
+  {
+    "question_id": "394681001",
+    "question": "is this in a big city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394681001_1_ori.png"
+  },
+  {
+    "question_id": "394715005",
+    "question": "is there papers in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394715005_1_ori.png"
+  }
+]

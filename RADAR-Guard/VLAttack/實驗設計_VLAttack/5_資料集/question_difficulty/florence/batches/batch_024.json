@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263163000",
+    "question": "what does it say on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263163000_1_ori.png"
+  },
+  {
+    "question_id": "263177002",
+    "question": "where would one go to find lotion and beauty products?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263177002_1_ori.png"
+  },
+  {
+    "question_id": "263177003",
+    "question": "how many ads can be seen in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263177003_1_ori.png"
+  },
+  {
+    "question_id": "263211004",
+    "question": "is this a zoo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263211004_1_ori.png"
+  },
+  {
+    "question_id": "263223000",
+    "question": "is this a boy or girl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263223000_1_ori.png"
+  },
+  {
+    "question_id": "263223002",
+    "question": "is there snow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263223002_1_ori.png"
+  },
+  {
+    "question_id": "263223003",
+    "question": "what is the person doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263223003_1_ori.png"
+  },
+  {
+    "question_id": "263223004",
+    "question": "how many people are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263223004_1_ori.png"
+  },
+  {
+    "question_id": "263223005",
+    "question": "is the sun shining from above or below the person in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263223005_1_ori.png"
+  },
+  {
+    "question_id": "263223006",
+    "question": "is this person barefoot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263223006_1_ori.png"
+  },
+  {
+    "question_id": "263251000",
+    "question": "where is the white ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263251000_1_ori.png"
+  },
+  {
+    "question_id": "263251001",
+    "question": "what color is the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263251001_1_ori.png"
+  },
+  {
+    "question_id": "263251002",
+    "question": "is the umbrella spinning?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263251002_1_ori.png"
+  },
+  {
+    "question_id": "263258001",
+    "question": "what area are the men in blue standing in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263258001_1_ori.png"
+  },
+  {
+    "question_id": "263258002",
+    "question": "what game is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263258002_1_ori.png"
+  },
+  {
+    "question_id": "263268001",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263268001_1_ori.png"
+  },
+  {
+    "question_id": "263268002",
+    "question": "where is the paper towel?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263268002_1_ori.png"
+  },
+  {
+    "question_id": "263292001",
+    "question": "what time does the clock indicate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263292001_1_ori.png"
+  },
+  {
+    "question_id": "263292004",
+    "question": "what time is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263292004_1_ori.png"
+  },
+  {
+    "question_id": "263299001",
+    "question": "what color is the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263299001_1_ori.png"
+  }
+]

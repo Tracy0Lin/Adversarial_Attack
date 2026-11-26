@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "632003",
+    "question": "are the windows open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\632003_1_ori.png"
+  },
+  {
+    "question_id": "632007",
+    "question": "what pattern is on the bedspread?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\632007_1_ori.png"
+  },
+  {
+    "question_id": "632008",
+    "question": "is there a woman in the mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\632008_1_ori.png"
+  },
+  {
+    "question_id": "632009",
+    "question": "what is in the background on the shelves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\632009_1_ori.png"
+  },
+  {
+    "question_id": "636001",
+    "question": "is the lid up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\636001_1_ori.png"
+  },
+  {
+    "question_id": "641000",
+    "question": "how many buses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\641000_1_ori.png"
+  },
+  {
+    "question_id": "641002",
+    "question": "how many vans are on the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\641002_1_ori.png"
+  },
+  {
+    "question_id": "641003",
+    "question": "how many trash cans are near the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\641003_1_ori.png"
+  },
+  {
+    "question_id": "65773000",
+    "question": "what is shining through the window?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\65773000_1_ori.png"
+  },
+  {
+    "question_id": "65806000",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\65806000_1_ori.png"
+  },
+  {
+    "question_id": "661002",
+    "question": "there a person holding the sandwich?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\661002_1_ori.png"
+  },
+  {
+    "question_id": "661004",
+    "question": "what is wrapped around the sandwich?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\661004_1_ori.png"
+  },
+  {
+    "question_id": "675000",
+    "question": "what is the cat doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\675000_1_ori.png"
+  },
+  {
+    "question_id": "675002",
+    "question": "is the light on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\675002_1_ori.png"
+  },
+  {
+    "question_id": "692000",
+    "question": "is the baby wearing stripes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\692000_1_ori.png"
+  },
+  {
+    "question_id": "699001",
+    "question": "is there a stoplight in the pic?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\699001_1_ori.png"
+  },
+  {
+    "question_id": "711003",
+    "question": "is the remote control on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\711003_1_ori.png"
+  },
+  {
+    "question_id": "711005",
+    "question": "is this house comfy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\711005_1_ori.png"
+  },
+  {
+    "question_id": "715002",
+    "question": "how many fruits are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\715002_1_ori.png"
+  },
+  {
+    "question_id": "715003",
+    "question": "how many bananas are in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\715003_1_ori.png"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "experiment": "exp3",
+  "captioner": "blip",
+  "vqa_backend": "blip",
+  "n_rows": 1000,
+  "n_attack": 1000,
+  "n_clean": 0,
+  "n_photos": 447,
+  "stage1_protocol": "trained on exp2 (2000 rows), applied to exp3",
+  "stage1_risk": {},
+  "stage1_dcenter_lr": {},
+  "stage1_high_only": {
+    "TP": 491,
+    "FP": 0,
+    "FN": 509,
+    "TN": 0,
+    "TPR": 0.491,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "precision": 1.0,
+    "F1": 0.658618376928236,
+    "balanced_acc": NaN
+  },
+  "stage1_midhigh": {
+    "TP": 802,
+    "FP": 0,
+    "FN": 198,
+    "TN": 0,
+    "TPR": 0.802,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "precision": 1.0,
+    "F1": 0.8901220865704773,
+    "balanced_acc": NaN
+  },
+  "mid_rate": 0.311,
+  "bins": {
+    "attack": {
+      "low": 198,
+      "mid": 311,
+      "high": 491
+    }
+  },
+  "theta_source": "fixed override theta_star=0.8 theta_det=0.8",
+  "output_tag": "sigma08_fixed",
+  "theta_star_mid": 0.8,
+  "theta_det_mid": 0.8,
+  "theta_star_all": 0.8,
+  "theta_det_all": 0.8,
+  "sss_at_theta_star": 0.5613882315825834,
+  "mid_flip_at_theta_det": {
+    "TPR": 0.6302250803858521,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "TPR_fooled_only": 0.632258064516129
+  },
+  "full_pipeline": {
+    "TP": 687,
+    "FP": 0,
+    "FN": 313,
+    "TN": 0,
+    "TPR": 0.687,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "precision": 1.0,
+    "F1": 0.8144635447540012,
+    "balanced_acc": NaN,
+    "asr_before": 0.996,
+    "effective_asr": 0.311,
+    "attacks_fooled_before": 996,
+    "attacks_still_fooling": 311,
+    "clean_service_rate": NaN,
+    "clean_blocked_rate": NaN,
+    "clean_answer_changed_rate": NaN,
+    "vqa_calls_per_row": 0.82,
+    "theta_star": 0.8,
+    "theta_det": 0.8,
+    "TPR_ci95": [
+      0.6464358714546519,
+      0.7239332508637716
+    ],
+    "FPR_ci95": [
+      NaN,
+      NaN
+    ],
+    "youden_j_ci95": [
+      NaN,
+      NaN
+    ],
+    "effective_asr_ci95": [
+      0.2736505681818182,
+      0.35038595484837654
+    ],
+    "clean_service_rate_ci95": [
+      NaN,
+      NaN
+    ]
+  },
+  "caption_rewrite_rate": {
+    "clean": null,
+    "attack": 0.7599
+  },
+  "feature_means": {
+    "attack": {
+      "d_center": 0.0868026828724614,
+      "d_iqr": 0.032552625209558726,
+      "d_tail": 0.04015417716093359,
+      "d_q95": 0.1447235647092384
+    }
+  },
+  "caption_calls_per_row": {
+    "total": 11,
+    "unique_inputs": 3
+  }
+}

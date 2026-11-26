@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526580021",
+    "question": "what is hanging from the ceiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580021_1_ori.png"
+  },
+  {
+    "question_id": "526580023",
+    "question": "what sport is being shown on the screen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580023_1_ori.png"
+  },
+  {
+    "question_id": "526580024",
+    "question": "does the man have a home?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580024_1_ori.png"
+  },
+  {
+    "question_id": "526580025",
+    "question": "is the dark man wearing bracelets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580025_1_ori.png"
+  },
+  {
+    "question_id": "526580026",
+    "question": "are any women in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580026_1_ori.png"
+  },
+  {
+    "question_id": "526580028",
+    "question": "is it sunny out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580028_1_ori.png"
+  },
+  {
+    "question_id": "526580029",
+    "question": "how many people are standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580029_1_ori.png"
+  },
+  {
+    "question_id": "526580031",
+    "question": "what is the man jumping on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580031_1_ori.png"
+  },
+  {
+    "question_id": "526580032",
+    "question": "what color is the trouser that the man is wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580032_1_ori.png"
+  },
+  {
+    "question_id": "526580033",
+    "question": "are there plants in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580033_1_ori.png"
+  },
+  {
+    "question_id": "526645003",
+    "question": "is there a baby giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526645003_1_ori.png"
+  },
+  {
+    "question_id": "526645004",
+    "question": "what is the giraffe doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526645004_1_ori.png"
+  },
+  {
+    "question_id": "526645005",
+    "question": "are these giraffes in the wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526645005_1_ori.png"
+  },
+  {
+    "question_id": "526675000",
+    "question": "does the room appear clean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526675000_1_ori.png"
+  },
+  {
+    "question_id": "526675001",
+    "question": "how many windows are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526675001_1_ori.png"
+  },
+  {
+    "question_id": "526721000",
+    "question": "what is the cat doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526721000_1_ori.png"
+  },
+  {
+    "question_id": "526721001",
+    "question": "what kind of animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526721001_1_ori.png"
+  },
+  {
+    "question_id": "526721002",
+    "question": "what is the cat standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526721002_1_ori.png"
+  },
+  {
+    "question_id": "526723003",
+    "question": "what color is this person's raincoat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723003_1_ori.png"
+  },
+  {
+    "question_id": "526723005",
+    "question": "what is the person sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526723005_1_ori.png"
+  }
+]

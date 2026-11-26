@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1000001",
+    "question": "what is the man in the red shirt holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\1000001_1_ori.png"
+  },
+  {
+    "question_id": "1029000",
+    "question": "what color is the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\1029000_1_ori.png"
+  },
+  {
+    "question_id": "1029003",
+    "question": "how high is the plane in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1029003_1_ori.png"
+  },
+  {
+    "question_id": "1063000",
+    "question": "is the giraffe taller than trees?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1063000_1_ori.png"
+  },
+  {
+    "question_id": "1063002",
+    "question": "is this giraffe at the zoo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1063002_1_ori.png"
+  },
+  {
+    "question_id": "1063003",
+    "question": "is it day time or night time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1063003_1_ori.png"
+  },
+  {
+    "question_id": "1063004",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1063004_1_ori.png"
+  },
+  {
+    "question_id": "1089000",
+    "question": "would these person fit in to most hip hop scenes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1089000_1_ori.png"
+  },
+  {
+    "question_id": "1089001",
+    "question": "what color is his tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1089001_1_ori.png"
+  },
+  {
+    "question_id": "1089003",
+    "question": "is this a real picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1089003_1_ori.png"
+  },
+  {
+    "question_id": "109992000",
+    "question": "is it spring time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\109992000_1_ori.png"
+  },
+  {
+    "question_id": "109992003",
+    "question": "what material is the building on the left made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\109992003_1_ori.png"
+  },
+  {
+    "question_id": "1138000",
+    "question": "what are the rectangular white items in front of the windows?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1138000_1_ori.png"
+  },
+  {
+    "question_id": "1138001",
+    "question": "which room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1138001_1_ori.png"
+  },
+  {
+    "question_id": "1138003",
+    "question": "is this an indoor scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1138003_1_ori.png"
+  },
+  {
+    "question_id": "1138006",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1138006_1_ori.png"
+  },
+  {
+    "question_id": "1146004",
+    "question": "who has glasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1146004_1_ori.png"
+  },
+  {
+    "question_id": "1146008",
+    "question": "why does he have glasses on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1146008_1_ori.png"
+  },
+  {
+    "question_id": "1146009",
+    "question": "how many pins are on the sash?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1146009_1_ori.png"
+  },
+  {
+    "question_id": "1146010",
+    "question": "does the man have facial hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1146010_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1342031",
+    "question": "what body part is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342031_1_ori.png"
+  },
+  {
+    "question_id": "1342034",
+    "question": "what is the title of the book shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342034_1_ori.png"
+  },
+  {
+    "question_id": "1342036",
+    "question": "what is the knife in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342036_1_ori.png"
+  },
+  {
+    "question_id": "1342037",
+    "question": "does the book mention plumage?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342037_1_ori.png"
+  },
+  {
+    "question_id": "1342040",
+    "question": "is this indoors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342040_1_ori.png"
+  },
+  {
+    "question_id": "1342046",
+    "question": "is sheet music?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342046_1_ori.png"
+  },
+  {
+    "question_id": "1342053",
+    "question": "what does the text say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342053_1_ori.png"
+  },
+  {
+    "question_id": "1342056",
+    "question": "what does this book say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342056_1_ori.png"
+  },
+  {
+    "question_id": "1342058",
+    "question": "is this a piece of electronics?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342058_1_ori.png"
+  },
+  {
+    "question_id": "1342060",
+    "question": "which finger has a ring?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342060_1_ori.png"
+  },
+  {
+    "question_id": "1342063",
+    "question": "what is the picture in the book of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342063_1_ori.png"
+  },
+  {
+    "question_id": "1342065",
+    "question": "is this book about a camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342065_1_ori.png"
+  },
+  {
+    "question_id": "1342072",
+    "question": "what kind of information does the yellow and white book look like it contains?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342072_1_ori.png"
+  },
+  {
+    "question_id": "1342085",
+    "question": "who is showing off that image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342085_1_ori.png"
+  },
+  {
+    "question_id": "1342088",
+    "question": "what is the car colored the most?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1342088_1_ori.png"
+  },
+  {
+    "question_id": "1347000",
+    "question": "is there  cup of tea?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1347000_1_ori.png"
+  },
+  {
+    "question_id": "1353000",
+    "question": "what type of floor is in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1353000_1_ori.png"
+  },
+  {
+    "question_id": "1353003",
+    "question": "what is on the suitcase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1353003_1_ori.png"
+  },
+  {
+    "question_id": "1369000",
+    "question": "what is the person carrying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1369000_1_ori.png"
+  },
+  {
+    "question_id": "1374001",
+    "question": "where are the chimney's?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1374001_1_ori.png"
+  }
+]

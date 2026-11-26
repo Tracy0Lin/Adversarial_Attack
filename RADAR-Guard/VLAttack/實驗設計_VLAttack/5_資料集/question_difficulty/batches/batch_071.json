@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393277008",
+    "question": "how is the weather?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277008_1_ori.png"
+  },
+  {
+    "question_id": "393277009",
+    "question": "what color is the building the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277009_1_ori.png"
+  },
+  {
+    "question_id": "393277011",
+    "question": "does it rain here a lot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277011_1_ori.png"
+  },
+  {
+    "question_id": "393277012",
+    "question": "which famous landmark appears in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277012_1_ori.png"
+  },
+  {
+    "question_id": "393277013",
+    "question": "is that a cake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277013_1_ori.png"
+  },
+  {
+    "question_id": "393277014",
+    "question": "is this a one way street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277014_1_ori.png"
+  },
+  {
+    "question_id": "393277016",
+    "question": "what is in the tower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277016_1_ori.png"
+  },
+  {
+    "question_id": "393282000",
+    "question": "is the giraffe a baby?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282000_1_ori.png"
+  },
+  {
+    "question_id": "393282001",
+    "question": "how many giraffes are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282001_1_ori.png"
+  },
+  {
+    "question_id": "393282002",
+    "question": "are the animals in the shade?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282002_1_ori.png"
+  },
+  {
+    "question_id": "393282003",
+    "question": "how many giraffes can been seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282003_1_ori.png"
+  },
+  {
+    "question_id": "393282004",
+    "question": "are the animals in the wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282004_1_ori.png"
+  },
+  {
+    "question_id": "393282005",
+    "question": "why is there a white roofed open pavilion?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282005_1_ori.png"
+  },
+  {
+    "question_id": "393282006",
+    "question": "will these giraffes be eating the grass for dinner?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282006_1_ori.png"
+  },
+  {
+    "question_id": "393282007",
+    "question": "do you see a body of water in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282007_1_ori.png"
+  },
+  {
+    "question_id": "393282009",
+    "question": "how many giraffe are pictured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282009_1_ori.png"
+  },
+  {
+    "question_id": "393282010",
+    "question": "where do these animals live?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393282010_1_ori.png"
+  },
+  {
+    "question_id": "393284000",
+    "question": "is this a beach scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284000_1_ori.png"
+  },
+  {
+    "question_id": "393284001",
+    "question": "what kind of object is the kid riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284001_1_ori.png"
+  },
+  {
+    "question_id": "393284002",
+    "question": "what is the this person doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284002_1_ori.png"
+  }
+]

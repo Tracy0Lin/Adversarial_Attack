@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "2434001",
+    "question": "are the computers on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2434001_1_ori.png"
+  },
+  {
+    "question_id": "2453001",
+    "question": "is the bench wet or dry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2453001_1_ori.png"
+  },
+  {
+    "question_id": "2453002",
+    "question": "what is there to sit on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2453002_1_ori.png"
+  },
+  {
+    "question_id": "2477000",
+    "question": "does the man have good posture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2477000_1_ori.png"
+  },
+  {
+    "question_id": "2477001",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2477001_1_ori.png"
+  },
+  {
+    "question_id": "2477002",
+    "question": "what is behind the man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2477002_1_ori.png"
+  },
+  {
+    "question_id": "248810001",
+    "question": "does this giraffe have a glass enclosure around them?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\248810001_1_ori.png"
+  },
+  {
+    "question_id": "2521014",
+    "question": "what should one do when approaching the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2521014_1_ori.png"
+  },
+  {
+    "question_id": "2529001",
+    "question": "how many cars are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2529001_1_ori.png"
+  },
+  {
+    "question_id": "2529006",
+    "question": "what color car in background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2529006_1_ori.png"
+  },
+  {
+    "question_id": "2532002",
+    "question": "how cold is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2532002_1_ori.png"
+  },
+  {
+    "question_id": "257000",
+    "question": "what color is the car on the far right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\257000_1_ori.png"
+  },
+  {
+    "question_id": "257001",
+    "question": "is there an ice cream truck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\257001_1_ori.png"
+  },
+  {
+    "question_id": "257002",
+    "question": "is it daytime?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\257002_1_ori.png"
+  },
+  {
+    "question_id": "257003",
+    "question": "is the dog real?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\257003_1_ori.png"
+  },
+  {
+    "question_id": "257004",
+    "question": "what shoe company is advertised?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\257004_1_ori.png"
+  },
+  {
+    "question_id": "2587000",
+    "question": "which food contains the most potassium?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2587000_1_ori.png"
+  },
+  {
+    "question_id": "2587001",
+    "question": "what is not healthy in the baggie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2587001_1_ori.png"
+  },
+  {
+    "question_id": "2587002",
+    "question": "is the donut filled?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2587002_1_ori.png"
+  },
+  {
+    "question_id": "2592002",
+    "question": "what is the word on the mug?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2592002_1_ori.png"
+  }
+]

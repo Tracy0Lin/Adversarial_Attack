@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1153001",
+    "question": "what is laying on a banana?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1153001_1_ori.png"
+  },
+  {
+    "question_id": "1153013",
+    "question": "how many bananas are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1153013_1_ori.png"
+  },
+  {
+    "question_id": "1153014",
+    "question": "are these bananas ripe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1153014_1_ori.png"
+  },
+  {
+    "question_id": "1153015",
+    "question": "is the banana ripe enough to eat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1153015_1_ori.png"
+  },
+  {
+    "question_id": "1153016",
+    "question": "are the bananas ripe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1153016_1_ori.png"
+  },
+  {
+    "question_id": "1164001",
+    "question": "are the people giving the elephant a bath?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1164001_1_ori.png"
+  },
+  {
+    "question_id": "1176000",
+    "question": "what is the person riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1176000_1_ori.png"
+  },
+  {
+    "question_id": "1176002",
+    "question": "is there a window in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1176002_1_ori.png"
+  },
+  {
+    "question_id": "1205000",
+    "question": "what is the material of the walls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1205000_1_ori.png"
+  },
+  {
+    "question_id": "1244002",
+    "question": "how many boats are in the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1244002_1_ori.png"
+  },
+  {
+    "question_id": "1292000",
+    "question": "are her legs extended?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1292000_1_ori.png"
+  },
+  {
+    "question_id": "1292001",
+    "question": "what color are the women's pants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1292001_1_ori.png"
+  },
+  {
+    "question_id": "1292003",
+    "question": "what color is her shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1292003_1_ori.png"
+  },
+  {
+    "question_id": "1292006",
+    "question": "is this a modest young woman?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1292006_1_ori.png"
+  },
+  {
+    "question_id": "1296001",
+    "question": "what is on the cover of the phone the woman's holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1296001_1_ori.png"
+  },
+  {
+    "question_id": "1296002",
+    "question": "what is on the back of her phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1296002_1_ori.png"
+  },
+  {
+    "question_id": "1296003",
+    "question": "does the woman have on sunglasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1296003_1_ori.png"
+  },
+  {
+    "question_id": "131089000",
+    "question": "what color is the grass in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131089000_1_ori.png"
+  },
+  {
+    "question_id": "131089002",
+    "question": "how many are playing ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131089002_1_ori.png"
+  },
+  {
+    "question_id": "131089003",
+    "question": "is there a chain link fence in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131089003_1_ori.png"
+  }
+]

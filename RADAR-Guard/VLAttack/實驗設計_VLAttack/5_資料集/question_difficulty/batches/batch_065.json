@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "265063002",
+    "question": "what number of men are wearing reflective outfits?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265063002_1_ori.png"
+  },
+  {
+    "question_id": "265063004",
+    "question": "how is the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265063004_1_ori.png"
+  },
+  {
+    "question_id": "265066002",
+    "question": "how tall is the person in front?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265066002_1_ori.png"
+  },
+  {
+    "question_id": "265066003",
+    "question": "what is the number displayed on the person in the back?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265066003_1_ori.png"
+  },
+  {
+    "question_id": "265066005",
+    "question": "what number is on the skier's jersey?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265066005_1_ori.png"
+  },
+  {
+    "question_id": "265096002",
+    "question": "does he have snuffleupagus eyelashes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265096002_1_ori.png"
+  },
+  {
+    "question_id": "265096004",
+    "question": "how many elephants are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265096004_1_ori.png"
+  },
+  {
+    "question_id": "265108000",
+    "question": "what is the black-and-white object beneath the red balloon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265108000_1_ori.png"
+  },
+  {
+    "question_id": "265125000",
+    "question": "what is the woman holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265125000_1_ori.png"
+  },
+  {
+    "question_id": "265125001",
+    "question": "where is the woman putting her umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265125001_1_ori.png"
+  },
+  {
+    "question_id": "265125002",
+    "question": "what color is the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265125002_1_ori.png"
+  },
+  {
+    "question_id": "265125003",
+    "question": "what shape is the umbrella's handle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265125003_1_ori.png"
+  },
+  {
+    "question_id": "267112002",
+    "question": "what type of bikes are the people riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\267112002_1_ori.png"
+  },
+  {
+    "question_id": "2684000",
+    "question": "how many zebras are facing the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2684000_1_ori.png"
+  },
+  {
+    "question_id": "2684001",
+    "question": "are there zebra's in the wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2684001_1_ori.png"
+  },
+  {
+    "question_id": "2685000",
+    "question": "what color are the girl's pants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2685000_1_ori.png"
+  },
+  {
+    "question_id": "2685001",
+    "question": "is this a wine tasting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2685001_1_ori.png"
+  },
+  {
+    "question_id": "2690001",
+    "question": "could this roof be tiled?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2690001_1_ori.png"
+  },
+  {
+    "question_id": "2822000",
+    "question": "how do we know this picture is being taken from the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2822000_1_ori.png"
+  },
+  {
+    "question_id": "2822001",
+    "question": "is the grass tall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2822001_1_ori.png"
+  }
+]

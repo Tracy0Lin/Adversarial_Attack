@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262985000",
+    "question": "are there flags in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262985000_1_ori.png"
+  },
+  {
+    "question_id": "262985001",
+    "question": "what country is this boat from?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262985001_1_ori.png"
+  },
+  {
+    "question_id": "262985002",
+    "question": "what is the main color of the boat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262985002_1_ori.png"
+  },
+  {
+    "question_id": "262985004",
+    "question": "is the boat sinking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262985004_1_ori.png"
+  },
+  {
+    "question_id": "262986000",
+    "question": "is there moss on the rocks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262986000_1_ori.png"
+  },
+  {
+    "question_id": "262986001",
+    "question": "what is the bear looking for in the stream?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262986001_1_ori.png"
+  },
+  {
+    "question_id": "262987000",
+    "question": "is that a yield to chicken sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262987000_1_ori.png"
+  },
+  {
+    "question_id": "262987001",
+    "question": "what animal is on the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262987001_1_ori.png"
+  },
+  {
+    "question_id": "262987002",
+    "question": "what is on the signs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262987002_1_ori.png"
+  },
+  {
+    "question_id": "262993001",
+    "question": "how many hooks can you see in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262993001_1_ori.png"
+  },
+  {
+    "question_id": "262993002",
+    "question": "is this animal alive?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262993002_1_ori.png"
+  },
+  {
+    "question_id": "263011001",
+    "question": "how many busses have blue on them?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263011001_1_ori.png"
+  },
+  {
+    "question_id": "263014000",
+    "question": "what color are the zebras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014000_1_ori.png"
+  },
+  {
+    "question_id": "263014002",
+    "question": "is one of these animals juvenile?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014002_1_ori.png"
+  },
+  {
+    "question_id": "263014003",
+    "question": "is there more than one type of animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014003_1_ori.png"
+  },
+  {
+    "question_id": "263014006",
+    "question": "what color are the stripes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014006_1_ori.png"
+  },
+  {
+    "question_id": "263014007",
+    "question": "how many animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014007_1_ori.png"
+  },
+  {
+    "question_id": "263014008",
+    "question": "are these zebras roaming mountainous terrain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014008_1_ori.png"
+  },
+  {
+    "question_id": "263014009",
+    "question": "how many zebras are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014009_1_ori.png"
+  },
+  {
+    "question_id": "263014010",
+    "question": "are the animals touching?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014010_1_ori.png"
+  }
+]

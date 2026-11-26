@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262386031",
+    "question": "is there a mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386031_1_ori.png"
+  },
+  {
+    "question_id": "262386032",
+    "question": "what material is the toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386032_1_ori.png"
+  },
+  {
+    "question_id": "262386033",
+    "question": "what color is the toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386033_1_ori.png"
+  },
+  {
+    "question_id": "262386034",
+    "question": "is this toilet dirty?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386034_1_ori.png"
+  },
+  {
+    "question_id": "262386035",
+    "question": "how many toilets are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386035_1_ori.png"
+  },
+  {
+    "question_id": "262386036",
+    "question": "is this toilet usable right now?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386036_1_ori.png"
+  },
+  {
+    "question_id": "262386038",
+    "question": "what color is the pipe that is behind the base of the toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386038_1_ori.png"
+  },
+  {
+    "question_id": "262386039",
+    "question": "do the toilets have lids?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386039_1_ori.png"
+  },
+  {
+    "question_id": "262386040",
+    "question": "what is the metal rack on the wall for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386040_1_ori.png"
+  },
+  {
+    "question_id": "262386041",
+    "question": "are there tiles on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386041_1_ori.png"
+  },
+  {
+    "question_id": "262386042",
+    "question": "how many toilet paper rolls are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386042_1_ori.png"
+  },
+  {
+    "question_id": "262391000",
+    "question": "can you see through these curtains?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262391000_1_ori.png"
+  },
+  {
+    "question_id": "262391003",
+    "question": "are the curtains too short?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262391003_1_ori.png"
+  },
+  {
+    "question_id": "262391004",
+    "question": "what color is the door?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262391004_1_ori.png"
+  },
+  {
+    "question_id": "262391005",
+    "question": "how many people are in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262391005_1_ori.png"
+  },
+  {
+    "question_id": "262391006",
+    "question": "is that a television screen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262391006_1_ori.png"
+  },
+  {
+    "question_id": "262394002",
+    "question": "what animal is shown in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262394002_1_ori.png"
+  },
+  {
+    "question_id": "262396000",
+    "question": "what is the cat laying on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262396000_1_ori.png"
+  },
+  {
+    "question_id": "262396001",
+    "question": "what color fur is the cat shedding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262396001_1_ori.png"
+  },
+  {
+    "question_id": "262396002",
+    "question": "is this cat clawing the chair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262396002_1_ori.png"
+  }
+]

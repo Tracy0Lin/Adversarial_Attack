@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "2822002",
+    "question": "do the clouds look stormy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2822002_1_ori.png"
+  },
+  {
+    "question_id": "283001",
+    "question": "what drink is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283001_1_ori.png"
+  },
+  {
+    "question_id": "283002",
+    "question": "what is the table made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283002_1_ori.png"
+  },
+  {
+    "question_id": "283003",
+    "question": "what is in the cup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283003_1_ori.png"
+  },
+  {
+    "question_id": "283004",
+    "question": "what is this bottle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283004_1_ori.png"
+  },
+  {
+    "question_id": "283006",
+    "question": "is this a high quality bottle of wine?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283006_1_ori.png"
+  },
+  {
+    "question_id": "283785000",
+    "question": "what is the person speaking to the children dressed as?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283785000_1_ori.png"
+  },
+  {
+    "question_id": "283785002",
+    "question": "what is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\283785002_1_ori.png"
+  },
+  {
+    "question_id": "2839000",
+    "question": "is the child looking to the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2839000_1_ori.png"
+  },
+  {
+    "question_id": "285000",
+    "question": "is the bear sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\285000_1_ori.png"
+  },
+  {
+    "question_id": "285001",
+    "question": "is it daytime?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\285001_1_ori.png"
+  },
+  {
+    "question_id": "285002",
+    "question": "is the bears eyes open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\285002_1_ori.png"
+  },
+  {
+    "question_id": "2881005",
+    "question": "are there many clouds in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2881005_1_ori.png"
+  },
+  {
+    "question_id": "2894001",
+    "question": "is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2894001_1_ori.png"
+  },
+  {
+    "question_id": "2894004",
+    "question": "how many trains are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2894004_1_ori.png"
+  },
+  {
+    "question_id": "289813000",
+    "question": "where is the boy and luggage?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\289813000_1_ori.png"
+  },
+  {
+    "question_id": "289813001",
+    "question": "is the boys shirt plaid?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\289813001_1_ori.png"
+  },
+  {
+    "question_id": "289813002",
+    "question": "what does the boy have by him?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\289813002_1_ori.png"
+  },
+  {
+    "question_id": "294000",
+    "question": "is this the kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294000_1_ori.png"
+  },
+  {
+    "question_id": "294001",
+    "question": "what does the black machine next to the man produce?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294001_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393674002",
+    "question": "what sport is this person playing if your in america?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393674002_1_ori.png"
+  },
+  {
+    "question_id": "393674003",
+    "question": "what color is his shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393674003_1_ori.png"
+  },
+  {
+    "question_id": "393674005",
+    "question": "can you see home plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393674005_1_ori.png"
+  },
+  {
+    "question_id": "393682001",
+    "question": "what is the white substance on the left side of the plate and on top of the cake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393682001_1_ori.png"
+  },
+  {
+    "question_id": "393682003",
+    "question": "is that a fork or knife sticking out of the mixture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393682003_1_ori.png"
+  },
+  {
+    "question_id": "393692000",
+    "question": "what is the table made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393692000_1_ori.png"
+  },
+  {
+    "question_id": "393692002",
+    "question": "is the lamp on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393692002_1_ori.png"
+  },
+  {
+    "question_id": "393710000",
+    "question": "are there other people in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393710000_1_ori.png"
+  },
+  {
+    "question_id": "393710002",
+    "question": "what color is the boy's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393710002_1_ori.png"
+  },
+  {
+    "question_id": "393720001",
+    "question": "is the person wearing a shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393720001_1_ori.png"
+  },
+  {
+    "question_id": "393720002",
+    "question": "is he holding a camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393720002_1_ori.png"
+  },
+  {
+    "question_id": "393720004",
+    "question": "what is the skateboard sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393720004_1_ori.png"
+  },
+  {
+    "question_id": "393720005",
+    "question": "is the skateboarder wearing a dress?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393720005_1_ori.png"
+  },
+  {
+    "question_id": "393720006",
+    "question": "is that a snowboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393720006_1_ori.png"
+  },
+  {
+    "question_id": "393743002",
+    "question": "what type of ball is she going to kick?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393743002_1_ori.png"
+  },
+  {
+    "question_id": "393768001",
+    "question": "is this someone's home?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393768001_1_ori.png"
+  },
+  {
+    "question_id": "393777000",
+    "question": "is a children's show on tv?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393777000_1_ori.png"
+  },
+  {
+    "question_id": "393777002",
+    "question": "is the boy interested in the stuff he is holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393777002_1_ori.png"
+  },
+  {
+    "question_id": "393777004",
+    "question": "is the room clean or messy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393777004_1_ori.png"
+  },
+  {
+    "question_id": "393777005",
+    "question": "is there a baby?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393777005_1_ori.png"
+  }
+]

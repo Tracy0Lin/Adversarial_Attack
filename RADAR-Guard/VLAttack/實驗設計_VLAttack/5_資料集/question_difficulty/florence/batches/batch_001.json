@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1149002",
+    "question": "are those imitation missiles on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1149002_1_ori.png"
+  },
+  {
+    "question_id": "1149003",
+    "question": "what is being displayed on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1149003_1_ori.png"
+  },
+  {
+    "question_id": "1153000",
+    "question": "how many fruits are on this plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153000_1_ori.png"
+  },
+  {
+    "question_id": "1153002",
+    "question": "how many bananas are on the counter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153002_1_ori.png"
+  },
+  {
+    "question_id": "1153003",
+    "question": "how many different types of fruit is there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153003_1_ori.png"
+  },
+  {
+    "question_id": "1153004",
+    "question": "are these separate bananas or in a bunch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153004_1_ori.png"
+  },
+  {
+    "question_id": "1153005",
+    "question": "how many pieces of fruit have a sticker?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153005_1_ori.png"
+  },
+  {
+    "question_id": "1153006",
+    "question": "have these bananas been peeled?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153006_1_ori.png"
+  },
+  {
+    "question_id": "1153007",
+    "question": "are these bananas for sale?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153007_1_ori.png"
+  },
+  {
+    "question_id": "1153010",
+    "question": "how many bananas are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153010_1_ori.png"
+  },
+  {
+    "question_id": "1153012",
+    "question": "what color sticker is on the banana?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1153012_1_ori.png"
+  },
+  {
+    "question_id": "1164000",
+    "question": "is the elephant standing up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1164000_1_ori.png"
+  },
+  {
+    "question_id": "1164002",
+    "question": "what are the two girls trying to do?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1164002_1_ori.png"
+  },
+  {
+    "question_id": "1171000",
+    "question": "is this train engine old?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1171000_1_ori.png"
+  },
+  {
+    "question_id": "1171001",
+    "question": "is it evening?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1171001_1_ori.png"
+  },
+  {
+    "question_id": "1171002",
+    "question": "what number is on the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1171002_1_ori.png"
+  },
+  {
+    "question_id": "1176001",
+    "question": "what is the man riding his skateboard on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\1176001_1_ori.png"
+  },
+  {
+    "question_id": "1180001",
+    "question": "what colors decorate the cake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1180001_1_ori.png"
+  },
+  {
+    "question_id": "1180002",
+    "question": "what color is the tablecloth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1180002_1_ori.png"
+  },
+  {
+    "question_id": "1205001",
+    "question": "how many pillows are seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1205001_1_ori.png"
+  }
+]

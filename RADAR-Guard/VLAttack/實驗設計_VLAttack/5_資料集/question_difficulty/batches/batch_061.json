@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "264279004",
+    "question": "what sport is he doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264279004_1_ori.png"
+  },
+  {
+    "question_id": "264338000",
+    "question": "what room in the house are the people in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264338000_1_ori.png"
+  },
+  {
+    "question_id": "264347000",
+    "question": "what is this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264347000_1_ori.png"
+  },
+  {
+    "question_id": "264347001",
+    "question": "what color is the countertop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264347001_1_ori.png"
+  },
+  {
+    "question_id": "264382001",
+    "question": "what is the players job in the foreground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264382001_1_ori.png"
+  },
+  {
+    "question_id": "264385005",
+    "question": "does the mouse have a cord?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264385005_1_ori.png"
+  },
+  {
+    "question_id": "264385007",
+    "question": "is the mouse cordless?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264385007_1_ori.png"
+  },
+  {
+    "question_id": "264420000",
+    "question": "what color is the animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264420000_1_ori.png"
+  },
+  {
+    "question_id": "264420002",
+    "question": "what part of this animal was used to make piano keys?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264420002_1_ori.png"
+  },
+  {
+    "question_id": "264420003",
+    "question": "where is the elephant at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264420003_1_ori.png"
+  },
+  {
+    "question_id": "264423001",
+    "question": "what are the people doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264423001_1_ori.png"
+  },
+  {
+    "question_id": "264423002",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264423002_1_ori.png"
+  },
+  {
+    "question_id": "264424001",
+    "question": "where are the players playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264424001_1_ori.png"
+  },
+  {
+    "question_id": "264441000",
+    "question": "what color is the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264441000_1_ori.png"
+  },
+  {
+    "question_id": "264441001",
+    "question": "is the cat uncomfortable?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264441001_1_ori.png"
+  },
+  {
+    "question_id": "264441002",
+    "question": "this chair will be covered in what?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264441002_1_ori.png"
+  },
+  {
+    "question_id": "264461000",
+    "question": "are the patterns of the floor and wall tiles the same?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264461000_1_ori.png"
+  },
+  {
+    "question_id": "264482001",
+    "question": "are the donuts chocolate flavored?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264482001_1_ori.png"
+  },
+  {
+    "question_id": "264482003",
+    "question": "what kind of food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264482003_1_ori.png"
+  },
+  {
+    "question_id": "264506000",
+    "question": "is the sheep by itself?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264506000_1_ori.png"
+  }
+]

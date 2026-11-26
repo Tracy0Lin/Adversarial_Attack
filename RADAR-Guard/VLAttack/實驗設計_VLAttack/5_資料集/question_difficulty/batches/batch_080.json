@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394133002",
+    "question": "what type of beds are shown in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394133002_1_ori.png"
+  },
+  {
+    "question_id": "394133004",
+    "question": "is the lamp on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394133004_1_ori.png"
+  },
+  {
+    "question_id": "394133006",
+    "question": "what color is the pillow on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394133006_1_ori.png"
+  },
+  {
+    "question_id": "394133007",
+    "question": "is someone in bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394133007_1_ori.png"
+  },
+  {
+    "question_id": "394133009",
+    "question": "is the bed made?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394133009_1_ori.png"
+  },
+  {
+    "question_id": "394199000",
+    "question": "what brand motorcycle is she standing by?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394199000_1_ori.png"
+  },
+  {
+    "question_id": "394206000",
+    "question": "is this photo inside or outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394206000_1_ori.png"
+  },
+  {
+    "question_id": "394206002",
+    "question": "do these men have beards?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394206002_1_ori.png"
+  },
+  {
+    "question_id": "394206003",
+    "question": "is someone wearing a red shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394206003_1_ori.png"
+  },
+  {
+    "question_id": "394206004",
+    "question": "how many tires are on the back of the truck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394206004_1_ori.png"
+  },
+  {
+    "question_id": "394240001",
+    "question": "what kind of vehicles are parked on the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394240001_1_ori.png"
+  },
+  {
+    "question_id": "394246001",
+    "question": "what color are the skateboard's trucks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394246001_1_ori.png"
+  },
+  {
+    "question_id": "394251004",
+    "question": "has there been an accident?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394251004_1_ori.png"
+  },
+  {
+    "question_id": "394259001",
+    "question": "what color is the bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394259001_1_ori.png"
+  },
+  {
+    "question_id": "394275000",
+    "question": "what color is this bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394275000_1_ori.png"
+  },
+  {
+    "question_id": "394275001",
+    "question": "is the bus parked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394275001_1_ori.png"
+  },
+  {
+    "question_id": "394320000",
+    "question": "what color hair does the woman on the left have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394320000_1_ori.png"
+  },
+  {
+    "question_id": "394320002",
+    "question": "what kind of food is the woman on the left of the screen reaching for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394320002_1_ori.png"
+  },
+  {
+    "question_id": "394322001",
+    "question": "what are the kids doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394322001_1_ori.png"
+  },
+  {
+    "question_id": "394322003",
+    "question": "is this a contemporary photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394322003_1_ori.png"
+  }
+]

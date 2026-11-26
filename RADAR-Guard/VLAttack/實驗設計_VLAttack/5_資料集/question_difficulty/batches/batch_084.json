@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394941004",
+    "question": "what is pushing the board?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394941004_1_ori.png"
+  },
+  {
+    "question_id": "394941006",
+    "question": "what is the person wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394941006_1_ori.png"
+  },
+  {
+    "question_id": "394957000",
+    "question": "is the bathroom dirty?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394957000_1_ori.png"
+  },
+  {
+    "question_id": "394957001",
+    "question": "what room are they in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394957001_1_ori.png"
+  },
+  {
+    "question_id": "394957002",
+    "question": "is this an airport bathroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394957002_1_ori.png"
+  },
+  {
+    "question_id": "395000",
+    "question": "what color is the man's jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395000_1_ori.png"
+  },
+  {
+    "question_id": "395002",
+    "question": "is this an american?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395002_1_ori.png"
+  },
+  {
+    "question_id": "395046001",
+    "question": "is the train coming or leaving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395046001_1_ori.png"
+  },
+  {
+    "question_id": "395083000",
+    "question": "are there any bushes on the field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395083000_1_ori.png"
+  },
+  {
+    "question_id": "395083001",
+    "question": "what is flying in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395083001_1_ori.png"
+  },
+  {
+    "question_id": "395083006",
+    "question": "how many trees are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395083006_1_ori.png"
+  },
+  {
+    "question_id": "395083007",
+    "question": "is this out in the countryside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395083007_1_ori.png"
+  },
+  {
+    "question_id": "395083010",
+    "question": "what are in the air?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395083010_1_ori.png"
+  },
+  {
+    "question_id": "395124001",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395124001_1_ori.png"
+  },
+  {
+    "question_id": "395124002",
+    "question": "are the lights on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395124002_1_ori.png"
+  },
+  {
+    "question_id": "395124003",
+    "question": "is there a medicine cabinet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395124003_1_ori.png"
+  },
+  {
+    "question_id": "395124005",
+    "question": "what shape is the mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395124005_1_ori.png"
+  },
+  {
+    "question_id": "395124006",
+    "question": "is that a chain shower curtain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395124006_1_ori.png"
+  },
+  {
+    "question_id": "395124007",
+    "question": "what is on the shower curtain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395124007_1_ori.png"
+  },
+  {
+    "question_id": "395180000",
+    "question": "is there a river in this image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395180000_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133042006",
+    "question": "what color are these guys shirts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133042006_1_ori.png"
+  },
+  {
+    "question_id": "133042008",
+    "question": "why are the players legs so far apart?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133042008_1_ori.png"
+  },
+  {
+    "question_id": "133042012",
+    "question": "who is the man in the black shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133042012_1_ori.png"
+  },
+  {
+    "question_id": "133050001",
+    "question": "how many different type of vegetables are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133050001_1_ori.png"
+  },
+  {
+    "question_id": "133050003",
+    "question": "what color are the dots on the handle of the utensil?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133050003_1_ori.png"
+  },
+  {
+    "question_id": "133050006",
+    "question": "what is the top number?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133050006_1_ori.png"
+  },
+  {
+    "question_id": "133050009",
+    "question": "where is the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133050009_1_ori.png"
+  },
+  {
+    "question_id": "133060000",
+    "question": "what position is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133060000_1_ori.png"
+  },
+  {
+    "question_id": "133060001",
+    "question": "what team is playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133060001_1_ori.png"
+  },
+  {
+    "question_id": "133060003",
+    "question": "is the child wearing a helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133060003_1_ori.png"
+  },
+  {
+    "question_id": "133061002",
+    "question": "how many cows are present?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133061002_1_ori.png"
+  },
+  {
+    "question_id": "133087000",
+    "question": "are there any people in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133087000_1_ori.png"
+  },
+  {
+    "question_id": "133090002",
+    "question": "is the player running?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133090002_1_ori.png"
+  },
+  {
+    "question_id": "133098000",
+    "question": "what sort of animals are these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133098000_1_ori.png"
+  },
+  {
+    "question_id": "133104001",
+    "question": "is this an unusual color for a meter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133104001_1_ori.png"
+  },
+  {
+    "question_id": "133104002",
+    "question": "does the meter need more money?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133104002_1_ori.png"
+  },
+  {
+    "question_id": "133104004",
+    "question": "does the car have hubcaps?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133104004_1_ori.png"
+  },
+  {
+    "question_id": "133104005",
+    "question": "is there a barber shop across the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133104005_1_ori.png"
+  },
+  {
+    "question_id": "133125001",
+    "question": "what color frame is the painting in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133125001_1_ori.png"
+  },
+  {
+    "question_id": "133125002",
+    "question": "what is on the window?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133125002_1_ori.png"
+  }
+]

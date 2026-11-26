@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "400001",
+    "question": "is there a dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\400001_1_ori.png"
+  },
+  {
+    "question_id": "400002",
+    "question": "who is on the boat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\400002_1_ori.png"
+  },
+  {
+    "question_id": "400003",
+    "question": "does the dog enjoy the boat ride?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\400003_1_ori.png"
+  },
+  {
+    "question_id": "414663002",
+    "question": "what color is the clock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\414663002_1_ori.png"
+  },
+  {
+    "question_id": "415000",
+    "question": "is the player right handed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415000_1_ori.png"
+  },
+  {
+    "question_id": "415001",
+    "question": "what shorts is the boy wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415001_1_ori.png"
+  },
+  {
+    "question_id": "415002",
+    "question": "is he a professional athlete?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415002_1_ori.png"
+  },
+  {
+    "question_id": "415408000",
+    "question": "what is behind the hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415408000_1_ori.png"
+  },
+  {
+    "question_id": "415408001",
+    "question": "is this an urban setting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415408001_1_ori.png"
+  },
+  {
+    "question_id": "415408002",
+    "question": "what color is the hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415408002_1_ori.png"
+  },
+  {
+    "question_id": "415408010",
+    "question": "what is happening with the fire hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415408010_1_ori.png"
+  },
+  {
+    "question_id": "415413001",
+    "question": "do you see a moon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\415413001_1_ori.png"
+  },
+  {
+    "question_id": "42000",
+    "question": "what color are the gym shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\42000_1_ori.png"
+  },
+  {
+    "question_id": "42001",
+    "question": "is there a red sandal here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\42001_1_ori.png"
+  },
+  {
+    "question_id": "42002",
+    "question": "what color is the flip flop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\42002_1_ori.png"
+  },
+  {
+    "question_id": "423396000",
+    "question": "what color is the clock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\423396000_1_ori.png"
+  },
+  {
+    "question_id": "427782001",
+    "question": "is this orange slice already eaten?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\427782001_1_ori.png"
+  },
+  {
+    "question_id": "427782002",
+    "question": "is there any grass in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\427782002_1_ori.png"
+  },
+  {
+    "question_id": "427783001",
+    "question": "what color are the bater's sneakers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\427783001_1_ori.png"
+  },
+  {
+    "question_id": "428000",
+    "question": "what is around the baby's neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\428000_1_ori.png"
+  }
+]

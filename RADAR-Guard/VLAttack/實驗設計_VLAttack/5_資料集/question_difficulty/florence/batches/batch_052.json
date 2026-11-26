@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526143001",
+    "question": "is the giraffe eating the plants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526143001_1_ori.png"
+  },
+  {
+    "question_id": "526186000",
+    "question": "what is the lady holding in her hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526186000_1_ori.png"
+  },
+  {
+    "question_id": "526186001",
+    "question": "who is standing by the stove?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526186001_1_ori.png"
+  },
+  {
+    "question_id": "526186003",
+    "question": "how many people are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526186003_1_ori.png"
+  },
+  {
+    "question_id": "526188003",
+    "question": "what is the shape of the kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526188003_1_ori.png"
+  },
+  {
+    "question_id": "526197000",
+    "question": "how many pastries are shown on the plates?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526197000_1_ori.png"
+  },
+  {
+    "question_id": "526197006",
+    "question": "how much are the donuts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526197006_1_ori.png"
+  },
+  {
+    "question_id": "526222001",
+    "question": "what sport is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526222001_1_ori.png"
+  },
+  {
+    "question_id": "526256000",
+    "question": "what time does the clock read?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526256000_1_ori.png"
+  },
+  {
+    "question_id": "526256001",
+    "question": "where is the clock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526256001_1_ori.png"
+  },
+  {
+    "question_id": "526256003",
+    "question": "what type of architecture is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526256003_1_ori.png"
+  },
+  {
+    "question_id": "526319001",
+    "question": "what is in the glass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526319001_1_ori.png"
+  },
+  {
+    "question_id": "526321001",
+    "question": "what time of day is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526321001_1_ori.png"
+  },
+  {
+    "question_id": "526321002",
+    "question": "are there any figurines?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526321002_1_ori.png"
+  },
+  {
+    "question_id": "526321004",
+    "question": "what brand is the stereo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526321004_1_ori.png"
+  },
+  {
+    "question_id": "526342007",
+    "question": "what substance is the chair made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526342007_1_ori.png"
+  },
+  {
+    "question_id": "526353004",
+    "question": "what is to the left of the little girl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526353004_1_ori.png"
+  },
+  {
+    "question_id": "526353005",
+    "question": "was are the people waiting for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526353005_1_ori.png"
+  },
+  {
+    "question_id": "526359002",
+    "question": "what is the lighting called?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526359002_1_ori.png"
+  },
+  {
+    "question_id": "526364002",
+    "question": "is the stove gas or electric?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526364002_1_ori.png"
+  }
+]

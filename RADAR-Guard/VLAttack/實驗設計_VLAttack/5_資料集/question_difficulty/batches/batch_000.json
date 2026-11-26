@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1000000",
+    "question": "what are they preparing to do?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1000000_1_ori.png"
+  },
+  {
+    "question_id": "1000003",
+    "question": "are they all carrying tennis rackets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1000003_1_ori.png"
+  },
+  {
+    "question_id": "1000004",
+    "question": "how many people have a camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1000004_1_ori.png"
+  },
+  {
+    "question_id": "1029001",
+    "question": "are there clouds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1029001_1_ori.png"
+  },
+  {
+    "question_id": "1029002",
+    "question": "what is the jet flying above that is wire?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1029002_1_ori.png"
+  },
+  {
+    "question_id": "1063001",
+    "question": "is the giraffe stretching his neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1063001_1_ori.png"
+  },
+  {
+    "question_id": "1089002",
+    "question": "who is the man in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1089002_1_ori.png"
+  },
+  {
+    "question_id": "109679002",
+    "question": "what color is his hat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\109679002_1_ori.png"
+  },
+  {
+    "question_id": "109992001",
+    "question": "what time was this pic taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\109992001_1_ori.png"
+  },
+  {
+    "question_id": "109992002",
+    "question": "how many people are outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\109992002_1_ori.png"
+  },
+  {
+    "question_id": "1103001",
+    "question": "what kind of animals are on the beach?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1103001_1_ori.png"
+  },
+  {
+    "question_id": "1103002",
+    "question": "is this a color photograph?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1103002_1_ori.png"
+  },
+  {
+    "question_id": "1138002",
+    "question": "what is in the fireplace?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1138002_1_ori.png"
+  },
+  {
+    "question_id": "1138005",
+    "question": "what animal is depicted on the rug in front of the fireplace?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1138005_1_ori.png"
+  },
+  {
+    "question_id": "1146000",
+    "question": "what color is the man's necktie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1146000_1_ori.png"
+  },
+  {
+    "question_id": "1146001",
+    "question": "what color is the man's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1146001_1_ori.png"
+  },
+  {
+    "question_id": "1146003",
+    "question": "what is he wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1146003_1_ori.png"
+  },
+  {
+    "question_id": "1146006",
+    "question": "does he have on the appropriate shirt to wear with a tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1146006_1_ori.png"
+  },
+  {
+    "question_id": "1146007",
+    "question": "what animal is on the man's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1146007_1_ori.png"
+  },
+  {
+    "question_id": "1149001",
+    "question": "how many of these people are soldiers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1149001_1_ori.png"
+  }
+]

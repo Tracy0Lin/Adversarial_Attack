@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393557002",
+    "question": "what color is the zebra?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393557002_1_ori.png"
+  },
+  {
+    "question_id": "393569001",
+    "question": "when is this taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393569001_1_ori.png"
+  },
+  {
+    "question_id": "393569002",
+    "question": "what is the girl using?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393569002_1_ori.png"
+  },
+  {
+    "question_id": "393578000",
+    "question": "is this a train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393578000_1_ori.png"
+  },
+  {
+    "question_id": "393578001",
+    "question": "is it night?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393578001_1_ori.png"
+  },
+  {
+    "question_id": "393578002",
+    "question": "how many people can get on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393578002_1_ori.png"
+  },
+  {
+    "question_id": "393583000",
+    "question": "what does the red sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393583000_1_ori.png"
+  },
+  {
+    "question_id": "393583001",
+    "question": "what would a person park here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393583001_1_ori.png"
+  },
+  {
+    "question_id": "393583003",
+    "question": "what color is the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393583003_1_ori.png"
+  },
+  {
+    "question_id": "393583004",
+    "question": "was this picture taken in the united states?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393583004_1_ori.png"
+  },
+  {
+    "question_id": "393647002",
+    "question": "what is on the front of the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393647002_1_ori.png"
+  },
+  {
+    "question_id": "393647003",
+    "question": "is this photo taken in america?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393647003_1_ori.png"
+  },
+  {
+    "question_id": "393647004",
+    "question": "what kind of vehicle is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393647004_1_ori.png"
+  },
+  {
+    "question_id": "393647005",
+    "question": "is this town in china?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393647005_1_ori.png"
+  },
+  {
+    "question_id": "393647006",
+    "question": "what number route?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393647006_1_ori.png"
+  },
+  {
+    "question_id": "393659000",
+    "question": "are the lights on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393659000_1_ori.png"
+  },
+  {
+    "question_id": "393659001",
+    "question": "how many sinks are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393659001_1_ori.png"
+  },
+  {
+    "question_id": "393659002",
+    "question": "how many towels can you see in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393659002_1_ori.png"
+  },
+  {
+    "question_id": "393674000",
+    "question": "is this a little league baseball player?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393674000_1_ori.png"
+  },
+  {
+    "question_id": "393674001",
+    "question": "are the stands full?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393674001_1_ori.png"
+  }
+]

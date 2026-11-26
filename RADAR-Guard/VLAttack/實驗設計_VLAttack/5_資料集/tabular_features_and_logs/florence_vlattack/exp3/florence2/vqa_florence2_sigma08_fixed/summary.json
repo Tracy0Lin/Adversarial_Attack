@@ -1,0 +1,115 @@
+{
+  "experiment": "exp3",
+  "captioner": "florence2",
+  "vqa_backend": "florence2",
+  "n_rows": 1000,
+  "n_attack": 1000,
+  "n_clean": 0,
+  "n_photos": 335,
+  "stage1_protocol": "trained on exp2 (2000 rows), applied to exp3",
+  "stage1_risk": {},
+  "stage1_dcenter_lr": {},
+  "stage1_high_only": {
+    "TP": 439,
+    "FP": 0,
+    "FN": 561,
+    "TN": 0,
+    "TPR": 0.439,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "precision": 1.0,
+    "F1": 0.610145934676859,
+    "balanced_acc": NaN
+  },
+  "stage1_midhigh": {
+    "TP": 737,
+    "FP": 0,
+    "FN": 263,
+    "TN": 0,
+    "TPR": 0.737,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "precision": 1.0,
+    "F1": 0.8485895221646517,
+    "balanced_acc": NaN
+  },
+  "mid_rate": 0.298,
+  "bins": {
+    "attack": {
+      "low": 263,
+      "mid": 298,
+      "high": 439
+    }
+  },
+  "theta_source": "fixed override theta_star=0.8 theta_det=0.8",
+  "output_tag": "sigma08_fixed",
+  "theta_star_mid": 0.8,
+  "theta_det_mid": 0.8,
+  "theta_star_all": 0.8,
+  "theta_det_all": 0.8,
+  "sss_at_theta_star": 0.4388812574847967,
+  "mid_flip_at_theta_det": {
+    "TPR": 0.5503355704697986,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "TPR_fooled_only": 0.5503355704697986
+  },
+  "full_pipeline": {
+    "TP": 603,
+    "FP": 0,
+    "FN": 397,
+    "TN": 0,
+    "TPR": 0.603,
+    "FPR": NaN,
+    "youden_j": NaN,
+    "precision": 1.0,
+    "F1": 0.7523393636930754,
+    "balanced_acc": NaN,
+    "asr_before": 1.0,
+    "effective_asr": 0.397,
+    "attacks_fooled_before": 1000,
+    "attacks_still_fooling": 397,
+    "clean_service_rate": NaN,
+    "clean_blocked_rate": NaN,
+    "clean_answer_changed_rate": NaN,
+    "vqa_calls_per_row": 0.859,
+    "theta_star": 0.8,
+    "theta_det": 0.8,
+    "TPR_ci95": [
+      0.5480186768596994,
+      0.6582332524679941
+    ],
+    "FPR_ci95": [
+      NaN,
+      NaN
+    ],
+    "youden_j_ci95": [
+      NaN,
+      NaN
+    ],
+    "effective_asr_ci95": [
+      0.34176674753200587,
+      0.45198132314030054
+    ],
+    "clean_service_rate_ci95": [
+      NaN,
+      NaN
+    ]
+  },
+  "caption_rewrite_rate": {
+    "clean": null,
+    "attack": 0.7497999999999999
+  },
+  "feature_means": {
+    "attack": {
+      "d_center": 0.06480111247595047,
+      "d_iqr": 0.019239415484480535,
+      "d_tail": 0.02328764623403547,
+      "d_q95": 0.12203575257422923
+    }
+  },
+  "caption_calls_per_row": {
+    "total": 11,
+    "unique_inputs": 3
+  }
+}

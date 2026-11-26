@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262609010",
+    "question": "how many lines are in the crosswalk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609010_1_ori.png"
+  },
+  {
+    "question_id": "262609011",
+    "question": "where is the apple emblem?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609011_1_ori.png"
+  },
+  {
+    "question_id": "262609012",
+    "question": "is there any cars on the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609012_1_ori.png"
+  },
+  {
+    "question_id": "262609013",
+    "question": "is this street straight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609013_1_ori.png"
+  },
+  {
+    "question_id": "262617001",
+    "question": "how many pizza slices are there total?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262617001_1_ori.png"
+  },
+  {
+    "question_id": "262617002",
+    "question": "what is sold here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262617002_1_ori.png"
+  },
+  {
+    "question_id": "262626000",
+    "question": "does the kitty think it's going to rain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262626000_1_ori.png"
+  },
+  {
+    "question_id": "262626001",
+    "question": "is the kitty on the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262626001_1_ori.png"
+  },
+  {
+    "question_id": "262626002",
+    "question": "what animal is on the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262626002_1_ori.png"
+  },
+  {
+    "question_id": "262626003",
+    "question": "what is the picture on the smallest pillow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262626003_1_ori.png"
+  },
+  {
+    "question_id": "262642000",
+    "question": "is this man standing on a crowded street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262642000_1_ori.png"
+  },
+  {
+    "question_id": "262642001",
+    "question": "does this man want to be photographed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262642001_1_ori.png"
+  },
+  {
+    "question_id": "262642002",
+    "question": "what is this person holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262642002_1_ori.png"
+  },
+  {
+    "question_id": "262651001",
+    "question": "is this a swimming pool?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262651001_1_ori.png"
+  },
+  {
+    "question_id": "262651002",
+    "question": "is this a leisure boat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262651002_1_ori.png"
+  },
+  {
+    "question_id": "262654000",
+    "question": "is there anything healthy on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262654000_1_ori.png"
+  },
+  {
+    "question_id": "262654001",
+    "question": "is this in a bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262654001_1_ori.png"
+  },
+  {
+    "question_id": "262654002",
+    "question": "what is the meat on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262654002_1_ori.png"
+  },
+  {
+    "question_id": "262654003",
+    "question": "what color is the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262654003_1_ori.png"
+  },
+  {
+    "question_id": "262654004",
+    "question": "how many meat products are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262654004_1_ori.png"
+  }
+]

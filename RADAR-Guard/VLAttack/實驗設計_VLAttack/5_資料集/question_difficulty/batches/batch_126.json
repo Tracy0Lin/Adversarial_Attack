@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "969000",
+    "question": "what is the man catching?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969000_1_ori.png"
+  },
+  {
+    "question_id": "969002",
+    "question": "what is the guy about to throw?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969002_1_ori.png"
+  },
+  {
+    "question_id": "969003",
+    "question": "are both men bending down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969003_1_ori.png"
+  },
+  {
+    "question_id": "969004",
+    "question": "what is the man teaching the children?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969004_1_ori.png"
+  },
+  {
+    "question_id": "969005",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969005_1_ori.png"
+  },
+  {
+    "question_id": "969006",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969006_1_ori.png"
+  },
+  {
+    "question_id": "969008",
+    "question": "what color are his shorts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969008_1_ori.png"
+  },
+  {
+    "question_id": "969012",
+    "question": "what is the man reaching for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969012_1_ori.png"
+  },
+  {
+    "question_id": "969015",
+    "question": "where are the people gathered?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969015_1_ori.png"
+  },
+  {
+    "question_id": "969017",
+    "question": "what is the kid throwing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\969017_1_ori.png"
+  },
+  {
+    "question_id": "974004",
+    "question": "are these people in the jungle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\974004_1_ori.png"
+  },
+  {
+    "question_id": "985001",
+    "question": "is the bus one solid color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\985001_1_ori.png"
+  },
+  {
+    "question_id": "985007",
+    "question": "can you ride this bus today?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\985007_1_ori.png"
+  },
+  {
+    "question_id": "985012",
+    "question": "what is the design on the side of the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\985012_1_ori.png"
+  },
+  {
+    "question_id": "985013",
+    "question": "how many window panels are on each bus door?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\985013_1_ori.png"
+  },
+  {
+    "question_id": "985015",
+    "question": "what image is on the top left of the bus marquee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\985015_1_ori.png"
+  },
+  {
+    "question_id": "999000",
+    "question": "what color is the man's shirt to the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\999000_1_ori.png"
+  },
+  {
+    "question_id": "999002",
+    "question": "what game are they playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\999002_1_ori.png"
+  }
+]

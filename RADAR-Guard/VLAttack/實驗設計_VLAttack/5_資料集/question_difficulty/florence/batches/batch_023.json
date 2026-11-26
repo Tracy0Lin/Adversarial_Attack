@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263014012",
+    "question": "how many zebras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014012_1_ori.png"
+  },
+  {
+    "question_id": "263014013",
+    "question": "how many animals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263014013_1_ori.png"
+  },
+  {
+    "question_id": "263052000",
+    "question": "is he in danger of drowning?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263052000_1_ori.png"
+  },
+  {
+    "question_id": "263052001",
+    "question": "what color is the surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263052001_1_ori.png"
+  },
+  {
+    "question_id": "263052002",
+    "question": "what brand is this girl's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263052002_1_ori.png"
+  },
+  {
+    "question_id": "263120000",
+    "question": "would the animals drink from this water source?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263120000_1_ori.png"
+  },
+  {
+    "question_id": "263120001",
+    "question": "is this a sunny day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263120001_1_ori.png"
+  },
+  {
+    "question_id": "263120002",
+    "question": "what objects are reflected?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263120002_1_ori.png"
+  },
+  {
+    "question_id": "263120003",
+    "question": "are the elephants stampeding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263120003_1_ori.png"
+  },
+  {
+    "question_id": "263120004",
+    "question": "could this be a watering hole?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263120004_1_ori.png"
+  },
+  {
+    "question_id": "263120005",
+    "question": "how many elephants are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263120005_1_ori.png"
+  },
+  {
+    "question_id": "263136000",
+    "question": "what color is the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263136000_1_ori.png"
+  },
+  {
+    "question_id": "263136001",
+    "question": "is the horse sleepy or hungry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263136001_1_ori.png"
+  },
+  {
+    "question_id": "263136005",
+    "question": "would this horse be able to carry an adult human?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263136005_1_ori.png"
+  },
+  {
+    "question_id": "263136007",
+    "question": "what color is the dress?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263136007_1_ori.png"
+  },
+  {
+    "question_id": "263136009",
+    "question": "what is the color of the grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263136009_1_ori.png"
+  },
+  {
+    "question_id": "263136010",
+    "question": "what is in the lady's hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263136010_1_ori.png"
+  },
+  {
+    "question_id": "263146000",
+    "question": "what is unusual about this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263146000_1_ori.png"
+  },
+  {
+    "question_id": "263146001",
+    "question": "how many legs does the dog have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263146001_1_ori.png"
+  },
+  {
+    "question_id": "263146002",
+    "question": "is a dog riding the motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\263146002_1_ori.png"
+  }
+]

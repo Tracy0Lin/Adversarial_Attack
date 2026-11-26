@@ -157,4 +157,22 @@ export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
 
 - `steps100_alpha0.002_run1000/visual_results`：4,423 組 × 12 種變化共 53,076 張 PNG、約 16 GB，體積過大，未上傳；其統計與特徵表已在 `實驗設計_VLAttack/5_資料集/tabular_features_and_logs/steps100_alpha0.002_run1000/`。
 - COCO val2014 完整影像（40,504 張，約 6.18 GB）：請自行從 COCO 官方網站下載（https://cocodataset.org/#download）；實驗實際用到的 300 張已收錄在 `實驗設計_VLAttack/5_資料集/benign_val2014_300/`。
-- Florence 相關輸出不屬於 VLAttack 交付範圍。
+- Florence 的大型輸出（探針快取 `probe_cache_*.csv`、`screening_log.jsonl`、題目池 JSON、題目難度的裁切圖與標註圖）未上傳；Florence 的腳本與 `sigma08_fixed` 結果表已放進本 repo，見下方「補充：Florence、題目難度、分流分析與重算工具」。
+
+---
+
+## 補充：Florence、題目難度、分流分析與重算工具
+
+2026-11-27 補入。以下檔案都是原電腦上的唯讀複本（已用 SHA256 比對），沒有修改原檔；不含圖片、模型權重或 `.pyc`。腳本內寫死的路徑是原作者電腦的路徑，換機器執行前需自行改路徑。
+
+| 內容 | 腳本位置 | 結果／資料位置 |
+|---|---|---|
+| Florence-2 受害模型：攻擊與資料建立 | `實驗設計_VLAttack/1_資料前處理/florence/`（含 README） | — |
+| Florence-2 評估與分流分析 | `實驗設計_VLAttack/3_評估腳本/florence/`（含 README） | `5_資料集/tabular_features_and_logs/florence_vlattack/exp{1,2,3}/florence2/vqa_florence2_sigma08_fixed/`（`rows_scored.csv`、`summary.json`、`pipeline_variants.csv`、`sss_grid_mid.csv`、`theta_det_grid_mid.csv`） |
+| BLIP 實驗三 `sigma08_fixed` 結果 | `3_評估腳本/analyze.py`、`run_analyze_sigma08.py` | `5_資料集/tabular_features_and_logs/multi_captioner_blip/exp3_blip/sigma08_fixed/` |
+| 題目難度（BLIP / Florence）建表與合併 | `1_資料前處理/question_difficulty/`（`build_samples.py`、`merge_labels.py`、`build_florence_samples.py`、`merge_florence_labels.py`） | `5_資料集/question_difficulty/`：`batches/*.json`、`labels/*.jsonl`、`florence/{samples.csv,labels.csv,batches,labels}` |
+| 檢核表與補充資料表（舊版管線，2026-09-26） | `3_評估腳本/build_checklist_analytics.py`、`build_experiment_data_supplement.py` | `5_資料集/data_supplement/` |
+| 分流深入分析（C1–C7）與答案距離 | `3_評估腳本/stage_routing_deep_dive/`（`build_report.py`、`answer_distance/build_answer_distance.py`、`build_clean_answer_distance.py`） | `5_資料集/tabular_features_and_logs/stage_routing_deep_dive/`（各模型 `REPORT.md`、csv；圖片 PNG 未上傳） |
+| 攻擊甜蜜點分析 | `1_資料前處理/analyze_attack_sweet_spot.py` | `5_資料集/tabular_features_and_logs/attack_param_search/attack_stealth_natural_summary.csv` |
+| 數字重算工具（為驗證而寫，見其 README） | `重算工具/recompute_c1c4.py`、`重算工具/asr_redefine/compute.py` | — |
+| 流程備份（**請勿執行**，見其 README） | `1_資料前處理/備份_勿執行/`：`run_end_to_end.py`（會自動 git commit/push）、`attack_supervisor.py`（會覆寫攻擊輸出） | — |

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262605006",
+    "question": "where is the light switch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262605006_1_ori.png"
+  },
+  {
+    "question_id": "262605009",
+    "question": "what is the subject of the painting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262605009_1_ori.png"
+  },
+  {
+    "question_id": "262609000",
+    "question": "are the vehicles driving towards the cameras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262609000_1_ori.png"
+  },
+  {
+    "question_id": "262609003",
+    "question": "what color is the woman's bag?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262609003_1_ori.png"
+  },
+  {
+    "question_id": "262617000",
+    "question": "what color are the checkers on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262617000_1_ori.png"
+  },
+  {
+    "question_id": "262626004",
+    "question": "what color are most of the pillows?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262626004_1_ori.png"
+  },
+  {
+    "question_id": "262651000",
+    "question": "what is the identification number of the vessel?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262651000_1_ori.png"
+  },
+  {
+    "question_id": "262677002",
+    "question": "how many trees are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262677002_1_ori.png"
+  },
+  {
+    "question_id": "262677004",
+    "question": "what colors make up the hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262677004_1_ori.png"
+  },
+  {
+    "question_id": "262682018",
+    "question": "what is hanging from the ceiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262682018_1_ori.png"
+  },
+  {
+    "question_id": "262686001",
+    "question": "what are the colors of the cars in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262686001_1_ori.png"
+  },
+  {
+    "question_id": "262703003",
+    "question": "what activity is depicted here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262703003_1_ori.png"
+  },
+  {
+    "question_id": "262736000",
+    "question": "how many dogs are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262736000_1_ori.png"
+  },
+  {
+    "question_id": "262736002",
+    "question": "what color are the cones?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262736002_1_ori.png"
+  },
+  {
+    "question_id": "262736003",
+    "question": "what game are the dogs playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262736003_1_ori.png"
+  },
+  {
+    "question_id": "262736004",
+    "question": "how many dogs are present?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262736004_1_ori.png"
+  },
+  {
+    "question_id": "262738001",
+    "question": "what is written on the girl's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262738001_1_ori.png"
+  },
+  {
+    "question_id": "262738006",
+    "question": "is there a fireplace in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262738006_1_ori.png"
+  },
+  {
+    "question_id": "262746001",
+    "question": "is it hot out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262746001_1_ori.png"
+  },
+  {
+    "question_id": "262758001",
+    "question": "is the cat on a bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262758001_1_ori.png"
+  }
+]

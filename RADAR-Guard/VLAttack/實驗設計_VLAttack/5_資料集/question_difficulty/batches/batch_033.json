@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "2191003",
+    "question": "where is she?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2191003_1_ori.png"
+  },
+  {
+    "question_id": "2191004",
+    "question": "what is the woman wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2191004_1_ori.png"
+  },
+  {
+    "question_id": "22103001",
+    "question": "is she trying to feed the giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\22103001_1_ori.png"
+  },
+  {
+    "question_id": "22113002",
+    "question": "is there grass in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\22113002_1_ori.png"
+  },
+  {
+    "question_id": "22118001",
+    "question": "how many umbrellas are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\22118001_1_ori.png"
+  },
+  {
+    "question_id": "22118004",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\22118004_1_ori.png"
+  },
+  {
+    "question_id": "2212006",
+    "question": "what is the purpose of covering the sofa with the blanket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2212006_1_ori.png"
+  },
+  {
+    "question_id": "22271001",
+    "question": "are there people in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\22271001_1_ori.png"
+  },
+  {
+    "question_id": "223468007",
+    "question": "does the ground have snow on it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\223468007_1_ori.png"
+  },
+  {
+    "question_id": "2235000",
+    "question": "what  game is the man playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2235000_1_ori.png"
+  },
+  {
+    "question_id": "2239003",
+    "question": "is the little girl a complete novice at playing tennis?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2239003_1_ori.png"
+  },
+  {
+    "question_id": "2239009",
+    "question": "what color are the wires on the racket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2239009_1_ori.png"
+  },
+  {
+    "question_id": "2240000",
+    "question": "how many teddy bears are in the scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2240000_1_ori.png"
+  },
+  {
+    "question_id": "2240002",
+    "question": "are the dolls weird?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2240002_1_ori.png"
+  },
+  {
+    "question_id": "2261000",
+    "question": "is this a man or a woman surfing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2261000_1_ori.png"
+  },
+  {
+    "question_id": "2261002",
+    "question": "what is he doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2261002_1_ori.png"
+  },
+  {
+    "question_id": "2261003",
+    "question": "did the wave get larger after this image was taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2261003_1_ori.png"
+  },
+  {
+    "question_id": "2290001",
+    "question": "is this a longboat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2290001_1_ori.png"
+  },
+  {
+    "question_id": "2295001",
+    "question": "what is the cat looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2295001_1_ori.png"
+  },
+  {
+    "question_id": "2295002",
+    "question": "is the cat sleeping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2295002_1_ori.png"
+  }
+]

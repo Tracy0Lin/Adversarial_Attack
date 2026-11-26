@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524611003",
+    "question": "is the train carrying people?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524611003_1_ori.png"
+  },
+  {
+    "question_id": "524611006",
+    "question": "is this a parking lot for bikes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524611006_1_ori.png"
+  },
+  {
+    "question_id": "524621000",
+    "question": "how many birds are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621000_1_ori.png"
+  },
+  {
+    "question_id": "524621001",
+    "question": "are these animals wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621001_1_ori.png"
+  },
+  {
+    "question_id": "524621002",
+    "question": "are the giraffes eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621002_1_ori.png"
+  },
+  {
+    "question_id": "524621003",
+    "question": "are the giraffes male or female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621003_1_ori.png"
+  },
+  {
+    "question_id": "524621004",
+    "question": "is this a young or old animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621004_1_ori.png"
+  },
+  {
+    "question_id": "524621005",
+    "question": "is this a man made exhibit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621005_1_ori.png"
+  },
+  {
+    "question_id": "524621006",
+    "question": "can these animals fly?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621006_1_ori.png"
+  },
+  {
+    "question_id": "524621007",
+    "question": "what is the animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621007_1_ori.png"
+  },
+  {
+    "question_id": "524621008",
+    "question": "what animal is in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621008_1_ori.png"
+  },
+  {
+    "question_id": "524621009",
+    "question": "what kind of animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621009_1_ori.png"
+  },
+  {
+    "question_id": "524621010",
+    "question": "is one giraffes head out of view?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621010_1_ori.png"
+  },
+  {
+    "question_id": "524621011",
+    "question": "is there water in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621011_1_ori.png"
+  },
+  {
+    "question_id": "524621013",
+    "question": "does it have tusks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621013_1_ori.png"
+  },
+  {
+    "question_id": "524621014",
+    "question": "what are these animals doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621014_1_ori.png"
+  },
+  {
+    "question_id": "524621015",
+    "question": "are there two different types of animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621015_1_ori.png"
+  },
+  {
+    "question_id": "524621016",
+    "question": "is this a zoo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621016_1_ori.png"
+  },
+  {
+    "question_id": "524621017",
+    "question": "how many eyes do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621017_1_ori.png"
+  },
+  {
+    "question_id": "524621018",
+    "question": "what kind of animals are in the dry grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524621018_1_ori.png"
+  }
+]

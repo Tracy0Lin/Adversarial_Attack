@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "827002",
+    "question": "what is the animal related to?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\827002_1_ori.png"
+  },
+  {
+    "question_id": "836000",
+    "question": "what sport is the man participating in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\836000_1_ori.png"
+  },
+  {
+    "question_id": "836001",
+    "question": "is the man about to get hurt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\836001_1_ori.png"
+  },
+  {
+    "question_id": "836002",
+    "question": "is he flipped over?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\836002_1_ori.png"
+  },
+  {
+    "question_id": "872003",
+    "question": "what is green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\872003_1_ori.png"
+  },
+  {
+    "question_id": "872004",
+    "question": "are the two players on the same team?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\872004_1_ori.png"
+  },
+  {
+    "question_id": "872005",
+    "question": "is this baseball player holding a bat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\872005_1_ori.png"
+  },
+  {
+    "question_id": "87489002",
+    "question": "how many 2s are on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\87489002_1_ori.png"
+  },
+  {
+    "question_id": "87489006",
+    "question": "what kind of car is parked next to the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\87489006_1_ori.png"
+  },
+  {
+    "question_id": "8771003",
+    "question": "how many men have red and black snowboards?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\8771003_1_ori.png"
+  },
+  {
+    "question_id": "8771005",
+    "question": "is it winter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\8771005_1_ori.png"
+  },
+  {
+    "question_id": "87875002",
+    "question": "what color is the yellow fire hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\87875002_1_ori.png"
+  },
+  {
+    "question_id": "885003",
+    "question": "does the man have on a watch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885003_1_ori.png"
+  },
+  {
+    "question_id": "885005",
+    "question": "what is the website on the blue wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885005_1_ori.png"
+  },
+  {
+    "question_id": "885007",
+    "question": "what city is this taking place in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885007_1_ori.png"
+  },
+  {
+    "question_id": "885015",
+    "question": "is he out of bounds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885015_1_ori.png"
+  },
+  {
+    "question_id": "885025",
+    "question": "what does the banner say behind the man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885025_1_ori.png"
+  },
+  {
+    "question_id": "885027",
+    "question": "who is playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885027_1_ori.png"
+  },
+  {
+    "question_id": "885029",
+    "question": "what does the sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885029_1_ori.png"
+  },
+  {
+    "question_id": "885031",
+    "question": "is this a recent advert?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\885031_1_ori.png"
+  }
+]

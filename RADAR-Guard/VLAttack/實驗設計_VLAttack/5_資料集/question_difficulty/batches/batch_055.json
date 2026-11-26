@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263136008",
+    "question": "is her hair in a bun?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263136008_1_ori.png"
+  },
+  {
+    "question_id": "263146003",
+    "question": "who are riding the bikes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263146003_1_ori.png"
+  },
+  {
+    "question_id": "263163002",
+    "question": "is there a backpack on the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263163002_1_ori.png"
+  },
+  {
+    "question_id": "263163003",
+    "question": "what is sitting next to guy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263163003_1_ori.png"
+  },
+  {
+    "question_id": "263177000",
+    "question": "is the ad for surviving disaster a movie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263177000_1_ori.png"
+  },
+  {
+    "question_id": "263177001",
+    "question": "where in the world is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263177001_1_ori.png"
+  },
+  {
+    "question_id": "263178000",
+    "question": "what color is the skin of this fruit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263178000_1_ori.png"
+  },
+  {
+    "question_id": "263178003",
+    "question": "how many fruit are in the bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263178003_1_ori.png"
+  },
+  {
+    "question_id": "263202000",
+    "question": "what are the letters next to the woman's thumb?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263202000_1_ori.png"
+  },
+  {
+    "question_id": "263202001",
+    "question": "what color is her shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263202001_1_ori.png"
+  },
+  {
+    "question_id": "263202002",
+    "question": "what is the manufacturer of the device?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263202002_1_ori.png"
+  },
+  {
+    "question_id": "263211000",
+    "question": "how many giraffes are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263211000_1_ori.png"
+  },
+  {
+    "question_id": "263211001",
+    "question": "where is the giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263211001_1_ori.png"
+  },
+  {
+    "question_id": "263211002",
+    "question": "are all tree in this photo alive?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263211002_1_ori.png"
+  },
+  {
+    "question_id": "263211005",
+    "question": "what is stopping the animals from running away?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263211005_1_ori.png"
+  },
+  {
+    "question_id": "263211006",
+    "question": "what keeps the animal from walking away?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263211006_1_ori.png"
+  },
+  {
+    "question_id": "263223007",
+    "question": "what color are the jumpers pants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263223007_1_ori.png"
+  },
+  {
+    "question_id": "263223008",
+    "question": "what is the blue object used for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263223008_1_ori.png"
+  },
+  {
+    "question_id": "263258000",
+    "question": "where are the people standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263258000_1_ori.png"
+  },
+  {
+    "question_id": "263258003",
+    "question": "what is the color of the fence?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263258003_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263647001",
+    "question": "is the person on the ground wearing gloves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263647001_1_ori.png"
+  },
+  {
+    "question_id": "263647002",
+    "question": "what color pants is the person wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263647002_1_ori.png"
+  },
+  {
+    "question_id": "263664003",
+    "question": "are the owners of the bikes on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263664003_1_ori.png"
+  },
+  {
+    "question_id": "263679000",
+    "question": "what are these men holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263679000_1_ori.png"
+  },
+  {
+    "question_id": "263696001",
+    "question": "have the people just graduated?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263696001_1_ori.png"
+  },
+  {
+    "question_id": "263696002",
+    "question": "how many people are under the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263696002_1_ori.png"
+  },
+  {
+    "question_id": "263696003",
+    "question": "how many rings is the woman in black wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263696003_1_ori.png"
+  },
+  {
+    "question_id": "263696004",
+    "question": "is the umbrella in good shape?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263696004_1_ori.png"
+  },
+  {
+    "question_id": "263696007",
+    "question": "why is this woman holding an umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263696007_1_ori.png"
+  },
+  {
+    "question_id": "263700003",
+    "question": "what model of bike are the police force using?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263700003_1_ori.png"
+  },
+  {
+    "question_id": "263700004",
+    "question": "what does the man appear to be doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263700004_1_ori.png"
+  },
+  {
+    "question_id": "263723002",
+    "question": "are there red peppers on the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263723002_1_ori.png"
+  },
+  {
+    "question_id": "263758002",
+    "question": "how many planes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263758002_1_ori.png"
+  },
+  {
+    "question_id": "263780000",
+    "question": "is there anything growing on the rock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263780000_1_ori.png"
+  },
+  {
+    "question_id": "263780006",
+    "question": "is the baby the same color as the mom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263780006_1_ori.png"
+  },
+  {
+    "question_id": "263780007",
+    "question": "how many elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263780007_1_ori.png"
+  },
+  {
+    "question_id": "263780008",
+    "question": "which elephant is tallest?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263780008_1_ori.png"
+  },
+  {
+    "question_id": "263780009",
+    "question": "where is the small elephant in the scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263780009_1_ori.png"
+  },
+  {
+    "question_id": "263793002",
+    "question": "how many animals are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263793002_1_ori.png"
+  },
+  {
+    "question_id": "263793006",
+    "question": "what kind of animal is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263793006_1_ori.png"
+  }
+]

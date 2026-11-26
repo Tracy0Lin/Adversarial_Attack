@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132189002",
+    "question": "how many levels does the bus have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132189002_1_ori.png"
+  },
+  {
+    "question_id": "132219001",
+    "question": "is this an apple?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132219001_1_ori.png"
+  },
+  {
+    "question_id": "132272000",
+    "question": "what sort of food is this man eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132272000_1_ori.png"
+  },
+  {
+    "question_id": "132288000",
+    "question": "what is the boy doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132288000_1_ori.png"
+  },
+  {
+    "question_id": "132288003",
+    "question": "what is on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132288003_1_ori.png"
+  },
+  {
+    "question_id": "132328001",
+    "question": "does this little boy like pirates?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132328001_1_ori.png"
+  },
+  {
+    "question_id": "132336012",
+    "question": "what is red?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132336012_1_ori.png"
+  },
+  {
+    "question_id": "132375000",
+    "question": "what type of flowers are those?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132375000_1_ori.png"
+  },
+  {
+    "question_id": "132375002",
+    "question": "what color are the flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132375002_1_ori.png"
+  },
+  {
+    "question_id": "132375003",
+    "question": "what kind of flower is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132375003_1_ori.png"
+  },
+  {
+    "question_id": "132393000",
+    "question": "what are the people standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132393000_1_ori.png"
+  },
+  {
+    "question_id": "132393003",
+    "question": "is this a college campus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132393003_1_ori.png"
+  },
+  {
+    "question_id": "132408000",
+    "question": "how many horses are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132408000_1_ori.png"
+  },
+  {
+    "question_id": "132408002",
+    "question": "how many brown horses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132408002_1_ori.png"
+  },
+  {
+    "question_id": "132415004",
+    "question": "how many slices are being served?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132415004_1_ori.png"
+  },
+  {
+    "question_id": "132415005",
+    "question": "what type of device is being used to cut the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132415005_1_ori.png"
+  },
+  {
+    "question_id": "132415006",
+    "question": "what is the plate made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132415006_1_ori.png"
+  },
+  {
+    "question_id": "132415008",
+    "question": "is there pepperoni on the pizza slice to the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132415008_1_ori.png"
+  },
+  {
+    "question_id": "132415014",
+    "question": "how many pieces of pizza are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132415014_1_ori.png"
+  },
+  {
+    "question_id": "132415015",
+    "question": "how many slices are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132415015_1_ori.png"
+  }
+]

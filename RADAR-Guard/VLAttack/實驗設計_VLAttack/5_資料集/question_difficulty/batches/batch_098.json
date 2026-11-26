@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524577018",
+    "question": "what kind of stone is the building made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577018_1_ori.png"
+  },
+  {
+    "question_id": "524577019",
+    "question": "how many stories is the building on the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577019_1_ori.png"
+  },
+  {
+    "question_id": "524577022",
+    "question": "what color is tall tower that is in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577022_1_ori.png"
+  },
+  {
+    "question_id": "524577023",
+    "question": "how many clocks are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577023_1_ori.png"
+  },
+  {
+    "question_id": "524577025",
+    "question": "does the metalwork to the right of the clock resemble a birdcage?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577025_1_ori.png"
+  },
+  {
+    "question_id": "524577026",
+    "question": "what language are the numbers in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577026_1_ori.png"
+  },
+  {
+    "question_id": "524577028",
+    "question": "are the numbers in roman numerals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577028_1_ori.png"
+  },
+  {
+    "question_id": "524577029",
+    "question": "how many figures are on the street signs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577029_1_ori.png"
+  },
+  {
+    "question_id": "524601000",
+    "question": "what color shirt is the person to the farthest right wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601000_1_ori.png"
+  },
+  {
+    "question_id": "524601001",
+    "question": "are these children in contemporary dress?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601001_1_ori.png"
+  },
+  {
+    "question_id": "524601002",
+    "question": "what gaming console do they appear to be playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601002_1_ori.png"
+  },
+  {
+    "question_id": "524601004",
+    "question": "are they all planning to skate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601004_1_ori.png"
+  },
+  {
+    "question_id": "524601005",
+    "question": "what game are this people playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601005_1_ori.png"
+  },
+  {
+    "question_id": "524601006",
+    "question": "are these college students?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601006_1_ori.png"
+  },
+  {
+    "question_id": "524601008",
+    "question": "how many elderly people are in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601008_1_ori.png"
+  },
+  {
+    "question_id": "524601010",
+    "question": "are the women wearing ties?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601010_1_ori.png"
+  },
+  {
+    "question_id": "524601011",
+    "question": "is this indoors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601011_1_ori.png"
+  },
+  {
+    "question_id": "524601012",
+    "question": "how many people are playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524601012_1_ori.png"
+  },
+  {
+    "question_id": "524611000",
+    "question": "how many helicopters are in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524611000_1_ori.png"
+  },
+  {
+    "question_id": "524611001",
+    "question": "what color is the building on the right hand side of this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524611001_1_ori.png"
+  }
+]

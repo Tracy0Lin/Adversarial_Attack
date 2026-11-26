@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "134034003",
+    "question": "are both of these animals horses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134034003_1_ori.png"
+  },
+  {
+    "question_id": "134042000",
+    "question": "is this a big airplane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134042000_1_ori.png"
+  },
+  {
+    "question_id": "1342001",
+    "question": "what is the man looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342001_1_ori.png"
+  },
+  {
+    "question_id": "1342002",
+    "question": "what is the purpose of the paper?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342002_1_ori.png"
+  },
+  {
+    "question_id": "1342007",
+    "question": "do you see scissors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342007_1_ori.png"
+  },
+  {
+    "question_id": "1342010",
+    "question": "what chapter is the book on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342010_1_ori.png"
+  },
+  {
+    "question_id": "1342011",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342011_1_ori.png"
+  },
+  {
+    "question_id": "1342012",
+    "question": "what is in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342012_1_ori.png"
+  },
+  {
+    "question_id": "1342013",
+    "question": "how was the picture taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342013_1_ori.png"
+  },
+  {
+    "question_id": "1342015",
+    "question": "how many shoes are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342015_1_ori.png"
+  },
+  {
+    "question_id": "1342017",
+    "question": "what is the book sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342017_1_ori.png"
+  },
+  {
+    "question_id": "1342018",
+    "question": "what is under the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342018_1_ori.png"
+  },
+  {
+    "question_id": "1342021",
+    "question": "is there a tv in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342021_1_ori.png"
+  },
+  {
+    "question_id": "1342025",
+    "question": "what color is the writing on the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342025_1_ori.png"
+  },
+  {
+    "question_id": "1342026",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342026_1_ori.png"
+  },
+  {
+    "question_id": "1342032",
+    "question": "what device is he using?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342032_1_ori.png"
+  },
+  {
+    "question_id": "1342033",
+    "question": "what are these objects made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342033_1_ori.png"
+  },
+  {
+    "question_id": "1342039",
+    "question": "what is the person doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342039_1_ori.png"
+  },
+  {
+    "question_id": "1342041",
+    "question": "is the item in the picture probably part of a computer screen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342041_1_ori.png"
+  },
+  {
+    "question_id": "1342042",
+    "question": "does the woman's fingernail painted?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342042_1_ori.png"
+  }
+]

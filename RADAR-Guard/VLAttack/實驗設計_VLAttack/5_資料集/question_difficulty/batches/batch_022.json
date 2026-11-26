@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133827014",
+    "question": "how many traffic lights are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827014_1_ori.png"
+  },
+  {
+    "question_id": "133827016",
+    "question": "what are they selling on the left side of the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827016_1_ori.png"
+  },
+  {
+    "question_id": "133827018",
+    "question": "is this scene in the united states?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827018_1_ori.png"
+  },
+  {
+    "question_id": "133827020",
+    "question": "what type of road do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827020_1_ori.png"
+  },
+  {
+    "question_id": "133867001",
+    "question": "what animal is in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133867001_1_ori.png"
+  },
+  {
+    "question_id": "133869000",
+    "question": "is it raining in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133869000_1_ori.png"
+  },
+  {
+    "question_id": "133869004",
+    "question": "would someone on a balcony have difficulty seeing this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133869004_1_ori.png"
+  },
+  {
+    "question_id": "133927008",
+    "question": "has the ball begun its journey?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133927008_1_ori.png"
+  },
+  {
+    "question_id": "133928002",
+    "question": "how many boats are in the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133928002_1_ori.png"
+  },
+  {
+    "question_id": "133928003",
+    "question": "what is the yellow boat shaped like?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133928003_1_ori.png"
+  },
+  {
+    "question_id": "133928009",
+    "question": "what color is the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133928009_1_ori.png"
+  },
+  {
+    "question_id": "133933000",
+    "question": "is this a well-lit room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933000_1_ori.png"
+  },
+  {
+    "question_id": "133933001",
+    "question": "what kind of scene is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933001_1_ori.png"
+  },
+  {
+    "question_id": "133933003",
+    "question": "where are the children?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933003_1_ori.png"
+  },
+  {
+    "question_id": "133933004",
+    "question": "what type of floor is she standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933004_1_ori.png"
+  },
+  {
+    "question_id": "133933008",
+    "question": "what is hanging on the wall behind the girl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933008_1_ori.png"
+  },
+  {
+    "question_id": "133933011",
+    "question": "how many children are sitting on the floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933011_1_ori.png"
+  },
+  {
+    "question_id": "133933017",
+    "question": "what animal print is seen on her belt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933017_1_ori.png"
+  },
+  {
+    "question_id": "133933018",
+    "question": "what color is the girl's hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933018_1_ori.png"
+  },
+  {
+    "question_id": "133933035",
+    "question": "what color are the walls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933035_1_ori.png"
+  }
+]

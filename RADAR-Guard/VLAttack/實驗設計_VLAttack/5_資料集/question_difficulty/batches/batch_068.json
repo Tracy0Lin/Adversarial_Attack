@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "306108001",
+    "question": "has this kitchen ever been used?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\306108001_1_ori.png"
+  },
+  {
+    "question_id": "306159003",
+    "question": "how many urinals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\306159003_1_ori.png"
+  },
+  {
+    "question_id": "306212002",
+    "question": "what color are the cabinets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\306212002_1_ori.png"
+  },
+  {
+    "question_id": "327383001",
+    "question": "what kind of vehicle is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\327383001_1_ori.png"
+  },
+  {
+    "question_id": "327771000",
+    "question": "how many pillows are on the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\327771000_1_ori.png"
+  },
+  {
+    "question_id": "327771001",
+    "question": "is this room tidy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\327771001_1_ori.png"
+  },
+  {
+    "question_id": "327771002",
+    "question": "what kind of pattern is on the bedding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\327771002_1_ori.png"
+  },
+  {
+    "question_id": "328000",
+    "question": "what are the men sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\328000_1_ori.png"
+  },
+  {
+    "question_id": "328002",
+    "question": "what military are they from?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\328002_1_ori.png"
+  },
+  {
+    "question_id": "338000",
+    "question": "is this a bedroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\338000_1_ori.png"
+  },
+  {
+    "question_id": "349697000",
+    "question": "how many people is there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\349697000_1_ori.png"
+  },
+  {
+    "question_id": "357001",
+    "question": "is this a professional game?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\357001_1_ori.png"
+  },
+  {
+    "question_id": "359000",
+    "question": "overcast or sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\359000_1_ori.png"
+  },
+  {
+    "question_id": "359001",
+    "question": "is this a city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\359001_1_ori.png"
+  },
+  {
+    "question_id": "359002",
+    "question": "is this picture completely visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\359002_1_ori.png"
+  },
+  {
+    "question_id": "360000",
+    "question": "are trees visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\360000_1_ori.png"
+  },
+  {
+    "question_id": "360002",
+    "question": "are the streetlamps on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\360002_1_ori.png"
+  },
+  {
+    "question_id": "371506001",
+    "question": "is this vegetable relaxing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371506001_1_ori.png"
+  },
+  {
+    "question_id": "371506003",
+    "question": "what is the broccoli doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371506003_1_ori.png"
+  },
+  {
+    "question_id": "371638001",
+    "question": "how many doors are visible on the train car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371638001_1_ori.png"
+  }
+]

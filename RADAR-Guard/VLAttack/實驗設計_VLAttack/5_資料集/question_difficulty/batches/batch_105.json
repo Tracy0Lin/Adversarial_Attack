@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525058001",
+    "question": "what color are the cars?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525058001_1_ori.png"
+  },
+  {
+    "question_id": "525058003",
+    "question": "is it cold out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525058003_1_ori.png"
+  },
+  {
+    "question_id": "525058005",
+    "question": "is the building of contemporary design?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525058005_1_ori.png"
+  },
+  {
+    "question_id": "525058007",
+    "question": "is this a newer building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525058007_1_ori.png"
+  },
+  {
+    "question_id": "525058008",
+    "question": "how many stories is the building in the middle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525058008_1_ori.png"
+  },
+  {
+    "question_id": "525077000",
+    "question": "where is the logo b located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525077000_1_ori.png"
+  },
+  {
+    "question_id": "525083001",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525083001_1_ori.png"
+  },
+  {
+    "question_id": "525087001",
+    "question": "where is the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525087001_1_ori.png"
+  },
+  {
+    "question_id": "525118000",
+    "question": "are these home grown bananas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525118000_1_ori.png"
+  },
+  {
+    "question_id": "525118003",
+    "question": "what is the fruit resting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525118003_1_ori.png"
+  },
+  {
+    "question_id": "525119000",
+    "question": "what type of food is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119000_1_ori.png"
+  },
+  {
+    "question_id": "525119001",
+    "question": "how many hot dogs are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119001_1_ori.png"
+  },
+  {
+    "question_id": "525119003",
+    "question": "does this kid look excited?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119003_1_ori.png"
+  },
+  {
+    "question_id": "525119004",
+    "question": "what type of food is the child eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119004_1_ori.png"
+  },
+  {
+    "question_id": "525119005",
+    "question": "what color is his hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119005_1_ori.png"
+  },
+  {
+    "question_id": "525119006",
+    "question": "what food is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119006_1_ori.png"
+  },
+  {
+    "question_id": "525119007",
+    "question": "what kind of food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525119007_1_ori.png"
+  },
+  {
+    "question_id": "525162000",
+    "question": "could this sport be considered dangerous?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525162000_1_ori.png"
+  },
+  {
+    "question_id": "525162001",
+    "question": "how many paddles are over the rafter's heads?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525162001_1_ori.png"
+  },
+  {
+    "question_id": "525162002",
+    "question": "is this picture of the columbia river gorge?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525162002_1_ori.png"
+  }
+]

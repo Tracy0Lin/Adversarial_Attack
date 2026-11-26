@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263793009",
+    "question": "what is on the trail?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263793009_1_ori.png"
+  },
+  {
+    "question_id": "263858002",
+    "question": "how many boats are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263858002_1_ori.png"
+  },
+  {
+    "question_id": "263866002",
+    "question": "what color  is the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263866002_1_ori.png"
+  },
+  {
+    "question_id": "263881005",
+    "question": "is the animal tall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263881005_1_ori.png"
+  },
+  {
+    "question_id": "263929002",
+    "question": "can this area be reached by car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263929002_1_ori.png"
+  },
+  {
+    "question_id": "263929007",
+    "question": "what are the animals doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263929007_1_ori.png"
+  },
+  {
+    "question_id": "263961000",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263961000_1_ori.png"
+  },
+  {
+    "question_id": "263961001",
+    "question": "what is on the mountains?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263961001_1_ori.png"
+  },
+  {
+    "question_id": "263966001",
+    "question": "what color fingernail polish is the girl wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263966001_1_ori.png"
+  },
+  {
+    "question_id": "263969000",
+    "question": "what things by the window could be burned for light?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263969000_1_ori.png"
+  },
+  {
+    "question_id": "263969002",
+    "question": "what is being cut?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263969002_1_ori.png"
+  },
+  {
+    "question_id": "263969004",
+    "question": "what kind of flowers is the lady holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263969004_1_ori.png"
+  },
+  {
+    "question_id": "263973000",
+    "question": "is this a man or boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263973000_1_ori.png"
+  },
+  {
+    "question_id": "264017000",
+    "question": "where is the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264017000_1_ori.png"
+  },
+  {
+    "question_id": "264032004",
+    "question": "what color is the dishwasher?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264032004_1_ori.png"
+  },
+  {
+    "question_id": "264032007",
+    "question": "are dishes in the sink?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264032007_1_ori.png"
+  },
+  {
+    "question_id": "264110001",
+    "question": "is the thing under the blanket alive?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264110001_1_ori.png"
+  },
+  {
+    "question_id": "264121000",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264121000_1_ori.png"
+  },
+  {
+    "question_id": "264121001",
+    "question": "what color is the motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264121001_1_ori.png"
+  },
+  {
+    "question_id": "264121005",
+    "question": "is there another vehicle present besides the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264121005_1_ori.png"
+  }
+]

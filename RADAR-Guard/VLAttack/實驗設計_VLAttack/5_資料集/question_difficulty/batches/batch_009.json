@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131800000",
+    "question": "what is on top of the hot dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131800000_1_ori.png"
+  },
+  {
+    "question_id": "131800002",
+    "question": "what kind of bread is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131800002_1_ori.png"
+  },
+  {
+    "question_id": "131804000",
+    "question": "is the man wearing socks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131804000_1_ori.png"
+  },
+  {
+    "question_id": "131804002",
+    "question": "why is the equipment on the side of the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131804002_1_ori.png"
+  },
+  {
+    "question_id": "131815000",
+    "question": "is there an outlet on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131815000_1_ori.png"
+  },
+  {
+    "question_id": "131815001",
+    "question": "what is the girl eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131815001_1_ori.png"
+  },
+  {
+    "question_id": "131815003",
+    "question": "what is the name of the fruit the girl in the picture is holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131815003_1_ori.png"
+  },
+  {
+    "question_id": "131815005",
+    "question": "what is hanging on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131815005_1_ori.png"
+  },
+  {
+    "question_id": "131815007",
+    "question": "what kind of does the woman have in her mouth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131815007_1_ori.png"
+  },
+  {
+    "question_id": "131938000",
+    "question": "what is the cat out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131938000_1_ori.png"
+  },
+  {
+    "question_id": "131938003",
+    "question": "what color is the eye's eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131938003_1_ori.png"
+  },
+  {
+    "question_id": "131938005",
+    "question": "what color is the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131938005_1_ori.png"
+  },
+  {
+    "question_id": "131938008",
+    "question": "is the cat's whole body visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131938008_1_ori.png"
+  },
+  {
+    "question_id": "131965005",
+    "question": "do you see any fish?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131965005_1_ori.png"
+  },
+  {
+    "question_id": "131965006",
+    "question": "what kind of topography is in this region?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131965006_1_ori.png"
+  },
+  {
+    "question_id": "132024002",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132024002_1_ori.png"
+  },
+  {
+    "question_id": "132024003",
+    "question": "what color is the man's jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132024003_1_ori.png"
+  },
+  {
+    "question_id": "132024005",
+    "question": "does he match?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132024005_1_ori.png"
+  },
+  {
+    "question_id": "132024008",
+    "question": "is it cold here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132024008_1_ori.png"
+  },
+  {
+    "question_id": "132024010",
+    "question": "is the wind blowing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132024010_1_ori.png"
+  }
+]

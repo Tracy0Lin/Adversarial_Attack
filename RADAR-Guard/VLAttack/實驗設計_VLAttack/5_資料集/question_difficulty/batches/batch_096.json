@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524450009",
+    "question": "what kind of vehicle is pictured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450009_1_ori.png"
+  },
+  {
+    "question_id": "524450010",
+    "question": "are there people inside the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450010_1_ori.png"
+  },
+  {
+    "question_id": "524450011",
+    "question": "is this a tour bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450011_1_ori.png"
+  },
+  {
+    "question_id": "524450012",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450012_1_ori.png"
+  },
+  {
+    "question_id": "524450013",
+    "question": "is the bus in a parking space?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450013_1_ori.png"
+  },
+  {
+    "question_id": "524450014",
+    "question": "what time of the day is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450014_1_ori.png"
+  },
+  {
+    "question_id": "524450015",
+    "question": "how many people are boarding the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450015_1_ori.png"
+  },
+  {
+    "question_id": "524450016",
+    "question": "is anybody getting off the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450016_1_ori.png"
+  },
+  {
+    "question_id": "524450017",
+    "question": "what is the weather like?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450017_1_ori.png"
+  },
+  {
+    "question_id": "524450018",
+    "question": "is there a container available for trash?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450018_1_ori.png"
+  },
+  {
+    "question_id": "524450019",
+    "question": "what is mainly featured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450019_1_ori.png"
+  },
+  {
+    "question_id": "524450020",
+    "question": "what are the streets made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450020_1_ori.png"
+  },
+  {
+    "question_id": "524450022",
+    "question": "are the bus lights on at bottom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450022_1_ori.png"
+  },
+  {
+    "question_id": "524450023",
+    "question": "what is the man riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450023_1_ori.png"
+  },
+  {
+    "question_id": "524456000",
+    "question": "how many mice are on the desk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524456000_1_ori.png"
+  },
+  {
+    "question_id": "524456001",
+    "question": "does the person working on the computer have a car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524456001_1_ori.png"
+  },
+  {
+    "question_id": "524456002",
+    "question": "is the person on the laptop married?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524456002_1_ori.png"
+  },
+  {
+    "question_id": "524459001",
+    "question": "is the man using a laptop or desktop computer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524459001_1_ori.png"
+  },
+  {
+    "question_id": "524459002",
+    "question": "is this man disgusted?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524459002_1_ori.png"
+  },
+  {
+    "question_id": "524502001",
+    "question": "what color are the rocks near the fire hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524502001_1_ori.png"
+  }
+]

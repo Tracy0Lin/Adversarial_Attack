@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133693011",
+    "question": "what are those things on the poles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693011_1_ori.png"
+  },
+  {
+    "question_id": "133693012",
+    "question": "are right turned allowed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693012_1_ori.png"
+  },
+  {
+    "question_id": "133693013",
+    "question": "what no is written in yellow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693013_1_ori.png"
+  },
+  {
+    "question_id": "133693014",
+    "question": "what type of weather is here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693014_1_ori.png"
+  },
+  {
+    "question_id": "133693016",
+    "question": "how many yellow signs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693016_1_ori.png"
+  },
+  {
+    "question_id": "133693017",
+    "question": "does this picture need to be rotated?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693017_1_ori.png"
+  },
+  {
+    "question_id": "133693018",
+    "question": "is it cloudy or clear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693018_1_ori.png"
+  },
+  {
+    "question_id": "133693020",
+    "question": "what number is on the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693020_1_ori.png"
+  },
+  {
+    "question_id": "133693021",
+    "question": "is there a watermark on the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693021_1_ori.png"
+  },
+  {
+    "question_id": "133693022",
+    "question": "what is the block number?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693022_1_ori.png"
+  },
+  {
+    "question_id": "133698002",
+    "question": "is this a split pizza order?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133698002_1_ori.png"
+  },
+  {
+    "question_id": "133707000",
+    "question": "what is the animal sleeping on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133707000_1_ori.png"
+  },
+  {
+    "question_id": "133707003",
+    "question": "what is the cat laying on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133707003_1_ori.png"
+  },
+  {
+    "question_id": "133750001",
+    "question": "what type of animal is pictured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133750001_1_ori.png"
+  },
+  {
+    "question_id": "133778000",
+    "question": "are the calf and the mom the same color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133778000_1_ori.png"
+  },
+  {
+    "question_id": "133821001",
+    "question": "what is the peacock standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133821001_1_ori.png"
+  },
+  {
+    "question_id": "133827002",
+    "question": "how many tracks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827002_1_ori.png"
+  },
+  {
+    "question_id": "133827006",
+    "question": "what kind of buildings line the walkway?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827006_1_ori.png"
+  },
+  {
+    "question_id": "133827009",
+    "question": "do the power lines go through the magnolia tree?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827009_1_ori.png"
+  },
+  {
+    "question_id": "133827010",
+    "question": "are any of these buildings unusually shaped?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133827010_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1342043",
+    "question": "is there a a screen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342043_1_ori.png"
+  },
+  {
+    "question_id": "1342045",
+    "question": "how many number 9's can you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342045_1_ori.png"
+  },
+  {
+    "question_id": "1342048",
+    "question": "what is this item?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342048_1_ori.png"
+  },
+  {
+    "question_id": "1342050",
+    "question": "what color are the letters?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342050_1_ori.png"
+  },
+  {
+    "question_id": "1342051",
+    "question": "how many different pictures are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342051_1_ori.png"
+  },
+  {
+    "question_id": "1342057",
+    "question": "is this vintage 1929?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342057_1_ori.png"
+  },
+  {
+    "question_id": "1342059",
+    "question": "is someone trying to cut the paper?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342059_1_ori.png"
+  },
+  {
+    "question_id": "1342061",
+    "question": "what are the books about?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342061_1_ori.png"
+  },
+  {
+    "question_id": "1342062",
+    "question": "what country is the book farthest to the left about?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342062_1_ori.png"
+  },
+  {
+    "question_id": "1342067",
+    "question": "is this picture blurry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342067_1_ori.png"
+  },
+  {
+    "question_id": "1342071",
+    "question": "what color would you say the book is?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342071_1_ori.png"
+  },
+  {
+    "question_id": "1342076",
+    "question": "would this be useful to a student?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342076_1_ori.png"
+  },
+  {
+    "question_id": "1342077",
+    "question": "what is this object?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342077_1_ori.png"
+  },
+  {
+    "question_id": "1342078",
+    "question": "which hand is the person using to hold the book?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342078_1_ori.png"
+  },
+  {
+    "question_id": "1342079",
+    "question": "what is the person holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342079_1_ori.png"
+  },
+  {
+    "question_id": "1342081",
+    "question": "does the owner of these books have good eyesight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342081_1_ori.png"
+  },
+  {
+    "question_id": "1342083",
+    "question": "what is he holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342083_1_ori.png"
+  },
+  {
+    "question_id": "1342084",
+    "question": "are there many books in this image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1342084_1_ori.png"
+  },
+  {
+    "question_id": "1347001",
+    "question": "what non-paper item is pinned to the notice board?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1347001_1_ori.png"
+  },
+  {
+    "question_id": "1347002",
+    "question": "what color are the mouses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1347002_1_ori.png"
+  }
+]

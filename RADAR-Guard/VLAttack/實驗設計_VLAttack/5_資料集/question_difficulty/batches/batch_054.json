@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262896000",
+    "question": "is there any lemonade packets here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262896000_1_ori.png"
+  },
+  {
+    "question_id": "262896001",
+    "question": "what utensil is being used?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262896001_1_ori.png"
+  },
+  {
+    "question_id": "262896003",
+    "question": "what is this meal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262896003_1_ori.png"
+  },
+  {
+    "question_id": "262896005",
+    "question": "is this healthy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262896005_1_ori.png"
+  },
+  {
+    "question_id": "262940001",
+    "question": "how many planes are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262940001_1_ori.png"
+  },
+  {
+    "question_id": "262986002",
+    "question": "what color is the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262986002_1_ori.png"
+  },
+  {
+    "question_id": "262993000",
+    "question": "what animal is that?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262993000_1_ori.png"
+  },
+  {
+    "question_id": "262993003",
+    "question": "what is this animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262993003_1_ori.png"
+  },
+  {
+    "question_id": "263011000",
+    "question": "what type of buses are these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263011000_1_ori.png"
+  },
+  {
+    "question_id": "263014004",
+    "question": "are these zebras on a road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263014004_1_ori.png"
+  },
+  {
+    "question_id": "263014011",
+    "question": "where are the zebras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263014011_1_ori.png"
+  },
+  {
+    "question_id": "263014014",
+    "question": "is this a zoo-like setting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263014014_1_ori.png"
+  },
+  {
+    "question_id": "263014015",
+    "question": "might one of the zebras have injured its left front leg?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263014015_1_ori.png"
+  },
+  {
+    "question_id": "263052003",
+    "question": "where is this at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263052003_1_ori.png"
+  },
+  {
+    "question_id": "263068001",
+    "question": "which hand does the boy have extended toward the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263068001_1_ori.png"
+  },
+  {
+    "question_id": "263068002",
+    "question": "what is the boy riding on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263068002_1_ori.png"
+  },
+  {
+    "question_id": "263136002",
+    "question": "which animal is leading the others?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263136002_1_ori.png"
+  },
+  {
+    "question_id": "263136003",
+    "question": "which hand is between the lady and the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263136003_1_ori.png"
+  },
+  {
+    "question_id": "263136004",
+    "question": "is there any humans here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263136004_1_ori.png"
+  },
+  {
+    "question_id": "263136006",
+    "question": "what is the bride holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263136006_1_ori.png"
+  }
+]

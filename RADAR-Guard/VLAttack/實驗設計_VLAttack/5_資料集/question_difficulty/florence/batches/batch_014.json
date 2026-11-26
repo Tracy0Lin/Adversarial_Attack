@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1525026",
+    "question": "how many windows are on this building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525026_1_ori.png"
+  },
+  {
+    "question_id": "153013000",
+    "question": "is that a frog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\153013000_1_ori.png"
+  },
+  {
+    "question_id": "153013001",
+    "question": "is the boy touching a toad?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\153013001_1_ori.png"
+  },
+  {
+    "question_id": "153013002",
+    "question": "what is the boy touching on the orange frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\153013002_1_ori.png"
+  },
+  {
+    "question_id": "153094002",
+    "question": "are there red lights?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\153094002_1_ori.png"
+  },
+  {
+    "question_id": "153094003",
+    "question": "is there a light on the steeple?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\153094003_1_ori.png"
+  },
+  {
+    "question_id": "153094005",
+    "question": "is this daytime?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\153094005_1_ori.png"
+  },
+  {
+    "question_id": "153249001",
+    "question": "what are the people looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\153249001_1_ori.png"
+  },
+  {
+    "question_id": "1563000",
+    "question": "what is hanging on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1563000_1_ori.png"
+  },
+  {
+    "question_id": "1573001",
+    "question": "how many pots are on the stove?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1573001_1_ori.png"
+  },
+  {
+    "question_id": "1573002",
+    "question": "are these appliances energy efficient?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1573002_1_ori.png"
+  },
+  {
+    "question_id": "1573003",
+    "question": "what is in the blue pot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1573003_1_ori.png"
+  },
+  {
+    "question_id": "1573004",
+    "question": "are this cake tins?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1573004_1_ori.png"
+  },
+  {
+    "question_id": "1577000",
+    "question": "what are the flowers in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1577000_1_ori.png"
+  },
+  {
+    "question_id": "1577002",
+    "question": "what type of flowers are those?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1577002_1_ori.png"
+  },
+  {
+    "question_id": "1584002",
+    "question": "how many people can the red buses hold?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1584002_1_ori.png"
+  },
+  {
+    "question_id": "1584013",
+    "question": "does this bus have an open air deck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1584013_1_ori.png"
+  },
+  {
+    "question_id": "1590001",
+    "question": "has the trailer been packed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1590001_1_ori.png"
+  },
+  {
+    "question_id": "1591000",
+    "question": "are these women sitting on a train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1591000_1_ori.png"
+  },
+  {
+    "question_id": "1626000",
+    "question": "what material is most dominant in texture in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1626000_1_ori.png"
+  }
+]

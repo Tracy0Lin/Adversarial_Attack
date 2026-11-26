@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133933038",
+    "question": "are these girls dressed for bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133933038_1_ori.png"
+  },
+  {
+    "question_id": "133963001",
+    "question": "what are the men playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133963001_1_ori.png"
+  },
+  {
+    "question_id": "133995002",
+    "question": "is this picture taken outside or inside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133995002_1_ori.png"
+  },
+  {
+    "question_id": "1340000",
+    "question": "what color is the vase on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1340000_1_ori.png"
+  },
+  {
+    "question_id": "1340001",
+    "question": "are these flowers artificial?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1340001_1_ori.png"
+  },
+  {
+    "question_id": "134001000",
+    "question": "is it cloudy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134001000_1_ori.png"
+  },
+  {
+    "question_id": "134001001",
+    "question": "how many floors are on this building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134001001_1_ori.png"
+  },
+  {
+    "question_id": "134010002",
+    "question": "is the grass overgrown on the tracks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010002_1_ori.png"
+  },
+  {
+    "question_id": "134010003",
+    "question": "how many of the trains cars have red on them?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010003_1_ori.png"
+  },
+  {
+    "question_id": "134010006",
+    "question": "how many train cars are on this train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010006_1_ori.png"
+  },
+  {
+    "question_id": "134010007",
+    "question": "how many train cars are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010007_1_ori.png"
+  },
+  {
+    "question_id": "134010010",
+    "question": "how many red train cars?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010010_1_ori.png"
+  },
+  {
+    "question_id": "134010011",
+    "question": "how many train cars are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010011_1_ori.png"
+  },
+  {
+    "question_id": "134010013",
+    "question": "is the train moving or still?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010013_1_ori.png"
+  },
+  {
+    "question_id": "134010016",
+    "question": "how many people are visible in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010016_1_ori.png"
+  },
+  {
+    "question_id": "134010017",
+    "question": "is this a train station?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134010017_1_ori.png"
+  },
+  {
+    "question_id": "134016001",
+    "question": "what vegetable is most prominent within the white bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134016001_1_ori.png"
+  },
+  {
+    "question_id": "134016002",
+    "question": "is the food ready?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134016002_1_ori.png"
+  },
+  {
+    "question_id": "134016003",
+    "question": "is there a tablecloth on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134016003_1_ori.png"
+  },
+  {
+    "question_id": "134034002",
+    "question": "are both horses grazing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\134034002_1_ori.png"
+  }
+]

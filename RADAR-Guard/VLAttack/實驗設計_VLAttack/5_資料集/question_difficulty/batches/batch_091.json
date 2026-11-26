@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "428001",
+    "question": "is he going to need a bath soon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\428001_1_ori.png"
+  },
+  {
+    "question_id": "428002",
+    "question": "what color are the balloons?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\428002_1_ori.png"
+  },
+  {
+    "question_id": "436936000",
+    "question": "how many animals are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\436936000_1_ori.png"
+  },
+  {
+    "question_id": "436936002",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\436936002_1_ori.png"
+  },
+  {
+    "question_id": "437010002",
+    "question": "what animals are on her shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437010002_1_ori.png"
+  },
+  {
+    "question_id": "437205009",
+    "question": "is the boy missing hair on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205009_1_ori.png"
+  },
+  {
+    "question_id": "437205010",
+    "question": "is the boy two years old or three years old?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205010_1_ori.png"
+  },
+  {
+    "question_id": "437205012",
+    "question": "is the child wearing pajamas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205012_1_ori.png"
+  },
+  {
+    "question_id": "437205017",
+    "question": "does this shirt have a hood?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205017_1_ori.png"
+  },
+  {
+    "question_id": "437205021",
+    "question": "is this a nutritious snack?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205021_1_ori.png"
+  },
+  {
+    "question_id": "437205022",
+    "question": "where is the child sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205022_1_ori.png"
+  },
+  {
+    "question_id": "437205023",
+    "question": "what color is the baby's hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\437205023_1_ori.png"
+  },
+  {
+    "question_id": "43753000",
+    "question": "what does the man's clothes tell you about the weather?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43753000_1_ori.png"
+  },
+  {
+    "question_id": "43753001",
+    "question": "what is in the person's hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43753001_1_ori.png"
+  },
+  {
+    "question_id": "43753002",
+    "question": "where is the man eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43753002_1_ori.png"
+  },
+  {
+    "question_id": "43753004",
+    "question": "is his man happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43753004_1_ori.png"
+  },
+  {
+    "question_id": "43753006",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43753006_1_ori.png"
+  },
+  {
+    "question_id": "43753007",
+    "question": "is the man in real danger?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43753007_1_ori.png"
+  },
+  {
+    "question_id": "43816004",
+    "question": "is the batter's uniform clean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43816004_1_ori.png"
+  },
+  {
+    "question_id": "43816007",
+    "question": "is the player running?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43816007_1_ori.png"
+  }
+]

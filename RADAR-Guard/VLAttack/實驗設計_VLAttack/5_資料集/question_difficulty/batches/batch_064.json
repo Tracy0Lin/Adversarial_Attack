@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "264819001",
+    "question": "what sort of shape has been made for the skateboarder to use?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264819001_1_ori.png"
+  },
+  {
+    "question_id": "264819003",
+    "question": "are there spotlights?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264819003_1_ori.png"
+  },
+  {
+    "question_id": "264853000",
+    "question": "what is covering the man's eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264853000_1_ori.png"
+  },
+  {
+    "question_id": "264853001",
+    "question": "what color shorts is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264853001_1_ori.png"
+  },
+  {
+    "question_id": "264853005",
+    "question": "is this man dressed appropriately for tennis?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264853005_1_ori.png"
+  },
+  {
+    "question_id": "264870001",
+    "question": "what is beside the appliance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264870001_1_ori.png"
+  },
+  {
+    "question_id": "264870002",
+    "question": "is the freezer on top?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264870002_1_ori.png"
+  },
+  {
+    "question_id": "264909000",
+    "question": "are sheep similar to clouds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264909000_1_ori.png"
+  },
+  {
+    "question_id": "264909002",
+    "question": "is this a black and white photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264909002_1_ori.png"
+  },
+  {
+    "question_id": "264919002",
+    "question": "what is in the mans right hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264919002_1_ori.png"
+  },
+  {
+    "question_id": "264940001",
+    "question": "what design is on this hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264940001_1_ori.png"
+  },
+  {
+    "question_id": "264948001",
+    "question": "what kind of tennis court is she playing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264948001_1_ori.png"
+  },
+  {
+    "question_id": "264957001",
+    "question": "how many mirrors are in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264957001_1_ori.png"
+  },
+  {
+    "question_id": "264968006",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264968006_1_ori.png"
+  },
+  {
+    "question_id": "264976000",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264976000_1_ori.png"
+  },
+  {
+    "question_id": "264976001",
+    "question": "is the toilet paper roll full?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264976001_1_ori.png"
+  },
+  {
+    "question_id": "264992002",
+    "question": "how many baskets are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264992002_1_ori.png"
+  },
+  {
+    "question_id": "265001000",
+    "question": "how many birds are on the branch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265001000_1_ori.png"
+  },
+  {
+    "question_id": "265003003",
+    "question": "what kind of toy does the dog have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265003003_1_ori.png"
+  },
+  {
+    "question_id": "265003006",
+    "question": "is this an adult dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\265003006_1_ori.png"
+  }
+]

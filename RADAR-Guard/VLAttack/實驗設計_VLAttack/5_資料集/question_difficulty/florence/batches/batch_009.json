@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132578001",
+    "question": "what is the cat doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132578001_1_ori.png"
+  },
+  {
+    "question_id": "132587001",
+    "question": "what brand of shoes is the man in the foreground wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132587001_1_ori.png"
+  },
+  {
+    "question_id": "132587002",
+    "question": "what is he drinking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132587002_1_ori.png"
+  },
+  {
+    "question_id": "132612000",
+    "question": "are they in their natural environment?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132612000_1_ori.png"
+  },
+  {
+    "question_id": "132622001",
+    "question": "is the bear sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132622001_1_ori.png"
+  },
+  {
+    "question_id": "132644000",
+    "question": "what is being added to the bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132644000_1_ori.png"
+  },
+  {
+    "question_id": "132644001",
+    "question": "what is the color of the man's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132644001_1_ori.png"
+  },
+  {
+    "question_id": "132652000",
+    "question": "what is on her wrist?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652000_1_ori.png"
+  },
+  {
+    "question_id": "132652001",
+    "question": "what hand is visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652001_1_ori.png"
+  },
+  {
+    "question_id": "132652002",
+    "question": "are they having a party?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652002_1_ori.png"
+  },
+  {
+    "question_id": "132652011",
+    "question": "is this woman a bride?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652011_1_ori.png"
+  },
+  {
+    "question_id": "132652019",
+    "question": "what color are her eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652019_1_ori.png"
+  },
+  {
+    "question_id": "132652020",
+    "question": "is she using a new iphone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652020_1_ori.png"
+  },
+  {
+    "question_id": "132652021",
+    "question": "what is on the woman's arm?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652021_1_ori.png"
+  },
+  {
+    "question_id": "132652023",
+    "question": "what is the color of her bracelet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652023_1_ori.png"
+  },
+  {
+    "question_id": "132652025",
+    "question": "does this woman have makeup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132652025_1_ori.png"
+  },
+  {
+    "question_id": "132689002",
+    "question": "how many people could fit at the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132689002_1_ori.png"
+  },
+  {
+    "question_id": "132703001",
+    "question": "are his arms by his side?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132703001_1_ori.png"
+  },
+  {
+    "question_id": "132703002",
+    "question": "what color is his shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132703002_1_ori.png"
+  },
+  {
+    "question_id": "132776000",
+    "question": "what is sitting on top of the elephant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132776000_1_ori.png"
+  }
+]

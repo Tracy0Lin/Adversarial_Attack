@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132037001",
+    "question": "are there any red bricks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132037001_1_ori.png"
+  },
+  {
+    "question_id": "132042002",
+    "question": "what is the man watching?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132042002_1_ori.png"
+  },
+  {
+    "question_id": "132042004",
+    "question": "what color is his shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132042004_1_ori.png"
+  },
+  {
+    "question_id": "132059002",
+    "question": "what country is this from based on the writing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132059002_1_ori.png"
+  },
+  {
+    "question_id": "132121000",
+    "question": "what room of the house is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132121000_1_ori.png"
+  },
+  {
+    "question_id": "132121001",
+    "question": "is the room tidy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132121001_1_ori.png"
+  },
+  {
+    "question_id": "132121002",
+    "question": "is the room dark?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132121002_1_ori.png"
+  },
+  {
+    "question_id": "132121004",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132121004_1_ori.png"
+  },
+  {
+    "question_id": "132132004",
+    "question": "what is the green thing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132132004_1_ori.png"
+  },
+  {
+    "question_id": "132136001",
+    "question": "how many kites are flying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136001_1_ori.png"
+  },
+  {
+    "question_id": "132136005",
+    "question": "what time of the day it is?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136005_1_ori.png"
+  },
+  {
+    "question_id": "132136006",
+    "question": "what is this sport?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136006_1_ori.png"
+  },
+  {
+    "question_id": "132136007",
+    "question": "what does the person have in their hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136007_1_ori.png"
+  },
+  {
+    "question_id": "132136008",
+    "question": "what hobby is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136008_1_ori.png"
+  },
+  {
+    "question_id": "132136011",
+    "question": "is this the beach?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136011_1_ori.png"
+  },
+  {
+    "question_id": "132136014",
+    "question": "who is flying the kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132136014_1_ori.png"
+  },
+  {
+    "question_id": "132143000",
+    "question": "are there lights on in the two buildings?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132143000_1_ori.png"
+  },
+  {
+    "question_id": "132143001",
+    "question": "is there any people in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132143001_1_ori.png"
+  },
+  {
+    "question_id": "132182002",
+    "question": "what is the batter standing in front of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132182002_1_ori.png"
+  },
+  {
+    "question_id": "132182003",
+    "question": "what number is on the batter's uniform?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132182003_1_ori.png"
+  }
+]

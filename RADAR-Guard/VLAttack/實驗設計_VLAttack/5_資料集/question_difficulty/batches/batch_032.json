@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "2149004",
+    "question": "how many stems can you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2149004_1_ori.png"
+  },
+  {
+    "question_id": "2153000",
+    "question": "has the batter already swung the bat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2153000_1_ori.png"
+  },
+  {
+    "question_id": "2153001",
+    "question": "what color helmet is the pitcher wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2153001_1_ori.png"
+  },
+  {
+    "question_id": "2153002",
+    "question": "what color is the batters jersey?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2153002_1_ori.png"
+  },
+  {
+    "question_id": "2154000",
+    "question": "what are the color of the cafe's umbrellas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2154000_1_ori.png"
+  },
+  {
+    "question_id": "2154001",
+    "question": "is the shopping cart parked in a corral?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2154001_1_ori.png"
+  },
+  {
+    "question_id": "2154002",
+    "question": "what does it look like the shopping cart is being used for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2154002_1_ori.png"
+  },
+  {
+    "question_id": "2157002",
+    "question": "what is on top of the cake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2157002_1_ori.png"
+  },
+  {
+    "question_id": "2164001",
+    "question": "what kind of building is in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2164001_1_ori.png"
+  },
+  {
+    "question_id": "2164004",
+    "question": "what color is the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2164004_1_ori.png"
+  },
+  {
+    "question_id": "2171001",
+    "question": "what are the people are doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2171001_1_ori.png"
+  },
+  {
+    "question_id": "2171002",
+    "question": "what are the people doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2171002_1_ori.png"
+  },
+  {
+    "question_id": "2171003",
+    "question": "how many females do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2171003_1_ori.png"
+  },
+  {
+    "question_id": "218646000",
+    "question": "where are the animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\218646000_1_ori.png"
+  },
+  {
+    "question_id": "218646001",
+    "question": "what are these animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\218646001_1_ori.png"
+  },
+  {
+    "question_id": "21900000",
+    "question": "is the rider a child or an adult?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\21900000_1_ori.png"
+  },
+  {
+    "question_id": "21900002",
+    "question": "is the horse jumping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\21900002_1_ori.png"
+  },
+  {
+    "question_id": "21900003",
+    "question": "is the man wearing a helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\21900003_1_ori.png"
+  },
+  {
+    "question_id": "2191000",
+    "question": "what is the woman standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2191000_1_ori.png"
+  },
+  {
+    "question_id": "2191002",
+    "question": "what is this person riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2191002_1_ori.png"
+  }
+]

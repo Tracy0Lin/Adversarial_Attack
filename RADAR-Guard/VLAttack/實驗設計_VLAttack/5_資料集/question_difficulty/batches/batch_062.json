@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "264506002",
+    "question": "are there any houses visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264506002_1_ori.png"
+  },
+  {
+    "question_id": "264506004",
+    "question": "what is the snow on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264506004_1_ori.png"
+  },
+  {
+    "question_id": "264506005",
+    "question": "is there snow in this image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264506005_1_ori.png"
+  },
+  {
+    "question_id": "264506006",
+    "question": "where is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264506006_1_ori.png"
+  },
+  {
+    "question_id": "264535002",
+    "question": "what color is the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264535002_1_ori.png"
+  },
+  {
+    "question_id": "264540001",
+    "question": "what are the green vegetables on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264540001_1_ori.png"
+  },
+  {
+    "question_id": "264540002",
+    "question": "what is the cultural origin of the food on the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264540002_1_ori.png"
+  },
+  {
+    "question_id": "264568001",
+    "question": "what is the woman doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264568001_1_ori.png"
+  },
+  {
+    "question_id": "264568002",
+    "question": "what is she putting in the oven?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264568002_1_ori.png"
+  },
+  {
+    "question_id": "264599003",
+    "question": "are cars allowed on this street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264599003_1_ori.png"
+  },
+  {
+    "question_id": "264599005",
+    "question": "how many trees are on the right side of the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264599005_1_ori.png"
+  },
+  {
+    "question_id": "264599006",
+    "question": "is this taken in the winter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264599006_1_ori.png"
+  },
+  {
+    "question_id": "264615004",
+    "question": "is there a fence in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264615004_1_ori.png"
+  },
+  {
+    "question_id": "264619000",
+    "question": "is this a colorful picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264619000_1_ori.png"
+  },
+  {
+    "question_id": "264619002",
+    "question": "how many kites are up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264619002_1_ori.png"
+  },
+  {
+    "question_id": "264619003",
+    "question": "how many sails are in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264619003_1_ori.png"
+  },
+  {
+    "question_id": "264625000",
+    "question": "are these flowers daffodils?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264625000_1_ori.png"
+  },
+  {
+    "question_id": "264625001",
+    "question": "what color are the flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264625001_1_ori.png"
+  },
+  {
+    "question_id": "264625003",
+    "question": "will these petals eventually open out flat, like a daisy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264625003_1_ori.png"
+  },
+  {
+    "question_id": "264659000",
+    "question": "what are the birds standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264659000_1_ori.png"
+  }
+]

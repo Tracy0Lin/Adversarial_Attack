@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524502003",
+    "question": "is there snow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524502003_1_ori.png"
+  },
+  {
+    "question_id": "524507000",
+    "question": "are cars allowed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524507000_1_ori.png"
+  },
+  {
+    "question_id": "524507002",
+    "question": "will this man's head get wet without the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524507002_1_ori.png"
+  },
+  {
+    "question_id": "524533001",
+    "question": "does the bus look to gaudy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524533001_1_ori.png"
+  },
+  {
+    "question_id": "524533002",
+    "question": "what kind of flag is in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524533002_1_ori.png"
+  },
+  {
+    "question_id": "524535001",
+    "question": "what color icing is on the doughnuts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524535001_1_ori.png"
+  },
+  {
+    "question_id": "524536001",
+    "question": "is the man happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524536001_1_ori.png"
+  },
+  {
+    "question_id": "524536002",
+    "question": "is the man showing off his tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524536002_1_ori.png"
+  },
+  {
+    "question_id": "524536003",
+    "question": "is he holding a beer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524536003_1_ori.png"
+  },
+  {
+    "question_id": "524536004",
+    "question": "what famous political figure is in the center of this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524536004_1_ori.png"
+  },
+  {
+    "question_id": "524536005",
+    "question": "what occasion is the man attending?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524536005_1_ori.png"
+  },
+  {
+    "question_id": "524536006",
+    "question": "is the man dressed casually?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524536006_1_ori.png"
+  },
+  {
+    "question_id": "524575000",
+    "question": "is it cold?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524575000_1_ori.png"
+  },
+  {
+    "question_id": "524575001",
+    "question": "do the animals live in the cave?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524575001_1_ori.png"
+  },
+  {
+    "question_id": "524575003",
+    "question": "what animal is in front of their giraffes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524575003_1_ori.png"
+  },
+  {
+    "question_id": "524577001",
+    "question": "are the numbers on the clock roman numerals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577001_1_ori.png"
+  },
+  {
+    "question_id": "524577004",
+    "question": "what color is the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577004_1_ori.png"
+  },
+  {
+    "question_id": "524577006",
+    "question": "what number of clocks are on this tower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577006_1_ori.png"
+  },
+  {
+    "question_id": "524577010",
+    "question": "is there a clock tower in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577010_1_ori.png"
+  },
+  {
+    "question_id": "524577015",
+    "question": "is this a tower clock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524577015_1_ori.png"
+  }
+]

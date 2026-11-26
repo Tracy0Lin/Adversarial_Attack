@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263881002",
+    "question": "what is the baby animal doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263881002_1_ori.png"
+  },
+  {
+    "question_id": "263881007",
+    "question": "is the giraffe looking directly at the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263881007_1_ori.png"
+  },
+  {
+    "question_id": "263929000",
+    "question": "what animals are these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263929000_1_ori.png"
+  },
+  {
+    "question_id": "263929001",
+    "question": "are these animals all facing the same direction?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263929001_1_ori.png"
+  },
+  {
+    "question_id": "263929003",
+    "question": "what is this animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263929003_1_ori.png"
+  },
+  {
+    "question_id": "263929004",
+    "question": "what are the animals standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263929004_1_ori.png"
+  },
+  {
+    "question_id": "263929005",
+    "question": "what can be seen in the horizon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263929005_1_ori.png"
+  },
+  {
+    "question_id": "263929006",
+    "question": "what is the white substance on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263929006_1_ori.png"
+  },
+  {
+    "question_id": "263966000",
+    "question": "how many horses are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263966000_1_ori.png"
+  },
+  {
+    "question_id": "263966002",
+    "question": "is this a farm?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263966002_1_ori.png"
+  },
+  {
+    "question_id": "263969001",
+    "question": "how many candles can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263969001_1_ori.png"
+  },
+  {
+    "question_id": "263973002",
+    "question": "what kind of surface is this man standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263973002_1_ori.png"
+  },
+  {
+    "question_id": "263973004",
+    "question": "what kind of shirt is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263973004_1_ori.png"
+  },
+  {
+    "question_id": "263973007",
+    "question": "what is the person holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263973007_1_ori.png"
+  },
+  {
+    "question_id": "2640001",
+    "question": "what color is the stripe on the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2640001_1_ori.png"
+  },
+  {
+    "question_id": "2640002",
+    "question": "are there skyscrapers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2640002_1_ori.png"
+  },
+  {
+    "question_id": "264017001",
+    "question": "is there parmesan cheese on the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264017001_1_ori.png"
+  },
+  {
+    "question_id": "264032002",
+    "question": "what color is the sink?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264032002_1_ori.png"
+  },
+  {
+    "question_id": "264032005",
+    "question": "what color are the cabinets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264032005_1_ori.png"
+  },
+  {
+    "question_id": "264032006",
+    "question": "is the sink being repaired?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264032006_1_ori.png"
+  }
+]

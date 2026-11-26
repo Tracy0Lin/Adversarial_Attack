@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131611006",
+    "question": "are all the elephants the same size?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611006_1_ori.png"
+  },
+  {
+    "question_id": "131611007",
+    "question": "is his an army of elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611007_1_ori.png"
+  },
+  {
+    "question_id": "131611008",
+    "question": "what are the animals eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611008_1_ori.png"
+  },
+  {
+    "question_id": "131611009",
+    "question": "can these animals be sheared?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611009_1_ori.png"
+  },
+  {
+    "question_id": "131611010",
+    "question": "where do you think the elephants are located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611010_1_ori.png"
+  },
+  {
+    "question_id": "131611011",
+    "question": "what is the color of the elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611011_1_ori.png"
+  },
+  {
+    "question_id": "131611013",
+    "question": "how many animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611013_1_ori.png"
+  },
+  {
+    "question_id": "131611015",
+    "question": "do any of these elephants have tusks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611015_1_ori.png"
+  },
+  {
+    "question_id": "131611016",
+    "question": "how many people are sitting on elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611016_1_ori.png"
+  },
+  {
+    "question_id": "131611017",
+    "question": "do either of the elephants have tusk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611017_1_ori.png"
+  },
+  {
+    "question_id": "131612002",
+    "question": "is there a pine tree?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131612002_1_ori.png"
+  },
+  {
+    "question_id": "131617001",
+    "question": "why is the little girls fingers dark?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131617001_1_ori.png"
+  },
+  {
+    "question_id": "131617002",
+    "question": "what color is the towel hanging on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131617002_1_ori.png"
+  },
+  {
+    "question_id": "131627000",
+    "question": "what kind of vehicle can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131627000_1_ori.png"
+  },
+  {
+    "question_id": "131627002",
+    "question": "what type of structure is in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131627002_1_ori.png"
+  },
+  {
+    "question_id": "131661000",
+    "question": "are there lights on in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131661000_1_ori.png"
+  },
+  {
+    "question_id": "131661002",
+    "question": "what room is the man in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131661002_1_ori.png"
+  },
+  {
+    "question_id": "131661006",
+    "question": "does the man have a beard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131661006_1_ori.png"
+  },
+  {
+    "question_id": "131743000",
+    "question": "does a woman have her hand in her pocket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131743000_1_ori.png"
+  },
+  {
+    "question_id": "131743002",
+    "question": "what color are the stools in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131743002_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "69914005",
+    "question": "where is the food located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\69914005_1_ori.png"
+  },
+  {
+    "question_id": "69914010",
+    "question": "what are the people sitting in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\69914010_1_ori.png"
+  },
+  {
+    "question_id": "711000",
+    "question": "what pattern is repeated on the linens?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\711000_1_ori.png"
+  },
+  {
+    "question_id": "711002",
+    "question": "how many couches?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\711002_1_ori.png"
+  },
+  {
+    "question_id": "724003",
+    "question": "what type of area is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\724003_1_ori.png"
+  },
+  {
+    "question_id": "730004",
+    "question": "is there a child in the bus window?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\730004_1_ori.png"
+  },
+  {
+    "question_id": "73001",
+    "question": "is this a motorcycle or bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\73001_1_ori.png"
+  },
+  {
+    "question_id": "73002",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\73002_1_ori.png"
+  },
+  {
+    "question_id": "74000",
+    "question": "does this dog have a collar?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\74000_1_ori.png"
+  },
+  {
+    "question_id": "74001",
+    "question": "where is the dog laying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\74001_1_ori.png"
+  },
+  {
+    "question_id": "74002",
+    "question": "what is the dog doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\74002_1_ori.png"
+  },
+  {
+    "question_id": "757000",
+    "question": "how many elephants are pictured in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757000_1_ori.png"
+  },
+  {
+    "question_id": "757001",
+    "question": "are the animals in the wild?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757001_1_ori.png"
+  },
+  {
+    "question_id": "757002",
+    "question": "what type of enclosure is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757002_1_ori.png"
+  },
+  {
+    "question_id": "757007",
+    "question": "how many elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757007_1_ori.png"
+  },
+  {
+    "question_id": "757008",
+    "question": "how many baby elephants are present?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757008_1_ori.png"
+  },
+  {
+    "question_id": "757009",
+    "question": "what is the elephant doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757009_1_ori.png"
+  },
+  {
+    "question_id": "757010",
+    "question": "how many elephants are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757010_1_ori.png"
+  },
+  {
+    "question_id": "757011",
+    "question": "is this a wild elephant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757011_1_ori.png"
+  },
+  {
+    "question_id": "757012",
+    "question": "does the smaller elephant have tusks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757012_1_ori.png"
+  }
+]

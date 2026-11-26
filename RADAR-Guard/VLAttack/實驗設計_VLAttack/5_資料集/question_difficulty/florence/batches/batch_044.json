@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525050000",
+    "question": "what is this road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050000_1_ori.png"
+  },
+  {
+    "question_id": "525050002",
+    "question": "what type of flowers are growing in front of the business sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050002_1_ori.png"
+  },
+  {
+    "question_id": "525050003",
+    "question": "what country is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050003_1_ori.png"
+  },
+  {
+    "question_id": "525050004",
+    "question": "what street is this stop sign on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050004_1_ori.png"
+  },
+  {
+    "question_id": "525050005",
+    "question": "what is the color of the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050005_1_ori.png"
+  },
+  {
+    "question_id": "525050006",
+    "question": "is there a person in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050006_1_ori.png"
+  },
+  {
+    "question_id": "525050010",
+    "question": "what does the sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050010_1_ori.png"
+  },
+  {
+    "question_id": "525050011",
+    "question": "what street is this sign located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050011_1_ori.png"
+  },
+  {
+    "question_id": "525050012",
+    "question": "what are the street names at this intersection?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050012_1_ori.png"
+  },
+  {
+    "question_id": "525050013",
+    "question": "what does the sign read?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050013_1_ori.png"
+  },
+  {
+    "question_id": "525050016",
+    "question": "which exit is being taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050016_1_ori.png"
+  },
+  {
+    "question_id": "525050017",
+    "question": "what is this sign mean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050017_1_ori.png"
+  },
+  {
+    "question_id": "525050020",
+    "question": "are there clouds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050020_1_ori.png"
+  },
+  {
+    "question_id": "525050021",
+    "question": "what street is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525050021_1_ori.png"
+  },
+  {
+    "question_id": "525058000",
+    "question": "where is the blonde hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058000_1_ori.png"
+  },
+  {
+    "question_id": "525058002",
+    "question": "what color is the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058002_1_ori.png"
+  },
+  {
+    "question_id": "525058004",
+    "question": "is this building in the united states?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058004_1_ori.png"
+  },
+  {
+    "question_id": "525058006",
+    "question": "what is the number on the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058006_1_ori.png"
+  },
+  {
+    "question_id": "525058009",
+    "question": "is there potted plants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058009_1_ori.png"
+  },
+  {
+    "question_id": "525058011",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058011_1_ori.png"
+  }
+]

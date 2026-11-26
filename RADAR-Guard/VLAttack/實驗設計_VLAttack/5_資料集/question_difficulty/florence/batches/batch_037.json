@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394715011",
+    "question": "is the radio powered on or off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394715011_1_ori.png"
+  },
+  {
+    "question_id": "394724000",
+    "question": "how real is this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394724000_1_ori.png"
+  },
+  {
+    "question_id": "394773000",
+    "question": "what color is the motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394773000_1_ori.png"
+  },
+  {
+    "question_id": "394773002",
+    "question": "what color is this motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394773002_1_ori.png"
+  },
+  {
+    "question_id": "394904000",
+    "question": "where are the benches facing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394904000_1_ori.png"
+  },
+  {
+    "question_id": "394909000",
+    "question": "what is the color of the roof on the white house?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394909000_1_ori.png"
+  },
+  {
+    "question_id": "394940000",
+    "question": "where is the couch in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394940000_1_ori.png"
+  },
+  {
+    "question_id": "394940001",
+    "question": "what is the child eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394940001_1_ori.png"
+  },
+  {
+    "question_id": "394940003",
+    "question": "which utensil is on his plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394940003_1_ori.png"
+  },
+  {
+    "question_id": "394941005",
+    "question": "what is this guy doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394941005_1_ori.png"
+  },
+  {
+    "question_id": "395001",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\395001_1_ori.png"
+  },
+  {
+    "question_id": "395006002",
+    "question": "is the lawn well-kept?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395006002_1_ori.png"
+  },
+  {
+    "question_id": "395083003",
+    "question": "is there water near?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395083003_1_ori.png"
+  },
+  {
+    "question_id": "395083008",
+    "question": "do those clouds have water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395083008_1_ori.png"
+  },
+  {
+    "question_id": "395113004",
+    "question": "where is the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395113004_1_ori.png"
+  },
+  {
+    "question_id": "395124008",
+    "question": "what is being reflected in the mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395124008_1_ori.png"
+  },
+  {
+    "question_id": "395210003",
+    "question": "how many bells are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395210003_1_ori.png"
+  },
+  {
+    "question_id": "395230001",
+    "question": "where is the dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395230001_1_ori.png"
+  },
+  {
+    "question_id": "395283000",
+    "question": "is the man in the desert?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395283000_1_ori.png"
+  },
+  {
+    "question_id": "395283001",
+    "question": "what colors are the kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395283001_1_ori.png"
+  }
+]

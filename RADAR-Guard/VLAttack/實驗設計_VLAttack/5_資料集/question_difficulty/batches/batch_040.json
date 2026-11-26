@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262235004",
+    "question": "who is smiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262235004_1_ori.png"
+  },
+  {
+    "question_id": "262235005",
+    "question": "is this a woman or man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262235005_1_ori.png"
+  },
+  {
+    "question_id": "262242001",
+    "question": "what is stretched across the court?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242001_1_ori.png"
+  },
+  {
+    "question_id": "262242002",
+    "question": "does the man enjoy tennis?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242002_1_ori.png"
+  },
+  {
+    "question_id": "262242003",
+    "question": "what color is the court?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242003_1_ori.png"
+  },
+  {
+    "question_id": "262242005",
+    "question": "is the court blue?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242005_1_ori.png"
+  },
+  {
+    "question_id": "262242006",
+    "question": "is he playing doubles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242006_1_ori.png"
+  },
+  {
+    "question_id": "262242007",
+    "question": "are both men wearing hats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242007_1_ori.png"
+  },
+  {
+    "question_id": "262242008",
+    "question": "are these two men professional tennis players?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262242008_1_ori.png"
+  },
+  {
+    "question_id": "262262000",
+    "question": "is the time correct?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262262000_1_ori.png"
+  },
+  {
+    "question_id": "262262001",
+    "question": "is it an overcast day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262262001_1_ori.png"
+  },
+  {
+    "question_id": "262274000",
+    "question": "who left their surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274000_1_ori.png"
+  },
+  {
+    "question_id": "262274001",
+    "question": "what is written on the surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274001_1_ori.png"
+  },
+  {
+    "question_id": "262274002",
+    "question": "what is written on the board?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274002_1_ori.png"
+  },
+  {
+    "question_id": "262274003",
+    "question": "how many boards are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274003_1_ori.png"
+  },
+  {
+    "question_id": "262274004",
+    "question": "is it going to rain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274004_1_ori.png"
+  },
+  {
+    "question_id": "262274005",
+    "question": "is it low tide?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274005_1_ori.png"
+  },
+  {
+    "question_id": "262274006",
+    "question": "are there palm trees on the board?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274006_1_ori.png"
+  },
+  {
+    "question_id": "262274007",
+    "question": "is it cloudy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262274007_1_ori.png"
+  },
+  {
+    "question_id": "262275001",
+    "question": "what color is the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262275001_1_ori.png"
+  }
+]

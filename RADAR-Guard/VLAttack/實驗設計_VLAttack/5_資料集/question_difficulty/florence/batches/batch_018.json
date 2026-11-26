@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "240455001",
+    "question": "what color are the tiles on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\240455001_1_ori.png"
+  },
+  {
+    "question_id": "248810000",
+    "question": "are there any other animals in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\248810000_1_ori.png"
+  },
+  {
+    "question_id": "248810002",
+    "question": "what is behind the cage?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\248810002_1_ori.png"
+  },
+  {
+    "question_id": "262148002",
+    "question": "what is he on top of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262148002_1_ori.png"
+  },
+  {
+    "question_id": "262161004",
+    "question": "why is there a number on this vehicle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262161004_1_ori.png"
+  },
+  {
+    "question_id": "262161005",
+    "question": "why is there a number on the vehicle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262161005_1_ori.png"
+  },
+  {
+    "question_id": "262161006",
+    "question": "who is the maker of the scooter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262161006_1_ori.png"
+  },
+  {
+    "question_id": "262161018",
+    "question": "what number is on the motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262161018_1_ori.png"
+  },
+  {
+    "question_id": "262161019",
+    "question": "what make is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262161019_1_ori.png"
+  },
+  {
+    "question_id": "262162003",
+    "question": "how many pictures are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262162003_1_ori.png"
+  },
+  {
+    "question_id": "262162022",
+    "question": "how many frames are on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262162022_1_ori.png"
+  },
+  {
+    "question_id": "262162029",
+    "question": "how many pictures on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262162029_1_ori.png"
+  },
+  {
+    "question_id": "262189001",
+    "question": "what color is the salisbury rd sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262189001_1_ori.png"
+  },
+  {
+    "question_id": "262189002",
+    "question": "what does the last sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262189002_1_ori.png"
+  },
+  {
+    "question_id": "262197000",
+    "question": "how many skyscrapers are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262197000_1_ori.png"
+  },
+  {
+    "question_id": "262197004",
+    "question": "are there lights on in the two buildings?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262197004_1_ori.png"
+  },
+  {
+    "question_id": "262197005",
+    "question": "how many stories is the building on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262197005_1_ori.png"
+  },
+  {
+    "question_id": "262197010",
+    "question": "how many modes of transportation are depicted?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262197010_1_ori.png"
+  },
+  {
+    "question_id": "262228004",
+    "question": "where are these bicycles chained at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262228004_1_ori.png"
+  },
+  {
+    "question_id": "262228005",
+    "question": "what is on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262228005_1_ori.png"
+  }
+]

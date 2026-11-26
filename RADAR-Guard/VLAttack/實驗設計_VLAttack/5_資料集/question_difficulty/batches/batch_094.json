@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "502749003",
+    "question": "is this kitchen clean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502749003_1_ori.png"
+  },
+  {
+    "question_id": "502766002",
+    "question": "what are the bigger animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502766002_1_ori.png"
+  },
+  {
+    "question_id": "502854000",
+    "question": "are there real trees?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502854000_1_ori.png"
+  },
+  {
+    "question_id": "502854001",
+    "question": "is this indoors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502854001_1_ori.png"
+  },
+  {
+    "question_id": "502854002",
+    "question": "what is the woman doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502854002_1_ori.png"
+  },
+  {
+    "question_id": "510657000",
+    "question": "are they all happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\510657000_1_ori.png"
+  },
+  {
+    "question_id": "510657004",
+    "question": "what pattern is on the closest girl's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\510657004_1_ori.png"
+  },
+  {
+    "question_id": "510657005",
+    "question": "what is shining from the ceiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\510657005_1_ori.png"
+  },
+  {
+    "question_id": "520000",
+    "question": "what is traveling under the bridge archway?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\520000_1_ori.png"
+  },
+  {
+    "question_id": "520001",
+    "question": "is this a high bridge?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\520001_1_ori.png"
+  },
+  {
+    "question_id": "520002",
+    "question": "is this a lake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\520002_1_ori.png"
+  },
+  {
+    "question_id": "520005",
+    "question": "are they in a good location to catch fish?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\520005_1_ori.png"
+  },
+  {
+    "question_id": "520006",
+    "question": "are there ships in the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\520006_1_ori.png"
+  },
+  {
+    "question_id": "524333000",
+    "question": "what are the tables and chairs made out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524333000_1_ori.png"
+  },
+  {
+    "question_id": "524333001",
+    "question": "is one of the men balding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524333001_1_ori.png"
+  },
+  {
+    "question_id": "524333002",
+    "question": "are these people learning?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524333002_1_ori.png"
+  },
+  {
+    "question_id": "524333003",
+    "question": "are the lights on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524333003_1_ori.png"
+  },
+  {
+    "question_id": "524333004",
+    "question": "are they in a restaurant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524333004_1_ori.png"
+  },
+  {
+    "question_id": "524333005",
+    "question": "how many men are holding their chins?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524333005_1_ori.png"
+  },
+  {
+    "question_id": "524361001",
+    "question": "how many birds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524361001_1_ori.png"
+  }
+]

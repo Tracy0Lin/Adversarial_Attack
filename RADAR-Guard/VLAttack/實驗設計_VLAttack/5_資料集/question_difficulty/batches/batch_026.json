@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1353001",
+    "question": "are the kids teens?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1353001_1_ori.png"
+  },
+  {
+    "question_id": "1353002",
+    "question": "what are the kids in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1353002_1_ori.png"
+  },
+  {
+    "question_id": "136000",
+    "question": "is this in a museum?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\136000_1_ori.png"
+  },
+  {
+    "question_id": "136001",
+    "question": "how many animals are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\136001_1_ori.png"
+  },
+  {
+    "question_id": "136002",
+    "question": "what kind of animal is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\136002_1_ori.png"
+  },
+  {
+    "question_id": "1369001",
+    "question": "what is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1369001_1_ori.png"
+  },
+  {
+    "question_id": "1369002",
+    "question": "is this man in the ocean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1369002_1_ori.png"
+  },
+  {
+    "question_id": "139001",
+    "question": "how many yellow vases?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\139001_1_ori.png"
+  },
+  {
+    "question_id": "139002",
+    "question": "what color is the floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\139002_1_ori.png"
+  },
+  {
+    "question_id": "139003",
+    "question": "what color is the flower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\139003_1_ori.png"
+  },
+  {
+    "question_id": "1393002",
+    "question": "are the flowers open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1393002_1_ori.png"
+  },
+  {
+    "question_id": "139684000",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\139684000_1_ori.png"
+  },
+  {
+    "question_id": "139684001",
+    "question": "are there any empty picture frames?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\139684001_1_ori.png"
+  },
+  {
+    "question_id": "139684002",
+    "question": "what is in front the window on a stand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\139684002_1_ori.png"
+  },
+  {
+    "question_id": "1398001",
+    "question": "what color is the sweater that the person is wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1398001_1_ori.png"
+  },
+  {
+    "question_id": "1425002",
+    "question": "is there a container on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1425002_1_ori.png"
+  },
+  {
+    "question_id": "1425003",
+    "question": "is this sandwich cut?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1425003_1_ori.png"
+  },
+  {
+    "question_id": "143000",
+    "question": "what color is the tip of the birds' tails?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\143000_1_ori.png"
+  },
+  {
+    "question_id": "143002",
+    "question": "who many birds are black?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\143002_1_ori.png"
+  },
+  {
+    "question_id": "1436000",
+    "question": "how many laptops is the man using?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1436000_1_ori.png"
+  }
+]

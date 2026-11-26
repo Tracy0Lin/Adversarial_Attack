@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1228000",
+    "question": "is this herd of zebras free to migrate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1228000_1_ori.png"
+  },
+  {
+    "question_id": "1228002",
+    "question": "where are the zebras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1228002_1_ori.png"
+  },
+  {
+    "question_id": "127451002",
+    "question": "are those guys having a good time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\127451002_1_ori.png"
+  },
+  {
+    "question_id": "1292004",
+    "question": "which leg is on her knee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1292004_1_ori.png"
+  },
+  {
+    "question_id": "131089001",
+    "question": "did the batter hit the ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131089001_1_ori.png"
+  },
+  {
+    "question_id": "131108001",
+    "question": "does the door open inward or outward?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131108001_1_ori.png"
+  },
+  {
+    "question_id": "131131002",
+    "question": "how many cats are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131131002_1_ori.png"
+  },
+  {
+    "question_id": "131203000",
+    "question": "what is on the display of the laptop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131203000_1_ori.png"
+  },
+  {
+    "question_id": "131203002",
+    "question": "are the wires in the back neatly organized?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131203002_1_ori.png"
+  },
+  {
+    "question_id": "131203003",
+    "question": "does this laptop have a black border?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131203003_1_ori.png"
+  },
+  {
+    "question_id": "131282000",
+    "question": "what words are on the cup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131282000_1_ori.png"
+  },
+  {
+    "question_id": "131335003",
+    "question": "what is the name of the theater?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131335003_1_ori.png"
+  },
+  {
+    "question_id": "131361002",
+    "question": "is the man wearing sunglasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\131361002_1_ori.png"
+  },
+  {
+    "question_id": "131361005",
+    "question": "what is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\131361005_1_ori.png"
+  },
+  {
+    "question_id": "131361007",
+    "question": "is the man eating alone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\131361007_1_ori.png"
+  },
+  {
+    "question_id": "131416000",
+    "question": "what is on the meat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131416000_1_ori.png"
+  },
+  {
+    "question_id": "131418002",
+    "question": "can the people get into this building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131418002_1_ori.png"
+  },
+  {
+    "question_id": "131497001",
+    "question": "what does the dog have on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131497001_1_ori.png"
+  },
+  {
+    "question_id": "131539002",
+    "question": "has this area been windy lately?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131539002_1_ori.png"
+  },
+  {
+    "question_id": "131581003",
+    "question": "what numbers are on the train on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131581003_1_ori.png"
+  }
+]

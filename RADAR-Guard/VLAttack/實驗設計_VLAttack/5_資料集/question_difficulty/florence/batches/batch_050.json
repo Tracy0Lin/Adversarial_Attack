@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525762000",
+    "question": "what is the boy standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525762000_1_ori.png"
+  },
+  {
+    "question_id": "525762004",
+    "question": "when is he playing his match?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525762004_1_ori.png"
+  },
+  {
+    "question_id": "525763000",
+    "question": "how many boats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525763000_1_ori.png"
+  },
+  {
+    "question_id": "525777001",
+    "question": "how many people are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525777001_1_ori.png"
+  },
+  {
+    "question_id": "525849002",
+    "question": "what is this girl probably celebrating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525849002_1_ori.png"
+  },
+  {
+    "question_id": "525899000",
+    "question": "what color is the woman wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525899000_1_ori.png"
+  },
+  {
+    "question_id": "525903002",
+    "question": "what kind of food is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525903002_1_ori.png"
+  },
+  {
+    "question_id": "525908002",
+    "question": "what fell off of the man's head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525908002_1_ori.png"
+  },
+  {
+    "question_id": "525988001",
+    "question": "is that a teddy ruxpin?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988001_1_ori.png"
+  },
+  {
+    "question_id": "525988002",
+    "question": "what is the name of the toy on the top left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988002_1_ori.png"
+  },
+  {
+    "question_id": "525988006",
+    "question": "what type of hat does the bear have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988006_1_ori.png"
+  },
+  {
+    "question_id": "525988008",
+    "question": "how many bears are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988008_1_ori.png"
+  },
+  {
+    "question_id": "525988012",
+    "question": "what color is the teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988012_1_ori.png"
+  },
+  {
+    "question_id": "525988014",
+    "question": "what is written on the teddy bear's feet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988014_1_ori.png"
+  },
+  {
+    "question_id": "525988018",
+    "question": "how many teddy bears?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988018_1_ori.png"
+  },
+  {
+    "question_id": "525988021",
+    "question": "is this bear bigger than most teddy bears?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988021_1_ori.png"
+  },
+  {
+    "question_id": "525988022",
+    "question": "how big is teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988022_1_ori.png"
+  },
+  {
+    "question_id": "525988023",
+    "question": "can all of the body parts of this stuffed animal be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988023_1_ori.png"
+  },
+  {
+    "question_id": "525988025",
+    "question": "how big is the teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525988025_1_ori.png"
+  },
+  {
+    "question_id": "526021001",
+    "question": "is this person playing in a tournament?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526021001_1_ori.png"
+  }
+]

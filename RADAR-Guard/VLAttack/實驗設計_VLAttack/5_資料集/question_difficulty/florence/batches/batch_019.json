@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262229005",
+    "question": "what are on the girls heads?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262229005_1_ori.png"
+  },
+  {
+    "question_id": "262235006",
+    "question": "what is the girl doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262235006_1_ori.png"
+  },
+  {
+    "question_id": "262242000",
+    "question": "what is the women's racket touching?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262242000_1_ori.png"
+  },
+  {
+    "question_id": "262242004",
+    "question": "are the players tired?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262242004_1_ori.png"
+  },
+  {
+    "question_id": "262262002",
+    "question": "what type of building is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262262002_1_ori.png"
+  },
+  {
+    "question_id": "262323000",
+    "question": "what is behind the giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262323000_1_ori.png"
+  },
+  {
+    "question_id": "262323002",
+    "question": "how many animals do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262323002_1_ori.png"
+  },
+  {
+    "question_id": "262371004",
+    "question": "what kind of mood is this cat in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262371004_1_ori.png"
+  },
+  {
+    "question_id": "262386011",
+    "question": "who took this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262386011_1_ori.png"
+  },
+  {
+    "question_id": "262386020",
+    "question": "does this toilet have a lit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262386020_1_ori.png"
+  },
+  {
+    "question_id": "262386024",
+    "question": "is there a toilet brush?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262386024_1_ori.png"
+  },
+  {
+    "question_id": "262386037",
+    "question": "what color is the floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262386037_1_ori.png"
+  },
+  {
+    "question_id": "262394000",
+    "question": "is the building behind the motorcycle all brick?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\262394000_1_ori.png"
+  },
+  {
+    "question_id": "262466001",
+    "question": "what tool is hanging behind the flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262466001_1_ori.png"
+  },
+  {
+    "question_id": "262471008",
+    "question": "what is at this location?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262471008_1_ori.png"
+  },
+  {
+    "question_id": "262476001",
+    "question": "how many people?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262476001_1_ori.png"
+  },
+  {
+    "question_id": "262505004",
+    "question": "how many lines are painted in the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262505004_1_ori.png"
+  },
+  {
+    "question_id": "262514002",
+    "question": "what do you use these for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262514002_1_ori.png"
+  },
+  {
+    "question_id": "262531002",
+    "question": "what thing is in focus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262531002_1_ori.png"
+  },
+  {
+    "question_id": "262594002",
+    "question": "what is written on the front of the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\262594002_1_ori.png"
+  }
+]

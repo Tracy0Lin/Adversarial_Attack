@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1393000",
+    "question": "name the type of flower that is in the vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1393000_1_ori.png"
+  },
+  {
+    "question_id": "139684003",
+    "question": "what color is the rug on the floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\139684003_1_ori.png"
+  },
+  {
+    "question_id": "1398000",
+    "question": "what type of pants are those?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1398000_1_ori.png"
+  },
+  {
+    "question_id": "1398002",
+    "question": "is the cat affectionate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1398002_1_ori.png"
+  },
+  {
+    "question_id": "1404001",
+    "question": "what is the kid holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1404001_1_ori.png"
+  },
+  {
+    "question_id": "1404002",
+    "question": "what color jacket is the boy wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1404002_1_ori.png"
+  },
+  {
+    "question_id": "143001",
+    "question": "how many birds are in the tree?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\143001_1_ori.png"
+  },
+  {
+    "question_id": "1436002",
+    "question": "is the man wearing glasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1436002_1_ori.png"
+  },
+  {
+    "question_id": "1436004",
+    "question": "what is laying on the man's stomach?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1436004_1_ori.png"
+  },
+  {
+    "question_id": "1448000",
+    "question": "is the giraffe shown here standing erect?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1448000_1_ori.png"
+  },
+  {
+    "question_id": "1490000",
+    "question": "is the guy on a rope?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1490000_1_ori.png"
+  },
+  {
+    "question_id": "1490004",
+    "question": "is this a race?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1490004_1_ori.png"
+  },
+  {
+    "question_id": "1525002",
+    "question": "are these planes functional?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525002_1_ori.png"
+  },
+  {
+    "question_id": "1525006",
+    "question": "where is the scene taking place in the photograph?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525006_1_ori.png"
+  },
+  {
+    "question_id": "1525008",
+    "question": "how many bikes are outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525008_1_ori.png"
+  },
+  {
+    "question_id": "1525017",
+    "question": "is it daylight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525017_1_ori.png"
+  },
+  {
+    "question_id": "1525019",
+    "question": "what is this machine?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525019_1_ori.png"
+  },
+  {
+    "question_id": "1525022",
+    "question": "what's being built?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525022_1_ori.png"
+  },
+  {
+    "question_id": "1525023",
+    "question": "is someone having a snack?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525023_1_ori.png"
+  },
+  {
+    "question_id": "1525024",
+    "question": "is this a train station?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1525024_1_ori.png"
+  }
+]

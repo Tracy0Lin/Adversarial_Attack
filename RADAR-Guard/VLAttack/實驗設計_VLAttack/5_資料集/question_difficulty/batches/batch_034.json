@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "2302001",
+    "question": "how many horses are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2302001_1_ori.png"
+  },
+  {
+    "question_id": "2302002",
+    "question": "is the lead person wearing a blue cap?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2302002_1_ori.png"
+  },
+  {
+    "question_id": "2346000",
+    "question": "are the flowers larger than the coin?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2346000_1_ori.png"
+  },
+  {
+    "question_id": "2388000",
+    "question": "who is using the toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2388000_1_ori.png"
+  },
+  {
+    "question_id": "2388001",
+    "question": "is there any privacy in this restroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2388001_1_ori.png"
+  },
+  {
+    "question_id": "240301000",
+    "question": "why is there a gap between the roof and wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240301000_1_ori.png"
+  },
+  {
+    "question_id": "240301001",
+    "question": "is it daylight in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240301001_1_ori.png"
+  },
+  {
+    "question_id": "240301002",
+    "question": "why is the cow laying down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240301002_1_ori.png"
+  },
+  {
+    "question_id": "240323000",
+    "question": "is there meat on this plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240323000_1_ori.png"
+  },
+  {
+    "question_id": "240323002",
+    "question": "what is the green fruit called?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240323002_1_ori.png"
+  },
+  {
+    "question_id": "240455002",
+    "question": "what hairstyle is this person wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240455002_1_ori.png"
+  },
+  {
+    "question_id": "240783002",
+    "question": "can you see brownies?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\240783002_1_ori.png"
+  },
+  {
+    "question_id": "241000",
+    "question": "what is he sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\241000_1_ori.png"
+  },
+  {
+    "question_id": "241002",
+    "question": "what is on the floor next to the lady?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\241002_1_ori.png"
+  },
+  {
+    "question_id": "241003",
+    "question": "do you think these two boys are brothers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\241003_1_ori.png"
+  },
+  {
+    "question_id": "241004",
+    "question": "what color are the cups?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\241004_1_ori.png"
+  },
+  {
+    "question_id": "2431000",
+    "question": "is the wine in the glass white?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2431000_1_ori.png"
+  },
+  {
+    "question_id": "2431001",
+    "question": "what utensil is clearly shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2431001_1_ori.png"
+  },
+  {
+    "question_id": "2431002",
+    "question": "is there food on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2431002_1_ori.png"
+  },
+  {
+    "question_id": "2434000",
+    "question": "how many laptops are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2434000_1_ori.png"
+  }
+]

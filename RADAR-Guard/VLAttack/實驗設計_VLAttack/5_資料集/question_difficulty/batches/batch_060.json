@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "264110000",
+    "question": "is something sleeping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264110000_1_ori.png"
+  },
+  {
+    "question_id": "264121003",
+    "question": "what is keeping the vehicle from falling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264121003_1_ori.png"
+  },
+  {
+    "question_id": "264121004",
+    "question": "is this a front or back view of this item?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264121004_1_ori.png"
+  },
+  {
+    "question_id": "264124001",
+    "question": "is he calling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264124001_1_ori.png"
+  },
+  {
+    "question_id": "264124004",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264124004_1_ori.png"
+  },
+  {
+    "question_id": "264155000",
+    "question": "what kind of cheese is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264155000_1_ori.png"
+  },
+  {
+    "question_id": "264155008",
+    "question": "what course of the meal is this likely to be?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264155008_1_ori.png"
+  },
+  {
+    "question_id": "264161001",
+    "question": "what's the color of the purse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264161001_1_ori.png"
+  },
+  {
+    "question_id": "264161004",
+    "question": "what color is the bag?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264161004_1_ori.png"
+  },
+  {
+    "question_id": "264161006",
+    "question": "what are these items used for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264161006_1_ori.png"
+  },
+  {
+    "question_id": "264180001",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264180001_1_ori.png"
+  },
+  {
+    "question_id": "264191003",
+    "question": "is this an old plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264191003_1_ori.png"
+  },
+  {
+    "question_id": "264222001",
+    "question": "what is the boy eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264222001_1_ori.png"
+  },
+  {
+    "question_id": "264222002",
+    "question": "what color hair does the guy have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264222002_1_ori.png"
+  },
+  {
+    "question_id": "264222003",
+    "question": "what is the guy eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264222003_1_ori.png"
+  },
+  {
+    "question_id": "264238006",
+    "question": "where is this picture taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264238006_1_ori.png"
+  },
+  {
+    "question_id": "264268000",
+    "question": "what is blocking the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264268000_1_ori.png"
+  },
+  {
+    "question_id": "264279000",
+    "question": "is this person on the surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264279000_1_ori.png"
+  },
+  {
+    "question_id": "264279002",
+    "question": "is the man getting wet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264279002_1_ori.png"
+  },
+  {
+    "question_id": "264279003",
+    "question": "is the surfer standing on both feet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264279003_1_ori.png"
+  }
+]

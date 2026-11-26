@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1903001",
+    "question": "what is in the lid?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1903001_1_ori.png"
+  },
+  {
+    "question_id": "192000",
+    "question": "what sport is being played?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\192000_1_ori.png"
+  },
+  {
+    "question_id": "192001",
+    "question": "is the catcher wearing safety gear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\192001_1_ori.png"
+  },
+  {
+    "question_id": "192002",
+    "question": "what is the name of the teams?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\192002_1_ori.png"
+  },
+  {
+    "question_id": "1948002",
+    "question": "what is this man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1948002_1_ori.png"
+  },
+  {
+    "question_id": "1955001",
+    "question": "what kind of day is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1955001_1_ori.png"
+  },
+  {
+    "question_id": "196000",
+    "question": "what is the yellow food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\196000_1_ori.png"
+  },
+  {
+    "question_id": "1960000",
+    "question": "which team will win?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1960000_1_ori.png"
+  },
+  {
+    "question_id": "196001",
+    "question": "are there lots of healthy options on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\196001_1_ori.png"
+  },
+  {
+    "question_id": "196004",
+    "question": "is this going to be a feast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\196004_1_ori.png"
+  },
+  {
+    "question_id": "196885001",
+    "question": "what color is the batter's helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\196885001_1_ori.png"
+  },
+  {
+    "question_id": "196885002",
+    "question": "what kind of bat is the baseball player holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\196885002_1_ori.png"
+  },
+  {
+    "question_id": "1993001",
+    "question": "what type of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1993001_1_ori.png"
+  },
+  {
+    "question_id": "1993002",
+    "question": "is the window open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1993002_1_ori.png"
+  },
+  {
+    "question_id": "205196001",
+    "question": "how many pastries have powdered sugar?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\205196001_1_ori.png"
+  },
+  {
+    "question_id": "205196002",
+    "question": "have any of these been partially eaten?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\205196002_1_ori.png"
+  },
+  {
+    "question_id": "2061000",
+    "question": "who is in the toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2061000_1_ori.png"
+  },
+  {
+    "question_id": "2139002",
+    "question": "what in this photo is red and white?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2139002_1_ori.png"
+  },
+  {
+    "question_id": "2139004",
+    "question": "is this bike secured with chains?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2139004_1_ori.png"
+  },
+  {
+    "question_id": "2142000",
+    "question": "is there a lot of pigeons in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2142000_1_ori.png"
+  }
+]

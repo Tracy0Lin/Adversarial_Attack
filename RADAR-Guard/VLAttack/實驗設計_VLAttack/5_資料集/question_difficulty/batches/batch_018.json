@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133327002",
+    "question": "is there a lot of concrete?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133327002_1_ori.png"
+  },
+  {
+    "question_id": "133343003",
+    "question": "how many piercings are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133343003_1_ori.png"
+  },
+  {
+    "question_id": "133377002",
+    "question": "is this zebra facing the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133377002_1_ori.png"
+  },
+  {
+    "question_id": "133377003",
+    "question": "is this animal alive?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133377003_1_ori.png"
+  },
+  {
+    "question_id": "133377005",
+    "question": "what is the main part of the building, behind the zebras, made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133377005_1_ori.png"
+  },
+  {
+    "question_id": "133377006",
+    "question": "how many zebra are in this scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133377006_1_ori.png"
+  },
+  {
+    "question_id": "133380000",
+    "question": "what is the bird sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133380000_1_ori.png"
+  },
+  {
+    "question_id": "133380002",
+    "question": "what kind of bird is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133380002_1_ori.png"
+  },
+  {
+    "question_id": "133386006",
+    "question": "what are the people standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133386006_1_ori.png"
+  },
+  {
+    "question_id": "133386013",
+    "question": "how many skateboards in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133386013_1_ori.png"
+  },
+  {
+    "question_id": "133386021",
+    "question": "what are they practicing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133386021_1_ori.png"
+  },
+  {
+    "question_id": "133412000",
+    "question": "what is the pizza served on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133412000_1_ori.png"
+  },
+  {
+    "question_id": "133412002",
+    "question": "what type of pizza is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133412002_1_ori.png"
+  },
+  {
+    "question_id": "133464000",
+    "question": "what is the black object?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133464000_1_ori.png"
+  },
+  {
+    "question_id": "133470001",
+    "question": "what is the girl sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133470001_1_ori.png"
+  },
+  {
+    "question_id": "133470002",
+    "question": "is there water in the scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133470002_1_ori.png"
+  },
+  {
+    "question_id": "133470004",
+    "question": "how many are on the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133470004_1_ori.png"
+  },
+  {
+    "question_id": "133476000",
+    "question": "is there coffee in the cup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476000_1_ori.png"
+  },
+  {
+    "question_id": "133476002",
+    "question": "what is in the clear cup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476002_1_ori.png"
+  },
+  {
+    "question_id": "133476003",
+    "question": "what is floating in the drink?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476003_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393469001",
+    "question": "are there deciduous trees?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393469001_1_ori.png"
+  },
+  {
+    "question_id": "393469002",
+    "question": "what color is the man's coat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393469002_1_ori.png"
+  },
+  {
+    "question_id": "393478001",
+    "question": "is the train passing a snowy area?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393478001_1_ori.png"
+  },
+  {
+    "question_id": "393478002",
+    "question": "is there snow on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393478002_1_ori.png"
+  },
+  {
+    "question_id": "393478003",
+    "question": "are the cars driving through a tunnel?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393478003_1_ori.png"
+  },
+  {
+    "question_id": "393497000",
+    "question": "what color is the sign in front of the podium?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393497000_1_ori.png"
+  },
+  {
+    "question_id": "393497001",
+    "question": "are the men standing on the grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393497001_1_ori.png"
+  },
+  {
+    "question_id": "393511000",
+    "question": "are these people dining together?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393511000_1_ori.png"
+  },
+  {
+    "question_id": "393511001",
+    "question": "what is the yellow drink?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393511001_1_ori.png"
+  },
+  {
+    "question_id": "393513000",
+    "question": "is the man skating on a fence?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393513000_1_ori.png"
+  },
+  {
+    "question_id": "393513001",
+    "question": "is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393513001_1_ori.png"
+  },
+  {
+    "question_id": "393513003",
+    "question": "is it warm in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393513003_1_ori.png"
+  },
+  {
+    "question_id": "393513005",
+    "question": "what is the man wearing on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393513005_1_ori.png"
+  },
+  {
+    "question_id": "393523002",
+    "question": "is it cloudy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393523002_1_ori.png"
+  },
+  {
+    "question_id": "393523003",
+    "question": "what city is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393523003_1_ori.png"
+  },
+  {
+    "question_id": "393523004",
+    "question": "is a bus crossing the bridge?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393523004_1_ori.png"
+  },
+  {
+    "question_id": "393547000",
+    "question": "is the cat looking at the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393547000_1_ori.png"
+  },
+  {
+    "question_id": "393547001",
+    "question": "what is the cat sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393547001_1_ori.png"
+  },
+  {
+    "question_id": "393557000",
+    "question": "how many zebras are present?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393557000_1_ori.png"
+  },
+  {
+    "question_id": "393557001",
+    "question": "are the zebras fighting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393557001_1_ori.png"
+  }
+]

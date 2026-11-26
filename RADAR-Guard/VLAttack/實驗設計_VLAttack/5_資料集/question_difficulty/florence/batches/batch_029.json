@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "349647001",
+    "question": "what food is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\349647001_1_ori.png"
+  },
+  {
+    "question_id": "349647002",
+    "question": "where is the salad?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\349647002_1_ori.png"
+  },
+  {
+    "question_id": "349697001",
+    "question": "what is the woman using to row?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\349697001_1_ori.png"
+  },
+  {
+    "question_id": "349697002",
+    "question": "what color is the close surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\349697002_1_ori.png"
+  },
+  {
+    "question_id": "357002",
+    "question": "how likely is it that the batter will hit a home run?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\357002_1_ori.png"
+  },
+  {
+    "question_id": "360001",
+    "question": "what is the person doing in the air?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\360001_1_ori.png"
+  },
+  {
+    "question_id": "371506000",
+    "question": "is there a piece of broccoli on a chair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\371506000_1_ori.png"
+  },
+  {
+    "question_id": "371506002",
+    "question": "is that spinach?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\371506002_1_ori.png"
+  },
+  {
+    "question_id": "371506004",
+    "question": "is there a picture frame on table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\371506004_1_ori.png"
+  },
+  {
+    "question_id": "384101002",
+    "question": "what color is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\384101002_1_ori.png"
+  },
+  {
+    "question_id": "393225000",
+    "question": "what website copyrighted the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393225000_1_ori.png"
+  },
+  {
+    "question_id": "393225003",
+    "question": "what is to the right of the soup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393225003_1_ori.png"
+  },
+  {
+    "question_id": "393254000",
+    "question": "what does the sentence on the top say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393254000_1_ori.png"
+  },
+  {
+    "question_id": "393267002",
+    "question": "why are some people wearing hats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393267002_1_ori.png"
+  },
+  {
+    "question_id": "393277001",
+    "question": "what's the statue of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393277001_1_ori.png"
+  },
+  {
+    "question_id": "393277003",
+    "question": "what year is the car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393277003_1_ori.png"
+  },
+  {
+    "question_id": "393277004",
+    "question": "what color is the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393277004_1_ori.png"
+  },
+  {
+    "question_id": "393277015",
+    "question": "what color is the dome of the building off in the distance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393277015_1_ori.png"
+  },
+  {
+    "question_id": "393282008",
+    "question": "what is in front of the giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393282008_1_ori.png"
+  },
+  {
+    "question_id": "393282011",
+    "question": "what are these animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393282011_1_ori.png"
+  }
+]

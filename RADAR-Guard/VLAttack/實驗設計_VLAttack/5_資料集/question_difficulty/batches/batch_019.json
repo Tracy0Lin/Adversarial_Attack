@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133476005",
+    "question": "are these foods eaten half way?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476005_1_ori.png"
+  },
+  {
+    "question_id": "133476009",
+    "question": "is there a fork on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476009_1_ori.png"
+  },
+  {
+    "question_id": "133476010",
+    "question": "how many drinks are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476010_1_ori.png"
+  },
+  {
+    "question_id": "133476016",
+    "question": "what is the person drinking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476016_1_ori.png"
+  },
+  {
+    "question_id": "133476021",
+    "question": "is the food fresh?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133476021_1_ori.png"
+  },
+  {
+    "question_id": "133485002",
+    "question": "how many colors of flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133485002_1_ori.png"
+  },
+  {
+    "question_id": "133537002",
+    "question": "how many people are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133537002_1_ori.png"
+  },
+  {
+    "question_id": "133559002",
+    "question": "what are they doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133559002_1_ori.png"
+  },
+  {
+    "question_id": "133567000",
+    "question": "what color is the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133567000_1_ori.png"
+  },
+  {
+    "question_id": "133567001",
+    "question": "what is the man looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133567001_1_ori.png"
+  },
+  {
+    "question_id": "133567003",
+    "question": "is the train moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133567003_1_ori.png"
+  },
+  {
+    "question_id": "133571000",
+    "question": "what color is the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133571000_1_ori.png"
+  },
+  {
+    "question_id": "133571002",
+    "question": "what kind of landform is in the distance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133571002_1_ori.png"
+  },
+  {
+    "question_id": "133571003",
+    "question": "how many animals are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133571003_1_ori.png"
+  },
+  {
+    "question_id": "133571004",
+    "question": "how many horses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133571004_1_ori.png"
+  },
+  {
+    "question_id": "133596002",
+    "question": "where is this taking place?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133596002_1_ori.png"
+  },
+  {
+    "question_id": "133620003",
+    "question": "is the woman happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133620003_1_ori.png"
+  },
+  {
+    "question_id": "133622001",
+    "question": "what is the yellow topping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133622001_1_ori.png"
+  },
+  {
+    "question_id": "133622004",
+    "question": "what is the green topping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133622004_1_ori.png"
+  },
+  {
+    "question_id": "133622005",
+    "question": "what is the yellow item pictured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133622005_1_ori.png"
+  }
+]

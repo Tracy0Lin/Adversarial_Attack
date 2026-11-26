@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132791002",
+    "question": "what is the bus driving through?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132791002_1_ori.png"
+  },
+  {
+    "question_id": "132791003",
+    "question": "where is he going?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132791003_1_ori.png"
+  },
+  {
+    "question_id": "132814002",
+    "question": "what is the zebra on the right near?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132814002_1_ori.png"
+  },
+  {
+    "question_id": "132814003",
+    "question": "is this a zoo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132814003_1_ori.png"
+  },
+  {
+    "question_id": "132814006",
+    "question": "how many species of animal are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132814006_1_ori.png"
+  },
+  {
+    "question_id": "132860000",
+    "question": "what is the color of the carpet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132860000_1_ori.png"
+  },
+  {
+    "question_id": "132860001",
+    "question": "how many pens are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132860001_1_ori.png"
+  },
+  {
+    "question_id": "132953000",
+    "question": "is the man wet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132953000_1_ori.png"
+  },
+  {
+    "question_id": "132987001",
+    "question": "is the water smooth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132987001_1_ori.png"
+  },
+  {
+    "question_id": "132992002",
+    "question": "what color is the teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132992002_1_ori.png"
+  },
+  {
+    "question_id": "132992003",
+    "question": "is the bear cold, sitting on the ledge?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132992003_1_ori.png"
+  },
+  {
+    "question_id": "133000002",
+    "question": "what is the train riding on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133000002_1_ori.png"
+  },
+  {
+    "question_id": "133000006",
+    "question": "is the train moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133000006_1_ori.png"
+  },
+  {
+    "question_id": "133025002",
+    "question": "which ball is actually heading toward the batter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133025002_1_ori.png"
+  },
+  {
+    "question_id": "133042001",
+    "question": "is this a professional game?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133042001_1_ori.png"
+  },
+  {
+    "question_id": "133042011",
+    "question": "what team does he play for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133042011_1_ori.png"
+  },
+  {
+    "question_id": "133050004",
+    "question": "what food is orange?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133050004_1_ori.png"
+  },
+  {
+    "question_id": "133050010",
+    "question": "would it be harder to cut through the celery than the carrots?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133050010_1_ori.png"
+  },
+  {
+    "question_id": "133051003",
+    "question": "what is the weather?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133051003_1_ori.png"
+  },
+  {
+    "question_id": "133061001",
+    "question": "are these cows grazing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\133061001_1_ori.png"
+  }
+]

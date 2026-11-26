@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393838001",
+    "question": "is there a wooden spoon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393838001_1_ori.png"
+  },
+  {
+    "question_id": "393838003",
+    "question": "where are the green vegetables in the pan?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393838003_1_ori.png"
+  },
+  {
+    "question_id": "393838004",
+    "question": "what are the white vegetables called?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393838004_1_ori.png"
+  },
+  {
+    "question_id": "393840000",
+    "question": "is the boat moving away or toward the scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393840000_1_ori.png"
+  },
+  {
+    "question_id": "393840003",
+    "question": "are there dry patches?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393840003_1_ori.png"
+  },
+  {
+    "question_id": "393858000",
+    "question": "how many propellers on the plane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393858000_1_ori.png"
+  },
+  {
+    "question_id": "393864001",
+    "question": "what meal of the day is this dish for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393864001_1_ori.png"
+  },
+  {
+    "question_id": "393864004",
+    "question": "what is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393864004_1_ori.png"
+  },
+  {
+    "question_id": "393864006",
+    "question": "what food is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393864006_1_ori.png"
+  },
+  {
+    "question_id": "393874002",
+    "question": "what is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393874002_1_ori.png"
+  },
+  {
+    "question_id": "393874004",
+    "question": "is this an old or young man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393874004_1_ori.png"
+  },
+  {
+    "question_id": "393874005",
+    "question": "which hand is the man holding it with?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393874005_1_ori.png"
+  },
+  {
+    "question_id": "393874007",
+    "question": "how many laptops is the man using?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393874007_1_ori.png"
+  },
+  {
+    "question_id": "393874009",
+    "question": "is the man in the photo wearing glasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393874009_1_ori.png"
+  },
+  {
+    "question_id": "393928001",
+    "question": "is the snow melting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393928001_1_ori.png"
+  },
+  {
+    "question_id": "393928002",
+    "question": "can you see the grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393928002_1_ori.png"
+  },
+  {
+    "question_id": "393928005",
+    "question": "what are the livestock looking for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393928005_1_ori.png"
+  },
+  {
+    "question_id": "393928006",
+    "question": "is it snowing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393928006_1_ori.png"
+  },
+  {
+    "question_id": "393942000",
+    "question": "what does the sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393942000_1_ori.png"
+  },
+  {
+    "question_id": "393942001",
+    "question": "are there any humans in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393942001_1_ori.png"
+  }
+]

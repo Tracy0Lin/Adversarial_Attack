@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393284003",
+    "question": "what sport is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284003_1_ori.png"
+  },
+  {
+    "question_id": "393284004",
+    "question": "is this man snowboarding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284004_1_ori.png"
+  },
+  {
+    "question_id": "393284005",
+    "question": "is there any snow on the trees?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284005_1_ori.png"
+  },
+  {
+    "question_id": "393284006",
+    "question": "is this person flying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284006_1_ori.png"
+  },
+  {
+    "question_id": "393284007",
+    "question": "is this man flying off of the ski slope?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284007_1_ori.png"
+  },
+  {
+    "question_id": "393284009",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284009_1_ori.png"
+  },
+  {
+    "question_id": "393284010",
+    "question": "what pattern is painted on the helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284010_1_ori.png"
+  },
+  {
+    "question_id": "393284011",
+    "question": "is he going to land?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284011_1_ori.png"
+  },
+  {
+    "question_id": "393284012",
+    "question": "what sport is the man participating in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284012_1_ori.png"
+  },
+  {
+    "question_id": "393284015",
+    "question": "what color is the man's jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393284015_1_ori.png"
+  },
+  {
+    "question_id": "393288000",
+    "question": "what kind of building is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393288000_1_ori.png"
+  },
+  {
+    "question_id": "393288001",
+    "question": "what color is the dome shaped roof in the back?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393288001_1_ori.png"
+  },
+  {
+    "question_id": "393288002",
+    "question": "what color is the church?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393288002_1_ori.png"
+  },
+  {
+    "question_id": "393338001",
+    "question": "what kind of flowers are in the vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393338001_1_ori.png"
+  },
+  {
+    "question_id": "393338002",
+    "question": "what color is the vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393338002_1_ori.png"
+  },
+  {
+    "question_id": "393372000",
+    "question": "is her hair blue?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372000_1_ori.png"
+  },
+  {
+    "question_id": "393372001",
+    "question": "can her eyes be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372001_1_ori.png"
+  },
+  {
+    "question_id": "393372002",
+    "question": "is she wearing long sleeves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372002_1_ori.png"
+  },
+  {
+    "question_id": "393372003",
+    "question": "what color is the wig?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372003_1_ori.png"
+  },
+  {
+    "question_id": "393372004",
+    "question": "is the girl smiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372004_1_ori.png"
+  }
+]

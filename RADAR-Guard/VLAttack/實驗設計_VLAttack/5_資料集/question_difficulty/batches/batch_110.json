@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525988011",
+    "question": "what is holding the bear up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988011_1_ori.png"
+  },
+  {
+    "question_id": "525988016",
+    "question": "is the teddy bear smiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988016_1_ori.png"
+  },
+  {
+    "question_id": "525988017",
+    "question": "what kind of scene is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988017_1_ori.png"
+  },
+  {
+    "question_id": "525988019",
+    "question": "should you hug this animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988019_1_ori.png"
+  },
+  {
+    "question_id": "525988020",
+    "question": "where is the picture taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988020_1_ori.png"
+  },
+  {
+    "question_id": "525988027",
+    "question": "what is in front of the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988027_1_ori.png"
+  },
+  {
+    "question_id": "526000000",
+    "question": "is this person's hair color natural?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526000000_1_ori.png"
+  },
+  {
+    "question_id": "526004000",
+    "question": "does this child have a lot of hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526004000_1_ori.png"
+  },
+  {
+    "question_id": "526004001",
+    "question": "is this mother and child sitting at a kitchen table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526004001_1_ori.png"
+  },
+  {
+    "question_id": "526004002",
+    "question": "is this child being served food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526004002_1_ori.png"
+  },
+  {
+    "question_id": "526021003",
+    "question": "is that the man's home in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526021003_1_ori.png"
+  },
+  {
+    "question_id": "526028000",
+    "question": "has any of this meal been eaten?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526028000_1_ori.png"
+  },
+  {
+    "question_id": "526028001",
+    "question": "do you see a person here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526028001_1_ori.png"
+  },
+  {
+    "question_id": "526028002",
+    "question": "is this a balanced meal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526028002_1_ori.png"
+  },
+  {
+    "question_id": "526040001",
+    "question": "did the man just fall over?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526040001_1_ori.png"
+  },
+  {
+    "question_id": "526040002",
+    "question": "is this person wearing appropriate clothing for the weather?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526040002_1_ori.png"
+  },
+  {
+    "question_id": "526044000",
+    "question": "what does the cow in the back seat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044000_1_ori.png"
+  },
+  {
+    "question_id": "526044003",
+    "question": "what are the animals doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044003_1_ori.png"
+  },
+  {
+    "question_id": "526044014",
+    "question": "is the cow standing in the water or on land?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044014_1_ori.png"
+  },
+  {
+    "question_id": "526044016",
+    "question": "what is this animal walking on to?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044016_1_ori.png"
+  }
+]

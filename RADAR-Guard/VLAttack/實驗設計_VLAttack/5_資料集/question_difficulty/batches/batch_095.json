@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524361002",
+    "question": "what color are the bird's feathers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524361002_1_ori.png"
+  },
+  {
+    "question_id": "524382001",
+    "question": "what is keeping the dogs from running away?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524382001_1_ori.png"
+  },
+  {
+    "question_id": "524382002",
+    "question": "are all the dogs looking in the same direction?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524382002_1_ori.png"
+  },
+  {
+    "question_id": "524392000",
+    "question": "what color is the fridge?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524392000_1_ori.png"
+  },
+  {
+    "question_id": "524392001",
+    "question": "is the light on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524392001_1_ori.png"
+  },
+  {
+    "question_id": "524431000",
+    "question": "what is the horse pulling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524431000_1_ori.png"
+  },
+  {
+    "question_id": "524431001",
+    "question": "what is on the wagon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524431001_1_ori.png"
+  },
+  {
+    "question_id": "524436000",
+    "question": "is there a woman sitting on this bench??",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524436000_1_ori.png"
+  },
+  {
+    "question_id": "524436001",
+    "question": "where are they sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524436001_1_ori.png"
+  },
+  {
+    "question_id": "524436002",
+    "question": "are there cars in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524436002_1_ori.png"
+  },
+  {
+    "question_id": "524436003",
+    "question": "what is the woman sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524436003_1_ori.png"
+  },
+  {
+    "question_id": "524436004",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524436004_1_ori.png"
+  },
+  {
+    "question_id": "524436005",
+    "question": "are these two people a couple?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524436005_1_ori.png"
+  },
+  {
+    "question_id": "524450000",
+    "question": "what type of trucks are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450000_1_ori.png"
+  },
+  {
+    "question_id": "524450001",
+    "question": "where are the ducks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450001_1_ori.png"
+  },
+  {
+    "question_id": "524450002",
+    "question": "is this a fire engine?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450002_1_ori.png"
+  },
+  {
+    "question_id": "524450003",
+    "question": "are they all going to board a train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450003_1_ori.png"
+  },
+  {
+    "question_id": "524450004",
+    "question": "what is moving on the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450004_1_ori.png"
+  },
+  {
+    "question_id": "524450006",
+    "question": "why is there water on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450006_1_ori.png"
+  },
+  {
+    "question_id": "524450007",
+    "question": "why does the bus have to stop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524450007_1_ori.png"
+  }
+]

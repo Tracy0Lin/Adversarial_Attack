@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "264659002",
+    "question": "how can you tell this is a tropical location?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264659002_1_ori.png"
+  },
+  {
+    "question_id": "264659003",
+    "question": "are there any people in the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264659003_1_ori.png"
+  },
+  {
+    "question_id": "264683000",
+    "question": "is this airplane inside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264683000_1_ori.png"
+  },
+  {
+    "question_id": "264686000",
+    "question": "how many side tables are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264686000_1_ori.png"
+  },
+  {
+    "question_id": "264686001",
+    "question": "how many windows are on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264686001_1_ori.png"
+  },
+  {
+    "question_id": "264718002",
+    "question": "which side of the sign is the road on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264718002_1_ori.png"
+  },
+  {
+    "question_id": "264718005",
+    "question": "what phone number is on the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264718005_1_ori.png"
+  },
+  {
+    "question_id": "264753001",
+    "question": "how many doors in this scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264753001_1_ori.png"
+  },
+  {
+    "question_id": "264753002",
+    "question": "what type of vehicle is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264753002_1_ori.png"
+  },
+  {
+    "question_id": "264769003",
+    "question": "what color are the candles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264769003_1_ori.png"
+  },
+  {
+    "question_id": "264769005",
+    "question": "are the scissors open or closed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264769005_1_ori.png"
+  },
+  {
+    "question_id": "264769006",
+    "question": "where are the tiny scissors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264769006_1_ori.png"
+  },
+  {
+    "question_id": "264769009",
+    "question": "what color are the pliers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264769009_1_ori.png"
+  },
+  {
+    "question_id": "264769010",
+    "question": "what room is the picture taken in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264769010_1_ori.png"
+  },
+  {
+    "question_id": "264771000",
+    "question": "what sport is the man participating in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264771000_1_ori.png"
+  },
+  {
+    "question_id": "264771002",
+    "question": "is this person standing still?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264771002_1_ori.png"
+  },
+  {
+    "question_id": "264787000",
+    "question": "what color are the cat's eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264787000_1_ori.png"
+  },
+  {
+    "question_id": "264805000",
+    "question": "what is the sink countertop made out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264805000_1_ori.png"
+  },
+  {
+    "question_id": "264805001",
+    "question": "where are the cups in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264805001_1_ori.png"
+  },
+  {
+    "question_id": "264805002",
+    "question": "what is on the shelf to the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\264805002_1_ori.png"
+  }
+]

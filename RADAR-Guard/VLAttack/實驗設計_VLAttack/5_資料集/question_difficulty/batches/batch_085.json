@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "395180001",
+    "question": "what are the people in the water doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395180001_1_ori.png"
+  },
+  {
+    "question_id": "395185001",
+    "question": "what connects to the objects?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395185001_1_ori.png"
+  },
+  {
+    "question_id": "395185003",
+    "question": "what does the bottom sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395185003_1_ori.png"
+  },
+  {
+    "question_id": "395185004",
+    "question": "what season is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395185004_1_ori.png"
+  },
+  {
+    "question_id": "395230002",
+    "question": "what kind of car is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395230002_1_ori.png"
+  },
+  {
+    "question_id": "395230003",
+    "question": "is the door open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395230003_1_ori.png"
+  },
+  {
+    "question_id": "395283003",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395283003_1_ori.png"
+  },
+  {
+    "question_id": "395289001",
+    "question": "what time of day is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395289001_1_ori.png"
+  },
+  {
+    "question_id": "395289002",
+    "question": "where exactly is the camera positioned?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395289002_1_ori.png"
+  },
+  {
+    "question_id": "395290000",
+    "question": "what is on the car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395290000_1_ori.png"
+  },
+  {
+    "question_id": "395290003",
+    "question": "what is the main color of the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395290003_1_ori.png"
+  },
+  {
+    "question_id": "395291004",
+    "question": "what does he have in his right hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395291004_1_ori.png"
+  },
+  {
+    "question_id": "395324006",
+    "question": "is the motorcycle for sale?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395324006_1_ori.png"
+  },
+  {
+    "question_id": "395344001",
+    "question": "what color is the bed sheets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395344001_1_ori.png"
+  },
+  {
+    "question_id": "395363000",
+    "question": "is this photo in color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395363000_1_ori.png"
+  },
+  {
+    "question_id": "395363001",
+    "question": "what sport is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395363001_1_ori.png"
+  },
+  {
+    "question_id": "395363002",
+    "question": "what is this person playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395363002_1_ori.png"
+  },
+  {
+    "question_id": "395364000",
+    "question": "how many motorcycles are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395364000_1_ori.png"
+  },
+  {
+    "question_id": "395364001",
+    "question": "is everyone holding an umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395364001_1_ori.png"
+  },
+  {
+    "question_id": "395378003",
+    "question": "are there any flowers in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395378003_1_ori.png"
+  }
+]

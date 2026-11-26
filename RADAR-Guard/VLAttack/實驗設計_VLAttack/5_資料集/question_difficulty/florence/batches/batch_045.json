@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525058013",
+    "question": "is anyone riding the scooter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058013_1_ori.png"
+  },
+  {
+    "question_id": "525058014",
+    "question": "are there umbrellas in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058014_1_ori.png"
+  },
+  {
+    "question_id": "525058015",
+    "question": "is the building in the picture made of brick?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058015_1_ori.png"
+  },
+  {
+    "question_id": "525058016",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525058016_1_ori.png"
+  },
+  {
+    "question_id": "525077002",
+    "question": "what airline is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525077002_1_ori.png"
+  },
+  {
+    "question_id": "525077003",
+    "question": "what color is the airplane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525077003_1_ori.png"
+  },
+  {
+    "question_id": "525083000",
+    "question": "are there people in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525083000_1_ori.png"
+  },
+  {
+    "question_id": "525083002",
+    "question": "does the kitchen have an island?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525083002_1_ori.png"
+  },
+  {
+    "question_id": "525087002",
+    "question": "what color are the horses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525087002_1_ori.png"
+  },
+  {
+    "question_id": "525087003",
+    "question": "what number is the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525087003_1_ori.png"
+  },
+  {
+    "question_id": "525087004",
+    "question": "how many photographers are looking at this horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525087004_1_ori.png"
+  },
+  {
+    "question_id": "525106000",
+    "question": "what color is the man's pants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525106000_1_ori.png"
+  },
+  {
+    "question_id": "525106001",
+    "question": "is she wearing a hat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525106001_1_ori.png"
+  },
+  {
+    "question_id": "525106002",
+    "question": "is she going down a hill?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525106002_1_ori.png"
+  },
+  {
+    "question_id": "525118001",
+    "question": "are the bananas for sale?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525118001_1_ori.png"
+  },
+  {
+    "question_id": "525118004",
+    "question": "what color are the bananas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525118004_1_ori.png"
+  },
+  {
+    "question_id": "525118005",
+    "question": "how many fruits are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525118005_1_ori.png"
+  },
+  {
+    "question_id": "525119002",
+    "question": "is that cranberry sauce?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525119002_1_ori.png"
+  },
+  {
+    "question_id": "525119008",
+    "question": "is the girl excited to have the hot dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525119008_1_ori.png"
+  },
+  {
+    "question_id": "525162004",
+    "question": "what color boat is the man riding in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525162004_1_ori.png"
+  }
+]

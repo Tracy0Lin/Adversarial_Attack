@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526044018",
+    "question": "what color are the cows noses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044018_1_ori.png"
+  },
+  {
+    "question_id": "526044021",
+    "question": "what kind of animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044021_1_ori.png"
+  },
+  {
+    "question_id": "526044022",
+    "question": "what is this animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044022_1_ori.png"
+  },
+  {
+    "question_id": "526044024",
+    "question": "how many cows are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044024_1_ori.png"
+  },
+  {
+    "question_id": "526044026",
+    "question": "is this a wild cow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044026_1_ori.png"
+  },
+  {
+    "question_id": "526044027",
+    "question": "how many cows are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044027_1_ori.png"
+  },
+  {
+    "question_id": "526044032",
+    "question": "does this cow give milk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044032_1_ori.png"
+  },
+  {
+    "question_id": "526044033",
+    "question": "what landforms are behind the cows?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044033_1_ori.png"
+  },
+  {
+    "question_id": "526044035",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526044035_1_ori.png"
+  },
+  {
+    "question_id": "526089000",
+    "question": "is this safe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526089000_1_ori.png"
+  },
+  {
+    "question_id": "526089002",
+    "question": "what color is his hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526089002_1_ori.png"
+  },
+  {
+    "question_id": "526103001",
+    "question": "what is situated directly behind the elephant in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526103001_1_ori.png"
+  },
+  {
+    "question_id": "526103002",
+    "question": "are there tires in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526103002_1_ori.png"
+  },
+  {
+    "question_id": "526126003",
+    "question": "what sport is the man playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526126003_1_ori.png"
+  },
+  {
+    "question_id": "526132002",
+    "question": "is one of the giraffes taking a nap?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526132002_1_ori.png"
+  },
+  {
+    "question_id": "526133000",
+    "question": "is this a snowboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526133000_1_ori.png"
+  },
+  {
+    "question_id": "526186002",
+    "question": "does this kitchen have a microwave?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526186002_1_ori.png"
+  },
+  {
+    "question_id": "526188001",
+    "question": "is the person on land?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526188001_1_ori.png"
+  },
+  {
+    "question_id": "526188002",
+    "question": "how many people are flying the kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526188002_1_ori.png"
+  },
+  {
+    "question_id": "526188004",
+    "question": "are the lights on in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526188004_1_ori.png"
+  }
+]

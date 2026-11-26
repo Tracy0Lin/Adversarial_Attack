@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131418000",
+    "question": "is this a color photograph?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131418000_1_ori.png"
+  },
+  {
+    "question_id": "131418001",
+    "question": "how many people are walking with umbrellas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131418001_1_ori.png"
+  },
+  {
+    "question_id": "131444000",
+    "question": "has this man ever been president of the united states?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131444000_1_ori.png"
+  },
+  {
+    "question_id": "131444001",
+    "question": "what color is the man's handkerchief?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131444001_1_ori.png"
+  },
+  {
+    "question_id": "131453000",
+    "question": "are these called bison?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131453000_1_ori.png"
+  },
+  {
+    "question_id": "131453001",
+    "question": "do all of the elephants have tusks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131453001_1_ori.png"
+  },
+  {
+    "question_id": "131453004",
+    "question": "are any of the animals laying down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131453004_1_ori.png"
+  },
+  {
+    "question_id": "131493001",
+    "question": "what are the benches made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131493001_1_ori.png"
+  },
+  {
+    "question_id": "131493003",
+    "question": "how many blue benches are visible in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131493003_1_ori.png"
+  },
+  {
+    "question_id": "131493004",
+    "question": "how many trees are in the foreground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131493004_1_ori.png"
+  },
+  {
+    "question_id": "131494000",
+    "question": "what color is the motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131494000_1_ori.png"
+  },
+  {
+    "question_id": "131494002",
+    "question": "are the bikers all wearing helmets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131494002_1_ori.png"
+  },
+  {
+    "question_id": "131497000",
+    "question": "is the dog's collar red?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131497000_1_ori.png"
+  },
+  {
+    "question_id": "131497002",
+    "question": "is the dog in distress?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131497002_1_ori.png"
+  },
+  {
+    "question_id": "131504002",
+    "question": "what color are the clock hands?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131504002_1_ori.png"
+  },
+  {
+    "question_id": "131516000",
+    "question": "can all of the body parts of this stuffed animal be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131516000_1_ori.png"
+  },
+  {
+    "question_id": "131516001",
+    "question": "is this a real animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131516001_1_ori.png"
+  },
+  {
+    "question_id": "131516002",
+    "question": "is there a forlorn quality to this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131516002_1_ori.png"
+  },
+  {
+    "question_id": "131527000",
+    "question": "is this vegetable cooked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131527000_1_ori.png"
+  },
+  {
+    "question_id": "131527001",
+    "question": "are these good for nibbling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131527001_1_ori.png"
+  }
+]

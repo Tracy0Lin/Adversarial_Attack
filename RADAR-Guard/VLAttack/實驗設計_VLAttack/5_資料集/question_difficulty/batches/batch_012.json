@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132509001",
+    "question": "what is the lady carrying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132509001_1_ori.png"
+  },
+  {
+    "question_id": "132509002",
+    "question": "could you paint this scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132509002_1_ori.png"
+  },
+  {
+    "question_id": "132509003",
+    "question": "what is covering the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132509003_1_ori.png"
+  },
+  {
+    "question_id": "132509004",
+    "question": "is the person wet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132509004_1_ori.png"
+  },
+  {
+    "question_id": "132510002",
+    "question": "is this person smiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132510002_1_ori.png"
+  },
+  {
+    "question_id": "132544001",
+    "question": "are these players tired out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132544001_1_ori.png"
+  },
+  {
+    "question_id": "132544002",
+    "question": "what game is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132544002_1_ori.png"
+  },
+  {
+    "question_id": "132554000",
+    "question": "is the woman standing up straight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132554000_1_ori.png"
+  },
+  {
+    "question_id": "132554004",
+    "question": "is this woman a hipster?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132554004_1_ori.png"
+  },
+  {
+    "question_id": "132554005",
+    "question": "what kind of saddle does the horse have on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132554005_1_ori.png"
+  },
+  {
+    "question_id": "132554006",
+    "question": "are the horses taking their people out for a walk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132554006_1_ori.png"
+  },
+  {
+    "question_id": "132578000",
+    "question": "what is the cat sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132578000_1_ori.png"
+  },
+  {
+    "question_id": "132578002",
+    "question": "is it a bright sunny day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132578002_1_ori.png"
+  },
+  {
+    "question_id": "132587000",
+    "question": "what is this man sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132587000_1_ori.png"
+  },
+  {
+    "question_id": "132587003",
+    "question": "what is this man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132587003_1_ori.png"
+  },
+  {
+    "question_id": "132612001",
+    "question": "where are the giraffes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132612001_1_ori.png"
+  },
+  {
+    "question_id": "132612002",
+    "question": "what is it called when all the zebra are together?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132612002_1_ori.png"
+  },
+  {
+    "question_id": "132612003",
+    "question": "why are all these zebra together?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132612003_1_ori.png"
+  },
+  {
+    "question_id": "132612004",
+    "question": "are these animals common in india?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132612004_1_ori.png"
+  },
+  {
+    "question_id": "132622000",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132622000_1_ori.png"
+  }
+]

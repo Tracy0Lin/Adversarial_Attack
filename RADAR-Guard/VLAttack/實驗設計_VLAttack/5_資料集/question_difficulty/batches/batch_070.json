@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393254002",
+    "question": "where is the camping tent?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393254002_1_ori.png"
+  },
+  {
+    "question_id": "393266000",
+    "question": "what color is the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393266000_1_ori.png"
+  },
+  {
+    "question_id": "393266001",
+    "question": "can you turn right or left in the tunnel?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393266001_1_ori.png"
+  },
+  {
+    "question_id": "393266002",
+    "question": "what color is the plant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393266002_1_ori.png"
+  },
+  {
+    "question_id": "393267000",
+    "question": "what color is the woman's shirt on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393267000_1_ori.png"
+  },
+  {
+    "question_id": "393267001",
+    "question": "what type of beverage is being displayed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393267001_1_ori.png"
+  },
+  {
+    "question_id": "393267003",
+    "question": "what kind of event are the people involved in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393267003_1_ori.png"
+  },
+  {
+    "question_id": "393271000",
+    "question": "is it still snowing in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393271000_1_ori.png"
+  },
+  {
+    "question_id": "393271001",
+    "question": "does this appear to be a photo of multiple exposures of the black clad snowboarder?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393271001_1_ori.png"
+  },
+  {
+    "question_id": "393274000",
+    "question": "what is this vehicle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274000_1_ori.png"
+  },
+  {
+    "question_id": "393274001",
+    "question": "can you see the hook up for the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274001_1_ori.png"
+  },
+  {
+    "question_id": "393274002",
+    "question": "is this train at the station?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274002_1_ori.png"
+  },
+  {
+    "question_id": "393274003",
+    "question": "what is cast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274003_1_ori.png"
+  },
+  {
+    "question_id": "393274005",
+    "question": "is there smoke coming out of the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274005_1_ori.png"
+  },
+  {
+    "question_id": "393274006",
+    "question": "is this station in a rural setting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274006_1_ori.png"
+  },
+  {
+    "question_id": "393274007",
+    "question": "are the train tracks clear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393274007_1_ori.png"
+  },
+  {
+    "question_id": "393277000",
+    "question": "are there any tour buses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277000_1_ori.png"
+  },
+  {
+    "question_id": "393277002",
+    "question": "are all three cars facing the same direction?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277002_1_ori.png"
+  },
+  {
+    "question_id": "393277006",
+    "question": "are there a lot of people milling around?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277006_1_ori.png"
+  },
+  {
+    "question_id": "393277007",
+    "question": "is the building large?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393277007_1_ori.png"
+  }
+]

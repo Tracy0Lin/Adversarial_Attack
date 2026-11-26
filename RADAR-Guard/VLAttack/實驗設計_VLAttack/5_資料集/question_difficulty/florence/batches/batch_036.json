@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394478002",
+    "question": "is this computer normally used by a software developer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394478002_1_ori.png"
+  },
+  {
+    "question_id": "394510002",
+    "question": "what is the number plate of the gray car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394510002_1_ori.png"
+  },
+  {
+    "question_id": "394510008",
+    "question": "what kind of trick is the boy doing on the skateboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394510008_1_ori.png"
+  },
+  {
+    "question_id": "394510012",
+    "question": "what type of vehicle is behind the boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394510012_1_ori.png"
+  },
+  {
+    "question_id": "394510022",
+    "question": "is this boy going to the school?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394510022_1_ori.png"
+  },
+  {
+    "question_id": "394510025",
+    "question": "is the boy chubby?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394510025_1_ori.png"
+  },
+  {
+    "question_id": "394517000",
+    "question": "is the water turned on or off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394517000_1_ori.png"
+  },
+  {
+    "question_id": "394517001",
+    "question": "where is the electrical outlet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394517001_1_ori.png"
+  },
+  {
+    "question_id": "394533001",
+    "question": "where is the boy skateboarding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394533001_1_ori.png"
+  },
+  {
+    "question_id": "394533002",
+    "question": "is this an accidental fall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394533002_1_ori.png"
+  },
+  {
+    "question_id": "394611003",
+    "question": "what color are the plants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394611003_1_ori.png"
+  },
+  {
+    "question_id": "394659001",
+    "question": "where is the fridge?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394659001_1_ori.png"
+  },
+  {
+    "question_id": "394677000",
+    "question": "what color is the bag that the sleeping woman is holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394677000_1_ori.png"
+  },
+  {
+    "question_id": "394681000",
+    "question": "what does the sign say on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394681000_1_ori.png"
+  },
+  {
+    "question_id": "394681002",
+    "question": "where is the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394681002_1_ori.png"
+  },
+  {
+    "question_id": "394715003",
+    "question": "what signal does the yellow cable carry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394715003_1_ori.png"
+  },
+  {
+    "question_id": "394715004",
+    "question": "are there any figurines?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394715004_1_ori.png"
+  },
+  {
+    "question_id": "394715006",
+    "question": "what time is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394715006_1_ori.png"
+  },
+  {
+    "question_id": "394715008",
+    "question": "what time is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394715008_1_ori.png"
+  },
+  {
+    "question_id": "394715010",
+    "question": "are there pictures on the walls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\394715010_1_ori.png"
+  }
+]

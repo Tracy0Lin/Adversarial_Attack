@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393928000",
+    "question": "are the sheep looking for food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393928000_1_ori.png"
+  },
+  {
+    "question_id": "393928003",
+    "question": "what are the sheep standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393928003_1_ori.png"
+  },
+  {
+    "question_id": "393928004",
+    "question": "has it snowed recently?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393928004_1_ori.png"
+  },
+  {
+    "question_id": "393942002",
+    "question": "what colors are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393942002_1_ori.png"
+  },
+  {
+    "question_id": "393971001",
+    "question": "how many animals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393971001_1_ori.png"
+  },
+  {
+    "question_id": "393982001",
+    "question": "what color leaves are on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393982001_1_ori.png"
+  },
+  {
+    "question_id": "393984001",
+    "question": "what is the color of the oven?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393984001_1_ori.png"
+  },
+  {
+    "question_id": "393984002",
+    "question": "what is looking at the lady?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393984002_1_ori.png"
+  },
+  {
+    "question_id": "393984003",
+    "question": "what is the woman cooking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393984003_1_ori.png"
+  },
+  {
+    "question_id": "393995000",
+    "question": "what is the cat sitting in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393995000_1_ori.png"
+  },
+  {
+    "question_id": "394002001",
+    "question": "how many bikes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394002001_1_ori.png"
+  },
+  {
+    "question_id": "394009000",
+    "question": "is the toilet seat up or down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394009000_1_ori.png"
+  },
+  {
+    "question_id": "394033003",
+    "question": "what is in front of the guy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394033003_1_ori.png"
+  },
+  {
+    "question_id": "394050000",
+    "question": "what sport does this kid like?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394050000_1_ori.png"
+  },
+  {
+    "question_id": "394131000",
+    "question": "is the plane getting ready to take off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394131000_1_ori.png"
+  },
+  {
+    "question_id": "394131003",
+    "question": "what airline is advertised on the side of the aircraft?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394131003_1_ori.png"
+  },
+  {
+    "question_id": "394131004",
+    "question": "do planes travel through the earth's atmosphere?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394131004_1_ori.png"
+  },
+  {
+    "question_id": "394132001",
+    "question": "how many bears are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394132001_1_ori.png"
+  },
+  {
+    "question_id": "394132003",
+    "question": "are the bears eyes open or close?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394132003_1_ori.png"
+  },
+  {
+    "question_id": "394132005",
+    "question": "what is around the bears neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394132005_1_ori.png"
+  }
+]

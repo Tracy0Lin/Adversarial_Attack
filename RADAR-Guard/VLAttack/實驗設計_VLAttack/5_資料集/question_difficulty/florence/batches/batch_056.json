@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "764000",
+    "question": "what is around the woman's neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\764000_1_ori.png"
+  },
+  {
+    "question_id": "764002",
+    "question": "are these two people attempting to dance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\764002_1_ori.png"
+  },
+  {
+    "question_id": "764003",
+    "question": "what color is the frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\764003_1_ori.png"
+  },
+  {
+    "question_id": "764004",
+    "question": "is this a baseball field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\764004_1_ori.png"
+  },
+  {
+    "question_id": "764005",
+    "question": "are all the players playing the same game?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\764005_1_ori.png"
+  },
+  {
+    "question_id": "772000",
+    "question": "what is the wire structure in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\772000_1_ori.png"
+  },
+  {
+    "question_id": "772001",
+    "question": "are the sheep eating grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\772001_1_ori.png"
+  },
+  {
+    "question_id": "772003",
+    "question": "how many sheep are pictured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\772003_1_ori.png"
+  },
+  {
+    "question_id": "775000",
+    "question": "is the picture black and white?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\775000_1_ori.png"
+  },
+  {
+    "question_id": "775001",
+    "question": "what is in the rearview mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\775001_1_ori.png"
+  },
+  {
+    "question_id": "775002",
+    "question": "is the stop sign a reflection?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\775002_1_ori.png"
+  },
+  {
+    "question_id": "775005",
+    "question": "is this a car mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\775005_1_ori.png"
+  },
+  {
+    "question_id": "775010",
+    "question": "how many two-wheeled vehicles are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\775010_1_ori.png"
+  },
+  {
+    "question_id": "775011",
+    "question": "what does the print on the mirror say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\775011_1_ori.png"
+  },
+  {
+    "question_id": "776001",
+    "question": "how many humans can bee seen partially in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\776001_1_ori.png"
+  },
+  {
+    "question_id": "776002",
+    "question": "how many bears are there in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\776002_1_ori.png"
+  },
+  {
+    "question_id": "785000",
+    "question": "are the goggles covering her eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\785000_1_ori.png"
+  },
+  {
+    "question_id": "785004",
+    "question": "is the girl wearing a hat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\785004_1_ori.png"
+  },
+  {
+    "question_id": "785005",
+    "question": "is the woman's hat striped?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\785005_1_ori.png"
+  },
+  {
+    "question_id": "802000",
+    "question": "what color is the refrigerator?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\802000_1_ori.png"
+  }
+]

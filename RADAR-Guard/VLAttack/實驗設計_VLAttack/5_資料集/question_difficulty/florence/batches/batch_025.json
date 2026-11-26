@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263299002",
+    "question": "is this train moving through a city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263299002_1_ori.png"
+  },
+  {
+    "question_id": "263299003",
+    "question": "is it raining or is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\263299003_1_ori.png"
+  },
+  {
+    "question_id": "263323002",
+    "question": "is it brighter outside or inside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263323002_1_ori.png"
+  },
+  {
+    "question_id": "263323005",
+    "question": "is the television on or off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263323005_1_ori.png"
+  },
+  {
+    "question_id": "263351000",
+    "question": "what is the woman eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263351000_1_ori.png"
+  },
+  {
+    "question_id": "263351001",
+    "question": "does this woman look happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263351001_1_ori.png"
+  },
+  {
+    "question_id": "263355004",
+    "question": "are they in space?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263355004_1_ori.png"
+  },
+  {
+    "question_id": "263382001",
+    "question": "what time is it in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263382001_1_ori.png"
+  },
+  {
+    "question_id": "263393004",
+    "question": "what color is the tablecloth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263393004_1_ori.png"
+  },
+  {
+    "question_id": "263412002",
+    "question": "is it raining or is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263412002_1_ori.png"
+  },
+  {
+    "question_id": "263412003",
+    "question": "is there a ticket machine on the sidewalk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263412003_1_ori.png"
+  },
+  {
+    "question_id": "263425000",
+    "question": "are there three knobs on the grill?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263425000_1_ori.png"
+  },
+  {
+    "question_id": "263428002",
+    "question": "are the animals crowded together?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263428002_1_ori.png"
+  },
+  {
+    "question_id": "263463000",
+    "question": "how many doors does the car have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263463000_1_ori.png"
+  },
+  {
+    "question_id": "263463001",
+    "question": "is the bench facing the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263463001_1_ori.png"
+  },
+  {
+    "question_id": "263477002",
+    "question": "what type of animals are these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263477002_1_ori.png"
+  },
+  {
+    "question_id": "263594002",
+    "question": "what kind of sticker or placard does the white car need to be parked legally?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263594002_1_ori.png"
+  },
+  {
+    "question_id": "263612003",
+    "question": "how many dogs in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263612003_1_ori.png"
+  },
+  {
+    "question_id": "263612006",
+    "question": "what is looking at you?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263612006_1_ori.png"
+  },
+  {
+    "question_id": "263613001",
+    "question": "what animal is in foreground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\263613001_1_ori.png"
+  }
+]

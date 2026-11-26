@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1626001",
+    "question": "what are the people doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1626001_1_ori.png"
+  },
+  {
+    "question_id": "1626002",
+    "question": "are there flowers in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1626002_1_ori.png"
+  },
+  {
+    "question_id": "1647000",
+    "question": "what is the scissor for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1647000_1_ori.png"
+  },
+  {
+    "question_id": "1647001",
+    "question": "what popular game does this represent?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1647001_1_ori.png"
+  },
+  {
+    "question_id": "1647002",
+    "question": "what tool is being used for cutting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1647002_1_ori.png"
+  },
+  {
+    "question_id": "1655006",
+    "question": "does the man have long hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1655006_1_ori.png"
+  },
+  {
+    "question_id": "165919000",
+    "question": "is this a location in north america?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\165919000_1_ori.png"
+  },
+  {
+    "question_id": "165919001",
+    "question": "what language is on the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\165919001_1_ori.png"
+  },
+  {
+    "question_id": "165919002",
+    "question": "what is behind the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\165919002_1_ori.png"
+  },
+  {
+    "question_id": "1667000",
+    "question": "what is the child holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1667000_1_ori.png"
+  },
+  {
+    "question_id": "1667002",
+    "question": "what type of fork does the baby have in her mouth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1667002_1_ori.png"
+  },
+  {
+    "question_id": "1682002",
+    "question": "what are the round orange items?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1682002_1_ori.png"
+  },
+  {
+    "question_id": "1682005",
+    "question": "how many boats are pictured here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1682005_1_ori.png"
+  },
+  {
+    "question_id": "175082006",
+    "question": "does this man have long hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\175082006_1_ori.png"
+  },
+  {
+    "question_id": "175096003",
+    "question": "where is the man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\175096003_1_ori.png"
+  },
+  {
+    "question_id": "175102001",
+    "question": "what does his shirt say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\175102001_1_ori.png"
+  },
+  {
+    "question_id": "175102003",
+    "question": "what is the kid eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\175102003_1_ori.png"
+  },
+  {
+    "question_id": "1757002",
+    "question": "what are both ladies wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1757002_1_ori.png"
+  },
+  {
+    "question_id": "1761000",
+    "question": "what country is this in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1761000_1_ori.png"
+  },
+  {
+    "question_id": "1761001",
+    "question": "are the planes planning to land soon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1761001_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132702000",
+    "question": "what should be removed before eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132702000_1_ori.png"
+  },
+  {
+    "question_id": "132702001",
+    "question": "is this vegetable better cooked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132702001_1_ori.png"
+  },
+  {
+    "question_id": "132702002",
+    "question": "what vegetable is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132702002_1_ori.png"
+  },
+  {
+    "question_id": "132706001",
+    "question": "is this meal made by a chef?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132706001_1_ori.png"
+  },
+  {
+    "question_id": "132706002",
+    "question": "what is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132706002_1_ori.png"
+  },
+  {
+    "question_id": "132733001",
+    "question": "what is the dog eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132733001_1_ori.png"
+  },
+  {
+    "question_id": "132733002",
+    "question": "what color is the dog's sweater?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132733002_1_ori.png"
+  },
+  {
+    "question_id": "132814001",
+    "question": "what animal is behind the zebras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132814001_1_ori.png"
+  },
+  {
+    "question_id": "132814004",
+    "question": "how many stripes does the baby zebra have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132814004_1_ori.png"
+  },
+  {
+    "question_id": "132814008",
+    "question": "how many zebras are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132814008_1_ori.png"
+  },
+  {
+    "question_id": "132861001",
+    "question": "is it night time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132861001_1_ori.png"
+  },
+  {
+    "question_id": "132861003",
+    "question": "how many spires are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132861003_1_ori.png"
+  },
+  {
+    "question_id": "132861004",
+    "question": "how many clocks can be seen on this building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132861004_1_ori.png"
+  },
+  {
+    "question_id": "132861005",
+    "question": "what is the weather like?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132861005_1_ori.png"
+  },
+  {
+    "question_id": "132861006",
+    "question": "how many windows by the clocks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132861006_1_ori.png"
+  },
+  {
+    "question_id": "132861007",
+    "question": "how many red lights in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132861007_1_ori.png"
+  },
+  {
+    "question_id": "132931000",
+    "question": "are these men on the same team?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132931000_1_ori.png"
+  },
+  {
+    "question_id": "132931001",
+    "question": "where are the players looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132931001_1_ori.png"
+  },
+  {
+    "question_id": "132931002",
+    "question": "what number is on his jersey?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132931002_1_ori.png"
+  },
+  {
+    "question_id": "132953001",
+    "question": "what is man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132953001_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131965001",
+    "question": "how many benches are there in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131965001_1_ori.png"
+  },
+  {
+    "question_id": "131965003",
+    "question": "is the bench facing toward or away from the viewer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131965003_1_ori.png"
+  },
+  {
+    "question_id": "131965004",
+    "question": "how many benches are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131965004_1_ori.png"
+  },
+  {
+    "question_id": "131965007",
+    "question": "is the bench in the middle of a lake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131965007_1_ori.png"
+  },
+  {
+    "question_id": "131969001",
+    "question": "is there a fire?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131969001_1_ori.png"
+  },
+  {
+    "question_id": "131969002",
+    "question": "how many blue signs are in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131969002_1_ori.png"
+  },
+  {
+    "question_id": "131969003",
+    "question": "is this a telephone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131969003_1_ori.png"
+  },
+  {
+    "question_id": "131969004",
+    "question": "what is the structure behind the hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131969004_1_ori.png"
+  },
+  {
+    "question_id": "131969005",
+    "question": "is someone in the phone booth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131969005_1_ori.png"
+  },
+  {
+    "question_id": "132001001",
+    "question": "is the mouse wireless?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132001001_1_ori.png"
+  },
+  {
+    "question_id": "132001002",
+    "question": "what color is the mouse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132001002_1_ori.png"
+  },
+  {
+    "question_id": "132001003",
+    "question": "is the keyboard and mouse of the same color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132001003_1_ori.png"
+  },
+  {
+    "question_id": "132024000",
+    "question": "is it snowing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132024000_1_ori.png"
+  },
+  {
+    "question_id": "132024001",
+    "question": "is the person wearing a costume?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132024001_1_ori.png"
+  },
+  {
+    "question_id": "132024004",
+    "question": "what color is the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132024004_1_ori.png"
+  },
+  {
+    "question_id": "132024006",
+    "question": "how many skis?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132024006_1_ori.png"
+  },
+  {
+    "question_id": "132024007",
+    "question": "what is this person holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132024007_1_ori.png"
+  },
+  {
+    "question_id": "132024009",
+    "question": "is it snowing outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132024009_1_ori.png"
+  },
+  {
+    "question_id": "132037000",
+    "question": "what type of building is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132037000_1_ori.png"
+  },
+  {
+    "question_id": "132037002",
+    "question": "what color hands does the clock have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132037002_1_ori.png"
+  }
+]

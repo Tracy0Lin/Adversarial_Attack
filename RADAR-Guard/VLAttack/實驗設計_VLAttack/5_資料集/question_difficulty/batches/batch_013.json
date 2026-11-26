@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132622002",
+    "question": "what is the color of the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132622002_1_ori.png"
+  },
+  {
+    "question_id": "132622003",
+    "question": "is the bear upset?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132622003_1_ori.png"
+  },
+  {
+    "question_id": "132644002",
+    "question": "does the man know how to cook?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132644002_1_ori.png"
+  },
+  {
+    "question_id": "132644003",
+    "question": "what is this man wearing on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132644003_1_ori.png"
+  },
+  {
+    "question_id": "132652004",
+    "question": "is the woman's hair long?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652004_1_ori.png"
+  },
+  {
+    "question_id": "132652005",
+    "question": "what is she holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652005_1_ori.png"
+  },
+  {
+    "question_id": "132652006",
+    "question": "what is she holding in her left hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652006_1_ori.png"
+  },
+  {
+    "question_id": "132652007",
+    "question": "what color is her hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652007_1_ori.png"
+  },
+  {
+    "question_id": "132652008",
+    "question": "where are three fingers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652008_1_ori.png"
+  },
+  {
+    "question_id": "132652009",
+    "question": "what is the woman holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652009_1_ori.png"
+  },
+  {
+    "question_id": "132652010",
+    "question": "what color eyeshadow is the woman wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652010_1_ori.png"
+  },
+  {
+    "question_id": "132652012",
+    "question": "is this a toy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652012_1_ori.png"
+  },
+  {
+    "question_id": "132652013",
+    "question": "where is the word flow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652013_1_ori.png"
+  },
+  {
+    "question_id": "132652014",
+    "question": "is the girl wearing a tied?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652014_1_ori.png"
+  },
+  {
+    "question_id": "132652016",
+    "question": "is the person talking on the phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652016_1_ori.png"
+  },
+  {
+    "question_id": "132652017",
+    "question": "how many people are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132652017_1_ori.png"
+  },
+  {
+    "question_id": "132682000",
+    "question": "is the seat up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132682000_1_ori.png"
+  },
+  {
+    "question_id": "132682001",
+    "question": "how many toilets are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132682001_1_ori.png"
+  },
+  {
+    "question_id": "132689001",
+    "question": "what kind of benches are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132689001_1_ori.png"
+  },
+  {
+    "question_id": "132690002",
+    "question": "where is a push vacuum?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132690002_1_ori.png"
+  }
+]

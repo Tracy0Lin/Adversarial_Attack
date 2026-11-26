@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "164000",
+    "question": "how many paper towel rolls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\164000_1_ori.png"
+  },
+  {
+    "question_id": "164001",
+    "question": "what is the color of the refrigerator?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\164001_1_ori.png"
+  },
+  {
+    "question_id": "164002",
+    "question": "is the light on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\164002_1_ori.png"
+  },
+  {
+    "question_id": "164003",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\164003_1_ori.png"
+  },
+  {
+    "question_id": "1655000",
+    "question": "is the man proud?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655000_1_ori.png"
+  },
+  {
+    "question_id": "1655001",
+    "question": "what is the man holding on to?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655001_1_ori.png"
+  },
+  {
+    "question_id": "1655002",
+    "question": "is this by a beach?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655002_1_ori.png"
+  },
+  {
+    "question_id": "1655003",
+    "question": "is this man hairy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655003_1_ori.png"
+  },
+  {
+    "question_id": "1655004",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655004_1_ori.png"
+  },
+  {
+    "question_id": "1655005",
+    "question": "is the background of the picture blurry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655005_1_ori.png"
+  },
+  {
+    "question_id": "1655007",
+    "question": "what is this man taking a picture of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1655007_1_ori.png"
+  },
+  {
+    "question_id": "1667001",
+    "question": "what is pictured on the girls shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1667001_1_ori.png"
+  },
+  {
+    "question_id": "1675001",
+    "question": "what is the name of this cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1675001_1_ori.png"
+  },
+  {
+    "question_id": "1675002",
+    "question": "what animal is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1675002_1_ori.png"
+  },
+  {
+    "question_id": "1682001",
+    "question": "is the water clear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1682001_1_ori.png"
+  },
+  {
+    "question_id": "1682006",
+    "question": "how many sailboats are in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1682006_1_ori.png"
+  },
+  {
+    "question_id": "1682010",
+    "question": "is that a sailboat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1682010_1_ori.png"
+  },
+  {
+    "question_id": "1682011",
+    "question": "what temperature do you think the water is?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1682011_1_ori.png"
+  },
+  {
+    "question_id": "1739000",
+    "question": "how many tires are on this truck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1739000_1_ori.png"
+  },
+  {
+    "question_id": "174989000",
+    "question": "is this a prom or wedding or other similar formal event?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\174989000_1_ori.png"
+  }
+]

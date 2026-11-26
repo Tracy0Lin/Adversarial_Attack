@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131295001",
+    "question": "is the train in the city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131295001_1_ori.png"
+  },
+  {
+    "question_id": "131295003",
+    "question": "is the train moving fast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131295003_1_ori.png"
+  },
+  {
+    "question_id": "131295004",
+    "question": "what does it drive on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131295004_1_ori.png"
+  },
+  {
+    "question_id": "131295005",
+    "question": "what is the title of the person that drives this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131295005_1_ori.png"
+  },
+  {
+    "question_id": "131335000",
+    "question": "are those two clocks on the front of the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131335000_1_ori.png"
+  },
+  {
+    "question_id": "131335001",
+    "question": "is this an american city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131335001_1_ori.png"
+  },
+  {
+    "question_id": "131335002",
+    "question": "is the man's head covered?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131335002_1_ori.png"
+  },
+  {
+    "question_id": "131335004",
+    "question": "is there a flag in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131335004_1_ori.png"
+  },
+  {
+    "question_id": "131361006",
+    "question": "is this scene indoors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131361006_1_ori.png"
+  },
+  {
+    "question_id": "131361010",
+    "question": "is there any chocolate on the donuts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131361010_1_ori.png"
+  },
+  {
+    "question_id": "131361012",
+    "question": "what food is on the plates?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131361012_1_ori.png"
+  },
+  {
+    "question_id": "131386000",
+    "question": "what color are their wing tips?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131386000_1_ori.png"
+  },
+  {
+    "question_id": "131386001",
+    "question": "how many airplanes are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131386001_1_ori.png"
+  },
+  {
+    "question_id": "131386002",
+    "question": "are the planes fast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131386002_1_ori.png"
+  },
+  {
+    "question_id": "131390000",
+    "question": "is it afternoon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131390000_1_ori.png"
+  },
+  {
+    "question_id": "131390001",
+    "question": "is this picture relaxing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131390001_1_ori.png"
+  },
+  {
+    "question_id": "131390003",
+    "question": "what kind of animals are sitting in the grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131390003_1_ori.png"
+  },
+  {
+    "question_id": "131416001",
+    "question": "what is sticking through the top of each sandwich?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131416001_1_ori.png"
+  },
+  {
+    "question_id": "131416002",
+    "question": "what is the green stuff on the sandwich?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131416002_1_ori.png"
+  },
+  {
+    "question_id": "131416003",
+    "question": "what drink is clearly shown here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131416003_1_ori.png"
+  }
+]

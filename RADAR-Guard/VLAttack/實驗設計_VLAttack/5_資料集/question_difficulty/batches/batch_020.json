@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "133622007",
+    "question": "what vegetable is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133622007_1_ori.png"
+  },
+  {
+    "question_id": "133629002",
+    "question": "how many chairs have wheels?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133629002_1_ori.png"
+  },
+  {
+    "question_id": "133629003",
+    "question": "is this chair in the way of people who might walk through?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133629003_1_ori.png"
+  },
+  {
+    "question_id": "133636006",
+    "question": "how many meters are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133636006_1_ori.png"
+  },
+  {
+    "question_id": "133645000",
+    "question": "is there someone on the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133645000_1_ori.png"
+  },
+  {
+    "question_id": "133648000",
+    "question": "is the bat blue?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133648000_1_ori.png"
+  },
+  {
+    "question_id": "133648003",
+    "question": "which game are they playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133648003_1_ori.png"
+  },
+  {
+    "question_id": "133667000",
+    "question": "what is covering the floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133667000_1_ori.png"
+  },
+  {
+    "question_id": "133667002",
+    "question": "what is hanging on the ceiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133667002_1_ori.png"
+  },
+  {
+    "question_id": "133679001",
+    "question": "is the floor clean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133679001_1_ori.png"
+  },
+  {
+    "question_id": "133679002",
+    "question": "is there a window?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133679002_1_ori.png"
+  },
+  {
+    "question_id": "133680001",
+    "question": "does this motorcycle have a special name?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133680001_1_ori.png"
+  },
+  {
+    "question_id": "133680006",
+    "question": "is this in the usa?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133680006_1_ori.png"
+  },
+  {
+    "question_id": "133680009",
+    "question": "how many people are on bikes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133680009_1_ori.png"
+  },
+  {
+    "question_id": "133690000",
+    "question": "what is the woman snuggling with?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133690000_1_ori.png"
+  },
+  {
+    "question_id": "133690006",
+    "question": "what is the doing hugging?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133690006_1_ori.png"
+  },
+  {
+    "question_id": "133693001",
+    "question": "what block is this street sign on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693001_1_ori.png"
+  },
+  {
+    "question_id": "133693002",
+    "question": "what is the tall round object named?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693002_1_ori.png"
+  },
+  {
+    "question_id": "133693007",
+    "question": "is it cloudy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693007_1_ori.png"
+  },
+  {
+    "question_id": "133693010",
+    "question": "what kind of light is that?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133693010_1_ori.png"
+  }
+]

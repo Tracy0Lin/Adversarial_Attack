@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "395283002",
+    "question": "are the waters smooth or choppy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395283002_1_ori.png"
+  },
+  {
+    "question_id": "395283005",
+    "question": "is the boy larger than the kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395283005_1_ori.png"
+  },
+  {
+    "question_id": "395290001",
+    "question": "what kind of vehicle is the cat on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395290001_1_ori.png"
+  },
+  {
+    "question_id": "395291001",
+    "question": "are the man's pants too tight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395291001_1_ori.png"
+  },
+  {
+    "question_id": "395291002",
+    "question": "what color is the number on the man's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395291002_1_ori.png"
+  },
+  {
+    "question_id": "395291008",
+    "question": "does the crowd look full?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\395291008_1_ori.png"
+  },
+  {
+    "question_id": "414663000",
+    "question": "is it am?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\414663000_1_ori.png"
+  },
+  {
+    "question_id": "414663001",
+    "question": "what color is the house?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\414663001_1_ori.png"
+  },
+  {
+    "question_id": "414663003",
+    "question": "is that the right time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\414663003_1_ori.png"
+  },
+  {
+    "question_id": "415003",
+    "question": "who is the sponsor on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\415003_1_ori.png"
+  },
+  {
+    "question_id": "427782000",
+    "question": "what is this orange sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\427782000_1_ori.png"
+  },
+  {
+    "question_id": "437010000",
+    "question": "what do the girls eat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\437010000_1_ori.png"
+  },
+  {
+    "question_id": "437010003",
+    "question": "what is the woman doing with the cell phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\437010003_1_ori.png"
+  },
+  {
+    "question_id": "437205000",
+    "question": "what did the kid eat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205000_1_ori.png"
+  },
+  {
+    "question_id": "437205001",
+    "question": "what food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205001_1_ori.png"
+  },
+  {
+    "question_id": "437205002",
+    "question": "what is in the person's hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205002_1_ori.png"
+  },
+  {
+    "question_id": "437205003",
+    "question": "what is the person eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205003_1_ori.png"
+  },
+  {
+    "question_id": "437205004",
+    "question": "what is the baby eating with his hands?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205004_1_ori.png"
+  },
+  {
+    "question_id": "437205005",
+    "question": "did the boy finish the banana?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205005_1_ori.png"
+  },
+  {
+    "question_id": "437205006",
+    "question": "how many people in this picture are holding a drink with two hands?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\437205006_1_ori.png"
+  }
+]

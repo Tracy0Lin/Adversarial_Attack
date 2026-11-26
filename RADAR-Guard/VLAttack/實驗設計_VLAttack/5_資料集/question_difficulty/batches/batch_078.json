@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393794001",
+    "question": "what kind of vegetable is here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393794001_1_ori.png"
+  },
+  {
+    "question_id": "393804000",
+    "question": "what is the utensil on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393804000_1_ori.png"
+  },
+  {
+    "question_id": "393804002",
+    "question": "does the sandwich have avocado on it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393804002_1_ori.png"
+  },
+  {
+    "question_id": "393811000",
+    "question": "what color is the duck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393811000_1_ori.png"
+  },
+  {
+    "question_id": "393814000",
+    "question": "what food is not is a bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393814000_1_ori.png"
+  },
+  {
+    "question_id": "393814001",
+    "question": "how many bowls can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393814001_1_ori.png"
+  },
+  {
+    "question_id": "393814002",
+    "question": "how many of these foods are vegetables?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393814002_1_ori.png"
+  },
+  {
+    "question_id": "393836001",
+    "question": "is the bed made?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393836001_1_ori.png"
+  },
+  {
+    "question_id": "393836003",
+    "question": "how many pictures on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393836003_1_ori.png"
+  },
+  {
+    "question_id": "393838002",
+    "question": "how many vegetables are in the pan?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393838002_1_ori.png"
+  },
+  {
+    "question_id": "393838005",
+    "question": "what is in the pan?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393838005_1_ori.png"
+  },
+  {
+    "question_id": "393840002",
+    "question": "are any of the animals in the photo not eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393840002_1_ori.png"
+  },
+  {
+    "question_id": "393858002",
+    "question": "how many planes are flying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393858002_1_ori.png"
+  },
+  {
+    "question_id": "393864002",
+    "question": "is there bacon on this plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393864002_1_ori.png"
+  },
+  {
+    "question_id": "393864003",
+    "question": "is the food half eaten?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393864003_1_ori.png"
+  },
+  {
+    "question_id": "393864005",
+    "question": "what color plates are on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393864005_1_ori.png"
+  },
+  {
+    "question_id": "393874001",
+    "question": "what cloth is the white hair man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393874001_1_ori.png"
+  },
+  {
+    "question_id": "393874003",
+    "question": "what color is the man's hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393874003_1_ori.png"
+  },
+  {
+    "question_id": "393874006",
+    "question": "what brand of laptop is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393874006_1_ori.png"
+  },
+  {
+    "question_id": "393874008",
+    "question": "is he wearing a bow tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393874008_1_ori.png"
+  }
+]

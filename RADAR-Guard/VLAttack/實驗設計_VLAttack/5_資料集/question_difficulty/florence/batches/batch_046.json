@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525170002",
+    "question": "is she drinking coffee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525170002_1_ori.png"
+  },
+  {
+    "question_id": "525183000",
+    "question": "what color is the cow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525183000_1_ori.png"
+  },
+  {
+    "question_id": "525184001",
+    "question": "is she sleeping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525184001_1_ori.png"
+  },
+  {
+    "question_id": "525184002",
+    "question": "what do humans get from cuddling creatures like this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525184002_1_ori.png"
+  },
+  {
+    "question_id": "525202001",
+    "question": "what food is on a raised serving tray?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525202001_1_ori.png"
+  },
+  {
+    "question_id": "525202002",
+    "question": "what color is the tablecloth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525202002_1_ori.png"
+  },
+  {
+    "question_id": "525208001",
+    "question": "are street lights on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525208001_1_ori.png"
+  },
+  {
+    "question_id": "525247001",
+    "question": "is the cat checking its social networking profile on the netbook?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525247001_1_ori.png"
+  },
+  {
+    "question_id": "525247002",
+    "question": "what facial expression is on the yellow thing behind the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525247002_1_ori.png"
+  },
+  {
+    "question_id": "525272000",
+    "question": "has this pizza been baked yet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525272000_1_ori.png"
+  },
+  {
+    "question_id": "525272001",
+    "question": "is this pizza ready to be eaten?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525272001_1_ori.png"
+  },
+  {
+    "question_id": "525272003",
+    "question": "is this a healthy snack?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525272003_1_ori.png"
+  },
+  {
+    "question_id": "525286000",
+    "question": "is the paint on the wall new or chipped?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525286000_1_ori.png"
+  },
+  {
+    "question_id": "525286001",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525286001_1_ori.png"
+  },
+  {
+    "question_id": "525286002",
+    "question": "is it daytime?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525286002_1_ori.png"
+  },
+  {
+    "question_id": "525286003",
+    "question": "is that a clock or thermometer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525286003_1_ori.png"
+  },
+  {
+    "question_id": "525297000",
+    "question": "what hand is she holding the phone with?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\525297000_1_ori.png"
+  },
+  {
+    "question_id": "525344000",
+    "question": "what color vest is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525344000_1_ori.png"
+  },
+  {
+    "question_id": "525344003",
+    "question": "what does the plane say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525344003_1_ori.png"
+  },
+  {
+    "question_id": "525354000",
+    "question": "is this a color photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525354000_1_ori.png"
+  }
+]

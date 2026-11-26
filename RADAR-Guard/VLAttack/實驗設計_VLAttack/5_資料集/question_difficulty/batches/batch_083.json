@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394715012",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394715012_1_ori.png"
+  },
+  {
+    "question_id": "394715013",
+    "question": "is the desk big enough for the products on it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394715013_1_ori.png"
+  },
+  {
+    "question_id": "394724001",
+    "question": "is that a man or a woman in the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394724001_1_ori.png"
+  },
+  {
+    "question_id": "394773001",
+    "question": "what is the make of this motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394773001_1_ori.png"
+  },
+  {
+    "question_id": "394773003",
+    "question": "what kind of kickstand appears?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394773003_1_ori.png"
+  },
+  {
+    "question_id": "394773004",
+    "question": "what is on the back of this motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394773004_1_ori.png"
+  },
+  {
+    "question_id": "394801001",
+    "question": "what are the different fruit shown in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394801001_1_ori.png"
+  },
+  {
+    "question_id": "394801002",
+    "question": "what is brown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394801002_1_ori.png"
+  },
+  {
+    "question_id": "394841000",
+    "question": "how many doorways are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394841000_1_ori.png"
+  },
+  {
+    "question_id": "394841001",
+    "question": "what holds magnets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394841001_1_ori.png"
+  },
+  {
+    "question_id": "394841002",
+    "question": "what kitchen appliance is featured next to the door?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394841002_1_ori.png"
+  },
+  {
+    "question_id": "394892000",
+    "question": "is this child outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394892000_1_ori.png"
+  },
+  {
+    "question_id": "394892001",
+    "question": "is this a safe neighborhood?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394892001_1_ori.png"
+  },
+  {
+    "question_id": "394904003",
+    "question": "are these metal benches?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394904003_1_ori.png"
+  },
+  {
+    "question_id": "394909002",
+    "question": "is this a scene on the beach?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394909002_1_ori.png"
+  },
+  {
+    "question_id": "394909003",
+    "question": "what color is the sand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394909003_1_ori.png"
+  },
+  {
+    "question_id": "394940002",
+    "question": "what color is the napkin?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394940002_1_ori.png"
+  },
+  {
+    "question_id": "394941001",
+    "question": "is the ocean calm?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394941001_1_ori.png"
+  },
+  {
+    "question_id": "394941002",
+    "question": "is it a sunny day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394941002_1_ori.png"
+  },
+  {
+    "question_id": "394941003",
+    "question": "what is the person holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394941003_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131207002",
+    "question": "are the birds legs touching the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207002_1_ori.png"
+  },
+  {
+    "question_id": "131207003",
+    "question": "does the water look calm?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207003_1_ori.png"
+  },
+  {
+    "question_id": "131207004",
+    "question": "what color are the birds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207004_1_ori.png"
+  },
+  {
+    "question_id": "131207005",
+    "question": "what kind of birds are these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207005_1_ori.png"
+  },
+  {
+    "question_id": "131207006",
+    "question": "what color is the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207006_1_ori.png"
+  },
+  {
+    "question_id": "131207007",
+    "question": "are this flamingos?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207007_1_ori.png"
+  },
+  {
+    "question_id": "131273000",
+    "question": "which type of dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131273000_1_ori.png"
+  },
+  {
+    "question_id": "131273001",
+    "question": "where is the dog looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131273001_1_ori.png"
+  },
+  {
+    "question_id": "131273002",
+    "question": "is the door window open or closed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131273002_1_ori.png"
+  },
+  {
+    "question_id": "131276000",
+    "question": "are all the people of the same race?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131276000_1_ori.png"
+  },
+  {
+    "question_id": "131276001",
+    "question": "how many women are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131276001_1_ori.png"
+  },
+  {
+    "question_id": "131276002",
+    "question": "what type of food is being sold?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131276002_1_ori.png"
+  },
+  {
+    "question_id": "131280000",
+    "question": "what color is the lettering on shirts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131280000_1_ori.png"
+  },
+  {
+    "question_id": "131280001",
+    "question": "how many teams are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131280001_1_ori.png"
+  },
+  {
+    "question_id": "131280002",
+    "question": "is this a baseball field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131280002_1_ori.png"
+  },
+  {
+    "question_id": "131282001",
+    "question": "is all the food on the plate vegetables?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131282001_1_ori.png"
+  },
+  {
+    "question_id": "131282002",
+    "question": "does she eat with the right hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131282002_1_ori.png"
+  },
+  {
+    "question_id": "131282003",
+    "question": "what color is the sauce?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131282003_1_ori.png"
+  },
+  {
+    "question_id": "131282004",
+    "question": "has the food this woman is preparing been fried?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131282004_1_ori.png"
+  },
+  {
+    "question_id": "131295000",
+    "question": "how many vehicles are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131295000_1_ori.png"
+  }
+]

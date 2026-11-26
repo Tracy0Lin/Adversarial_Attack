@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263268000",
+    "question": "why is there a hole in the white floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263268000_1_ori.png"
+  },
+  {
+    "question_id": "263288000",
+    "question": "what color are the scissor handles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263288000_1_ori.png"
+  },
+  {
+    "question_id": "263288001",
+    "question": "what kind of supplies are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263288001_1_ori.png"
+  },
+  {
+    "question_id": "263288002",
+    "question": "where are the pins?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263288002_1_ori.png"
+  },
+  {
+    "question_id": "263292002",
+    "question": "is it raining or is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263292002_1_ori.png"
+  },
+  {
+    "question_id": "263299000",
+    "question": "is this train moving or still?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263299000_1_ori.png"
+  },
+  {
+    "question_id": "263323000",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263323000_1_ori.png"
+  },
+  {
+    "question_id": "263323001",
+    "question": "does the man have a beard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263323001_1_ori.png"
+  },
+  {
+    "question_id": "263323004",
+    "question": "how many high rise buildings can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263323004_1_ori.png"
+  },
+  {
+    "question_id": "263323006",
+    "question": "how many people are seated?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263323006_1_ori.png"
+  },
+  {
+    "question_id": "263323007",
+    "question": "is someone watching the television?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263323007_1_ori.png"
+  },
+  {
+    "question_id": "263351003",
+    "question": "what color are these girls sunglasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263351003_1_ori.png"
+  },
+  {
+    "question_id": "263351004",
+    "question": "what color is the woman's jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263351004_1_ori.png"
+  },
+  {
+    "question_id": "263351005",
+    "question": "what color is her jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263351005_1_ori.png"
+  },
+  {
+    "question_id": "263351006",
+    "question": "is there a path?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263351006_1_ori.png"
+  },
+  {
+    "question_id": "263382000",
+    "question": "what's attached to the wall on the left side of the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263382000_1_ori.png"
+  },
+  {
+    "question_id": "263382003",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263382003_1_ori.png"
+  },
+  {
+    "question_id": "263393003",
+    "question": "is the cup on the table empty?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263393003_1_ori.png"
+  },
+  {
+    "question_id": "263403001",
+    "question": "is it raining or is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263403001_1_ori.png"
+  },
+  {
+    "question_id": "263403002",
+    "question": "is the surfer high on the wave?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263403002_1_ori.png"
+  }
+]

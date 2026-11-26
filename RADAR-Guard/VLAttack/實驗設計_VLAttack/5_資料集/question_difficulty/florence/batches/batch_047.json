@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525354001",
+    "question": "how many people in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525354001_1_ori.png"
+  },
+  {
+    "question_id": "525354002",
+    "question": "is this man well-groomed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525354002_1_ori.png"
+  },
+  {
+    "question_id": "525361000",
+    "question": "what number is on the front of the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525361000_1_ori.png"
+  },
+  {
+    "question_id": "525361002",
+    "question": "what is the number on the front of the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525361002_1_ori.png"
+  },
+  {
+    "question_id": "525361003",
+    "question": "is this a passenger train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525361003_1_ori.png"
+  },
+  {
+    "question_id": "525369002",
+    "question": "is this picture in color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369002_1_ori.png"
+  },
+  {
+    "question_id": "525369003",
+    "question": "is the child asleep?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369003_1_ori.png"
+  },
+  {
+    "question_id": "525369006",
+    "question": "what pattern is on the pillow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369006_1_ori.png"
+  },
+  {
+    "question_id": "525369007",
+    "question": "is this a guy or a girl laying on the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369007_1_ori.png"
+  },
+  {
+    "question_id": "525369008",
+    "question": "how many pieces of luggage are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369008_1_ori.png"
+  },
+  {
+    "question_id": "525369010",
+    "question": "how many toys are on the kid bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369010_1_ori.png"
+  },
+  {
+    "question_id": "525369011",
+    "question": "do you see a giant teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525369011_1_ori.png"
+  },
+  {
+    "question_id": "525371001",
+    "question": "is there an airplane in view?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525371001_1_ori.png"
+  },
+  {
+    "question_id": "525373000",
+    "question": "is this person male or female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525373000_1_ori.png"
+  },
+  {
+    "question_id": "525373001",
+    "question": "how many kids are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525373001_1_ori.png"
+  },
+  {
+    "question_id": "525373003",
+    "question": "are they having breakfast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525373003_1_ori.png"
+  },
+  {
+    "question_id": "525373005",
+    "question": "is the person on the right older than the person on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525373005_1_ori.png"
+  },
+  {
+    "question_id": "525376000",
+    "question": "how many shoes do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525376000_1_ori.png"
+  },
+  {
+    "question_id": "525376001",
+    "question": "are there two pieces of luggage in the trunk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525376001_1_ori.png"
+  },
+  {
+    "question_id": "525381001",
+    "question": "what does the catcher have on his face?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525381001_1_ori.png"
+  }
+]

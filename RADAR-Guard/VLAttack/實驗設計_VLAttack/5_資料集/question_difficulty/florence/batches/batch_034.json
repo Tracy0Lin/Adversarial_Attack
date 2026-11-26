@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394079002",
+    "question": "what hand is the man's watch on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394079002_1_ori.png"
+  },
+  {
+    "question_id": "394131001",
+    "question": "is it raining in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394131001_1_ori.png"
+  },
+  {
+    "question_id": "394131002",
+    "question": "what is wrote on the side of the plane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394131002_1_ori.png"
+  },
+  {
+    "question_id": "394132000",
+    "question": "how many red ties are around the teddy bears necks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394132000_1_ori.png"
+  },
+  {
+    "question_id": "394132002",
+    "question": "what teddy bear is taller?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394132002_1_ori.png"
+  },
+  {
+    "question_id": "394133001",
+    "question": "what color is the ribbon on the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394133001_1_ori.png"
+  },
+  {
+    "question_id": "394133003",
+    "question": "how many pillows are on the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394133003_1_ori.png"
+  },
+  {
+    "question_id": "394133008",
+    "question": "what color is the canvas suitcase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394133008_1_ori.png"
+  },
+  {
+    "question_id": "394157000",
+    "question": "what color is the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394157000_1_ori.png"
+  },
+  {
+    "question_id": "394157001",
+    "question": "what time is displayed on the clock face?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394157001_1_ori.png"
+  },
+  {
+    "question_id": "394157002",
+    "question": "are the words on the clock in english?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394157002_1_ori.png"
+  },
+  {
+    "question_id": "394199001",
+    "question": "what  is on the woman's face?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394199001_1_ori.png"
+  },
+  {
+    "question_id": "394199002",
+    "question": "what color is her hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394199002_1_ori.png"
+  },
+  {
+    "question_id": "394206001",
+    "question": "do you think it is warm outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394206001_1_ori.png"
+  },
+  {
+    "question_id": "394240000",
+    "question": "is there an open black umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394240000_1_ori.png"
+  },
+  {
+    "question_id": "394240003",
+    "question": "what color are the door frames on the left hand side of the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\394240003_1_ori.png"
+  },
+  {
+    "question_id": "394246000",
+    "question": "is the man standing still?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\394246000_1_ori.png"
+  },
+  {
+    "question_id": "394246002",
+    "question": "what sport is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\394246002_1_ori.png"
+  },
+  {
+    "question_id": "394246003",
+    "question": "is the guys jeans ripped?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\394246003_1_ori.png"
+  },
+  {
+    "question_id": "394251001",
+    "question": "how many blue drums are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\394251001_1_ori.png"
+  }
+]

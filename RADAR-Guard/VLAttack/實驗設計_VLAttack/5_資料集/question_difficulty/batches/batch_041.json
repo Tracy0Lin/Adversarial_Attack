@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262275002",
+    "question": "is the girl sitting on the horse correctly?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262275002_1_ori.png"
+  },
+  {
+    "question_id": "262275003",
+    "question": "is this an english saddle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262275003_1_ori.png"
+  },
+  {
+    "question_id": "262275004",
+    "question": "what is on the little girls head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262275004_1_ori.png"
+  },
+  {
+    "question_id": "262284000",
+    "question": "how many sets of doors are open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262284000_1_ori.png"
+  },
+  {
+    "question_id": "262284001",
+    "question": "what is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262284001_1_ori.png"
+  },
+  {
+    "question_id": "262284002",
+    "question": "is the floor tilted?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262284002_1_ori.png"
+  },
+  {
+    "question_id": "262284003",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262284003_1_ori.png"
+  },
+  {
+    "question_id": "262323003",
+    "question": "is the giraffes head small?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262323003_1_ori.png"
+  },
+  {
+    "question_id": "262325000",
+    "question": "how green are the vegetables?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262325000_1_ori.png"
+  },
+  {
+    "question_id": "262325001",
+    "question": "is this an unhealthy snack?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262325001_1_ori.png"
+  },
+  {
+    "question_id": "262325002",
+    "question": "are the vegetables cooked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262325002_1_ori.png"
+  },
+  {
+    "question_id": "262325003",
+    "question": "what are the veggies on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262325003_1_ori.png"
+  },
+  {
+    "question_id": "262334000",
+    "question": "is this indoors?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262334000_1_ori.png"
+  },
+  {
+    "question_id": "262334002",
+    "question": "is the lady inside or outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262334002_1_ori.png"
+  },
+  {
+    "question_id": "262334003",
+    "question": "what is the floor made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262334003_1_ori.png"
+  },
+  {
+    "question_id": "262347000",
+    "question": "is this a farmers market?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262347000_1_ori.png"
+  },
+  {
+    "question_id": "262347001",
+    "question": "is there a beehive in the garden?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262347001_1_ori.png"
+  },
+  {
+    "question_id": "262347003",
+    "question": "is there a bench in the garden?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262347003_1_ori.png"
+  },
+  {
+    "question_id": "262353002",
+    "question": "do the people know each other?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262353002_1_ori.png"
+  },
+  {
+    "question_id": "262360000",
+    "question": "is this a glass flower vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262360000_1_ori.png"
+  }
+]

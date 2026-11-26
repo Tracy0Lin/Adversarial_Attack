@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "294002",
+    "question": "are these people having fun?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294002_1_ori.png"
+  },
+  {
+    "question_id": "294005",
+    "question": "is this a home kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294005_1_ori.png"
+  },
+  {
+    "question_id": "294006",
+    "question": "are the pots and pans hanging on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294006_1_ori.png"
+  },
+  {
+    "question_id": "294007",
+    "question": "what color is the man's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294007_1_ori.png"
+  },
+  {
+    "question_id": "294008",
+    "question": "how many people are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294008_1_ori.png"
+  },
+  {
+    "question_id": "294009",
+    "question": "what is the hand doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294009_1_ori.png"
+  },
+  {
+    "question_id": "294010",
+    "question": "is this man cooking at home?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294010_1_ori.png"
+  },
+  {
+    "question_id": "294011",
+    "question": "what is hanging on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294011_1_ori.png"
+  },
+  {
+    "question_id": "294012",
+    "question": "what is the name for a room like this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294012_1_ori.png"
+  },
+  {
+    "question_id": "294013",
+    "question": "what nationality do the men on the right appear to be?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294013_1_ori.png"
+  },
+  {
+    "question_id": "294014",
+    "question": "what is the object on the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294014_1_ori.png"
+  },
+  {
+    "question_id": "294015",
+    "question": "how many pans are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\294015_1_ori.png"
+  },
+  {
+    "question_id": "2972002",
+    "question": "how many trains on the track?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2972002_1_ori.png"
+  },
+  {
+    "question_id": "301201003",
+    "question": "are these books old?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\301201003_1_ori.png"
+  },
+  {
+    "question_id": "301326000",
+    "question": "how many animals are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\301326000_1_ori.png"
+  },
+  {
+    "question_id": "301326002",
+    "question": "what is the dog eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\301326002_1_ori.png"
+  },
+  {
+    "question_id": "305609000",
+    "question": "is this breakfast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\305609000_1_ori.png"
+  },
+  {
+    "question_id": "305609001",
+    "question": "which meal of the day is represented in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\305609001_1_ori.png"
+  },
+  {
+    "question_id": "305609002",
+    "question": "are the people finished eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\305609002_1_ori.png"
+  },
+  {
+    "question_id": "305609004",
+    "question": "what is on the center plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\305609004_1_ori.png"
+  }
+]

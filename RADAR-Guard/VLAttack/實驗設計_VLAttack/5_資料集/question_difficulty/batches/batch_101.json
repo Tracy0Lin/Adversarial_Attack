@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524642004",
+    "question": "is the lamp turned on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524642004_1_ori.png"
+  },
+  {
+    "question_id": "524656000",
+    "question": "where would someone find something to dry their hands with in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524656000_1_ori.png"
+  },
+  {
+    "question_id": "524656001",
+    "question": "are the dishes hand washed here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524656001_1_ori.png"
+  },
+  {
+    "question_id": "524656002",
+    "question": "can you see through the cabinets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524656002_1_ori.png"
+  },
+  {
+    "question_id": "524665000",
+    "question": "what are the subjects doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524665000_1_ori.png"
+  },
+  {
+    "question_id": "524665001",
+    "question": "does it look dry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524665001_1_ori.png"
+  },
+  {
+    "question_id": "524665002",
+    "question": "what kind of animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524665002_1_ori.png"
+  },
+  {
+    "question_id": "524681000",
+    "question": "is the woman standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524681000_1_ori.png"
+  },
+  {
+    "question_id": "524681002",
+    "question": "what are they walking toward?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524681002_1_ori.png"
+  },
+  {
+    "question_id": "524681003",
+    "question": "how does the kite stay in open air?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524681003_1_ori.png"
+  },
+  {
+    "question_id": "524681004",
+    "question": "why is it a good idea to use these in an open space?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524681004_1_ori.png"
+  },
+  {
+    "question_id": "524694000",
+    "question": "is the giraffe eating food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524694000_1_ori.png"
+  },
+  {
+    "question_id": "524694001",
+    "question": "is the giraffe relaxing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524694001_1_ori.png"
+  },
+  {
+    "question_id": "524694002",
+    "question": "is the giraffe fully grown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524694002_1_ori.png"
+  },
+  {
+    "question_id": "524694003",
+    "question": "where is the giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524694003_1_ori.png"
+  },
+  {
+    "question_id": "524702001",
+    "question": "are these girls dressed for bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524702001_1_ori.png"
+  },
+  {
+    "question_id": "524702002",
+    "question": "are the kids playing video games?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524702002_1_ori.png"
+  },
+  {
+    "question_id": "524702003",
+    "question": "what are the girls doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524702003_1_ori.png"
+  },
+  {
+    "question_id": "524725000",
+    "question": "is there snow in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524725000_1_ori.png"
+  },
+  {
+    "question_id": "524725001",
+    "question": "how many parking meters do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524725001_1_ori.png"
+  }
+]

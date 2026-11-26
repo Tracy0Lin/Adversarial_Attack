@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131527002",
+    "question": "what vegetable is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131527002_1_ori.png"
+  },
+  {
+    "question_id": "131527003",
+    "question": "what is the is the light green vegetable on the left?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131527003_1_ori.png"
+  },
+  {
+    "question_id": "131539000",
+    "question": "are they doing the same sport?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539000_1_ori.png"
+  },
+  {
+    "question_id": "131539001",
+    "question": "did these people run into each other?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539001_1_ori.png"
+  },
+  {
+    "question_id": "131539003",
+    "question": "is this the morning?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539003_1_ori.png"
+  },
+  {
+    "question_id": "131539004",
+    "question": "are these skiers using a chair lift?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539004_1_ori.png"
+  },
+  {
+    "question_id": "131539005",
+    "question": "what color is the closest skier's jacket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539005_1_ori.png"
+  },
+  {
+    "question_id": "131539006",
+    "question": "are they having fun?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539006_1_ori.png"
+  },
+  {
+    "question_id": "131539007",
+    "question": "are there any clouds in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539007_1_ori.png"
+  },
+  {
+    "question_id": "131539008",
+    "question": "is it summer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539008_1_ori.png"
+  },
+  {
+    "question_id": "131539009",
+    "question": "are there any trees visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539009_1_ori.png"
+  },
+  {
+    "question_id": "131539010",
+    "question": "what are the people doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131539010_1_ori.png"
+  },
+  {
+    "question_id": "131556000",
+    "question": "is the skier wearing goggles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131556000_1_ori.png"
+  },
+  {
+    "question_id": "131556001",
+    "question": "is this skier using poles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131556001_1_ori.png"
+  },
+  {
+    "question_id": "131556002",
+    "question": "what is the person standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131556002_1_ori.png"
+  },
+  {
+    "question_id": "131557000",
+    "question": "does it look like a piece has been taken from the plate yet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557000_1_ori.png"
+  },
+  {
+    "question_id": "131557001",
+    "question": "what topping are on the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557001_1_ori.png"
+  },
+  {
+    "question_id": "131557002",
+    "question": "what pattern is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557002_1_ori.png"
+  },
+  {
+    "question_id": "131557003",
+    "question": "is there gluten in this pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557003_1_ori.png"
+  },
+  {
+    "question_id": "131557004",
+    "question": "what are the sources of protein on this pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557004_1_ori.png"
+  }
+]

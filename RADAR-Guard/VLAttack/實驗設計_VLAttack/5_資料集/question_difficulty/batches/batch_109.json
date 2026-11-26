@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525777002",
+    "question": "what color hat is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525777002_1_ori.png"
+  },
+  {
+    "question_id": "525849000",
+    "question": "what is hanging on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525849000_1_ori.png"
+  },
+  {
+    "question_id": "525849001",
+    "question": "what is the woman holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525849001_1_ori.png"
+  },
+  {
+    "question_id": "525849003",
+    "question": "who is sitting beside the woman?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525849003_1_ori.png"
+  },
+  {
+    "question_id": "525849004",
+    "question": "is there more than one microphone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525849004_1_ori.png"
+  },
+  {
+    "question_id": "525869000",
+    "question": "are there trees?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525869000_1_ori.png"
+  },
+  {
+    "question_id": "525869001",
+    "question": "what are the sheep eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525869001_1_ori.png"
+  },
+  {
+    "question_id": "525869002",
+    "question": "how many sheep are lying down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525869002_1_ori.png"
+  },
+  {
+    "question_id": "525899001",
+    "question": "is the photo in black and white?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525899001_1_ori.png"
+  },
+  {
+    "question_id": "525899002",
+    "question": "how deep is the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525899002_1_ori.png"
+  },
+  {
+    "question_id": "525903000",
+    "question": "what is green dish on left top?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525903000_1_ori.png"
+  },
+  {
+    "question_id": "525903001",
+    "question": "what color plate is the spinach on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525903001_1_ori.png"
+  },
+  {
+    "question_id": "525908000",
+    "question": "what color is the man's outfit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525908000_1_ori.png"
+  },
+  {
+    "question_id": "525927000",
+    "question": "is there a blue house in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525927000_1_ori.png"
+  },
+  {
+    "question_id": "525971001",
+    "question": "would this be considered a motorcycle convention?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525971001_1_ori.png"
+  },
+  {
+    "question_id": "525988000",
+    "question": "are these on display?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988000_1_ori.png"
+  },
+  {
+    "question_id": "525988003",
+    "question": "what color is the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988003_1_ori.png"
+  },
+  {
+    "question_id": "525988004",
+    "question": "what is the bear's hobby?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988004_1_ori.png"
+  },
+  {
+    "question_id": "525988007",
+    "question": "what kind of bear is on display?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988007_1_ori.png"
+  },
+  {
+    "question_id": "525988010",
+    "question": "where is the teddy bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525988010_1_ori.png"
+  }
+]

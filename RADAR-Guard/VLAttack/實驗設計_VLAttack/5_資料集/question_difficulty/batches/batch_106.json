@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525162003",
+    "question": "is this person in danger?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525162003_1_ori.png"
+  },
+  {
+    "question_id": "525170000",
+    "question": "what is the woman doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525170000_1_ori.png"
+  },
+  {
+    "question_id": "525183002",
+    "question": "where is the cow going?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525183002_1_ori.png"
+  },
+  {
+    "question_id": "525183004",
+    "question": "is this a country setting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525183004_1_ori.png"
+  },
+  {
+    "question_id": "525184000",
+    "question": "what animal is she cuddling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525184000_1_ori.png"
+  },
+  {
+    "question_id": "525202000",
+    "question": "has anyone eaten a slice of this pizza yet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525202000_1_ori.png"
+  },
+  {
+    "question_id": "525211000",
+    "question": "what food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525211000_1_ori.png"
+  },
+  {
+    "question_id": "525211002",
+    "question": "what is the outer coating of this food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525211002_1_ori.png"
+  },
+  {
+    "question_id": "525247000",
+    "question": "is there a mouse in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525247000_1_ori.png"
+  },
+  {
+    "question_id": "525297001",
+    "question": "is the phone charging?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525297001_1_ori.png"
+  },
+  {
+    "question_id": "525344001",
+    "question": "does this plane bear the american airlines logo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525344001_1_ori.png"
+  },
+  {
+    "question_id": "525344002",
+    "question": "how many planes in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525344002_1_ori.png"
+  },
+  {
+    "question_id": "525354003",
+    "question": "does this person wear a tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525354003_1_ori.png"
+  },
+  {
+    "question_id": "525369000",
+    "question": "is the child looking wearing glasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525369000_1_ori.png"
+  },
+  {
+    "question_id": "525369001",
+    "question": "are this men's ties?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525369001_1_ori.png"
+  },
+  {
+    "question_id": "525369004",
+    "question": "is the child in the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525369004_1_ori.png"
+  },
+  {
+    "question_id": "525369005",
+    "question": "what number of people are in the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525369005_1_ori.png"
+  },
+  {
+    "question_id": "525369009",
+    "question": "what does the child have in her mouth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525369009_1_ori.png"
+  },
+  {
+    "question_id": "525371000",
+    "question": "what color is the traffic light?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525371000_1_ori.png"
+  },
+  {
+    "question_id": "525371002",
+    "question": "does this building look old?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525371002_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131089004",
+    "question": "is the boy playing baseball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131089004_1_ori.png"
+  },
+  {
+    "question_id": "131108000",
+    "question": "is this photo color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131108000_1_ori.png"
+  },
+  {
+    "question_id": "131108002",
+    "question": "is there a drainage in the pic?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131108002_1_ori.png"
+  },
+  {
+    "question_id": "131115000",
+    "question": "are there players in the dugout?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131115000_1_ori.png"
+  },
+  {
+    "question_id": "131115001",
+    "question": "is the battery looking at the ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131115001_1_ori.png"
+  },
+  {
+    "question_id": "131115002",
+    "question": "how many people are on the field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131115002_1_ori.png"
+  },
+  {
+    "question_id": "131131000",
+    "question": "what type of cat is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131131000_1_ori.png"
+  },
+  {
+    "question_id": "131131001",
+    "question": "what is written lg in the pic?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131131001_1_ori.png"
+  },
+  {
+    "question_id": "131152000",
+    "question": "are any of these people wearing a wetsuit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131152000_1_ori.png"
+  },
+  {
+    "question_id": "131152001",
+    "question": "how are the waves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131152001_1_ori.png"
+  },
+  {
+    "question_id": "131152002",
+    "question": "how many people are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131152002_1_ori.png"
+  },
+  {
+    "question_id": "131152003",
+    "question": "are these people wet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131152003_1_ori.png"
+  },
+  {
+    "question_id": "131159001",
+    "question": "is the bear real?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131159001_1_ori.png"
+  },
+  {
+    "question_id": "131159002",
+    "question": "what is the color of the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131159002_1_ori.png"
+  },
+  {
+    "question_id": "131171000",
+    "question": "is this bread?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131171000_1_ori.png"
+  },
+  {
+    "question_id": "131171001",
+    "question": "how many bins?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131171001_1_ori.png"
+  },
+  {
+    "question_id": "131171002",
+    "question": "does this look like a healthy meal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131171002_1_ori.png"
+  },
+  {
+    "question_id": "131203001",
+    "question": "is the owner of the computer able to work on it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131203001_1_ori.png"
+  },
+  {
+    "question_id": "131207000",
+    "question": "how many birds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207000_1_ori.png"
+  },
+  {
+    "question_id": "131207001",
+    "question": "how many birds can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131207001_1_ori.png"
+  }
+]

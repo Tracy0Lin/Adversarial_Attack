@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "395644001",
+    "question": "how many cats are depicted in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395644001_1_ori.png"
+  },
+  {
+    "question_id": "395701000",
+    "question": "is there a red chair in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395701000_1_ori.png"
+  },
+  {
+    "question_id": "395717000",
+    "question": "is there land in the back?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395717000_1_ori.png"
+  },
+  {
+    "question_id": "395749000",
+    "question": "what filter is being used in this image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395749000_1_ori.png"
+  },
+  {
+    "question_id": "395749001",
+    "question": "are all the people elderly?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395749001_1_ori.png"
+  },
+  {
+    "question_id": "395749002",
+    "question": "how many people can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395749002_1_ori.png"
+  },
+  {
+    "question_id": "395749004",
+    "question": "how many people are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395749004_1_ori.png"
+  },
+  {
+    "question_id": "395752000",
+    "question": "what color are the mums in the front of the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395752000_1_ori.png"
+  },
+  {
+    "question_id": "395752003",
+    "question": "what color are the hubcaps?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395752003_1_ori.png"
+  },
+  {
+    "question_id": "395801000",
+    "question": "is it morning or evening?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395801000_1_ori.png"
+  },
+  {
+    "question_id": "395801003",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395801003_1_ori.png"
+  },
+  {
+    "question_id": "395831000",
+    "question": "what food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395831000_1_ori.png"
+  },
+  {
+    "question_id": "395849001",
+    "question": "what color stands out the most in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395849001_1_ori.png"
+  },
+  {
+    "question_id": "395849002",
+    "question": "what color is the tip of the plane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395849002_1_ori.png"
+  },
+  {
+    "question_id": "395849003",
+    "question": "what symbol is on the side of the plane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395849003_1_ori.png"
+  },
+  {
+    "question_id": "395849004",
+    "question": "what color is on the plane to the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395849004_1_ori.png"
+  },
+  {
+    "question_id": "395865000",
+    "question": "what is the avenue name?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395865000_1_ori.png"
+  },
+  {
+    "question_id": "395865001",
+    "question": "what color are the blossoms on the flowers under the tree?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395865001_1_ori.png"
+  },
+  {
+    "question_id": "395903000",
+    "question": "how many surfer are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395903000_1_ori.png"
+  },
+  {
+    "question_id": "395903003",
+    "question": "is he going into the ocean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395903003_1_ori.png"
+  }
+]

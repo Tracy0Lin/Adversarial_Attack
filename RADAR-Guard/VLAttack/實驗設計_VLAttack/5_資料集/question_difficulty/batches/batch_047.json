@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262505000",
+    "question": "are the cars on the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262505000_1_ori.png"
+  },
+  {
+    "question_id": "262505001",
+    "question": "how many vehicles are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262505001_1_ori.png"
+  },
+  {
+    "question_id": "262505002",
+    "question": "is it cloudy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262505002_1_ori.png"
+  },
+  {
+    "question_id": "262505003",
+    "question": "is this a busy street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262505003_1_ori.png"
+  },
+  {
+    "question_id": "262505005",
+    "question": "are they at an intersection?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262505005_1_ori.png"
+  },
+  {
+    "question_id": "262509000",
+    "question": "are the boats seaworthy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509000_1_ori.png"
+  },
+  {
+    "question_id": "262509001",
+    "question": "which building is the tallest?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509001_1_ori.png"
+  },
+  {
+    "question_id": "262509002",
+    "question": "is there a boat on the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509002_1_ori.png"
+  },
+  {
+    "question_id": "262509003",
+    "question": "is the water clear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509003_1_ori.png"
+  },
+  {
+    "question_id": "262509005",
+    "question": "where would the boat be going too?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509005_1_ori.png"
+  },
+  {
+    "question_id": "262509006",
+    "question": "is the river clear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509006_1_ori.png"
+  },
+  {
+    "question_id": "262509007",
+    "question": "what color is the bimini?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509007_1_ori.png"
+  },
+  {
+    "question_id": "262509008",
+    "question": "does this city look crowded?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509008_1_ori.png"
+  },
+  {
+    "question_id": "262509009",
+    "question": "where is the green boat located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262509009_1_ori.png"
+  },
+  {
+    "question_id": "262514000",
+    "question": "is this toilet ready to use?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262514000_1_ori.png"
+  },
+  {
+    "question_id": "262514001",
+    "question": "is the woman dark haired?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262514001_1_ori.png"
+  },
+  {
+    "question_id": "262514003",
+    "question": "is there probably running water in this toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262514003_1_ori.png"
+  },
+  {
+    "question_id": "262522000",
+    "question": "is there a storm coming?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262522000_1_ori.png"
+  },
+  {
+    "question_id": "262522001",
+    "question": "is this building tall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262522001_1_ori.png"
+  },
+  {
+    "question_id": "262522002",
+    "question": "was this taken at night?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262522002_1_ori.png"
+  }
+]

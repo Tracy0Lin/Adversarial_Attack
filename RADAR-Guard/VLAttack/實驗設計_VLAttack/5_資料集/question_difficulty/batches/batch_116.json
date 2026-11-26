@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526933002",
+    "question": "does the man have facial hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526933002_1_ori.png"
+  },
+  {
+    "question_id": "526940000",
+    "question": "why is the woman looking up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526940000_1_ori.png"
+  },
+  {
+    "question_id": "526940002",
+    "question": "what is she holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526940002_1_ori.png"
+  },
+  {
+    "question_id": "526940003",
+    "question": "what is the woman eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526940003_1_ori.png"
+  },
+  {
+    "question_id": "526956001",
+    "question": "what do you do with these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526956001_1_ori.png"
+  },
+  {
+    "question_id": "526962000",
+    "question": "does the cat appear to be looking at an object in the distance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962000_1_ori.png"
+  },
+  {
+    "question_id": "526962001",
+    "question": "what kind of animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962001_1_ori.png"
+  },
+  {
+    "question_id": "526962002",
+    "question": "is this a cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962002_1_ori.png"
+  },
+  {
+    "question_id": "526962003",
+    "question": "what fruit is in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962003_1_ori.png"
+  },
+  {
+    "question_id": "526962005",
+    "question": "what type of fruit toy is the cat holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962005_1_ori.png"
+  },
+  {
+    "question_id": "526962006",
+    "question": "what type of stuffed animal lays near the cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962006_1_ori.png"
+  },
+  {
+    "question_id": "526962008",
+    "question": "is the cat being silly?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962008_1_ori.png"
+  },
+  {
+    "question_id": "526962012",
+    "question": "does a cat have a collar?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962012_1_ori.png"
+  },
+  {
+    "question_id": "526962014",
+    "question": "is this a comfortable sleeping position for this cat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962014_1_ori.png"
+  },
+  {
+    "question_id": "526962016",
+    "question": "what is the cat looking into?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526962016_1_ori.png"
+  },
+  {
+    "question_id": "527002004",
+    "question": "is the man in the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527002004_1_ori.png"
+  },
+  {
+    "question_id": "527022000",
+    "question": "how many people?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527022000_1_ori.png"
+  },
+  {
+    "question_id": "527022003",
+    "question": "are they in a park?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527022003_1_ori.png"
+  },
+  {
+    "question_id": "527025001",
+    "question": "what is across the doorway?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527025001_1_ori.png"
+  },
+  {
+    "question_id": "527025002",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527025002_1_ori.png"
+  }
+]

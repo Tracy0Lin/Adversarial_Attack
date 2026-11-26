@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "394334001",
+    "question": "how many donuts are on display?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394334001_1_ori.png"
+  },
+  {
+    "question_id": "394334002",
+    "question": "are there any halloween donuts in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394334002_1_ori.png"
+  },
+  {
+    "question_id": "394352001",
+    "question": "what color is the car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394352001_1_ori.png"
+  },
+  {
+    "question_id": "394352002",
+    "question": "how many zebras?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394352002_1_ori.png"
+  },
+  {
+    "question_id": "394449004",
+    "question": "what is behind the people on the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394449004_1_ori.png"
+  },
+  {
+    "question_id": "394458000",
+    "question": "are these two elephants bonding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394458000_1_ori.png"
+  },
+  {
+    "question_id": "394458001",
+    "question": "are these indian elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394458001_1_ori.png"
+  },
+  {
+    "question_id": "394458002",
+    "question": "what are the elephants doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394458002_1_ori.png"
+  },
+  {
+    "question_id": "394458004",
+    "question": "where is this elephant at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394458004_1_ori.png"
+  },
+  {
+    "question_id": "394478000",
+    "question": "where is the cat sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394478000_1_ori.png"
+  },
+  {
+    "question_id": "394510000",
+    "question": "how many bike handles are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510000_1_ori.png"
+  },
+  {
+    "question_id": "394510004",
+    "question": "what kind of car is in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510004_1_ori.png"
+  },
+  {
+    "question_id": "394510005",
+    "question": "what color are the skateboarder's shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510005_1_ori.png"
+  },
+  {
+    "question_id": "394510006",
+    "question": "is the skateboarder moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510006_1_ori.png"
+  },
+  {
+    "question_id": "394510010",
+    "question": "is the kid showing off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510010_1_ori.png"
+  },
+  {
+    "question_id": "394510013",
+    "question": "who is in the parking lot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510013_1_ori.png"
+  },
+  {
+    "question_id": "394510014",
+    "question": "what is on the right of the bicycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510014_1_ori.png"
+  },
+  {
+    "question_id": "394510015",
+    "question": "what is striped?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510015_1_ori.png"
+  },
+  {
+    "question_id": "394510016",
+    "question": "is the young boy holding a luggage handle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510016_1_ori.png"
+  },
+  {
+    "question_id": "394510017",
+    "question": "is the child walking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\394510017_1_ori.png"
+  }
+]

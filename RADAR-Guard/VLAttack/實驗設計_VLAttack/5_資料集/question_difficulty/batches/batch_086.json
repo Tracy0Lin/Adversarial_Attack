@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "395379000",
+    "question": "is there a note on the wall above the stove?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395379000_1_ori.png"
+  },
+  {
+    "question_id": "395379001",
+    "question": "what is this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395379001_1_ori.png"
+  },
+  {
+    "question_id": "395379002",
+    "question": "how many cups are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395379002_1_ori.png"
+  },
+  {
+    "question_id": "395379004",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395379004_1_ori.png"
+  },
+  {
+    "question_id": "395379005",
+    "question": "can the plates above the cabinets be eaten off of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395379005_1_ori.png"
+  },
+  {
+    "question_id": "395379006",
+    "question": "is the kitchen messy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395379006_1_ori.png"
+  },
+  {
+    "question_id": "395382000",
+    "question": "what emergency vehicle would likely pull up to this device?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395382000_1_ori.png"
+  },
+  {
+    "question_id": "395388002",
+    "question": "is this a farm?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395388002_1_ori.png"
+  },
+  {
+    "question_id": "395402000",
+    "question": "how many dogs can you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395402000_1_ori.png"
+  },
+  {
+    "question_id": "395402001",
+    "question": "is the dog sitting on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395402001_1_ori.png"
+  },
+  {
+    "question_id": "395402002",
+    "question": "what kind of dog is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395402002_1_ori.png"
+  },
+  {
+    "question_id": "395402003",
+    "question": "is this a domesticated animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395402003_1_ori.png"
+  },
+  {
+    "question_id": "395402007",
+    "question": "what color is the dog's eye?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395402007_1_ori.png"
+  },
+  {
+    "question_id": "395402008",
+    "question": "what color can you see in the dogs eye's?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395402008_1_ori.png"
+  },
+  {
+    "question_id": "395405002",
+    "question": "which room in the house is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395405002_1_ori.png"
+  },
+  {
+    "question_id": "395452000",
+    "question": "what is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395452000_1_ori.png"
+  },
+  {
+    "question_id": "395452001",
+    "question": "is the food burnt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395452001_1_ori.png"
+  },
+  {
+    "question_id": "395452002",
+    "question": "what color is the dish the food is in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395452002_1_ori.png"
+  },
+  {
+    "question_id": "395452003",
+    "question": "would this meal typically be served at breakfast?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395452003_1_ori.png"
+  },
+  {
+    "question_id": "395452004",
+    "question": "what is green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395452004_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "626000",
+    "question": "is there a balcony under the clock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\626000_1_ori.png"
+  },
+  {
+    "question_id": "632002",
+    "question": "is there a chair in the mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\632002_1_ori.png"
+  },
+  {
+    "question_id": "632004",
+    "question": "how many females?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\632004_1_ori.png"
+  },
+  {
+    "question_id": "632005",
+    "question": "what is the person who stays here most likely doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\632005_1_ori.png"
+  },
+  {
+    "question_id": "632006",
+    "question": "are there any plants in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\632006_1_ori.png"
+  },
+  {
+    "question_id": "632010",
+    "question": "what color is the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\632010_1_ori.png"
+  },
+  {
+    "question_id": "632011",
+    "question": "name one piece of furniture shown in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\632011_1_ori.png"
+  },
+  {
+    "question_id": "636002",
+    "question": "is this picture real?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\636002_1_ori.png"
+  },
+  {
+    "question_id": "65773002",
+    "question": "where is the man sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\65773002_1_ori.png"
+  },
+  {
+    "question_id": "65948002",
+    "question": "was this photo taken in the daytime?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\65948002_1_ori.png"
+  },
+  {
+    "question_id": "661000",
+    "question": "what is on the burger bun?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\661000_1_ori.png"
+  },
+  {
+    "question_id": "661001",
+    "question": "what condiment is hanging out of the sandwich?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\661001_1_ori.png"
+  },
+  {
+    "question_id": "661003",
+    "question": "is there cheese on the sandwich?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\661003_1_ori.png"
+  },
+  {
+    "question_id": "675001",
+    "question": "who the bad dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\675001_1_ori.png"
+  },
+  {
+    "question_id": "693001",
+    "question": "what is the girl standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\693001_1_ori.png"
+  },
+  {
+    "question_id": "693002",
+    "question": "what race is this girl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\693002_1_ori.png"
+  },
+  {
+    "question_id": "699000",
+    "question": "are there any people?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\699000_1_ori.png"
+  },
+  {
+    "question_id": "699002",
+    "question": "what color is the streak?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\699002_1_ori.png"
+  },
+  {
+    "question_id": "69914001",
+    "question": "what are the people doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\69914001_1_ori.png"
+  },
+  {
+    "question_id": "69914003",
+    "question": "what is the red item on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\69914003_1_ori.png"
+  }
+]

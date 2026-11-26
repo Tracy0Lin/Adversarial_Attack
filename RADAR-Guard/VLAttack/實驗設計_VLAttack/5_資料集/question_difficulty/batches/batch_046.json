@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262460000",
+    "question": "what is in the background on the shelves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262460000_1_ori.png"
+  },
+  {
+    "question_id": "262460001",
+    "question": "what fashion accessory is sitting on top of the white collared shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262460001_1_ori.png"
+  },
+  {
+    "question_id": "262460002",
+    "question": "was this outfit picked out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262460002_1_ori.png"
+  },
+  {
+    "question_id": "262466000",
+    "question": "are flowers fresh?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262466000_1_ori.png"
+  },
+  {
+    "question_id": "262466002",
+    "question": "what do you call the intersection of the two walls shown in the scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262466002_1_ori.png"
+  },
+  {
+    "question_id": "262466003",
+    "question": "is there any roses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262466003_1_ori.png"
+  },
+  {
+    "question_id": "262466004",
+    "question": "what color are the walls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262466004_1_ori.png"
+  },
+  {
+    "question_id": "262466005",
+    "question": "what is the color of the wall behind the vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262466005_1_ori.png"
+  },
+  {
+    "question_id": "262466006",
+    "question": "what color is the twine around the vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262466006_1_ori.png"
+  },
+  {
+    "question_id": "262471000",
+    "question": "has the grass been mowed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471000_1_ori.png"
+  },
+  {
+    "question_id": "262471001",
+    "question": "what does the sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471001_1_ori.png"
+  },
+  {
+    "question_id": "262471003",
+    "question": "is this a commercial or residential area?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471003_1_ori.png"
+  },
+  {
+    "question_id": "262471004",
+    "question": "which direction should you turn to find parking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471004_1_ori.png"
+  },
+  {
+    "question_id": "262471005",
+    "question": "is the street name on top an unusual name for a street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471005_1_ori.png"
+  },
+  {
+    "question_id": "262471006",
+    "question": "what does the blue sign say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471006_1_ori.png"
+  },
+  {
+    "question_id": "262471007",
+    "question": "is the stop sign in english?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262471007_1_ori.png"
+  },
+  {
+    "question_id": "262476000",
+    "question": "are the people having a party?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262476000_1_ori.png"
+  },
+  {
+    "question_id": "262487000",
+    "question": "what color uniform is the batter wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262487000_1_ori.png"
+  },
+  {
+    "question_id": "262487001",
+    "question": "what color is the umpire's shin pads?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262487001_1_ori.png"
+  },
+  {
+    "question_id": "262487002",
+    "question": "what is the job of the man in black?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262487002_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1987002",
+    "question": "what color is the frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1987002_1_ori.png"
+  },
+  {
+    "question_id": "2006000",
+    "question": "what color is the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\2006000_1_ori.png"
+  },
+  {
+    "question_id": "2006001",
+    "question": "what colors are on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\2006001_1_ori.png"
+  },
+  {
+    "question_id": "2006002",
+    "question": "what color is this bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\2006002_1_ori.png"
+  },
+  {
+    "question_id": "205196000",
+    "question": "how many donuts are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\205196000_1_ori.png"
+  },
+  {
+    "question_id": "205196003",
+    "question": "what kind of food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\205196003_1_ori.png"
+  },
+  {
+    "question_id": "21900001",
+    "question": "is the wide gate on hinges?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\21900001_1_ori.png"
+  },
+  {
+    "question_id": "21900004",
+    "question": "what color is the blanket that lays on the horses back?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\21900004_1_ori.png"
+  },
+  {
+    "question_id": "22103000",
+    "question": "what is the doing to the giraffe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\22103000_1_ori.png"
+  },
+  {
+    "question_id": "22103003",
+    "question": "what color is the basket?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\22103003_1_ori.png"
+  },
+  {
+    "question_id": "22113000",
+    "question": "what color is the hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\22113000_1_ori.png"
+  },
+  {
+    "question_id": "22113001",
+    "question": "does the red fire hydrant need new paint?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\22113001_1_ori.png"
+  },
+  {
+    "question_id": "22118002",
+    "question": "are all the umbrellas open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\22118002_1_ori.png"
+  },
+  {
+    "question_id": "22118003",
+    "question": "is the beach sandy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\22118003_1_ori.png"
+  },
+  {
+    "question_id": "223468001",
+    "question": "what is embedded in the top of the stone tower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\223468001_1_ori.png"
+  },
+  {
+    "question_id": "223468002",
+    "question": "is there a clock on the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\223468002_1_ori.png"
+  },
+  {
+    "question_id": "223468003",
+    "question": "is the picture black and white?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\223468003_1_ori.png"
+  },
+  {
+    "question_id": "223468004",
+    "question": "how many clocks can be see in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\223468004_1_ori.png"
+  },
+  {
+    "question_id": "223468005",
+    "question": "is it daylight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\223468005_1_ori.png"
+  },
+  {
+    "question_id": "223468006",
+    "question": "is the grass green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\223468006_1_ori.png"
+  }
+]

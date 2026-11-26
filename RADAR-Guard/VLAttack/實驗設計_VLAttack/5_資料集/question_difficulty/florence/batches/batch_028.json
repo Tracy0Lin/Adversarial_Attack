@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "264124000",
+    "question": "is someone on the phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264124000_1_ori.png"
+  },
+  {
+    "question_id": "264124003",
+    "question": "what color are the man's eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264124003_1_ori.png"
+  },
+  {
+    "question_id": "264155006",
+    "question": "is there alcohol present?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264155006_1_ori.png"
+  },
+  {
+    "question_id": "264155007",
+    "question": "where is the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264155007_1_ori.png"
+  },
+  {
+    "question_id": "264161002",
+    "question": "does this bag belong to a male or female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264161002_1_ori.png"
+  },
+  {
+    "question_id": "264161003",
+    "question": "is there a pager in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264161003_1_ori.png"
+  },
+  {
+    "question_id": "264161007",
+    "question": "is this a females things?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\264161007_1_ori.png"
+  },
+  {
+    "question_id": "267112001",
+    "question": "what is causing the glare?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\267112001_1_ori.png"
+  },
+  {
+    "question_id": "283000",
+    "question": "what is the brand of wine?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\283000_1_ori.png"
+  },
+  {
+    "question_id": "294003",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\294003_1_ori.png"
+  },
+  {
+    "question_id": "301201002",
+    "question": "where is the bell?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\301201002_1_ori.png"
+  },
+  {
+    "question_id": "301326001",
+    "question": "how many cats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\301326001_1_ori.png"
+  },
+  {
+    "question_id": "306159000",
+    "question": "what color are this person's shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\306159000_1_ori.png"
+  },
+  {
+    "question_id": "306159001",
+    "question": "is the room clean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\306159001_1_ori.png"
+  },
+  {
+    "question_id": "306159002",
+    "question": "how many rolls of toilet paper are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\306159002_1_ori.png"
+  },
+  {
+    "question_id": "327383006",
+    "question": "what is the make of this car?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\327383006_1_ori.png"
+  },
+  {
+    "question_id": "327383007",
+    "question": "how many arches are pictures on the left hand side of the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\327383007_1_ori.png"
+  },
+  {
+    "question_id": "331753000",
+    "question": "are the toilets used?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\331753000_1_ori.png"
+  },
+  {
+    "question_id": "338002",
+    "question": "what is the man doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\338002_1_ori.png"
+  },
+  {
+    "question_id": "349647000",
+    "question": "are these people having a salad along with their entree?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\349647000_1_ori.png"
+  }
+]

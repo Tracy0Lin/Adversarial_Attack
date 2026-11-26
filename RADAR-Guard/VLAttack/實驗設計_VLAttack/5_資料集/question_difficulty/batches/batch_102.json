@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524725002",
+    "question": "are the parking meters being used?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524725002_1_ori.png"
+  },
+  {
+    "question_id": "524742000",
+    "question": "what color is the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524742000_1_ori.png"
+  },
+  {
+    "question_id": "524742001",
+    "question": "what type of art is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524742001_1_ori.png"
+  },
+  {
+    "question_id": "524742002",
+    "question": "is this type of art legal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524742002_1_ori.png"
+  },
+  {
+    "question_id": "524775001",
+    "question": "what color is the words bus and boat tour?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524775001_1_ori.png"
+  },
+  {
+    "question_id": "524775008",
+    "question": "is this a city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524775008_1_ori.png"
+  },
+  {
+    "question_id": "524799001",
+    "question": "are they the kid's skis?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524799001_1_ori.png"
+  },
+  {
+    "question_id": "524822001",
+    "question": "what is this piece of furniture used for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822001_1_ori.png"
+  },
+  {
+    "question_id": "524822004",
+    "question": "what room is in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822004_1_ori.png"
+  },
+  {
+    "question_id": "524822005",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822005_1_ori.png"
+  },
+  {
+    "question_id": "524822006",
+    "question": "is the person who lives here a musician?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822006_1_ori.png"
+  },
+  {
+    "question_id": "524822007",
+    "question": "what room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822007_1_ori.png"
+  },
+  {
+    "question_id": "524822008",
+    "question": "is there a mirror on top of the fireplace?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822008_1_ori.png"
+  },
+  {
+    "question_id": "524822009",
+    "question": "what is on the white chair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822009_1_ori.png"
+  },
+  {
+    "question_id": "524822010",
+    "question": "what is on the chair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822010_1_ori.png"
+  },
+  {
+    "question_id": "524822011",
+    "question": "what color is the couch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822011_1_ori.png"
+  },
+  {
+    "question_id": "524822013",
+    "question": "what city is represented over the fireplace?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822013_1_ori.png"
+  },
+  {
+    "question_id": "524822015",
+    "question": "what color is present the most?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822015_1_ori.png"
+  },
+  {
+    "question_id": "524822017",
+    "question": "what number of beds are in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822017_1_ori.png"
+  },
+  {
+    "question_id": "524822018",
+    "question": "did the family forget to turn the tv off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524822018_1_ori.png"
+  }
+]

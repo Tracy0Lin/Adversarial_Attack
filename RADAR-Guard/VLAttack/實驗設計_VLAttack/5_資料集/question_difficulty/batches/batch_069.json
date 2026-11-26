@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "371864000",
+    "question": "what kind of computer is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371864000_1_ori.png"
+  },
+  {
+    "question_id": "371864002",
+    "question": "how many seats does this table have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371864002_1_ori.png"
+  },
+  {
+    "question_id": "371864003",
+    "question": "what color is the keyboard in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371864003_1_ori.png"
+  },
+  {
+    "question_id": "371864004",
+    "question": "is the lid attached to the starbucks cup in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371864004_1_ori.png"
+  },
+  {
+    "question_id": "371864006",
+    "question": "is there a coffee cup behind the phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\371864006_1_ori.png"
+  },
+  {
+    "question_id": "382345000",
+    "question": "does the girl on the right need to fix her swimsuit bottoms?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\382345000_1_ori.png"
+  },
+  {
+    "question_id": "384101001",
+    "question": "what color is the truck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\384101001_1_ori.png"
+  },
+  {
+    "question_id": "387001",
+    "question": "what kind of laptop is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\387001_1_ori.png"
+  },
+  {
+    "question_id": "387002",
+    "question": "does the asus laptop have a white usb cable attached?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\387002_1_ori.png"
+  },
+  {
+    "question_id": "387003",
+    "question": "how many electronics are seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\387003_1_ori.png"
+  },
+  {
+    "question_id": "393225001",
+    "question": "is this a creamy soup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393225001_1_ori.png"
+  },
+  {
+    "question_id": "393225002",
+    "question": "is this rice noodle soup?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393225002_1_ori.png"
+  },
+  {
+    "question_id": "393226000",
+    "question": "what is the man doing in the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393226000_1_ori.png"
+  },
+  {
+    "question_id": "393226001",
+    "question": "how many photo's can you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393226001_1_ori.png"
+  },
+  {
+    "question_id": "393226002",
+    "question": "what does the truck on the left sell?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393226002_1_ori.png"
+  },
+  {
+    "question_id": "393243000",
+    "question": "will this kid leave the powdered sugar on his face?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393243000_1_ori.png"
+  },
+  {
+    "question_id": "393243001",
+    "question": "what is the child eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393243001_1_ori.png"
+  },
+  {
+    "question_id": "393243002",
+    "question": "is this person wearing a tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393243002_1_ori.png"
+  },
+  {
+    "question_id": "393243003",
+    "question": "what color is the kids hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393243003_1_ori.png"
+  },
+  {
+    "question_id": "393254001",
+    "question": "what kind of vehicle is the rv pulling on the bottom picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393254001_1_ori.png"
+  }
+]

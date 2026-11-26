@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131597004",
+    "question": "how many motorcycles are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131597004_1_ori.png"
+  },
+  {
+    "question_id": "131611014",
+    "question": "how many large boulder rocks are in the foreground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131611014_1_ori.png"
+  },
+  {
+    "question_id": "131611018",
+    "question": "do the elephants like getting wet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131611018_1_ori.png"
+  },
+  {
+    "question_id": "131612000",
+    "question": "what is the man doing with the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131612000_1_ori.png"
+  },
+  {
+    "question_id": "131612001",
+    "question": "what colors are the pole the horse is jumping over?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131612001_1_ori.png"
+  },
+  {
+    "question_id": "131617000",
+    "question": "what is the girl in front doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131617000_1_ori.png"
+  },
+  {
+    "question_id": "131661001",
+    "question": "what color is the microwave?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131661001_1_ori.png"
+  },
+  {
+    "question_id": "131661003",
+    "question": "is he alone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131661003_1_ori.png"
+  },
+  {
+    "question_id": "131661004",
+    "question": "is this a canal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131661004_1_ori.png"
+  },
+  {
+    "question_id": "131661005",
+    "question": "what time was this picture taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131661005_1_ori.png"
+  },
+  {
+    "question_id": "131725000",
+    "question": "what color are the plates?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131725000_1_ori.png"
+  },
+  {
+    "question_id": "131725001",
+    "question": "is the meal pictured healthy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131725001_1_ori.png"
+  },
+  {
+    "question_id": "131725002",
+    "question": "how many apples are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131725002_1_ori.png"
+  },
+  {
+    "question_id": "131743001",
+    "question": "what are the people in the center doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131743001_1_ori.png"
+  },
+  {
+    "question_id": "131800001",
+    "question": "is the guy eating a hamburger?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131800001_1_ori.png"
+  },
+  {
+    "question_id": "131804001",
+    "question": "how many wheels does the vehicle behind the man have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131804001_1_ori.png"
+  },
+  {
+    "question_id": "131815002",
+    "question": "how is the woman holding the fruit in her mouth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131815002_1_ori.png"
+  },
+  {
+    "question_id": "131815004",
+    "question": "does this woman enjoy the fruit in her mouth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131815004_1_ori.png"
+  },
+  {
+    "question_id": "131841001",
+    "question": "what color plate is the food on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131841001_1_ori.png"
+  },
+  {
+    "question_id": "131841002",
+    "question": "how many tines are on the fork?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\131841002_1_ori.png"
+  }
+]

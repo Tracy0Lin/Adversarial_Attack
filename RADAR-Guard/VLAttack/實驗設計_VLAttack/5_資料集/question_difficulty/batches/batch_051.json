@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262658000",
+    "question": "how many people are seated?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262658000_1_ori.png"
+  },
+  {
+    "question_id": "262658001",
+    "question": "are they on a boat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262658001_1_ori.png"
+  },
+  {
+    "question_id": "262658002",
+    "question": "is it night time?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262658002_1_ori.png"
+  },
+  {
+    "question_id": "262672000",
+    "question": "is this woman's legs stuck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262672000_1_ori.png"
+  },
+  {
+    "question_id": "262672002",
+    "question": "what is the car doing here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262672002_1_ori.png"
+  },
+  {
+    "question_id": "262677000",
+    "question": "what is hanging from the fire hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262677000_1_ori.png"
+  },
+  {
+    "question_id": "262677003",
+    "question": "how many chains are visible on the hydrant?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262677003_1_ori.png"
+  },
+  {
+    "question_id": "262682000",
+    "question": "is the counter empty?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682000_1_ori.png"
+  },
+  {
+    "question_id": "262682001",
+    "question": "what could the black dish be used for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682001_1_ori.png"
+  },
+  {
+    "question_id": "262682002",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682002_1_ori.png"
+  },
+  {
+    "question_id": "262682003",
+    "question": "is this a color-coordinated room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682003_1_ori.png"
+  },
+  {
+    "question_id": "262682004",
+    "question": "what is the counter made out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682004_1_ori.png"
+  },
+  {
+    "question_id": "262682005",
+    "question": "what is in the sink?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682005_1_ori.png"
+  },
+  {
+    "question_id": "262682006",
+    "question": "what color is the ceiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682006_1_ori.png"
+  },
+  {
+    "question_id": "262682007",
+    "question": "what color are the cabinets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682007_1_ori.png"
+  },
+  {
+    "question_id": "262682008",
+    "question": "are the lights on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682008_1_ori.png"
+  },
+  {
+    "question_id": "262682009",
+    "question": "what is hanging from the oven handle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682009_1_ori.png"
+  },
+  {
+    "question_id": "262682010",
+    "question": "how many knives are on the wall?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682010_1_ori.png"
+  },
+  {
+    "question_id": "262682011",
+    "question": "will twenty people fit in this space?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682011_1_ori.png"
+  },
+  {
+    "question_id": "262682012",
+    "question": "is the light on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262682012_1_ori.png"
+  }
+]

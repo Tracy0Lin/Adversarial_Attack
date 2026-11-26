@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524450005",
+    "question": "what color is the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524450005_1_ori.png"
+  },
+  {
+    "question_id": "524450024",
+    "question": "where is the bus located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524450024_1_ori.png"
+  },
+  {
+    "question_id": "524459000",
+    "question": "what kind of animal is on the guinness poster?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524459000_1_ori.png"
+  },
+  {
+    "question_id": "524502000",
+    "question": "what is the red object in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524502000_1_ori.png"
+  },
+  {
+    "question_id": "524502002",
+    "question": "what is the large pole sticking up for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524502002_1_ori.png"
+  },
+  {
+    "question_id": "524507001",
+    "question": "what language is the sign written in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524507001_1_ori.png"
+  },
+  {
+    "question_id": "524533000",
+    "question": "what is the bus advertising?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524533000_1_ori.png"
+  },
+  {
+    "question_id": "524577000",
+    "question": "what time is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577000_1_ori.png"
+  },
+  {
+    "question_id": "524577005",
+    "question": "what time is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577005_1_ori.png"
+  },
+  {
+    "question_id": "524577007",
+    "question": "what time does the clock say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577007_1_ori.png"
+  },
+  {
+    "question_id": "524577008",
+    "question": "what time does the clock on the building say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577008_1_ori.png"
+  },
+  {
+    "question_id": "524577009",
+    "question": "what time does the clock read?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577009_1_ori.png"
+  },
+  {
+    "question_id": "524577013",
+    "question": "what time is the clock showing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577013_1_ori.png"
+  },
+  {
+    "question_id": "524577020",
+    "question": "what time is it in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577020_1_ori.png"
+  },
+  {
+    "question_id": "524577024",
+    "question": "where is the clock located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524577024_1_ori.png"
+  },
+  {
+    "question_id": "524595001",
+    "question": "what surface are they playing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\524595001_1_ori.png"
+  },
+  {
+    "question_id": "524601007",
+    "question": "how many women are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524601007_1_ori.png"
+  },
+  {
+    "question_id": "524601009",
+    "question": "what are the children doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524601009_1_ori.png"
+  },
+  {
+    "question_id": "524611004",
+    "question": "does the train's shadow appear left or right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524611004_1_ori.png"
+  },
+  {
+    "question_id": "524611005",
+    "question": "what junction is this train traveling through?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524611005_1_ori.png"
+  }
+]

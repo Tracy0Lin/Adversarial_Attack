@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132136015",
+    "question": "is it a cloudy day out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132136015_1_ori.png"
+  },
+  {
+    "question_id": "132143002",
+    "question": "what color is illuminated on the traffic signal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132143002_1_ori.png"
+  },
+  {
+    "question_id": "132182000",
+    "question": "is this person ready for the ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132182000_1_ori.png"
+  },
+  {
+    "question_id": "132189000",
+    "question": "what number is on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132189000_1_ori.png"
+  },
+  {
+    "question_id": "132189001",
+    "question": "what kind of vehicle is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132189001_1_ori.png"
+  },
+  {
+    "question_id": "132189003",
+    "question": "who manufactured the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132189003_1_ori.png"
+  },
+  {
+    "question_id": "132219000",
+    "question": "does the person have socks on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132219000_1_ori.png"
+  },
+  {
+    "question_id": "132219002",
+    "question": "is it a girl in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132219002_1_ori.png"
+  },
+  {
+    "question_id": "132223002",
+    "question": "is he playing video golf?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132223002_1_ori.png"
+  },
+  {
+    "question_id": "132288001",
+    "question": "what is he doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132288001_1_ori.png"
+  },
+  {
+    "question_id": "132317000",
+    "question": "what is sitting on the laptop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132317000_1_ori.png"
+  },
+  {
+    "question_id": "132317002",
+    "question": "what color is the plant in the corner?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132317002_1_ori.png"
+  },
+  {
+    "question_id": "132329001",
+    "question": "how many beverages are in the refrigerator?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132329001_1_ori.png"
+  },
+  {
+    "question_id": "132336000",
+    "question": "what is the red vehicle in the center of the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132336000_1_ori.png"
+  },
+  {
+    "question_id": "132336002",
+    "question": "what color is the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132336002_1_ori.png"
+  },
+  {
+    "question_id": "132336003",
+    "question": "what kind of vehicle is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132336003_1_ori.png"
+  },
+  {
+    "question_id": "132375001",
+    "question": "what color are the bricks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132375001_1_ori.png"
+  },
+  {
+    "question_id": "132408003",
+    "question": "are these working horses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132408003_1_ori.png"
+  },
+  {
+    "question_id": "132415002",
+    "question": "has anyone taken a bite of the slices now on this plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415002_1_ori.png"
+  },
+  {
+    "question_id": "132415003",
+    "question": "how many tines on the fork?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415003_1_ori.png"
+  }
+]

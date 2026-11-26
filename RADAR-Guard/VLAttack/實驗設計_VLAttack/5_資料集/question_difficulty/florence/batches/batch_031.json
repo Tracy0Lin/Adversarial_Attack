@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393794002",
+    "question": "what color are these flower petals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393794002_1_ori.png"
+  },
+  {
+    "question_id": "393804001",
+    "question": "is there beer in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393804001_1_ori.png"
+  },
+  {
+    "question_id": "393809000",
+    "question": "where is the frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809000_1_ori.png"
+  },
+  {
+    "question_id": "393809001",
+    "question": "what sport is being played?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809001_1_ori.png"
+  },
+  {
+    "question_id": "393809002",
+    "question": "what color is the frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809002_1_ori.png"
+  },
+  {
+    "question_id": "393809003",
+    "question": "how many boys are on the field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809003_1_ori.png"
+  },
+  {
+    "question_id": "393809005",
+    "question": "what is the sport?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809005_1_ori.png"
+  },
+  {
+    "question_id": "393809006",
+    "question": "how many people are playing the game?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809006_1_ori.png"
+  },
+  {
+    "question_id": "393809007",
+    "question": "is he holding a bat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809007_1_ori.png"
+  },
+  {
+    "question_id": "393809009",
+    "question": "are they playing in a residential area?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809009_1_ori.png"
+  },
+  {
+    "question_id": "393809010",
+    "question": "how many men are in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809010_1_ori.png"
+  },
+  {
+    "question_id": "393809011",
+    "question": "what is the gender of the players?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809011_1_ori.png"
+  },
+  {
+    "question_id": "393809013",
+    "question": "is it likely that the man in orange is about to catch the frisbee?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809013_1_ori.png"
+  },
+  {
+    "question_id": "393809014",
+    "question": "what sport are these people playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809014_1_ori.png"
+  },
+  {
+    "question_id": "393809016",
+    "question": "what are the people playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809016_1_ori.png"
+  },
+  {
+    "question_id": "393809017",
+    "question": "what other name than soccer is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393809017_1_ori.png"
+  },
+  {
+    "question_id": "393814003",
+    "question": "is there a computer on the desk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393814003_1_ori.png"
+  },
+  {
+    "question_id": "393836000",
+    "question": "what color are the pillows?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393836000_1_ori.png"
+  },
+  {
+    "question_id": "393836002",
+    "question": "is there a sheet on the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393836002_1_ori.png"
+  },
+  {
+    "question_id": "393838000",
+    "question": "is there onion?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\393838000_1_ori.png"
+  }
+]

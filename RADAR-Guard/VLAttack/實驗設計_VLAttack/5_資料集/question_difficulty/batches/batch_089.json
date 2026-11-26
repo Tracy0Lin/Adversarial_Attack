@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "395904001",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395904001_1_ori.png"
+  },
+  {
+    "question_id": "395904003",
+    "question": "what is she holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395904003_1_ori.png"
+  },
+  {
+    "question_id": "395904004",
+    "question": "is this a private kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395904004_1_ori.png"
+  },
+  {
+    "question_id": "395928001",
+    "question": "is this bench overlooking the ocean?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395928001_1_ori.png"
+  },
+  {
+    "question_id": "395928003",
+    "question": "are there flowers on the divider?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395928003_1_ori.png"
+  },
+  {
+    "question_id": "395978002",
+    "question": "what season might this be in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\395978002_1_ori.png"
+  },
+  {
+    "question_id": "396051000",
+    "question": "is this a city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396051000_1_ori.png"
+  },
+  {
+    "question_id": "396051001",
+    "question": "what colors are the stripes on the light pole?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396051001_1_ori.png"
+  },
+  {
+    "question_id": "396051002",
+    "question": "when is this picture taken at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396051002_1_ori.png"
+  },
+  {
+    "question_id": "396051003",
+    "question": "are all of the lights on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396051003_1_ori.png"
+  },
+  {
+    "question_id": "396068001",
+    "question": "is the woman playing video games?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396068001_1_ori.png"
+  },
+  {
+    "question_id": "396094000",
+    "question": "what kind of animal is hiding in the bag?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396094000_1_ori.png"
+  },
+  {
+    "question_id": "396094001",
+    "question": "what color is the bag?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396094001_1_ori.png"
+  },
+  {
+    "question_id": "396094002",
+    "question": "is the floor wooden?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396094002_1_ori.png"
+  },
+  {
+    "question_id": "396167000",
+    "question": "what pattern is on the uniform?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396167000_1_ori.png"
+  },
+  {
+    "question_id": "396200001",
+    "question": "what is the young man carrying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\396200001_1_ori.png"
+  },
+  {
+    "question_id": "397000",
+    "question": "what is the leafy substance?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\397000_1_ori.png"
+  },
+  {
+    "question_id": "397001",
+    "question": "what country did this food originate from?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\397001_1_ori.png"
+  },
+  {
+    "question_id": "397002",
+    "question": "what food item is shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\397002_1_ori.png"
+  },
+  {
+    "question_id": "397003",
+    "question": "what toppings are on the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\397003_1_ori.png"
+  }
+]

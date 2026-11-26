@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525646003",
+    "question": "is there broccoli in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525646003_1_ori.png"
+  },
+  {
+    "question_id": "525646004",
+    "question": "what is the green vegetable?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525646004_1_ori.png"
+  },
+  {
+    "question_id": "525646007",
+    "question": "is there broccoli?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525646007_1_ori.png"
+  },
+  {
+    "question_id": "525665002",
+    "question": "is it cloudy in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525665002_1_ori.png"
+  },
+  {
+    "question_id": "525665003",
+    "question": "what type of animal is located in this image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525665003_1_ori.png"
+  },
+  {
+    "question_id": "525665006",
+    "question": "what kind of building are the cows in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525665006_1_ori.png"
+  },
+  {
+    "question_id": "525665008",
+    "question": "what is the main color in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525665008_1_ori.png"
+  },
+  {
+    "question_id": "525665010",
+    "question": "where is civilization located?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525665010_1_ori.png"
+  },
+  {
+    "question_id": "525665013",
+    "question": "where are these animals?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525665013_1_ori.png"
+  },
+  {
+    "question_id": "525666000",
+    "question": "is there a ball in the water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525666000_1_ori.png"
+  },
+  {
+    "question_id": "525666001",
+    "question": "is this water?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525666001_1_ori.png"
+  },
+  {
+    "question_id": "525667003",
+    "question": "how many people are wearing cropped pants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525667003_1_ori.png"
+  },
+  {
+    "question_id": "525702005",
+    "question": "is the girl upset?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525702005_1_ori.png"
+  },
+  {
+    "question_id": "525702012",
+    "question": "is the wall in the back one color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525702012_1_ori.png"
+  },
+  {
+    "question_id": "525705003",
+    "question": "did the player bunt the ball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525705003_1_ori.png"
+  },
+  {
+    "question_id": "525732001",
+    "question": "what is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525732001_1_ori.png"
+  },
+  {
+    "question_id": "525762001",
+    "question": "how many boxes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525762001_1_ori.png"
+  },
+  {
+    "question_id": "525762003",
+    "question": "what color are the tennis player's shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525762003_1_ori.png"
+  },
+  {
+    "question_id": "525763001",
+    "question": "what is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525763001_1_ori.png"
+  },
+  {
+    "question_id": "525763002",
+    "question": "what color is the roof on the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525763002_1_ori.png"
+  }
+]

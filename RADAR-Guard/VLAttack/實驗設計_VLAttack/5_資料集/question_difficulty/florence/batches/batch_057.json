@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "802001",
+    "question": "does someone live here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\802001_1_ori.png"
+  },
+  {
+    "question_id": "802002",
+    "question": "what type of flooring is in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\802002_1_ori.png"
+  },
+  {
+    "question_id": "810002",
+    "question": "what color is the lollipop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\810002_1_ori.png"
+  },
+  {
+    "question_id": "827000",
+    "question": "what color is the zebra?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\827000_1_ori.png"
+  },
+  {
+    "question_id": "827001",
+    "question": "is the zebra standing still?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\827001_1_ori.png"
+  },
+  {
+    "question_id": "872000",
+    "question": "is this a pro game?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\872000_1_ori.png"
+  },
+  {
+    "question_id": "872001",
+    "question": "what are these people doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\872001_1_ori.png"
+  },
+  {
+    "question_id": "872002",
+    "question": "are they playing during the day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\872002_1_ori.png"
+  },
+  {
+    "question_id": "872006",
+    "question": "what are the color of the shirts in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\872006_1_ori.png"
+  },
+  {
+    "question_id": "873000",
+    "question": "is this a hospital?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\873000_1_ori.png"
+  },
+  {
+    "question_id": "873001",
+    "question": "where is the clock in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\873001_1_ori.png"
+  },
+  {
+    "question_id": "873002",
+    "question": "what country is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\873002_1_ori.png"
+  },
+  {
+    "question_id": "873003",
+    "question": "how large are the carbon emissions tied to this industrial scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\873003_1_ori.png"
+  },
+  {
+    "question_id": "87489000",
+    "question": "is this a fire truck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\87489000_1_ori.png"
+  },
+  {
+    "question_id": "87489001",
+    "question": "is this vehicle currently in service?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\87489001_1_ori.png"
+  },
+  {
+    "question_id": "87489004",
+    "question": "is this a bus seen in america?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\87489004_1_ori.png"
+  },
+  {
+    "question_id": "87489005",
+    "question": "what is the man wearing on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\87489005_1_ori.png"
+  },
+  {
+    "question_id": "885001",
+    "question": "who is sponsoring this event?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\885001_1_ori.png"
+  },
+  {
+    "question_id": "885006",
+    "question": "what bank is a sponsor of this match?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\885006_1_ori.png"
+  },
+  {
+    "question_id": "885008",
+    "question": "what is the color of the wording on the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\885008_1_ori.png"
+  }
+]

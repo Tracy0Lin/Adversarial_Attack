@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262404000",
+    "question": "what color is the cake frosting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262404000_1_ori.png"
+  },
+  {
+    "question_id": "262404001",
+    "question": "are  these children or adults?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262404001_1_ori.png"
+  },
+  {
+    "question_id": "262425000",
+    "question": "is it sunny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262425000_1_ori.png"
+  },
+  {
+    "question_id": "262425002",
+    "question": "is it a nice day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262425002_1_ori.png"
+  },
+  {
+    "question_id": "262425003",
+    "question": "is that a seagull?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262425003_1_ori.png"
+  },
+  {
+    "question_id": "262425004",
+    "question": "who is riding the boat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262425004_1_ori.png"
+  },
+  {
+    "question_id": "262440000",
+    "question": "is the toilet seat up or down?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440000_1_ori.png"
+  },
+  {
+    "question_id": "262440001",
+    "question": "what color are the tiles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440001_1_ori.png"
+  },
+  {
+    "question_id": "262440002",
+    "question": "what are the floors made out of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440002_1_ori.png"
+  },
+  {
+    "question_id": "262440003",
+    "question": "how many sinks are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440003_1_ori.png"
+  },
+  {
+    "question_id": "262440004",
+    "question": "what color are the towels?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440004_1_ori.png"
+  },
+  {
+    "question_id": "262440005",
+    "question": "are the walls tiled?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440005_1_ori.png"
+  },
+  {
+    "question_id": "262440006",
+    "question": "is this room modern?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440006_1_ori.png"
+  },
+  {
+    "question_id": "262440007",
+    "question": "is the towel green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440007_1_ori.png"
+  },
+  {
+    "question_id": "262440008",
+    "question": "is there a tv in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440008_1_ori.png"
+  },
+  {
+    "question_id": "262440009",
+    "question": "are the tiles plain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440009_1_ori.png"
+  },
+  {
+    "question_id": "262440010",
+    "question": "what color is the shower curtain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440010_1_ori.png"
+  },
+  {
+    "question_id": "262440011",
+    "question": "can the faucet be seen in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440011_1_ori.png"
+  },
+  {
+    "question_id": "262440012",
+    "question": "how many lights are on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440012_1_ori.png"
+  },
+  {
+    "question_id": "262440013",
+    "question": "what room is this a picture of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262440013_1_ori.png"
+  }
+]

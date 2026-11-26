@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "2592003",
+    "question": "is there a knife in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2592003_1_ori.png"
+  },
+  {
+    "question_id": "2613001",
+    "question": "what is the surface?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2613001_1_ori.png"
+  },
+  {
+    "question_id": "2613002",
+    "question": "is the person surfing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2613002_1_ori.png"
+  },
+  {
+    "question_id": "2613003",
+    "question": "is there a bird in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2613003_1_ori.png"
+  },
+  {
+    "question_id": "2613006",
+    "question": "how many people are swimming?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2613006_1_ori.png"
+  },
+  {
+    "question_id": "2613011",
+    "question": "how many surfer are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2613011_1_ori.png"
+  },
+  {
+    "question_id": "2613012",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\2613012_1_ori.png"
+  },
+  {
+    "question_id": "262148000",
+    "question": "where is he looking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262148000_1_ori.png"
+  },
+  {
+    "question_id": "262148001",
+    "question": "what are the people in the background doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262148001_1_ori.png"
+  },
+  {
+    "question_id": "262161001",
+    "question": "is the silver bike new?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161001_1_ori.png"
+  },
+  {
+    "question_id": "262161002",
+    "question": "is the grass bright green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161002_1_ori.png"
+  },
+  {
+    "question_id": "262161003",
+    "question": "what is the bike on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161003_1_ori.png"
+  },
+  {
+    "question_id": "262161008",
+    "question": "does the bike in the foreground have a single or a double seat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161008_1_ori.png"
+  },
+  {
+    "question_id": "262161010",
+    "question": "what is that white thing behind the motorcyclist?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161010_1_ori.png"
+  },
+  {
+    "question_id": "262161011",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161011_1_ori.png"
+  },
+  {
+    "question_id": "262161012",
+    "question": "how many wheels do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161012_1_ori.png"
+  },
+  {
+    "question_id": "262161013",
+    "question": "how is this red bike called?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161013_1_ori.png"
+  },
+  {
+    "question_id": "262161014",
+    "question": "does this bike travel often?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161014_1_ori.png"
+  },
+  {
+    "question_id": "262161015",
+    "question": "what color is the seat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161015_1_ori.png"
+  },
+  {
+    "question_id": "262161016",
+    "question": "what kind of a show does this look like it is despite the motorcycle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161016_1_ori.png"
+  }
+]

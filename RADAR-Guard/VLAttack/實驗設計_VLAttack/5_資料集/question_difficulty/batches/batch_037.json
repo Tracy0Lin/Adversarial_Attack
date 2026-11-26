@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262161017",
+    "question": "is this motorcycle propped up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161017_1_ori.png"
+  },
+  {
+    "question_id": "262161020",
+    "question": "are both motorbikes the same size?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262161020_1_ori.png"
+  },
+  {
+    "question_id": "262162000",
+    "question": "is that a folding chair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162000_1_ori.png"
+  },
+  {
+    "question_id": "262162001",
+    "question": "how many beds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162001_1_ori.png"
+  },
+  {
+    "question_id": "262162002",
+    "question": "what color is the bedspread?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162002_1_ori.png"
+  },
+  {
+    "question_id": "262162004",
+    "question": "are these twin mattresses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162004_1_ori.png"
+  },
+  {
+    "question_id": "262162005",
+    "question": "how many sources of light are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162005_1_ori.png"
+  },
+  {
+    "question_id": "262162006",
+    "question": "is this room decorated for the 1970s?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162006_1_ori.png"
+  },
+  {
+    "question_id": "262162007",
+    "question": "are the lights on in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162007_1_ori.png"
+  },
+  {
+    "question_id": "262162008",
+    "question": "are the windows big?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162008_1_ori.png"
+  },
+  {
+    "question_id": "262162009",
+    "question": "what is the chair made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162009_1_ori.png"
+  },
+  {
+    "question_id": "262162010",
+    "question": "is this room in someone's home?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162010_1_ori.png"
+  },
+  {
+    "question_id": "262162011",
+    "question": "which room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162011_1_ori.png"
+  },
+  {
+    "question_id": "262162012",
+    "question": "is the bed white?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162012_1_ori.png"
+  },
+  {
+    "question_id": "262162013",
+    "question": "could this be a hotel room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162013_1_ori.png"
+  },
+  {
+    "question_id": "262162014",
+    "question": "is the bed made?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162014_1_ori.png"
+  },
+  {
+    "question_id": "262162015",
+    "question": "are there bed headboards present in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162015_1_ori.png"
+  },
+  {
+    "question_id": "262162016",
+    "question": "is there a mirror in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162016_1_ori.png"
+  },
+  {
+    "question_id": "262162017",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162017_1_ori.png"
+  },
+  {
+    "question_id": "262162018",
+    "question": "how many chairs are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162018_1_ori.png"
+  }
+]

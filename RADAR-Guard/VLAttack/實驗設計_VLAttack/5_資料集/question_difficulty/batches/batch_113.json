@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526418002",
+    "question": "what color tie is the bear wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526418002_1_ori.png"
+  },
+  {
+    "question_id": "526425001",
+    "question": "what breed of dog is that?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526425001_1_ori.png"
+  },
+  {
+    "question_id": "526425002",
+    "question": "what does the dog have in its mouth?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526425002_1_ori.png"
+  },
+  {
+    "question_id": "526425003",
+    "question": "what kind of dog is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526425003_1_ori.png"
+  },
+  {
+    "question_id": "526446003",
+    "question": "what color is the lettering of his name?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526446003_1_ori.png"
+  },
+  {
+    "question_id": "526536001",
+    "question": "is any of the food burnt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526536001_1_ori.png"
+  },
+  {
+    "question_id": "526555004",
+    "question": "what color is the lid on the bottle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526555004_1_ori.png"
+  },
+  {
+    "question_id": "526555005",
+    "question": "how many women are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526555005_1_ori.png"
+  },
+  {
+    "question_id": "526560004",
+    "question": "is the grass low cut?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526560004_1_ori.png"
+  },
+  {
+    "question_id": "526570001",
+    "question": "is the sidewalk slushy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526570001_1_ori.png"
+  },
+  {
+    "question_id": "526576000",
+    "question": "is he frightened?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526576000_1_ori.png"
+  },
+  {
+    "question_id": "526580001",
+    "question": "are the chairs white at the back?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580001_1_ori.png"
+  },
+  {
+    "question_id": "526580003",
+    "question": "what game are they playing on the wii?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580003_1_ori.png"
+  },
+  {
+    "question_id": "526580005",
+    "question": "does he have long hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580005_1_ori.png"
+  },
+  {
+    "question_id": "526580007",
+    "question": "are both men wearing blue jeans?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580007_1_ori.png"
+  },
+  {
+    "question_id": "526580010",
+    "question": "is one of the people learning something?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580010_1_ori.png"
+  },
+  {
+    "question_id": "526580011",
+    "question": "what game is being played?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580011_1_ori.png"
+  },
+  {
+    "question_id": "526580012",
+    "question": "is the man wearing a hat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580012_1_ori.png"
+  },
+  {
+    "question_id": "526580014",
+    "question": "are both men smoking a cigarette?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580014_1_ori.png"
+  },
+  {
+    "question_id": "526580019",
+    "question": "is this man dressed formally?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526580019_1_ori.png"
+  }
+]

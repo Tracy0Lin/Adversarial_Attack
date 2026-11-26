@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262360001",
+    "question": "what color is the vase?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262360001_1_ori.png"
+  },
+  {
+    "question_id": "262360002",
+    "question": "what kind of flowers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262360002_1_ori.png"
+  },
+  {
+    "question_id": "262360003",
+    "question": "which color is the flower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262360003_1_ori.png"
+  },
+  {
+    "question_id": "262360004",
+    "question": "are the flowers dead?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262360004_1_ori.png"
+  },
+  {
+    "question_id": "262360005",
+    "question": "is this edible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262360005_1_ori.png"
+  },
+  {
+    "question_id": "262371000",
+    "question": "is this cat ready for bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262371000_1_ori.png"
+  },
+  {
+    "question_id": "262371001",
+    "question": "where is the cat sitting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262371001_1_ori.png"
+  },
+  {
+    "question_id": "262371002",
+    "question": "what is the cat sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262371002_1_ori.png"
+  },
+  {
+    "question_id": "262371003",
+    "question": "what is the animal sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262371003_1_ori.png"
+  },
+  {
+    "question_id": "262371005",
+    "question": "what is the cat looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262371005_1_ori.png"
+  },
+  {
+    "question_id": "262371006",
+    "question": "how many cats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262371006_1_ori.png"
+  },
+  {
+    "question_id": "262376000",
+    "question": "are flowers on the umbrellas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262376000_1_ori.png"
+  },
+  {
+    "question_id": "262376002",
+    "question": "is this a big building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262376002_1_ori.png"
+  },
+  {
+    "question_id": "262386000",
+    "question": "how many rolls of toilet paper are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386000_1_ori.png"
+  },
+  {
+    "question_id": "262386001",
+    "question": "what is next to the toilet paper?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386001_1_ori.png"
+  },
+  {
+    "question_id": "262386002",
+    "question": "is this a bathroom?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386002_1_ori.png"
+  },
+  {
+    "question_id": "262386003",
+    "question": "who uses these?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386003_1_ori.png"
+  },
+  {
+    "question_id": "262386004",
+    "question": "can these fixtures be used right where they are?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386004_1_ori.png"
+  },
+  {
+    "question_id": "262386005",
+    "question": "is there a shelf above the toilet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386005_1_ori.png"
+  },
+  {
+    "question_id": "262386006",
+    "question": "is this  toilet in the floor?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262386006_1_ori.png"
+  }
+]

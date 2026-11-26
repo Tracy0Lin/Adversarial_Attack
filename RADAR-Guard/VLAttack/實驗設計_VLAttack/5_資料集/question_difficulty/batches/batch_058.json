@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263679003",
+    "question": "what are they about to do?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263679003_1_ori.png"
+  },
+  {
+    "question_id": "263696005",
+    "question": "what are they doing in the rain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263696005_1_ori.png"
+  },
+  {
+    "question_id": "263696006",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263696006_1_ori.png"
+  },
+  {
+    "question_id": "263700002",
+    "question": "is this person in some sort of trouble?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263700002_1_ori.png"
+  },
+  {
+    "question_id": "263723001",
+    "question": "how many pieces has this dish been cut into?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263723001_1_ori.png"
+  },
+  {
+    "question_id": "263758000",
+    "question": "how many engines does the plane have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263758000_1_ori.png"
+  },
+  {
+    "question_id": "263758001",
+    "question": "is the plane at an airport?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263758001_1_ori.png"
+  },
+  {
+    "question_id": "263780002",
+    "question": "what is the baby elephant doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263780002_1_ori.png"
+  },
+  {
+    "question_id": "263780004",
+    "question": "are these elephants in a zoo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263780004_1_ori.png"
+  },
+  {
+    "question_id": "263780005",
+    "question": "are there stones in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263780005_1_ori.png"
+  },
+  {
+    "question_id": "263780010",
+    "question": "why is one elephant smaller than the other?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263780010_1_ori.png"
+  },
+  {
+    "question_id": "263793007",
+    "question": "is this a park?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263793007_1_ori.png"
+  },
+  {
+    "question_id": "263793008",
+    "question": "is there a red flower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263793008_1_ori.png"
+  },
+  {
+    "question_id": "263796000",
+    "question": "what color is the toilet base?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263796000_1_ori.png"
+  },
+  {
+    "question_id": "263828002",
+    "question": "how many bikes are present?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263828002_1_ori.png"
+  },
+  {
+    "question_id": "263828005",
+    "question": "does this motorcycle have custom paint?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263828005_1_ori.png"
+  },
+  {
+    "question_id": "263834000",
+    "question": "what are the kids on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263834000_1_ori.png"
+  },
+  {
+    "question_id": "263858001",
+    "question": "are the boats moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263858001_1_ori.png"
+  },
+  {
+    "question_id": "263866000",
+    "question": "what is the name of the area the train is traveling in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263866000_1_ori.png"
+  },
+  {
+    "question_id": "263881000",
+    "question": "is the giraffe a baby?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263881000_1_ori.png"
+  }
+]

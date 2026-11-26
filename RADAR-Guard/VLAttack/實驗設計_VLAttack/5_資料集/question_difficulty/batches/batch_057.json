@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "263412000",
+    "question": "what time of year is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263412000_1_ori.png"
+  },
+  {
+    "question_id": "263425001",
+    "question": "what does the sign on the back of the truck read?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263425001_1_ori.png"
+  },
+  {
+    "question_id": "263425002",
+    "question": "has the grass been cut?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263425002_1_ori.png"
+  },
+  {
+    "question_id": "263428001",
+    "question": "is this a farm?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263428001_1_ori.png"
+  },
+  {
+    "question_id": "263463002",
+    "question": "what is the breed of dog reflected in the mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263463002_1_ori.png"
+  },
+  {
+    "question_id": "263477005",
+    "question": "what are the animals doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263477005_1_ori.png"
+  },
+  {
+    "question_id": "263477006",
+    "question": "how many animals are in this forest?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263477006_1_ori.png"
+  },
+  {
+    "question_id": "263505000",
+    "question": "does the man have facial hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263505000_1_ori.png"
+  },
+  {
+    "question_id": "263520002",
+    "question": "what kind of animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263520002_1_ori.png"
+  },
+  {
+    "question_id": "263520003",
+    "question": "what is the animal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263520003_1_ori.png"
+  },
+  {
+    "question_id": "263586001",
+    "question": "what color are the player's shorts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263586001_1_ori.png"
+  },
+  {
+    "question_id": "263612000",
+    "question": "what does the dog have around his neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263612000_1_ori.png"
+  },
+  {
+    "question_id": "263612001",
+    "question": "how old is the dog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263612001_1_ori.png"
+  },
+  {
+    "question_id": "263612007",
+    "question": "what kind of dog is that?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263612007_1_ori.png"
+  },
+  {
+    "question_id": "263613002",
+    "question": "what color is the horse?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263613002_1_ori.png"
+  },
+  {
+    "question_id": "263644000",
+    "question": "what size bed is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263644000_1_ori.png"
+  },
+  {
+    "question_id": "263647000",
+    "question": "how many people are in this scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263647000_1_ori.png"
+  },
+  {
+    "question_id": "263664002",
+    "question": "how many people are riding on the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263664002_1_ori.png"
+  },
+  {
+    "question_id": "263664006",
+    "question": "what is red?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263664006_1_ori.png"
+  },
+  {
+    "question_id": "263668002",
+    "question": "are there people in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\263668002_1_ori.png"
+  }
+]

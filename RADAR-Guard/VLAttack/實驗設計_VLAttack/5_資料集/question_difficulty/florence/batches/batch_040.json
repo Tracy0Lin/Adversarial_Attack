@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "43816025",
+    "question": "what color is the batters jersey?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816025_1_ori.png"
+  },
+  {
+    "question_id": "43816026",
+    "question": "is the baseball coming towards the man in the red shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816026_1_ori.png"
+  },
+  {
+    "question_id": "43816027",
+    "question": "is the umpire standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\43816027_1_ori.png"
+  },
+  {
+    "question_id": "44003001",
+    "question": "what name is on the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\44003001_1_ori.png"
+  },
+  {
+    "question_id": "445200000",
+    "question": "what fruit is on the napkin?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\445200000_1_ori.png"
+  },
+  {
+    "question_id": "445200002",
+    "question": "is the carrots on the closest plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\445200002_1_ori.png"
+  },
+  {
+    "question_id": "445200003",
+    "question": "what is the pattern on the placemats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\445200003_1_ori.png"
+  },
+  {
+    "question_id": "445200004",
+    "question": "are the plates paper or ceramic?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\445200004_1_ori.png"
+  },
+  {
+    "question_id": "445200005",
+    "question": "are these healthy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\445200005_1_ori.png"
+  },
+  {
+    "question_id": "472005",
+    "question": "is this good weather for their flight?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\472005_1_ori.png"
+  },
+  {
+    "question_id": "482719001",
+    "question": "what shape container is the fruit in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\482719001_1_ori.png"
+  },
+  {
+    "question_id": "482719002",
+    "question": "should the bananas be eaten soon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\482719002_1_ori.png"
+  },
+  {
+    "question_id": "486002",
+    "question": "where is the strainer?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\486002_1_ori.png"
+  },
+  {
+    "question_id": "488000",
+    "question": "is the battery going to bunt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\488000_1_ori.png"
+  },
+  {
+    "question_id": "502766000",
+    "question": "is the dog chasing the sheep?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\502766000_1_ori.png"
+  },
+  {
+    "question_id": "510657003",
+    "question": "how many people are here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\510657003_1_ori.png"
+  },
+  {
+    "question_id": "510657006",
+    "question": "how many people are sitting at the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\510657006_1_ori.png"
+  },
+  {
+    "question_id": "520004",
+    "question": "how many birds are in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\520004_1_ori.png"
+  },
+  {
+    "question_id": "524361000",
+    "question": "where is the bird?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524361000_1_ori.png"
+  },
+  {
+    "question_id": "524431002",
+    "question": "is the wagon full?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\524431002_1_ori.png"
+  }
+]

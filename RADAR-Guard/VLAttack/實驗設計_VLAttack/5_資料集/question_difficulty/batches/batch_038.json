@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262162019",
+    "question": "is the desk cluttered?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162019_1_ori.png"
+  },
+  {
+    "question_id": "262162020",
+    "question": "has the bed been made?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162020_1_ori.png"
+  },
+  {
+    "question_id": "262162021",
+    "question": "how many seats are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162021_1_ori.png"
+  },
+  {
+    "question_id": "262162023",
+    "question": "what color are the walls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162023_1_ori.png"
+  },
+  {
+    "question_id": "262162024",
+    "question": "are there any boxes in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162024_1_ori.png"
+  },
+  {
+    "question_id": "262162025",
+    "question": "could this be a multi-purpose room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162025_1_ori.png"
+  },
+  {
+    "question_id": "262162026",
+    "question": "what animal print does that chair resemble?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162026_1_ori.png"
+  },
+  {
+    "question_id": "262162027",
+    "question": "what is behind the foot of the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162027_1_ori.png"
+  },
+  {
+    "question_id": "262162028",
+    "question": "what is the size of the bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262162028_1_ori.png"
+  },
+  {
+    "question_id": "262175000",
+    "question": "is the man's tie purple?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262175000_1_ori.png"
+  },
+  {
+    "question_id": "262175001",
+    "question": "where was the picture taken of the man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262175001_1_ori.png"
+  },
+  {
+    "question_id": "262175002",
+    "question": "what is the man wearing on his head?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262175002_1_ori.png"
+  },
+  {
+    "question_id": "262175003",
+    "question": "is this a designer tie?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262175003_1_ori.png"
+  },
+  {
+    "question_id": "262189000",
+    "question": "how many signs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262189000_1_ori.png"
+  },
+  {
+    "question_id": "262197001",
+    "question": "what is the color of the building in the background?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197001_1_ori.png"
+  },
+  {
+    "question_id": "262197002",
+    "question": "is there a tree in front of the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197002_1_ori.png"
+  },
+  {
+    "question_id": "262197003",
+    "question": "is there a person riding a bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197003_1_ori.png"
+  },
+  {
+    "question_id": "262197007",
+    "question": "how many umbrellas do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197007_1_ori.png"
+  },
+  {
+    "question_id": "262197008",
+    "question": "how many colors is the building on the right painted?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197008_1_ori.png"
+  },
+  {
+    "question_id": "262197009",
+    "question": "what is on the boy's back walking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262197009_1_ori.png"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524844000",
+    "question": "is the skating in the night?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844000_1_ori.png"
+  },
+  {
+    "question_id": "524844001",
+    "question": "what color is the man's hat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844001_1_ori.png"
+  },
+  {
+    "question_id": "524844003",
+    "question": "what type of pavement is he on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844003_1_ori.png"
+  },
+  {
+    "question_id": "524844005",
+    "question": "is the person wearing a helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844005_1_ori.png"
+  },
+  {
+    "question_id": "524844007",
+    "question": "how many wheels are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844007_1_ori.png"
+  },
+  {
+    "question_id": "524844008",
+    "question": "what kind of pants is he wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844008_1_ori.png"
+  },
+  {
+    "question_id": "524844009",
+    "question": "is the border wearing safety equipment?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844009_1_ori.png"
+  },
+  {
+    "question_id": "524844010",
+    "question": "what is the bench made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844010_1_ori.png"
+  },
+  {
+    "question_id": "524844011",
+    "question": "what is the person riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844011_1_ori.png"
+  },
+  {
+    "question_id": "524844012",
+    "question": "does it look like it is going to rain?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844012_1_ori.png"
+  },
+  {
+    "question_id": "524844013",
+    "question": "is there a skater on the ramp?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844013_1_ori.png"
+  },
+  {
+    "question_id": "524844014",
+    "question": "how many steps did the guy go over?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844014_1_ori.png"
+  },
+  {
+    "question_id": "524844015",
+    "question": "what color is the standing man's pants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844015_1_ori.png"
+  },
+  {
+    "question_id": "524844017",
+    "question": "what is he doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844017_1_ori.png"
+  },
+  {
+    "question_id": "524844018",
+    "question": "is this a skate park?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844018_1_ori.png"
+  },
+  {
+    "question_id": "524844019",
+    "question": "is he wearing black?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524844019_1_ori.png"
+  },
+  {
+    "question_id": "524850000",
+    "question": "are the people getting on the bus or off the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524850000_1_ori.png"
+  },
+  {
+    "question_id": "524850002",
+    "question": "does the plane have four engines?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524850002_1_ori.png"
+  },
+  {
+    "question_id": "524887000",
+    "question": "is the picture blurry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524887000_1_ori.png"
+  },
+  {
+    "question_id": "524889002",
+    "question": "are this the ancient days?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524889002_1_ori.png"
+  }
+]

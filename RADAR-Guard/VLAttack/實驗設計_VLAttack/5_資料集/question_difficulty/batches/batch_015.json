@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132982000",
+    "question": "what color are the buses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132982000_1_ori.png"
+  },
+  {
+    "question_id": "132982001",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132982001_1_ori.png"
+  },
+  {
+    "question_id": "132982002",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132982002_1_ori.png"
+  },
+  {
+    "question_id": "132987000",
+    "question": "what color is the surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\132987000_1_ori.png"
+  },
+  {
+    "question_id": "133000",
+    "question": "what color is lamp?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133000_1_ori.png"
+  },
+  {
+    "question_id": "133000004",
+    "question": "is this an old train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133000004_1_ori.png"
+  },
+  {
+    "question_id": "133000009",
+    "question": "what color is the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133000009_1_ori.png"
+  },
+  {
+    "question_id": "133001",
+    "question": "is this a child room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133001_1_ori.png"
+  },
+  {
+    "question_id": "133002",
+    "question": "what size mattress would you need for this bed?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133002_1_ori.png"
+  },
+  {
+    "question_id": "133002000",
+    "question": "is the red helmet in the lead?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133002000_1_ori.png"
+  },
+  {
+    "question_id": "133002001",
+    "question": "what color is their helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133002001_1_ori.png"
+  },
+  {
+    "question_id": "133002003",
+    "question": "looking at the writing on the billboard, can you tell if this picture was taken in the middle east?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133002003_1_ori.png"
+  },
+  {
+    "question_id": "133002005",
+    "question": "how many people are in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133002005_1_ori.png"
+  },
+  {
+    "question_id": "133025000",
+    "question": "how many people are wearing red?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133025000_1_ori.png"
+  },
+  {
+    "question_id": "133025001",
+    "question": "how many crates are stacked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133025001_1_ori.png"
+  },
+  {
+    "question_id": "133034000",
+    "question": "what brand is the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133034000_1_ori.png"
+  },
+  {
+    "question_id": "133034003",
+    "question": "is the phone nokia?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133034003_1_ori.png"
+  },
+  {
+    "question_id": "133034007",
+    "question": "which devices do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133034007_1_ori.png"
+  },
+  {
+    "question_id": "133034008",
+    "question": "how is the phone lying on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133034008_1_ori.png"
+  },
+  {
+    "question_id": "133042000",
+    "question": "what is the player's number?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\133042000_1_ori.png"
+  }
+]

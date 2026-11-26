@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "131557005",
+    "question": "what is the white substance on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557005_1_ori.png"
+  },
+  {
+    "question_id": "131557006",
+    "question": "are there red peppers on the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557006_1_ori.png"
+  },
+  {
+    "question_id": "131557007",
+    "question": "is it a deep dish pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131557007_1_ori.png"
+  },
+  {
+    "question_id": "131581000",
+    "question": "is there any people riding the bikes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131581000_1_ori.png"
+  },
+  {
+    "question_id": "131581002",
+    "question": "how many engines are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131581002_1_ori.png"
+  },
+  {
+    "question_id": "131593000",
+    "question": "what ethnicity do you think the girl is?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131593000_1_ori.png"
+  },
+  {
+    "question_id": "131593001",
+    "question": "is she wearing a ring?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131593001_1_ori.png"
+  },
+  {
+    "question_id": "131593002",
+    "question": "is the girl wearing a hat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131593002_1_ori.png"
+  },
+  {
+    "question_id": "131597000",
+    "question": "how many bikes are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131597000_1_ori.png"
+  },
+  {
+    "question_id": "131597001",
+    "question": "what are the green things on the trees?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131597001_1_ori.png"
+  },
+  {
+    "question_id": "131597002",
+    "question": "is the parking lot marked in white lines?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131597002_1_ori.png"
+  },
+  {
+    "question_id": "131597003",
+    "question": "how many bikes in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131597003_1_ori.png"
+  },
+  {
+    "question_id": "131597005",
+    "question": "are both wheels on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131597005_1_ori.png"
+  },
+  {
+    "question_id": "131597006",
+    "question": "is there a park bench in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131597006_1_ori.png"
+  },
+  {
+    "question_id": "131611000",
+    "question": "what is the elephant's trunk pointing at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611000_1_ori.png"
+  },
+  {
+    "question_id": "131611001",
+    "question": "what animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611001_1_ori.png"
+  },
+  {
+    "question_id": "131611002",
+    "question": "does this animal have claws?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611002_1_ori.png"
+  },
+  {
+    "question_id": "131611003",
+    "question": "how many elephants are in this scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611003_1_ori.png"
+  },
+  {
+    "question_id": "131611004",
+    "question": "what color are the rocks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611004_1_ori.png"
+  },
+  {
+    "question_id": "131611005",
+    "question": "what is behind the elephant area?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\131611005_1_ori.png"
+  }
+]

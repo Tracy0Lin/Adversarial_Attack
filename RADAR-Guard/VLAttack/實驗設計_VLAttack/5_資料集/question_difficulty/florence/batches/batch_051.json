@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526021002",
+    "question": "is this a grass tennis court or astroturf?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526021002_1_ori.png"
+  },
+  {
+    "question_id": "526028003",
+    "question": "did this customer feel ripped off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526028003_1_ori.png"
+  },
+  {
+    "question_id": "526028004",
+    "question": "is this a dinner meal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526028004_1_ori.png"
+  },
+  {
+    "question_id": "526044009",
+    "question": "is it a sunny morning?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044009_1_ori.png"
+  },
+  {
+    "question_id": "526044011",
+    "question": "can this animal be sheared?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044011_1_ori.png"
+  },
+  {
+    "question_id": "526044013",
+    "question": "is it a sunny day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044013_1_ori.png"
+  },
+  {
+    "question_id": "526044017",
+    "question": "what is this cow doing with its left hind leg?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044017_1_ori.png"
+  },
+  {
+    "question_id": "526044019",
+    "question": "what is the cow doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044019_1_ori.png"
+  },
+  {
+    "question_id": "526044020",
+    "question": "what color is the cow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044020_1_ori.png"
+  },
+  {
+    "question_id": "526044023",
+    "question": "who took the photograph?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044023_1_ori.png"
+  },
+  {
+    "question_id": "526044025",
+    "question": "is there anything for the cow to eat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044025_1_ori.png"
+  },
+  {
+    "question_id": "526044034",
+    "question": "is the cow having a bell?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526044034_1_ori.png"
+  },
+  {
+    "question_id": "526089004",
+    "question": "does he have long hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526089004_1_ori.png"
+  },
+  {
+    "question_id": "526091000",
+    "question": "what sport is the man playing for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526091000_1_ori.png"
+  },
+  {
+    "question_id": "526091002",
+    "question": "what is he holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526091002_1_ori.png"
+  },
+  {
+    "question_id": "526091003",
+    "question": "is the person male or female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526091003_1_ori.png"
+  },
+  {
+    "question_id": "526126000",
+    "question": "what kind of shoes is the boy wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526126000_1_ori.png"
+  },
+  {
+    "question_id": "526126001",
+    "question": "is the skater touching the skateboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526126001_1_ori.png"
+  },
+  {
+    "question_id": "526132001",
+    "question": "what is the material of the ground that they are standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526132001_1_ori.png"
+  },
+  {
+    "question_id": "526133001",
+    "question": "what number is on the snowboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\526133001_1_ori.png"
+  }
+]

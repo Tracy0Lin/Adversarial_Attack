@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1436003",
+    "question": "what is the person in the bathroom doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1436003_1_ori.png"
+  },
+  {
+    "question_id": "1436005",
+    "question": "what is he lying on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1436005_1_ori.png"
+  },
+  {
+    "question_id": "1436006",
+    "question": "what is the man sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1436006_1_ori.png"
+  },
+  {
+    "question_id": "1436008",
+    "question": "what color is the man's hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1436008_1_ori.png"
+  },
+  {
+    "question_id": "1448002",
+    "question": "is the giraffe standing properly?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1448002_1_ori.png"
+  },
+  {
+    "question_id": "1464000",
+    "question": "has the skier fallen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1464000_1_ori.png"
+  },
+  {
+    "question_id": "1464002",
+    "question": "what does it look like the skier is doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1464002_1_ori.png"
+  },
+  {
+    "question_id": "1490001",
+    "question": "how many people do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1490001_1_ori.png"
+  },
+  {
+    "question_id": "1490002",
+    "question": "has the skier won a headgear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1490002_1_ori.png"
+  },
+  {
+    "question_id": "1490003",
+    "question": "what is the person holding in his hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1490003_1_ori.png"
+  },
+  {
+    "question_id": "1525000",
+    "question": "what type of building are they in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525000_1_ori.png"
+  },
+  {
+    "question_id": "1525001",
+    "question": "how many tires are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525001_1_ori.png"
+  },
+  {
+    "question_id": "1525003",
+    "question": "what vehicle can be seen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525003_1_ori.png"
+  },
+  {
+    "question_id": "1525005",
+    "question": "where is the airplane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525005_1_ori.png"
+  },
+  {
+    "question_id": "1525007",
+    "question": "is this a boating dock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525007_1_ori.png"
+  },
+  {
+    "question_id": "1525010",
+    "question": "is this a large jet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525010_1_ori.png"
+  },
+  {
+    "question_id": "1525012",
+    "question": "is this a fenced area?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525012_1_ori.png"
+  },
+  {
+    "question_id": "1525016",
+    "question": "is this a city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525016_1_ori.png"
+  },
+  {
+    "question_id": "1525021",
+    "question": "what colors are on the middle beam?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525021_1_ori.png"
+  },
+  {
+    "question_id": "1525025",
+    "question": "was the person taking this picture moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1525025_1_ori.png"
+  }
+]

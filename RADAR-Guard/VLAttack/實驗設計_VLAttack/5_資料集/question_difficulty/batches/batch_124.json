@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "757014",
+    "question": "what are the elephants leaning standing in front of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757014_1_ori.png"
+  },
+  {
+    "question_id": "757019",
+    "question": "does this elephant have tusks?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757019_1_ori.png"
+  },
+  {
+    "question_id": "757021",
+    "question": "is this their natural environment?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\757021_1_ori.png"
+  },
+  {
+    "question_id": "761001",
+    "question": "what are these people about to do?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\761001_1_ori.png"
+  },
+  {
+    "question_id": "761003",
+    "question": "what color goggles man in middle wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\761003_1_ori.png"
+  },
+  {
+    "question_id": "764001",
+    "question": "what animal is the man on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\764001_1_ori.png"
+  },
+  {
+    "question_id": "772002",
+    "question": "are the sheep fat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\772002_1_ori.png"
+  },
+  {
+    "question_id": "775003",
+    "question": "what kind of bike is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\775003_1_ori.png"
+  },
+  {
+    "question_id": "775004",
+    "question": "how many mirrors does this bike have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\775004_1_ori.png"
+  },
+  {
+    "question_id": "775006",
+    "question": "is it daytime or night in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\775006_1_ori.png"
+  },
+  {
+    "question_id": "775007",
+    "question": "how many mirrors are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\775007_1_ori.png"
+  },
+  {
+    "question_id": "775009",
+    "question": "is there an image in the motorcycle's rearview mirror?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\775009_1_ori.png"
+  },
+  {
+    "question_id": "776000",
+    "question": "what number of these teddy bears are brown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\776000_1_ori.png"
+  },
+  {
+    "question_id": "776003",
+    "question": "what color are the bedsheets?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\776003_1_ori.png"
+  },
+  {
+    "question_id": "776004",
+    "question": "what color are the bears?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\776004_1_ori.png"
+  },
+  {
+    "question_id": "785002",
+    "question": "is the female skiing in the snow?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\785002_1_ori.png"
+  },
+  {
+    "question_id": "785003",
+    "question": "is the woman posing for a photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\785003_1_ori.png"
+  },
+  {
+    "question_id": "802003",
+    "question": "what kind of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\802003_1_ori.png"
+  },
+  {
+    "question_id": "802004",
+    "question": "is there a oven in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\802004_1_ori.png"
+  },
+  {
+    "question_id": "810000",
+    "question": "what color is the table top?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\810000_1_ori.png"
+  }
+]

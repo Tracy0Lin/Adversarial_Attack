@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "526197001",
+    "question": "are these donuts?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526197001_1_ori.png"
+  },
+  {
+    "question_id": "526197003",
+    "question": "what section of the store is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526197003_1_ori.png"
+  },
+  {
+    "question_id": "526319002",
+    "question": "is there any fruit in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526319002_1_ori.png"
+  },
+  {
+    "question_id": "526342005",
+    "question": "what does the machine sell?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526342005_1_ori.png"
+  },
+  {
+    "question_id": "526353001",
+    "question": "what are the children doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526353001_1_ori.png"
+  },
+  {
+    "question_id": "526353002",
+    "question": "do all the people wear short-sleeves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526353002_1_ori.png"
+  },
+  {
+    "question_id": "526359001",
+    "question": "is this room tidy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526359001_1_ori.png"
+  },
+  {
+    "question_id": "526359003",
+    "question": "what type of room is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526359003_1_ori.png"
+  },
+  {
+    "question_id": "526360002",
+    "question": "is there a door visible in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526360002_1_ori.png"
+  },
+  {
+    "question_id": "526364000",
+    "question": "is there a window in the kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526364000_1_ori.png"
+  },
+  {
+    "question_id": "526364001",
+    "question": "how many dishwashers are in the kitchen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526364001_1_ori.png"
+  },
+  {
+    "question_id": "526368001",
+    "question": "how many cords are on the laptop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526368001_1_ori.png"
+  },
+  {
+    "question_id": "526371001",
+    "question": "is the person bending backwards?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526371001_1_ori.png"
+  },
+  {
+    "question_id": "526394001",
+    "question": "is there chocolate sauce under the cake?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526394001_1_ori.png"
+  },
+  {
+    "question_id": "526394002",
+    "question": "did the chef decorate the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526394002_1_ori.png"
+  },
+  {
+    "question_id": "526401002",
+    "question": "why type of bike is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526401002_1_ori.png"
+  },
+  {
+    "question_id": "526401004",
+    "question": "what turn can you make according to the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526401004_1_ori.png"
+  },
+  {
+    "question_id": "526401005",
+    "question": "are there more than one lane on this road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526401005_1_ori.png"
+  },
+  {
+    "question_id": "526401007",
+    "question": "what are they riding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526401007_1_ori.png"
+  },
+  {
+    "question_id": "526414002",
+    "question": "is this in someone's home?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\526414002_1_ori.png"
+  }
+]

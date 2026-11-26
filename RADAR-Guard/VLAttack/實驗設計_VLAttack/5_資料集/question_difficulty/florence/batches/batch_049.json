@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525646000",
+    "question": "what is in the middle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525646000_1_ori.png"
+  },
+  {
+    "question_id": "525646006",
+    "question": "what is on the pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525646006_1_ori.png"
+  },
+  {
+    "question_id": "525646009",
+    "question": "is this a pizza?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525646009_1_ori.png"
+  },
+  {
+    "question_id": "525665000",
+    "question": "what are animals eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525665000_1_ori.png"
+  },
+  {
+    "question_id": "525665001",
+    "question": "how many animals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525665001_1_ori.png"
+  },
+  {
+    "question_id": "525665004",
+    "question": "why would it be hard for the sheep to engage in their regular eating habits?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525665004_1_ori.png"
+  },
+  {
+    "question_id": "525665007",
+    "question": "what are the cows doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525665007_1_ori.png"
+  },
+  {
+    "question_id": "525665012",
+    "question": "are there trees in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525665012_1_ori.png"
+  },
+  {
+    "question_id": "525665014",
+    "question": "are they on a hill?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525665014_1_ori.png"
+  },
+  {
+    "question_id": "525666003",
+    "question": "what color is the man's surfboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525666003_1_ori.png"
+  },
+  {
+    "question_id": "525667001",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525667001_1_ori.png"
+  },
+  {
+    "question_id": "525702000",
+    "question": "is this an edible item?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525702000_1_ori.png"
+  },
+  {
+    "question_id": "525702001",
+    "question": "is the woman a model?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525702001_1_ori.png"
+  },
+  {
+    "question_id": "525702002",
+    "question": "what country's flag is in this pictures?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525702002_1_ori.png"
+  },
+  {
+    "question_id": "525702003",
+    "question": "is the woman asian?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525702003_1_ori.png"
+  },
+  {
+    "question_id": "525702008",
+    "question": "what rank is this soldier?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525702008_1_ori.png"
+  },
+  {
+    "question_id": "525702013",
+    "question": "is this woman talking on the phone or to a person?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525702013_1_ori.png"
+  },
+  {
+    "question_id": "525705000",
+    "question": "what team is at bat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525705000_1_ori.png"
+  },
+  {
+    "question_id": "525732000",
+    "question": "is it a shortboard?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525732000_1_ori.png"
+  },
+  {
+    "question_id": "525732002",
+    "question": "what color strip does the surfboard have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525732002_1_ori.png"
+  }
+]

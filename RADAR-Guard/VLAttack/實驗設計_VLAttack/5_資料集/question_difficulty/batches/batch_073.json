@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393372005",
+    "question": "is this a male or female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372005_1_ori.png"
+  },
+  {
+    "question_id": "393372006",
+    "question": "is this a man or woman?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372006_1_ori.png"
+  },
+  {
+    "question_id": "393372007",
+    "question": "what facial piercing does the girl have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372007_1_ori.png"
+  },
+  {
+    "question_id": "393372008",
+    "question": "which  ear is pierced?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372008_1_ori.png"
+  },
+  {
+    "question_id": "393372009",
+    "question": "does the woman look happy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372009_1_ori.png"
+  },
+  {
+    "question_id": "393372011",
+    "question": "what type of shirt is the girl wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372011_1_ori.png"
+  },
+  {
+    "question_id": "393372012",
+    "question": "what color is her eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372012_1_ori.png"
+  },
+  {
+    "question_id": "393372013",
+    "question": "what color hair does the woman have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372013_1_ori.png"
+  },
+  {
+    "question_id": "393372015",
+    "question": "is the woman's hair straight or curly?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372015_1_ori.png"
+  },
+  {
+    "question_id": "393372017",
+    "question": "is the woman looking at the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372017_1_ori.png"
+  },
+  {
+    "question_id": "393372018",
+    "question": "is the girl's part in her hair even?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372018_1_ori.png"
+  },
+  {
+    "question_id": "393372019",
+    "question": "does the person have any facial piercings?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372019_1_ori.png"
+  },
+  {
+    "question_id": "393372020",
+    "question": "what is her expression?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372020_1_ori.png"
+  },
+  {
+    "question_id": "393372021",
+    "question": "is the girl funny?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372021_1_ori.png"
+  },
+  {
+    "question_id": "393372022",
+    "question": "is cleavage visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393372022_1_ori.png"
+  },
+  {
+    "question_id": "393410000",
+    "question": "is this a propeller plane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410000_1_ori.png"
+  },
+  {
+    "question_id": "393410002",
+    "question": "was this taken at sunset?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410002_1_ori.png"
+  },
+  {
+    "question_id": "393410003",
+    "question": "is it getting dark?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410003_1_ori.png"
+  },
+  {
+    "question_id": "393410004",
+    "question": "what color is the plane?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410004_1_ori.png"
+  },
+  {
+    "question_id": "393410005",
+    "question": "what are these flying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410005_1_ori.png"
+  }
+]

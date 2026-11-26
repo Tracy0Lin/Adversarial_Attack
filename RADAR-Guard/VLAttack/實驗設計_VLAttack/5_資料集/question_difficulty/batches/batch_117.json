@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "527029002",
+    "question": "what is in the crates?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527029002_1_ori.png"
+  },
+  {
+    "question_id": "527038001",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527038001_1_ori.png"
+  },
+  {
+    "question_id": "527054001",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527054001_1_ori.png"
+  },
+  {
+    "question_id": "527060000",
+    "question": "what are the candles for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527060000_1_ori.png"
+  },
+  {
+    "question_id": "527060001",
+    "question": "is there a man in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527060001_1_ori.png"
+  },
+  {
+    "question_id": "527064002",
+    "question": "is this pizza homemade?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527064002_1_ori.png"
+  },
+  {
+    "question_id": "527086000",
+    "question": "how many men are sitting at the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527086000_1_ori.png"
+  },
+  {
+    "question_id": "527086003",
+    "question": "is this a college reunion?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527086003_1_ori.png"
+  },
+  {
+    "question_id": "527086005",
+    "question": "is this an old picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527086005_1_ori.png"
+  },
+  {
+    "question_id": "527164001",
+    "question": "what colors is the diamond shaped sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527164001_1_ori.png"
+  },
+  {
+    "question_id": "527164002",
+    "question": "is it a clear day?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527164002_1_ori.png"
+  },
+  {
+    "question_id": "527193001",
+    "question": "what is standing between the two elephants?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527193001_1_ori.png"
+  },
+  {
+    "question_id": "527193003",
+    "question": "what are these elephants doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527193003_1_ori.png"
+  },
+  {
+    "question_id": "527215000",
+    "question": "what is the person in the white shirt doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527215000_1_ori.png"
+  },
+  {
+    "question_id": "527215001",
+    "question": "what is in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527215001_1_ori.png"
+  },
+  {
+    "question_id": "527219002",
+    "question": "is the candle burning?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527219002_1_ori.png"
+  },
+  {
+    "question_id": "527248000",
+    "question": "how many clocks in the tower?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527248000_1_ori.png"
+  },
+  {
+    "question_id": "527248003",
+    "question": "what kind of an event is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527248003_1_ori.png"
+  },
+  {
+    "question_id": "527270002",
+    "question": "is the bench being dedicated?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527270002_1_ori.png"
+  },
+  {
+    "question_id": "527270003",
+    "question": "do these men know each other?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527270003_1_ori.png"
+  }
+]

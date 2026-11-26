@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132042000",
+    "question": "how old does the man look?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132042000_1_ori.png"
+  },
+  {
+    "question_id": "132042003",
+    "question": "is the man wearing glasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132042003_1_ori.png"
+  },
+  {
+    "question_id": "132059001",
+    "question": "is this a typical dinner type meal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132059001_1_ori.png"
+  },
+  {
+    "question_id": "132067000",
+    "question": "how many feet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132067000_1_ori.png"
+  },
+  {
+    "question_id": "132067002",
+    "question": "what color is on the screen?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132067002_1_ori.png"
+  },
+  {
+    "question_id": "132084000",
+    "question": "what may cross the road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132084000_1_ori.png"
+  },
+  {
+    "question_id": "132084001",
+    "question": "is this a hog?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132084001_1_ori.png"
+  },
+  {
+    "question_id": "132084002",
+    "question": "what number is on sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132084002_1_ori.png"
+  },
+  {
+    "question_id": "132084004",
+    "question": "where is the motorcycle parked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\132084004_1_ori.png"
+  },
+  {
+    "question_id": "132116000",
+    "question": "is this food healthy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132116000_1_ori.png"
+  },
+  {
+    "question_id": "132116001",
+    "question": "is the food in the bowl considered chinese?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132116001_1_ori.png"
+  },
+  {
+    "question_id": "132116002",
+    "question": "how many pairs of chopsticks are on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132116002_1_ori.png"
+  },
+  {
+    "question_id": "132121003",
+    "question": "what type of room is this in the house?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132121003_1_ori.png"
+  },
+  {
+    "question_id": "132121005",
+    "question": "does the room have any people?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132121005_1_ori.png"
+  },
+  {
+    "question_id": "132132000",
+    "question": "how many men are shopping?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132132000_1_ori.png"
+  },
+  {
+    "question_id": "132132001",
+    "question": "what are the items that are in color?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132132001_1_ori.png"
+  },
+  {
+    "question_id": "132132003",
+    "question": "what kind of fruit is here?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132132003_1_ori.png"
+  },
+  {
+    "question_id": "132136003",
+    "question": "is everyone flying a kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132136003_1_ori.png"
+  },
+  {
+    "question_id": "132136004",
+    "question": "are these balloons?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132136004_1_ori.png"
+  },
+  {
+    "question_id": "132136012",
+    "question": "do the kites make the sky look like it's under the sea?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\132136012_1_ori.png"
+  }
+]

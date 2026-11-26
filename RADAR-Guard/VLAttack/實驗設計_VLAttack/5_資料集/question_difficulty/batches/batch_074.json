@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "393410006",
+    "question": "are there clouds in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410006_1_ori.png"
+  },
+  {
+    "question_id": "393410007",
+    "question": "is the plane flying too low?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410007_1_ori.png"
+  },
+  {
+    "question_id": "393410008",
+    "question": "what is the color of the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410008_1_ori.png"
+  },
+  {
+    "question_id": "393410009",
+    "question": "is there a seagull?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410009_1_ori.png"
+  },
+  {
+    "question_id": "393410010",
+    "question": "what's in the sky?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393410010_1_ori.png"
+  },
+  {
+    "question_id": "393411001",
+    "question": "what is on the train?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393411001_1_ori.png"
+  },
+  {
+    "question_id": "393411002",
+    "question": "what is the vandalism/painting on above the doors called?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393411002_1_ori.png"
+  },
+  {
+    "question_id": "393421000",
+    "question": "what room is pictured?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393421000_1_ori.png"
+  },
+  {
+    "question_id": "393421001",
+    "question": "how many suitcases  are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393421001_1_ori.png"
+  },
+  {
+    "question_id": "393421002",
+    "question": "is this a hotel room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393421002_1_ori.png"
+  },
+  {
+    "question_id": "393421003",
+    "question": "what is glowing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393421003_1_ori.png"
+  },
+  {
+    "question_id": "393421004",
+    "question": "does this room have tile?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393421004_1_ori.png"
+  },
+  {
+    "question_id": "393421005",
+    "question": "what color is the carpet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393421005_1_ori.png"
+  },
+  {
+    "question_id": "393423001",
+    "question": "where are the giraffes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393423001_1_ori.png"
+  },
+  {
+    "question_id": "393423002",
+    "question": "are the animals in a zoo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393423002_1_ori.png"
+  },
+  {
+    "question_id": "393423003",
+    "question": "what is the large figure?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393423003_1_ori.png"
+  },
+  {
+    "question_id": "393423004",
+    "question": "how many giraffes are in this photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393423004_1_ori.png"
+  },
+  {
+    "question_id": "393423005",
+    "question": "where is this scene taken?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393423005_1_ori.png"
+  },
+  {
+    "question_id": "393423007",
+    "question": "how many giraffes in the horizon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393423007_1_ori.png"
+  },
+  {
+    "question_id": "393469000",
+    "question": "is it cold?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\393469000_1_ori.png"
+  }
+]

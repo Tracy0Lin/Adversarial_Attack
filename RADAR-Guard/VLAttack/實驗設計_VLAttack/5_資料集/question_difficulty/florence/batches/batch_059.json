@@ -1,0 +1,87 @@
+[
+  {
+    "question_id": "969010",
+    "question": "how many people are in the scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\969010_1_ori.png"
+  },
+  {
+    "question_id": "969014",
+    "question": "which hand is the boy throwing with?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\969014_1_ori.png"
+  },
+  {
+    "question_id": "974000",
+    "question": "are elephants are taking bath inside water or playing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\974000_1_ori.png"
+  },
+  {
+    "question_id": "974001",
+    "question": "how many people are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\974001_1_ori.png"
+  },
+  {
+    "question_id": "974003",
+    "question": "is the man a hunter?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\974003_1_ori.png"
+  },
+  {
+    "question_id": "985005",
+    "question": "what is plastered all over the big vehicle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985005_1_ori.png"
+  },
+  {
+    "question_id": "985006",
+    "question": "what is written on the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985006_1_ori.png"
+  },
+  {
+    "question_id": "985008",
+    "question": "what is the name of the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985008_1_ori.png"
+  },
+  {
+    "question_id": "985009",
+    "question": "what color is the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985009_1_ori.png"
+  },
+  {
+    "question_id": "985011",
+    "question": "does the bus have hubcaps?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985011_1_ori.png"
+  },
+  {
+    "question_id": "985014",
+    "question": "what is the color of the writing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985014_1_ori.png"
+  },
+  {
+    "question_id": "985016",
+    "question": "is this a safari bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985016_1_ori.png"
+  },
+  {
+    "question_id": "985017",
+    "question": "what is the weather like in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985017_1_ori.png"
+  },
+  {
+    "question_id": "985018",
+    "question": "what musical does this advertise?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985018_1_ori.png"
+  },
+  {
+    "question_id": "985019",
+    "question": "how many orange cones are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985019_1_ori.png"
+  },
+  {
+    "question_id": "985020",
+    "question": "what color is the bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\985020_1_ori.png"
+  },
+  {
+    "question_id": "999001",
+    "question": "what brand are the catcher's shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\999001_1_ori.png"
+  }
+]

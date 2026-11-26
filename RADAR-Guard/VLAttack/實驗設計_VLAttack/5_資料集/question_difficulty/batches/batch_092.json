@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "43816011",
+    "question": "is the umpire visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43816011_1_ori.png"
+  },
+  {
+    "question_id": "43816015",
+    "question": "what color is the bat?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43816015_1_ori.png"
+  },
+  {
+    "question_id": "43816017",
+    "question": "what is the person holding in his left hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43816017_1_ori.png"
+  },
+  {
+    "question_id": "43816021",
+    "question": "is this before a pitch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\43816021_1_ori.png"
+  },
+  {
+    "question_id": "44003002",
+    "question": "what number is on the sign?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\44003002_1_ori.png"
+  },
+  {
+    "question_id": "44003003",
+    "question": "is the sky clear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\44003003_1_ori.png"
+  },
+  {
+    "question_id": "445200001",
+    "question": "what is in the wooden plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\445200001_1_ori.png"
+  },
+  {
+    "question_id": "445200006",
+    "question": "how many drinks are on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\445200006_1_ori.png"
+  },
+  {
+    "question_id": "459000",
+    "question": "what is the man holding?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459000_1_ori.png"
+  },
+  {
+    "question_id": "459001",
+    "question": "what is around the man's neck?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459001_1_ori.png"
+  },
+  {
+    "question_id": "459002",
+    "question": "is there a camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459002_1_ori.png"
+  },
+  {
+    "question_id": "459003",
+    "question": "did the man take this photo of himself?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459003_1_ori.png"
+  },
+  {
+    "question_id": "459182000",
+    "question": "what are they carrying?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459182000_1_ori.png"
+  },
+  {
+    "question_id": "459182001",
+    "question": "what is in the foreground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459182001_1_ori.png"
+  },
+  {
+    "question_id": "459182002",
+    "question": "how many people are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\459182002_1_ori.png"
+  },
+  {
+    "question_id": "472000",
+    "question": "is that an airplane in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\472000_1_ori.png"
+  },
+  {
+    "question_id": "472001",
+    "question": "is the island inhabited?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\472001_1_ori.png"
+  },
+  {
+    "question_id": "472004",
+    "question": "is the water rippling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\472004_1_ori.png"
+  },
+  {
+    "question_id": "474000",
+    "question": "what is on the boy's hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\474000_1_ori.png"
+  },
+  {
+    "question_id": "474002",
+    "question": "is there grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\474002_1_ori.png"
+  }
+]

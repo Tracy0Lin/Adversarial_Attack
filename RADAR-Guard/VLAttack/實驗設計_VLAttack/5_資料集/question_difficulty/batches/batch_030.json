@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "174989002",
+    "question": "what is the man doing with his left hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\174989002_1_ori.png"
+  },
+  {
+    "question_id": "174989003",
+    "question": "what color is the man's suit?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\174989003_1_ori.png"
+  },
+  {
+    "question_id": "175082001",
+    "question": "what color shirt does the kid in the middle have on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\175082001_1_ori.png"
+  },
+  {
+    "question_id": "175096001",
+    "question": "is this a backhand or forehand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\175096001_1_ori.png"
+  },
+  {
+    "question_id": "175102000",
+    "question": "what is the boy eating?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\175102000_1_ori.png"
+  },
+  {
+    "question_id": "175151000",
+    "question": "is this a 2 lane road?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\175151000_1_ori.png"
+  },
+  {
+    "question_id": "1757001",
+    "question": "are the ladies in a wine bar?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1757001_1_ori.png"
+  },
+  {
+    "question_id": "1757003",
+    "question": "what letter is on the shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1757003_1_ori.png"
+  },
+  {
+    "question_id": "1779002",
+    "question": "is this a town in california?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1779002_1_ori.png"
+  },
+  {
+    "question_id": "1840000",
+    "question": "which color of umbrella is prevalent?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1840000_1_ori.png"
+  },
+  {
+    "question_id": "1841000",
+    "question": "is the girl wearing a tied?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1841000_1_ori.png"
+  },
+  {
+    "question_id": "1852000",
+    "question": "what color is the hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1852000_1_ori.png"
+  },
+  {
+    "question_id": "1856001",
+    "question": "what color is his shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1856001_1_ori.png"
+  },
+  {
+    "question_id": "1856002",
+    "question": "how is he looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1856002_1_ori.png"
+  },
+  {
+    "question_id": "1856003",
+    "question": "would you surf?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1856003_1_ori.png"
+  },
+  {
+    "question_id": "1856004",
+    "question": "what clothing is the man wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\1856004_1_ori.png"
+  },
+  {
+    "question_id": "187695000",
+    "question": "what condiments are on the food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\187695000_1_ori.png"
+  },
+  {
+    "question_id": "187695001",
+    "question": "what is the white stuff on the food?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\187695001_1_ori.png"
+  },
+  {
+    "question_id": "187695002",
+    "question": "what kind of food is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\187695002_1_ori.png"
+  },
+  {
+    "question_id": "187695004",
+    "question": "is that a woman or man hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\187695004_1_ori.png"
+  }
+]

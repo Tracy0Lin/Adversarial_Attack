@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "1779003",
+    "question": "how many palm trees are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1779003_1_ori.png"
+  },
+  {
+    "question_id": "1818001",
+    "question": "is the little zebra hungry?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1818001_1_ori.png"
+  },
+  {
+    "question_id": "1841001",
+    "question": "how many black lines are on the girl's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1841001_1_ori.png"
+  },
+  {
+    "question_id": "1841002",
+    "question": "what color is her eyes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1841002_1_ori.png"
+  },
+  {
+    "question_id": "1852001",
+    "question": "what kind of flower is that?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1852001_1_ori.png"
+  },
+  {
+    "question_id": "1852002",
+    "question": "what color is the string?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1852002_1_ori.png"
+  },
+  {
+    "question_id": "1856000",
+    "question": "will he wipe out?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1856000_1_ori.png"
+  },
+  {
+    "question_id": "187695003",
+    "question": "what is the hot dog in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\187695003_1_ori.png"
+  },
+  {
+    "question_id": "1903002",
+    "question": "which side is the napkin on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1903002_1_ori.png"
+  },
+  {
+    "question_id": "1948000",
+    "question": "what color are his shoes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1948000_1_ori.png"
+  },
+  {
+    "question_id": "1955000",
+    "question": "how many blue dots are on the kite?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1955000_1_ori.png"
+  },
+  {
+    "question_id": "1960001",
+    "question": "will he make the goal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1960001_1_ori.png"
+  },
+  {
+    "question_id": "1960002",
+    "question": "what color is the goalie's shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\1960002_1_ori.png"
+  },
+  {
+    "question_id": "196759000",
+    "question": "what brand of chips is on the van?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\196759000_1_ori.png"
+  },
+  {
+    "question_id": "196759001",
+    "question": "is this food healthy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\196759001_1_ori.png"
+  },
+  {
+    "question_id": "196759003",
+    "question": "what logo is on the side of the van?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\196759003_1_ori.png"
+  },
+  {
+    "question_id": "196759004",
+    "question": "what is the main color of the van?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\196759004_1_ori.png"
+  },
+  {
+    "question_id": "196885000",
+    "question": "is that man throwing a fastball?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\196885000_1_ori.png"
+  },
+  {
+    "question_id": "196885003",
+    "question": "what color is the umpire's shin pads?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\196885003_1_ori.png"
+  },
+  {
+    "question_id": "196885005",
+    "question": "what is the batter's gender?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\196885005_1_ori.png"
+  }
+]

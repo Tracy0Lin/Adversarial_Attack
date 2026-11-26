@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262531000",
+    "question": "is anyone watching the skater?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262531000_1_ori.png"
+  },
+  {
+    "question_id": "262531001",
+    "question": "what is the man in the hat doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262531001_1_ori.png"
+  },
+  {
+    "question_id": "262531003",
+    "question": "what color is the railing behind the boy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262531003_1_ori.png"
+  },
+  {
+    "question_id": "262531004",
+    "question": "what color is the couch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262531004_1_ori.png"
+  },
+  {
+    "question_id": "262531005",
+    "question": "can you see cars?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262531005_1_ori.png"
+  },
+  {
+    "question_id": "262576001",
+    "question": "is the laptop on or off?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262576001_1_ori.png"
+  },
+  {
+    "question_id": "262576002",
+    "question": "is the power connected to the laptop?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262576002_1_ori.png"
+  },
+  {
+    "question_id": "262576003",
+    "question": "what color blanket is the laptop sitting on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262576003_1_ori.png"
+  },
+  {
+    "question_id": "262587001",
+    "question": "what is this person standing on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262587001_1_ori.png"
+  },
+  {
+    "question_id": "262587002",
+    "question": "how many of the surfer's hands can you see in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262587002_1_ori.png"
+  },
+  {
+    "question_id": "262594000",
+    "question": "what color are the rider's gloves?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262594000_1_ori.png"
+  },
+  {
+    "question_id": "262594001",
+    "question": "what color is the bike?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262594001_1_ori.png"
+  },
+  {
+    "question_id": "262605000",
+    "question": "what color are the walls?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605000_1_ori.png"
+  },
+  {
+    "question_id": "262605001",
+    "question": "does this child need more responsibilities?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605001_1_ori.png"
+  },
+  {
+    "question_id": "262605002",
+    "question": "what is the person throwing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605002_1_ori.png"
+  },
+  {
+    "question_id": "262605003",
+    "question": "is this safe?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605003_1_ori.png"
+  },
+  {
+    "question_id": "262605004",
+    "question": "what are the black squares for?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605004_1_ori.png"
+  },
+  {
+    "question_id": "262605005",
+    "question": "how many framed pictures are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605005_1_ori.png"
+  },
+  {
+    "question_id": "262605007",
+    "question": "is there a bike in this room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605007_1_ori.png"
+  },
+  {
+    "question_id": "262605008",
+    "question": "is there anyone in the room?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605008_1_ori.png"
+  }
+]

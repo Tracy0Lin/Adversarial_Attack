@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "262605010",
+    "question": "how many blades does the ceiling fan have?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605010_1_ori.png"
+  },
+  {
+    "question_id": "262605011",
+    "question": "are  both doors open?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605011_1_ori.png"
+  },
+  {
+    "question_id": "262605012",
+    "question": "is this america?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262605012_1_ori.png"
+  },
+  {
+    "question_id": "262608000",
+    "question": "what is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608000_1_ori.png"
+  },
+  {
+    "question_id": "262608001",
+    "question": "is this a meal for a child?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608001_1_ori.png"
+  },
+  {
+    "question_id": "262608002",
+    "question": "is this a sandwich with a bun?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608002_1_ori.png"
+  },
+  {
+    "question_id": "262608003",
+    "question": "is rice part of this meal?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608003_1_ori.png"
+  },
+  {
+    "question_id": "262608004",
+    "question": "is this food cheesy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608004_1_ori.png"
+  },
+  {
+    "question_id": "262608005",
+    "question": "is this a healthy dish?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608005_1_ori.png"
+  },
+  {
+    "question_id": "262608007",
+    "question": "would a vegan eat this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608007_1_ori.png"
+  },
+  {
+    "question_id": "262608008",
+    "question": "are there onions on this plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608008_1_ori.png"
+  },
+  {
+    "question_id": "262608009",
+    "question": "what color is the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262608009_1_ori.png"
+  },
+  {
+    "question_id": "262609001",
+    "question": "are people in the crosswalk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609001_1_ori.png"
+  },
+  {
+    "question_id": "262609002",
+    "question": "what is the lady walking?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609002_1_ori.png"
+  },
+  {
+    "question_id": "262609004",
+    "question": "what are the words on the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609004_1_ori.png"
+  },
+  {
+    "question_id": "262609005",
+    "question": "are there people waiting to cross the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609005_1_ori.png"
+  },
+  {
+    "question_id": "262609006",
+    "question": "what color is the traffic light?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609006_1_ori.png"
+  },
+  {
+    "question_id": "262609007",
+    "question": "what color is the woman wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609007_1_ori.png"
+  },
+  {
+    "question_id": "262609008",
+    "question": "where does the arrow point?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609008_1_ori.png"
+  },
+  {
+    "question_id": "262609009",
+    "question": "are there a lot of cars parked on the street?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\262609009_1_ori.png"
+  }
+]

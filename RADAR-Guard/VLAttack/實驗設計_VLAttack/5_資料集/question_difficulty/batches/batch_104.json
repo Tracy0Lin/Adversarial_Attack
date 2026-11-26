@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "524889004",
+    "question": "is this a lonely scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524889004_1_ori.png"
+  },
+  {
+    "question_id": "524889006",
+    "question": "what is sitting on the ground?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524889006_1_ori.png"
+  },
+  {
+    "question_id": "524954000",
+    "question": "how many urinals are there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524954000_1_ori.png"
+  },
+  {
+    "question_id": "524957000",
+    "question": "what is walking by the man?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524957000_1_ori.png"
+  },
+  {
+    "question_id": "524957002",
+    "question": "where is the safety helmet?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524957002_1_ori.png"
+  },
+  {
+    "question_id": "524957003",
+    "question": "what color is the saddle?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524957003_1_ori.png"
+  },
+  {
+    "question_id": "524977000",
+    "question": "how many drawers do you see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524977000_1_ori.png"
+  },
+  {
+    "question_id": "524977001",
+    "question": "is the oven built in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524977001_1_ori.png"
+  },
+  {
+    "question_id": "524992001",
+    "question": "is this a bus depot?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\524992001_1_ori.png"
+  },
+  {
+    "question_id": "525021003",
+    "question": "how many motorcycles are in the image?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525021003_1_ori.png"
+  },
+  {
+    "question_id": "525021007",
+    "question": "does everyone have helmets on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525021007_1_ori.png"
+  },
+  {
+    "question_id": "525024000",
+    "question": "is it daytime?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525024000_1_ori.png"
+  },
+  {
+    "question_id": "525024002",
+    "question": "are these kids having fun on the pier?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525024002_1_ori.png"
+  },
+  {
+    "question_id": "525024003",
+    "question": "is this the city?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525024003_1_ori.png"
+  },
+  {
+    "question_id": "525024004",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525024004_1_ori.png"
+  },
+  {
+    "question_id": "525024009",
+    "question": "how many kites do you  see?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525024009_1_ori.png"
+  },
+  {
+    "question_id": "525024010",
+    "question": "is it raining?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525024010_1_ori.png"
+  },
+  {
+    "question_id": "525050007",
+    "question": "what color are the blossoms?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525050007_1_ori.png"
+  },
+  {
+    "question_id": "525050008",
+    "question": "are there cars parked?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525050008_1_ori.png"
+  },
+  {
+    "question_id": "525050018",
+    "question": "is this a recent photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\525050018_1_ori.png"
+  }
+]

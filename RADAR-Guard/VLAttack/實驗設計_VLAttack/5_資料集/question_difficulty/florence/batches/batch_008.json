@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "132415009",
+    "question": "what is the pizza placed on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415009_1_ori.png"
+  },
+  {
+    "question_id": "132415010",
+    "question": "could you pick up this pizza to eat it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415010_1_ori.png"
+  },
+  {
+    "question_id": "132415011",
+    "question": "how many utensils are on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415011_1_ori.png"
+  },
+  {
+    "question_id": "132415016",
+    "question": "what is the pizza in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415016_1_ori.png"
+  },
+  {
+    "question_id": "132415018",
+    "question": "is the pizza deep dish?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415018_1_ori.png"
+  },
+  {
+    "question_id": "132415020",
+    "question": "is there sugar in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415020_1_ori.png"
+  },
+  {
+    "question_id": "132415023",
+    "question": "what type of utensil is in the hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415023_1_ori.png"
+  },
+  {
+    "question_id": "132415025",
+    "question": "how many prongs are on the fork?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415025_1_ori.png"
+  },
+  {
+    "question_id": "132415026",
+    "question": "what is on the plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132415026_1_ori.png"
+  },
+  {
+    "question_id": "132499001",
+    "question": "what time is on the clock?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132499001_1_ori.png"
+  },
+  {
+    "question_id": "132510003",
+    "question": "what color is the photo in?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132510003_1_ori.png"
+  },
+  {
+    "question_id": "132544000",
+    "question": "what color is the umbrella?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132544000_1_ori.png"
+  },
+  {
+    "question_id": "132554001",
+    "question": "which animal is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554001_1_ori.png"
+  },
+  {
+    "question_id": "132554002",
+    "question": "is it muddy?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554002_1_ori.png"
+  },
+  {
+    "question_id": "132554003",
+    "question": "what type of pants is the girl wearing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554003_1_ori.png"
+  },
+  {
+    "question_id": "132554007",
+    "question": "is the woman wearing high heels?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554007_1_ori.png"
+  },
+  {
+    "question_id": "132554008",
+    "question": "is the woman standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554008_1_ori.png"
+  },
+  {
+    "question_id": "132554010",
+    "question": "what color is her hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554010_1_ori.png"
+  },
+  {
+    "question_id": "132554011",
+    "question": "what color are her boots?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554011_1_ori.png"
+  },
+  {
+    "question_id": "132554013",
+    "question": "what decade is the photo from?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\132554013_1_ori.png"
+  }
+]

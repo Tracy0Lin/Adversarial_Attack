@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "525381002",
+    "question": "does the batter have on clean clothes?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp3_success1000\\visual_results\\525381002_1_ori.png"
+  },
+  {
+    "question_id": "525542004",
+    "question": "how many buses are shown?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525542004_1_ori.png"
+  },
+  {
+    "question_id": "525546000",
+    "question": "what brand are her wristbands?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525546000_1_ori.png"
+  },
+  {
+    "question_id": "525546001",
+    "question": "what does the blurry sign in the background say?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525546001_1_ori.png"
+  },
+  {
+    "question_id": "525559000",
+    "question": "how many zebra are standing in the field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525559000_1_ori.png"
+  },
+  {
+    "question_id": "525568003",
+    "question": "are the animals moving?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568003_1_ori.png"
+  },
+  {
+    "question_id": "525568004",
+    "question": "is there something on the zebra's back?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568004_1_ori.png"
+  },
+  {
+    "question_id": "525568006",
+    "question": "what is the gender of the zebra on the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568006_1_ori.png"
+  },
+  {
+    "question_id": "525568008",
+    "question": "how many horses are facing the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568008_1_ori.png"
+  },
+  {
+    "question_id": "525568009",
+    "question": "are these zebras in a field?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568009_1_ori.png"
+  },
+  {
+    "question_id": "525568012",
+    "question": "what are the zebras doing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568012_1_ori.png"
+  },
+  {
+    "question_id": "525568013",
+    "question": "what color is the grass?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525568013_1_ori.png"
+  },
+  {
+    "question_id": "525587002",
+    "question": "will this vehicle leave the area soon?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525587002_1_ori.png"
+  },
+  {
+    "question_id": "525600002",
+    "question": "why are the giraffes gathered there?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525600002_1_ori.png"
+  },
+  {
+    "question_id": "525616000",
+    "question": "is there a dog in this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525616000_1_ori.png"
+  },
+  {
+    "question_id": "525619000",
+    "question": "what color is the dog's leash?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525619000_1_ori.png"
+  },
+  {
+    "question_id": "525619005",
+    "question": "what color is the building?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525619005_1_ori.png"
+  },
+  {
+    "question_id": "525619006",
+    "question": "is the house across the street big or small?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525619006_1_ori.png"
+  },
+  {
+    "question_id": "525619007",
+    "question": "are the little dogs puppies?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525619007_1_ori.png"
+  },
+  {
+    "question_id": "525619010",
+    "question": "is this in london?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_vlattack\\exp3_success1000\\visual_results\\525619010_1_ori.png"
+  }
+]

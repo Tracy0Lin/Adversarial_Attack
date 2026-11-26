@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "527270004",
+    "question": "which hand is he holding up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527270004_1_ori.png"
+  },
+  {
+    "question_id": "527270005",
+    "question": "what color is the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527270005_1_ori.png"
+  },
+  {
+    "question_id": "527270009",
+    "question": "how many people are sitting on the bench?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\527270009_1_ori.png"
+  },
+  {
+    "question_id": "536000",
+    "question": "what room of the house is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536000_1_ori.png"
+  },
+  {
+    "question_id": "536001",
+    "question": "is the blonde lady smiling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536001_1_ori.png"
+  },
+  {
+    "question_id": "536002",
+    "question": "how many people in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536002_1_ori.png"
+  },
+  {
+    "question_id": "536004",
+    "question": "what is the lady looking at?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536004_1_ori.png"
+  },
+  {
+    "question_id": "536005",
+    "question": "how many people are standing?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536005_1_ori.png"
+  },
+  {
+    "question_id": "536006",
+    "question": "is there a trash can near the female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536006_1_ori.png"
+  },
+  {
+    "question_id": "536007",
+    "question": "are the people male or female?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536007_1_ori.png"
+  },
+  {
+    "question_id": "536008",
+    "question": "how many people are in the picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536008_1_ori.png"
+  },
+  {
+    "question_id": "536009",
+    "question": "do they appear to be competing against each other?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536009_1_ori.png"
+  },
+  {
+    "question_id": "536010",
+    "question": "what is she doing with the phone?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536010_1_ori.png"
+  },
+  {
+    "question_id": "536011",
+    "question": "what is the woman holding in the left hand?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536011_1_ori.png"
+  },
+  {
+    "question_id": "536013",
+    "question": "does one girl have blonde hair?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536013_1_ori.png"
+  },
+  {
+    "question_id": "536014",
+    "question": "how many women are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536014_1_ori.png"
+  },
+  {
+    "question_id": "536015",
+    "question": "how many people playing the game?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536015_1_ori.png"
+  },
+  {
+    "question_id": "536016",
+    "question": "are these three teddy bears?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536016_1_ori.png"
+  },
+  {
+    "question_id": "536017",
+    "question": "is there a person wearing glasses?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536017_1_ori.png"
+  },
+  {
+    "question_id": "536018",
+    "question": "are any of the people in the picture wearing hats?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\536018_1_ori.png"
+  }
+]

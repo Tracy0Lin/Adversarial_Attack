@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "480173001",
+    "question": "what is the color of the pitch?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\480173001_1_ori.png"
+  },
+  {
+    "question_id": "480173002",
+    "question": "how many males are in the photo?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\480173002_1_ori.png"
+  },
+  {
+    "question_id": "480173005",
+    "question": "what is the main color of e court green?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\480173005_1_ori.png"
+  },
+  {
+    "question_id": "482719000",
+    "question": "how many bananas are in the bowl?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\482719000_1_ori.png"
+  },
+  {
+    "question_id": "484551002",
+    "question": "what does the woman wear on her hand so she will know when it's about to get dark?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\484551002_1_ori.png"
+  },
+  {
+    "question_id": "486000",
+    "question": "are there bicycles?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\486000_1_ori.png"
+  },
+  {
+    "question_id": "486001",
+    "question": "has the wall been painted recently?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\486001_1_ori.png"
+  },
+  {
+    "question_id": "486003",
+    "question": "what material is the counter made of?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\486003_1_ori.png"
+  },
+  {
+    "question_id": "488001",
+    "question": "what game is been played?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\488001_1_ori.png"
+  },
+  {
+    "question_id": "488002",
+    "question": "is the umpire at home plate?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\488002_1_ori.png"
+  },
+  {
+    "question_id": "502000",
+    "question": "is this bear looking for its cubs?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502000_1_ori.png"
+  },
+  {
+    "question_id": "502001",
+    "question": "does this animal appear to be looking at the camera?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502001_1_ori.png"
+  },
+  {
+    "question_id": "502001001",
+    "question": "what are the people holding up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502001001_1_ori.png"
+  },
+  {
+    "question_id": "502001002",
+    "question": "how many light are hanging?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502001002_1_ori.png"
+  },
+  {
+    "question_id": "502001003",
+    "question": "is there any food on the table?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502001003_1_ori.png"
+  },
+  {
+    "question_id": "502002",
+    "question": "is this animal an herbivore?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502002_1_ori.png"
+  },
+  {
+    "question_id": "502003",
+    "question": "are there stones behind the bear?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502003_1_ori.png"
+  },
+  {
+    "question_id": "502698001",
+    "question": "has this man shaved?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502698001_1_ori.png"
+  },
+  {
+    "question_id": "502698002",
+    "question": "is this man wearing pajamas?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502698002_1_ori.png"
+  },
+  {
+    "question_id": "502749002",
+    "question": "what time of year is it?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\steps100_alpha0.002_run1000\\visual_results\\502749002_1_ori.png"
+  }
+]

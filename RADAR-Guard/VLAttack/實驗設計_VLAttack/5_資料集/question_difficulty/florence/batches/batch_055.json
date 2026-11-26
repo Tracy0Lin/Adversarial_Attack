@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": "715004",
+    "question": "what kind of fruit is this?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\715004_1_ori.png"
+  },
+  {
+    "question_id": "715005",
+    "question": "is this picture taken inside or outside?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\715005_1_ori.png"
+  },
+  {
+    "question_id": "715006",
+    "question": "how are the drinks being kept cold?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\715006_1_ori.png"
+  },
+  {
+    "question_id": "724000",
+    "question": "are there clouds?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\724000_1_ori.png"
+  },
+  {
+    "question_id": "724001",
+    "question": "is this an urban road scene?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\724001_1_ori.png"
+  },
+  {
+    "question_id": "724002",
+    "question": "what's wrong about this picture?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\724002_1_ori.png"
+  },
+  {
+    "question_id": "730001",
+    "question": "are the emergency brakes on?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\730001_1_ori.png"
+  },
+  {
+    "question_id": "730002",
+    "question": "is this a bus?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\730002_1_ori.png"
+  },
+  {
+    "question_id": "757003",
+    "question": "are the elephants cuddling?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757003_1_ori.png"
+  },
+  {
+    "question_id": "757004",
+    "question": "are these animals all touching?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757004_1_ori.png"
+  },
+  {
+    "question_id": "757005",
+    "question": "how long is this trunk?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757005_1_ori.png"
+  },
+  {
+    "question_id": "757013",
+    "question": "are all of the elephants adults?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757013_1_ori.png"
+  },
+  {
+    "question_id": "757015",
+    "question": "are these elephants touching each other?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757015_1_ori.png"
+  },
+  {
+    "question_id": "757016",
+    "question": "do all the elephants have their trunks up?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757016_1_ori.png"
+  },
+  {
+    "question_id": "757017",
+    "question": "how many tusks are visible?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757017_1_ori.png"
+  },
+  {
+    "question_id": "757018",
+    "question": "are these elephants inside of a fenced area?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757018_1_ori.png"
+  },
+  {
+    "question_id": "757020",
+    "question": "is this animal resting?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\757020_1_ori.png"
+  },
+  {
+    "question_id": "761000",
+    "question": "are the men construction workers?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\761000_1_ori.png"
+  },
+  {
+    "question_id": "761004",
+    "question": "is anyone wearing a blue shirt?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\761004_1_ori.png"
+  },
+  {
+    "question_id": "761005",
+    "question": "what color is the jacket of the man on the right?",
+    "image_path": "C:\\Users\\tracy_aboikg6\\OneDrive\\Desktop\\program\\VLAttack_zip\\BLIP_attack\\output\\VQA\\florence_victim\\exp1_mixed1000\\visual_results\\761005_1_ori.png"
+  }
+]
