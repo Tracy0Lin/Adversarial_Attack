@@ -1,0 +1,17 @@
+experiment,feature_stage,theta_note,label,kind,n_rows,feature,mean,std,theta_sigma
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,395,d_center,0.06515566144765593,0.054894221351438906,0.8
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,395,d_iqr,0.022253733993613998,0.032043648988233406,
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,395,d_tail,0.03001993576984238,0.04970652179210362,
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,395,d_q95,0.11146218034238374,0.0740378923254336,
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,391,d_center,0.06096597067656556,0.04733150511263879,
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,391,d_iqr,0.021084450880813455,0.029062561298456913,
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,391,d_tail,0.024203746362834618,0.03729621429997225,
+exp1_steps100_alpha0.002_run1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,391,d_q95,0.10333640728538251,0.06600429451277347,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,326,d_center,0.05895228455119646,0.049039457811357566,0.8
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,326,d_iqr,0.019202532320986107,0.027960337278386666,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,326,d_tail,0.02443421987725271,0.040811384659337105,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),0,clean,326,d_q95,0.09903620483324357,0.0667381007585927,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,350,d_center,0.06270981714320698,0.05015638172910159,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,350,d_iqr,0.019549517156556225,0.02734935596529532,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,350,d_tail,0.024450122662154673,0.03726929295557402,
+exp2_success1000,stage2_post_angular_4d_on_blurred_mid_only,sigma from stage2_gaussian_results (theta* from SSS),1,attack,350,d_q95,0.10334421905905138,0.06931134913475095,

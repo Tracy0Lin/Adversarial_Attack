@@ -1,0 +1,6 @@
+﻿experiment,pipeline,n,TPR,FPR,youden_j
+exp1_steps100_alpha0.002_run1000,stage1 only (high bin),2000,0.289,0.057,0.2319999999999999
+exp1_steps100_alpha0.002_run1000,stage1 + caption-SVM stage2,2000,0.328,0.111,0.217
+exp1_steps100_alpha0.002_run1000,stage1 + answer-flip (sigma=1.5),2000,0.448,0.078,0.37
+exp1_steps100_alpha0.002_run1000,"stage1 + answer-flip (sigma=0.8, theta*)",2000,0.416,0.068,0.348
+exp1_steps100_alpha0.002_run1000,stage1 + flip_count >= 1,2000,0.474,0.087,0.387

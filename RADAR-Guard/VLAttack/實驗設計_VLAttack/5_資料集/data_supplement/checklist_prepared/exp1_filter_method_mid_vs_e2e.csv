@@ -1,0 +1,5 @@
+﻿scope,method,n_eval,n_attack,n_clean,TPR,FPR,youden_j,TP,FP,TN,FN,experiment
+mid_pool_only,flip_count>=thr (Mid only),786,391,395,0.4731457800511509,0.0759493670886076,0.39719641296254327,185,30,365,206,exp1
+mid_pool_only,answer_flip sigma=1.5 (Mid only),786,391,395,0.40664961636828645,0.053164556962025315,0.3534850594062611,159,21,374,232,exp1
+mid_pool_only,caption-SVM high (Mid only),786,391,395,0.09974424552429667,0.13670886075949368,-0.03696461523519701,39,54,341,352,exp1
+e2e_routed_2000,flip_count>=thr (Stage1 route + Mid),2000,1000,1000,0.474,0.087,0.387,474,87,913,526,exp1

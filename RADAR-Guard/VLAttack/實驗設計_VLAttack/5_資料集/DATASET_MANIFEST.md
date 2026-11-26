@@ -22,4 +22,17 @@
 ## 2. 未重複收錄之大型檔案說明
 
 1. **`val2014.zip`（6.64 GB）**：為原始 COCO val2014 全量壓縮包，因 `C:` 剩餘空間有限，未重複複製；實際實驗用之 300 張原圖已完整複製於 `benign_val2014_300/`。
-2. **全量 1,000 對攻擊輸出 PNG 目錄**：`steps100_alpha0.002_run1000/visual_results` 與 `exp2_success1000/visual_results` 之全量圖片未存在於本機 `LAPTOP-3AKL7OUA`（推測存於離線研究機台 `TL`），本目錄已保留其完整結構化日誌（`attack_log_snapshot_2298.json`、`dataset_manifest.csv`）與 109 對代表性成對樣本影像。
+2. **全量攻擊輸出 PNG 目錄**：`exp1_mixed1000/visual_results`、`exp2_success1000/visual_results` 各 1,000 對（2,000 張）已上傳為 GitHub Release `vlattack-data-v1` 的兩個 zip（見 §3）；`steps100_alpha0.002_run1000/visual_results`（約 16 GB）未上傳。本目錄保留其結構化日誌（`attack_log_snapshot_2298.json`、`dataset_manifest.csv`）與 109 對代表性成對樣本影像。
+
+## 3. 後續補充檔案（2026-11-27）
+
+| 路徑 | 內容 | 大小 |
+|---|---|---|
+| `question_difficulty/labels.csv` | 2,538 題困難度標註（easy 1,288 / medium 598 / hard 652；欄位 `question_id, question, n_question_texts, experiments, image_path, image_ok, difficulty_3, reason, difficulty_binary`） | 661,269 bytes |
+| `question_difficulty/samples.csv` | 2,538 題取樣清單 | 約 0.49 MB |
+| `question_difficulty/c1c7_by_difficulty.csv` | 各研究／實驗／C1–C7 類別依困難度的題數彙整 | 2,516 bytes |
+| `experiment_manifests/exp1_mixed1000_dataset_manifest.csv`、`exp2_success1000_dataset_manifest.csv` | 實驗一／二每題的原始預測、對抗預測、攻擊是否成功、SSIM、LPIPS、CLIP | 各約 0.11 MB |
+| `data_supplement/` | 實驗資料補充（42 個 CSV、20 張 PNG、7 個 MD） | 5,765,740 bytes |
+| `release_zips/SHA256SUMS.txt` | Release 兩個 zip 的 SHA-256 | 202 bytes |
+
+**Release 圖片（不在 repo 內）**：`exp1_mixed1000_visual_results.zip`（733,719,871 bytes）、`exp2_success1000_visual_results.zip`（738,985,508 bytes），下載與校驗方式見上層 `README.md` 的「資料與權重下載」。

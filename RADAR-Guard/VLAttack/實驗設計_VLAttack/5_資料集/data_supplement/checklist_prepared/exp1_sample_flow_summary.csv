@@ -1,0 +1,7 @@
+﻿experiment,image_kind,stage_id,stage_label,n,metric_primary,success_or_fooled_n,rate,retention_vs_prev,notes
+exp1,attack,S0_baseline_adv_vqa,基線：對抗圖 VQA（無防禦）,1000,ASR,462,0.462,1.0,success ≡ VQA(adv)≠VQA(ori)
+exp1,clean,S0_baseline_ori_vqa,基線：原圖 VQA（無防禦）,1000,原圖答對率(vs GT),1000,1.0,1.0,非 ASR
+exp1,attack,S3_mitigation_routed,緩解管線：Low 放行 / Mid 高斯 σ=0.8 / High 阻擋,1000,殘存 ASR,251,0.251,0.5432900432900433,θ* 緩解；High 視為攻擊失效
+exp1,attack,S1_high_block_only,僅 Stage1：High 攔截,1000,攔截攻擊數(High),158,0.158,0.658008658008658,High 路由 n=289；其中攻擊成功 158；殘存可騙 304
+exp1,attack,S2_detection_e2e,偵測管線 E2E：Stage1 + Mid flip_count≥1,1000,攻擊攔截率(TPR),474,0.474,0.35714285714285715,FN=526；FN中仍攻擊成功=165（殘存ASR=0.165）；FPR見 clean 列
+exp1,clean,S2_detection_e2e,偵測管線 E2E（flip_count≥1）,1000,誤攔(FPR),87,0.087,,Mid 池糊後改答 n=11（σ=0.8，副作用）

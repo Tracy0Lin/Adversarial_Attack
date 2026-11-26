@@ -1,0 +1,6 @@
+﻿pipeline,n_recomputed,TPR_recomputed,FPR_recomputed,youden_j_recomputed,TP,FP,TN,FN,intercept_attack_n,intercept_attack_rate,false_block_clean_n,false_block_clean_rate,n_saved,TPR_saved,FPR_saved,youden_j_saved,experiment,j_delta
+"stage1 + answer-flip (sigma=0.8, theta*)",2000,0.647,0.159,0.488,647,159,841,353,647.0,0.647,159.0,0.159,,,,,exp2,
+stage1 + answer-flip (sigma=1.5),2000,0.71,0.172,0.538,710,172,828,290,710.0,0.71,172.0,0.172,2000.0,0.71,0.172,0.538,exp2,0.0
+stage1 + caption-SVM stage2,2000,0.504,0.19,0.314,504,190,810,496,504.0,0.504,190.0,0.19,2000.0,0.504,0.19,0.314,exp2,0.0
+stage1 + flip_count >= 1,2000,0.723,0.186,0.5369999999999999,723,186,814,277,723.0,0.723,186.0,0.186,2000.0,0.723,0.186,0.5369999999999999,exp2,0.0
+stage1 only (high bin),2000,0.431,0.141,0.29000000000000004,431,141,859,569,,,,,2000.0,0.431,0.141,0.29,exp2,5.551115123125783e-17

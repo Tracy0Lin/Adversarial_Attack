@@ -1,0 +1,6 @@
+﻿factor,exp1,exp2,delta_exp2_minus_exp1,interpretation
+Stage1_high_routing_on_attacks,289.0,431.0,142.0,High 直接攔截；實驗二成功攻擊更常進 High
+stage1_only_TPR,0.289,0.431,0.14200000000000002,Stage1 單獨貢獻的攻擊攔截率
+stage2_flip_increment_TPR,0.185,0.292,0.10699999999999998,Mid 翻轉探針在路由後追加的 TPR
+residual_ASR_after_routed_mitigation,0.251,0.409,0.15799999999999997,緩解管線殘存 ASR（非偵測）
+clean_false_block_FPR_e2e,0.087,0.186,0.099,乾淨圖誤攔率

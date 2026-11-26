@@ -1,0 +1,6 @@
+﻿defense_key,defense_label,all_attack_n,all_wrong_after,all_wrong_after_pct,success_n,success_still_fooled,residual_asr_pct,success_rescued,fail_n,fail_broke,fail_broke_pct,stay_wrong,stay_right
+mild_defense,mild resize,1000,384,38.4,462,344,74.46,118,538,40,7.43,344,498
+strong_defense,strong resize,1000,273,27.3,462,206,44.59,256,538,67,12.45,206,471
+gaussian_mild,gaussian 3x3,1000,321,32.1,462,264,57.14,198,538,57,10.59,264,481
+gaussian_strong,gaussian 5x5,1000,233,23.3,462,171,37.01,291,538,62,11.52,171,476
+resize_gaussian,resize + gaussian,1000,253,25.3,462,191,41.34,271,538,62,11.52,191,476

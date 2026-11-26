@@ -25,3 +25,15 @@
 - HuggingFace 快取（`C:\Users\tracy\.cache\huggingface\hub\`）：`sentence-transformers/all-MiniLM-L6-v2`、`bert-base-uncased`
 
 > **版本相容性提醒**：上述 `.joblib` 係以系統執行環境 `VLAttack_Web\.venv`（`scikit-learn==1.6.1`）匯出；若改於實驗環境 `VLAttack\vlattack_env`（`scikit-learn==1.7.2`）載入，建議執行 `python 2_訓練腳本/train_stage1_svm.py` 重新匯出以消除版號警告，或依賴 `vlattack_engine.py` 內建的 CSV 自動擬合備援機制。
+
+## 3. 官方下載連結（2026-11-27 以 HEAD 請求確認皆為 HTTP 200）
+
+來源：Salesforce BLIP 官方 README（https://github.com/salesforce/BLIP）。Content-Length 與實驗所用檔案相同。
+
+| 檔案 | 官方下載 | bytes | SHA-256（實驗所用檔案） |
+|---|---|---:|---|
+| `model_base_14M.pth` | https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_14M.pth | 2,115,792,294 | `894d4946d521a258dfb3e069c7cf4556e9da1865b7356d71e75226d384f99a46` |
+| `model_base_caption_capfilt_large.pth` | https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_caption_capfilt_large.pth | 896,081,425 | `96ac8749bd0a568c274ebe302b3a3748ab9be614c737f3d8c529697139174086` |
+| `model_vqa.pth` | https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_vqa.pth | 1,446,244,375 | `91b817b95d4f9f38de6d1ab10b993ab7c5816b8e9d4bc40e7cc2c10d1d02f729` |
+
+放置位置與環境變數 `VLATTACK_CHECKPOINTS_DIR` 的設定，請見上上層 `README.md` 的「資料與權重下載」。三個 `.pth` 不放進本 repo（也不使用 Git LFS）。

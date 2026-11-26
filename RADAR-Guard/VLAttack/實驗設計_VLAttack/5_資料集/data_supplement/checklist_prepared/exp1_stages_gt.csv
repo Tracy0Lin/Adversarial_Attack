@@ -1,0 +1,25 @@
+﻿experiment,stage,label_zh,metric_id,denominator_n,count,rate,note
+exp1,S0,基線（對抗圖，無防禦）,attack_wrong_vs_gt,1000,462.0,0.462,VQA(adv)≠標準答案
+exp1,S0,基線（原圖，無防禦）,clean_correct_vs_gt,1000,1000.0,1.0,VQA(ori)=標準答案
+exp1,S1,TC-VAD 路由（Attack→low）,attack_route_low_n,1000,320.0,0.32,路由後 VQA 仍為對抗圖輸出
+exp1,S1,Attack low 內攻擊率(vs GT),attack_wrong_in_low,320,139.0,0.434375,該 bin 內 adv 答案≠GT
+exp1,S1,TC-VAD 路由（Attack→mid）,attack_route_mid_n,1000,391.0,0.391,路由後 VQA 仍為對抗圖輸出
+exp1,S1,Attack mid 內攻擊率(vs GT),attack_wrong_in_mid,391,165.0,0.4219948849104859,該 bin 內 adv 答案≠GT
+exp1,S1,TC-VAD 路由（Attack→high）,attack_route_high_n,1000,289.0,0.289,路由後 VQA 仍為對抗圖輸出
+exp1,S1,Attack high 內攻擊率(vs GT),attack_wrong_in_high,289,158.0,0.5467128027681661,該 bin 內 adv 答案≠GT
+exp1,S1,TC-VAD 路由（Clean→low）,clean_route_low_n,1000,548.0,0.548,僅分流
+exp1,S1,TC-VAD 路由（Clean→mid）,clean_route_mid_n,1000,395.0,0.395,僅分流
+exp1,S1,TC-VAD 路由（Clean→high）,clean_route_high_n,1000,57.0,0.057,僅分流
+exp1,S1,TC-VAD 分類（P1 OOF）,auroc_p1,2000,,0.6655,2000 列偵測 AUROC
+exp1,S2_mit,Mid 池緩解（5×5 σ=0.8，煳前）,mid_attack_wrong_before,391,165.0,0.4219948849104859,Mid 對抗圖 VQA≠GT
+exp1,S2_mit,Mid 池緩解（5×5 σ=0.8，煳後）,mid_attack_wrong_after,391,112.0,0.2864450127877238,煳後 BLIP 答案≠GT（Stage2 攻擊率定義）
+exp1,S2_mit,Mid 池緩解維持率(vs Mid 煳前),mid_retention,391,,0.6787878787878788,wrong_after / wrong_before
+exp1,S2_mit,全流程緩解（Low 放行/Mid 煳/High 阻擋）,routed_attack_wrong_vs_gt,1000,251.0,0.251,High 視為恢復正確；Mid 用煳後≠GT
+exp1,S2_mit,全流程緩解維持率(vs S0),routed_retention_vs_s0,1000,,0.5432900432900433,殘存攻擊率 / S0 攻擊率
+exp1,S2_mit,Mid 乾淨圖副作用（σ=0.8）,mid_clean_wrong_after_blur,395,11.0,0.027848101265822784,原圖本對；煳後 BLIP≠GT
+exp1,S2_det,僅 Stage1 High 攔截,stage1_TPR,1000,289.0,0.289,偵測 TPR
+exp1,S2_det,僅 Stage1,stage1_FPR,1000,57.0,0.057,偵測 FPR
+exp1,S2_det,E2E 偵測 flip_count≥1,e2e_TPR,1000,474.0,0.474,Stage1 路由 + Mid 翻轉
+exp1,S2_det,E2E flip_count≥1,e2e_FPR,1000,87.0,0.087,乾淨誤攔
+exp1,S2_det,E2E 放行後仍攻擊(vs GT),residual_wrong_after_det,1000,165.0,0.165,FN 子集上 adv 仍≠GT
+exp1,S2_det,E2E Youden J,youden_j,2000,,0.387,TPR−FPR

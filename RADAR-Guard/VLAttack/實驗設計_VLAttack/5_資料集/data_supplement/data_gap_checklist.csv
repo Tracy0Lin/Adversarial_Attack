@@ -1,0 +1,9 @@
+priority,item,description,exp1,exp2,action
+optional,stage1_pre_angular_per_probe,11 cosine or delta values per image before 4-D aggregation,missing,missing,Extend evaluate_best_stage1_new.py to dump arrays; re-run Stage1 GPU ~1–1.5h each
+optional,stage2_4d_full_2000_rows,Stage2 caption features on all rows (not only mid-risk),by_design_mid_only_786,by_design_mid_only_676,Only if ablation needs it; conflicts with pipeline routing definition
+optional,clean_blur_harm_low_high_bins,Answer-change rate on clean images in low/high risk bins @ theta*,not_logged,not_logged,Extra VQA+blur pass on non-mid clean (~0.5–1h GPU) if reviewer requires
+done,stage1_post_angular_4d,tcvad_stage1_4_academic_dataset.csv,present_2000,present_2000,Use data_supplement/stage1_4d_summary.csv
+done,stage2_post_angular_4d_mid,stage2_gaussian_results.csv (blur then same angular 4-D),present_786,present_676,Use data_supplement/stage2_4d_summary.csv
+required_if_missing,mitigation_asr_summary,mitigation_summary.csv @ theta* (mitigation routing ASR),present,present,python BLIP_attack/output/mitigation_summary.py --experiment_root <dir>
+done,stage2_detection_flip,"detector_comparison.csv, theta_det_sweep.csv (not ASR)",present,present,Use data_supplement/stage2_detection_end2end.csv
+low,exp1_mixed1000_full_pipeline,Duplicate of run1000; incomplete SSS in exp1_mixed1000/,use_steps100_alpha0.002_run1000_instead,n/a,Do not duplicate; cite steps100_alpha0.002_run1000

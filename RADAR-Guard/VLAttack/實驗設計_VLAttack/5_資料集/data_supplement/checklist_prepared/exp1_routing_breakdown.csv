@@ -1,0 +1,7 @@
+﻿image_kind,stage,risk_bin,n,attack_success_n,attack_success_rate,adv_wrong_vs_gt_n,adv_wrong_vs_gt_rate,ori_correct_n,ori_correct_rate,experiment
+attack,S1_TCVAD_routing,low,320,139.0,0.434375,139.0,0.434375,,,exp1
+attack,S1_TCVAD_routing,mid,391,165.0,0.4219948849104859,165.0,0.4219948849104859,,,exp1
+attack,S1_TCVAD_routing,high,289,158.0,0.5467128027681661,158.0,0.5467128027681661,,,exp1
+clean,S1_TCVAD_routing,low,548,,,,,548.0,1.0,exp1
+clean,S1_TCVAD_routing,mid,395,,,,,395.0,1.0,exp1
+clean,S1_TCVAD_routing,high,57,,,,,57.0,1.0,exp1

@@ -1,0 +1,9 @@
+﻿metric_id,label,exp1_rate,exp2_rate,delta_exp2_minus_exp1
+attack_wrong_vs_gt,基線（對抗圖，無防禦）,0.462,1.0,0.538
+routed_attack_wrong_vs_gt,全流程緩解（Low 放行/Mid 煳/High 阻擋）,0.251,0.409,0.15799999999999997
+mid_attack_wrong_after,Mid 池緩解（5×5 σ=0.8，煳後）,0.2864450127877238,0.5428571428571428,0.25641213006941904
+e2e_TPR,E2E 偵測 flip_count≥1,0.474,0.723,0.249
+e2e_FPR,E2E flip_count≥1,0.087,0.186,0.099
+residual_wrong_after_det,E2E 放行後仍攻擊(vs GT),0.165,0.277,0.11200000000000002
+mid_clean_wrong_after_blur,Mid 乾淨圖副作用（σ=0.8）,0.027848101265822784,0.05214723926380368,0.024299137997980894
+auroc_p1,TC-VAD 分類（P1 OOF）,0.6655,0.7212,0.05569999999999997

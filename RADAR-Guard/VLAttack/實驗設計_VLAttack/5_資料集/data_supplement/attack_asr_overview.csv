@@ -1,0 +1,3 @@
+experiment,metric,value,detail
+exp1_steps100_alpha0.002_run1000,attack_asr_on_1000_adv,0.462,attack_rate_summary.json
+exp2_success1000,attack_asr_on_1000_adv,1.0,cohort: all 1000 adversarial samples are attack_success

@@ -1,0 +1,25 @@
+﻿experiment,stage,label_zh,metric_id,denominator_n,count,rate,note
+exp2,S0,基線（對抗圖，無防禦）,attack_wrong_vs_gt,1000,1000.0,1.0,VQA(adv)≠標準答案
+exp2,S0,基線（原圖，無防禦）,clean_correct_vs_gt,1000,1000.0,1.0,VQA(ori)=標準答案
+exp2,S1,TC-VAD 路由（Attack→low）,attack_route_low_n,1000,219.0,0.219,路由後 VQA 仍為對抗圖輸出
+exp2,S1,Attack low 內攻擊率(vs GT),attack_wrong_in_low,219,219.0,1.0,該 bin 內 adv 答案≠GT
+exp2,S1,TC-VAD 路由（Attack→mid）,attack_route_mid_n,1000,350.0,0.35,路由後 VQA 仍為對抗圖輸出
+exp2,S1,Attack mid 內攻擊率(vs GT),attack_wrong_in_mid,350,350.0,1.0,該 bin 內 adv 答案≠GT
+exp2,S1,TC-VAD 路由（Attack→high）,attack_route_high_n,1000,431.0,0.431,路由後 VQA 仍為對抗圖輸出
+exp2,S1,Attack high 內攻擊率(vs GT),attack_wrong_in_high,431,431.0,1.0,該 bin 內 adv 答案≠GT
+exp2,S1,TC-VAD 路由（Clean→low）,clean_route_low_n,1000,533.0,0.533,僅分流
+exp2,S1,TC-VAD 路由（Clean→mid）,clean_route_mid_n,1000,326.0,0.326,僅分流
+exp2,S1,TC-VAD 路由（Clean→high）,clean_route_high_n,1000,141.0,0.141,僅分流
+exp2,S1,TC-VAD 分類（P1 OOF）,auroc_p1,2000,,0.7212,2000 列偵測 AUROC
+exp2,S2_mit,Mid 池緩解（5×5 σ=0.8，煳前）,mid_attack_wrong_before,350,350.0,1.0,Mid 對抗圖 VQA≠GT
+exp2,S2_mit,Mid 池緩解（5×5 σ=0.8，煳後）,mid_attack_wrong_after,350,190.0,0.5428571428571428,煳後 BLIP 答案≠GT（Stage2 攻擊率定義）
+exp2,S2_mit,Mid 池緩解維持率(vs Mid 煳前),mid_retention,350,,0.5428571428571428,wrong_after / wrong_before
+exp2,S2_mit,全流程緩解（Low 放行/Mid 煳/High 阻擋）,routed_attack_wrong_vs_gt,1000,409.0,0.409,High 視為恢復正確；Mid 用煳後≠GT
+exp2,S2_mit,全流程緩解維持率(vs S0),routed_retention_vs_s0,1000,,0.409,殘存攻擊率 / S0 攻擊率
+exp2,S2_mit,Mid 乾淨圖副作用（σ=0.8）,mid_clean_wrong_after_blur,326,17.0,0.05214723926380368,原圖本對；煳後 BLIP≠GT
+exp2,S2_det,僅 Stage1 High 攔截,stage1_TPR,1000,431.0,0.431,偵測 TPR
+exp2,S2_det,僅 Stage1,stage1_FPR,1000,141.0,0.141,偵測 FPR
+exp2,S2_det,E2E 偵測 flip_count≥1,e2e_TPR,1000,723.0,0.723,Stage1 路由 + Mid 翻轉
+exp2,S2_det,E2E flip_count≥1,e2e_FPR,1000,186.0,0.186,乾淨誤攔
+exp2,S2_det,E2E 放行後仍攻擊(vs GT),residual_wrong_after_det,1000,277.0,0.277,FN 子集上 adv 仍≠GT
+exp2,S2_det,E2E Youden J,youden_j,2000,,0.5369999999999999,TPR−FPR

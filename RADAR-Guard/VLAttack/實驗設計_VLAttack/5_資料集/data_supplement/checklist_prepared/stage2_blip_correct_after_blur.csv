@@ -1,0 +1,7 @@
+﻿experiment,experiment_title,scope,sigma,n,correct_after_blur_n,correct_after_blur_rate,wrong_after_blur_n,wrong_after_blur_rate,note,correct_before_blur_n,correct_before_blur_rate
+exp1,實驗一,mid_pool_attack,0.8,391,279,0.7135549872122762,112,0.28644501278772383,Mid 對抗圖：煳前 pred_ref、煳後 pred_denoised，皆與 correct_ans 比,226,0.578005115089514
+exp1,實驗一,mid_pool_clean,0.8,395,384,0.9721518987341772,11,0.027848101265822822,Mid 乾淨圖：煳後仍答對 = 未因模糊答錯,395,1.0
+exp1,實驗一,routed_mitigation_1000_attack,0.8,1000,749,0.749,251,0.251,Low=adv VQA；Mid=煳後 VQA；High=阻擋視為輸出 GT（攻擊失效）,538,0.538
+exp2,實驗二,mid_pool_attack,0.8,350,160,0.45714285714285713,190,0.5428571428571429,Mid 對抗圖：煳前 pred_ref、煳後 pred_denoised，皆與 correct_ans 比,0,0.0
+exp2,實驗二,mid_pool_clean,0.8,326,309,0.9478527607361963,17,0.05214723926380371,Mid 乾淨圖：煳後仍答對 = 未因模糊答錯,325,0.9969325153374233
+exp2,實驗二,routed_mitigation_1000_attack,0.8,1000,591,0.591,409,0.40900000000000003,Low=adv VQA；Mid=煳後 VQA；High=阻擋視為輸出 GT（攻擊失效）,0,0.0

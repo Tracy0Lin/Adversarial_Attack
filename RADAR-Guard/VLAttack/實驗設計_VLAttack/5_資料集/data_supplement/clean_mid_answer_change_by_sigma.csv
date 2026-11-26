@@ -1,0 +1,11 @@
+experiment,cohort,sigma,n,answer_change_rate,answer_change_count,note
+exp1_steps100_alpha0.002_run1000,mid_risk_clean_only,0.3,395,0.005063291139240506,2,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp1_steps100_alpha0.002_run1000,mid_risk_clean_only,0.5,395,0.02531645569620253,10,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp1_steps100_alpha0.002_run1000,mid_risk_clean_only,0.8,395,0.027848101265822784,11,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp1_steps100_alpha0.002_run1000,mid_risk_clean_only,1.0,395,0.04050632911392405,16,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp1_steps100_alpha0.002_run1000,mid_risk_clean_only,1.5,395,0.053164556962025315,21,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp2_success1000,mid_risk_clean_only,0.3,326,0.018404907975460124,6,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp2_success1000,mid_risk_clean_only,0.5,326,0.04294478527607362,14,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp2_success1000,mid_risk_clean_only,0.8,326,0.05521472392638037,18,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp2_success1000,mid_risk_clean_only,1.0,326,0.07975460122699386,26,Not attack ASR; VQA answer changed after Gaussian blur on ori image
+exp2_success1000,mid_risk_clean_only,1.5,326,0.0950920245398773,31,Not attack ASR; VQA answer changed after Gaussian blur on ori image

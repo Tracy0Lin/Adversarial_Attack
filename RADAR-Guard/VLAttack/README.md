@@ -82,6 +82,79 @@ RADAR-Guard_專題成果_20261125/
 2. **COCO val2014 完整壓縮檔（6.64 GB）**：
    - `C:\Users\tracy\github\VLAttack\BLIP_attack\data\VQAv2\val2014.zip` 未重複複製；本資料夾 `5_資料集/benign_val2014_300/` 已完整收錄實驗實際使用之 **300 張**良性原圖（46.6 MB），並收錄 **109 對**（smoke20 + deep_dive_blip + web_demo_7cases）良性與對抗成對 PNG，以及 **1,000 / 2,000 列完整實驗表格特徵 CSV/JSON**。
 3. **1,000 對全量 PNG 輸出目錄**：
-   - `steps100_alpha0.002_run1000/visual_results` 與 `exp2_success1000/visual_results` 的全量 PNG 影像檔未存於本機 `LAPTOP-3AKL7OUA`（推測存於離線研究機台 `TL`），本機已完整保留其對應之特徵 CSV、VQA 攻擊紀錄 JSON 與評估結果。
+   - `exp1_mixed1000/visual_results` 與 `exp2_success1000/visual_results` 已壓縮為兩個 zip，上傳到 GitHub Release `vlattack-data-v1`（見下方「資料與權重下載」）；`steps100_alpha0.002_run1000/visual_results`（約 16 GB）未上傳，本 repo 保留其特徵 CSV、VQA 攻擊紀錄 JSON 與評估結果。
 4. **HuggingFace 快取模型**：
    - `sentence-transformers/all-MiniLM-L6-v2` 與 `bert-base-uncased` 位於 `C:\Users\tracy\.cache\huggingface\hub\`，可供離線／快取載入。
+
+---
+
+## 資料與權重下載（Release 圖片與官方 BLIP 權重）
+
+本 repo 只放小檔（程式、CSV、JSON、文件與三個 SVM `.joblib`），**不使用 Git LFS**。大型檔案分成兩類：Release 上的實驗圖片壓縮檔，以及 Salesforce 官方的 BLIP 權重。
+
+### 1. 實驗圖片（GitHub Release `vlattack-data-v1`）
+
+| 檔案 | 內容 | 大小 | SHA-256 |
+|---|---|---:|---|
+| `exp1_mixed1000_visual_results.zip` | 實驗一 1,000 對（`_1_ori.png` 乾淨圖 + `_2_atk.png` 攻擊圖，共 2,000 張）及 `dataset_manifest.csv` | 733,719,871 bytes（0.68 GiB） | `2740f7b0e036272b3b33df1f5df71c822a40626d2c1c8046cbd096e07862e7ea` |
+| `exp2_success1000_visual_results.zip` | 實驗二 1,000 對成功攻擊（2,000 張）及 `dataset_manifest.csv` | 738,985,508 bytes（0.69 GiB） | `f56dbd2fd82341ce9f6a34c37090c87baa7a066e527f1f99231b00b90512e0ac` |
+
+- Release 頁面：https://github.com/Tracy0Lin/Adversarial_Attack/releases/tag/vlattack-data-v1
+- 直接下載：
+  - https://github.com/Tracy0Lin/Adversarial_Attack/releases/download/vlattack-data-v1/exp1_mixed1000_visual_results.zip
+  - https://github.com/Tracy0Lin/Adversarial_Attack/releases/download/vlattack-data-v1/exp2_success1000_visual_results.zip
+- **本 repo 為私有**，下載需要有 repo 讀取權限並已登入 GitHub；未登入時直接以瀏覽器或 curl 開連結會得到 404。建議使用 GitHub CLI：
+
+```bash
+gh release download vlattack-data-v1 --repo Tracy0Lin/Adversarial_Attack --dir release_zips_download
+```
+
+- 校驗方式：把兩個 zip 與 `實驗設計_VLAttack/5_資料集/release_zips/SHA256SUMS.txt` 放在同一資料夾後執行：
+
+```bash
+sha256sum -c SHA256SUMS.txt          # Linux / macOS / Git Bash
+```
+
+```powershell
+# Windows PowerShell：逐一比對，輸出需與 SHA256SUMS.txt 相同
+Get-FileHash .\exp1_mixed1000_visual_results.zip -Algorithm SHA256
+Get-FileHash .\exp2_success1000_visual_results.zip -Algorithm SHA256
+```
+
+- 解壓後會得到 `exp1_mixed1000/visual_results/*.png` 與 `exp2_success1000/visual_results/*.png`，檔名格式為 `<question_id>_1_ori.png`、`<question_id>_2_atk.png`。
+- 小檔 CSV 另放在 repo：`實驗設計_VLAttack/5_資料集/question_difficulty/`（`labels.csv`、`samples.csv`、`c1c7_by_difficulty.csv`）、`5_資料集/experiment_manifests/`、`5_資料集/data_supplement/`，以及 `成果報告/2026-11-09_難度與C1到C7.md`。其中 `labels.csv`、`samples.csv` 的 `image_path` 欄為原實驗機（TL）的絕對路徑，僅供追溯，移機後請改用 zip 內的相對路徑。
+
+### 2. BLIP 預訓練權重（官方下載，不在 repo 內）
+
+三個檔案皆來自 Salesforce BLIP 官方 README（https://github.com/salesforce/BLIP），下載連結已以 HEAD 請求確認為 HTTP 200，且 Content-Length 與本專案實驗使用的檔案完全相同。
+
+| 檔案 | 用途 | 大小（bytes） | 官方下載 | SHA-256（實驗所用檔案） |
+|---|---|---:|---|---|
+| `model_base_14M.pth` | BLIP 預訓練模型（BSA PGD 白盒代理梯度來源） | 2,115,792,294 | https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_14M.pth | `894d4946d521a258dfb3e069c7cf4556e9da1865b7356d71e75226d384f99a46` |
+| `model_base_caption_capfilt_large.pth` | BLIP Caption（Stage 1 的 11 句描述） | 896,081,425 | https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_caption_capfilt_large.pth | `96ac8749bd0a568c274ebe302b3a3748ab9be614c737f3d8c529697139174086` |
+| `model_vqa.pth` | BLIP-VQA 受害模型 | 1,446,244,375 | https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_vqa.pth | `91b817b95d4f9f38de6d1ab10b993ab7c5816b8e9d4bc40e7cc2c10d1d02f729` |
+
+```bash
+mkdir -p checkpoints && cd checkpoints
+curl -L -O https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_14M.pth
+curl -L -O https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_caption_capfilt_large.pth
+curl -L -O https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_vqa.pth
+```
+
+**放置位置：** 預設放在 `BLIP_attack/checkpoints/`。放在其他位置時，設定環境變數 `VLATTACK_CHECKPOINTS_DIR` 指向存放三個 `.pth` 的資料夾（或設 `VLATTACK_ROOT`），`vlattack_engine.py` 會依序搜尋。
+
+```powershell
+$env:VLATTACK_CHECKPOINTS_DIR = 'D:\models\blip'     # Windows PowerShell
+```
+
+```bash
+export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
+```
+
+另需 HuggingFace 的 `sentence-transformers/all-MiniLM-L6-v2` 與 `bert-base-uncased`，首次執行時會自動下載。
+
+### 3. 未包含的資料
+
+- `steps100_alpha0.002_run1000/visual_results`：4,423 組 × 12 種變化共 53,076 張 PNG、約 16 GB，體積過大，未上傳；其統計與特徵表已在 `實驗設計_VLAttack/5_資料集/tabular_features_and_logs/steps100_alpha0.002_run1000/`。
+- COCO val2014 完整影像（40,504 張，約 6.18 GB）：請自行從 COCO 官方網站下載（https://cocodataset.org/#download）；實驗實際用到的 300 張已收錄在 `實驗設計_VLAttack/5_資料集/benign_val2014_300/`。
+- Florence 相關輸出不屬於 VLAttack 交付範圍。

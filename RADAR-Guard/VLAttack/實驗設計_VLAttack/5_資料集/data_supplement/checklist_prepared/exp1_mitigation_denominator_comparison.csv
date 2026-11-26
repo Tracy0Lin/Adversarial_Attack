@@ -1,0 +1,5 @@
+﻿cohort,n,asr_before,asr_after_mid_blur_only,retention_rate
+mid_pool_attack_n391,391,0.4219948849104859,0.2864450127877238,0.6787878787878788
+attack_success_only_in_mid,165,1.0,0.5212121212121212,0.5212121212121212
+all_1000_attack_mid_denoise_only_sigma_0.8,1000,0.462,0.409,0.8852813852813852
+attack_success_log_n462_mid_denoise_only_sigma_0.8,462,1.0,0.829004329004329,0.829004329004329
