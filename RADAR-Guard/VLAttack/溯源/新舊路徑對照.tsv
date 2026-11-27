@@ -1,0 +1,45 @@
+舊路徑	新路徑	說明
+實驗設計_VLAttack/1_資料前處理/florence	實驗/程式/Florence/攻擊	Florence-2 攻擊與資料建立
+實驗設計_VLAttack/3_評估腳本/florence	實驗/程式/Florence/評估	Florence-2 評估
+實驗設計_VLAttack/1_資料前處理/question_difficulty	實驗/程式/5_題目難度	題目難度建表與合併
+實驗設計_VLAttack/1_資料前處理/備份_勿執行	實驗/程式/_備份_勿執行	流程備份，請勿執行
+實驗設計_VLAttack/1_資料前處理	實驗/程式/1_攻擊與資料建立	BLIP 攻擊程式整套（models/data/utils 互相引用，不拆）
+實驗設計_VLAttack/2_訓練腳本/train_stage1_svm.py	實驗/程式/2_訓練/train_stage1_svm.py	Stage 1 SVM 訓練
+實驗設計_VLAttack/3_評估腳本/stage_routing_deep_dive	實驗/程式/4_報告產生/stage_routing_deep_dive	C1～C7 報告產生
+實驗設計_VLAttack/3_評估腳本/regen_c1c7_by_difficulty.py	實驗/程式/4_報告產生/regen_c1c7_by_difficulty.py	報告產生（無本地 import）
+實驗設計_VLAttack/3_評估腳本/build_checklist_analytics.py	實驗/程式/4_報告產生/build_checklist_analytics.py	報告產生（無本地 import）
+實驗設計_VLAttack/3_評估腳本/build_experiment_data_supplement.py	實驗/程式/4_報告產生/build_experiment_data_supplement.py	報告產生（無本地 import）
+實驗設計_VLAttack/3_評估腳本/build_staged_results_report.py	實驗/程式/4_報告產生/build_staged_results_report.py	報告產生（無本地 import）
+實驗設計_VLAttack/3_評估腳本/make_final_report.py	實驗/程式/4_報告產生/make_final_report.py	報告產生（無本地 import）
+實驗設計_VLAttack/3_評估腳本/mid_stage2_report.py	實驗/程式/4_報告產生/mid_stage2_report.py	報告產生（無本地 import）
+實驗設計_VLAttack/3_評估腳本/export_three_exp_report_metrics.py	實驗/程式/4_報告產生/export_three_exp_report_metrics.py	報告產生（無本地 import）
+實驗設計_VLAttack/實驗二_cos_vs_角距_圖表	實驗/程式/4_報告產生/實驗二_cos_vs_角距_圖表	實驗二圖表腳本與輸出
+實驗設計_VLAttack/3_評估腳本	實驗/程式/3_評估	評估腳本（主流程與舊流程互相 import，不拆）
+實驗設計_VLAttack/4_MU_實驗操作手冊.md	文件/實驗操作手冊.md	
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/multi_captioner_blip	實驗/資料/BLIP/主流程_multi_captioner	BLIP 主流程（README Exp1/Exp3 端到端、C1～C7 來源）
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/steps100_alpha0.002_run1000	實驗/資料/BLIP/舊流程/steps100_alpha0.002_run1000	Exp1 原始攻擊 1,000 題
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/exp1_mixed1000	實驗/資料/BLIP/舊流程/exp1_mixed1000	
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/exp2_success1000	實驗/資料/BLIP/舊流程/exp2_success1000	SSS、翻轉偵測、Exp2 40.9%
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/rotation_cos_vs_ang	實驗/資料/BLIP/Stage1正式_11-22	Stage 1 正式 11/22 cos vs 角距
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/attack_param_search	實驗/資料/BLIP/攻擊參數搜尋	
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/florence_vlattack	實驗/資料/Florence/florence_vlattack	報告用的 Florence 數字
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/florence_victim	實驗/資料/Florence/florence_victim	白盒 PGD，Exp1 全部攻擊成功，與 Exp2 同一批
+實驗設計_VLAttack/5_資料集/tabular_features_and_logs/stage_routing_deep_dive	實驗/資料/分流分析_C1到C7	
+實驗設計_VLAttack/5_資料集/annotations	實驗/資料/輸入/annotations	
+實驗設計_VLAttack/5_資料集/benign_val2014_300	實驗/資料/輸入/benign_val2014_300	
+實驗設計_VLAttack/5_資料集/question_difficulty	實驗/資料/題目難度	
+實驗設計_VLAttack/5_資料集/paired_samples	實驗/資料/成對樣本圖	
+實驗設計_VLAttack/5_資料集/experiment_manifests	實驗/資料/實驗清單	
+實驗設計_VLAttack/5_資料集/data_supplement	實驗/資料/補充資料表	
+實驗設計_VLAttack/5_資料集/release_zips	實驗/資料/release_zips	
+實驗設計_VLAttack/5_資料集/DATASET_MANIFEST.md	實驗/資料/DATASET_MANIFEST.md	
+實驗設計_VLAttack/6_模型參數	實驗/模型	
+系統/2_SDS_軟體設計規格書.md	文件/SDS_軟體設計規格書.md	
+系統/3_MU_系統操作手冊.md	文件/系統操作手冊.md	
+成果報告	文件/成果報告	歷史報告，內文路徑保留舊名，請查本表
+SCRIPT_ORIGIN_MAP.tsv	溯源/SCRIPT_ORIGIN_MAP.tsv	
+SHA256SUMS_scripts.txt	溯源/SHA256SUMS_scripts.txt	
+實驗設計_VLAttack/2_訓練腳本/analyze.py	（刪除）	與 實驗/程式/3_評估/analyze.py 內容完全相同
+實驗設計_VLAttack/2_訓練腳本/common.py	（刪除）	與 實驗/程式/3_評估/common.py 內容完全相同
+實驗設計_VLAttack/2_訓練腳本/evaluate_best_stage1_new.py	（刪除）	與 實驗/程式/3_評估/evaluate_best_stage1_new.py 內容完全相同
+實驗設計_VLAttack/2_訓練腳本/evaluate_stage2_gaussian.py	（刪除）	與 實驗/程式/3_評估/evaluate_stage2_gaussian.py 內容完全相同

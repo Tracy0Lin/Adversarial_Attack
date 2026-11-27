@@ -8,8 +8,10 @@
 
 ## 目錄結構總覽
 
+2026-11-27 全面整理過資料夾架構。舊路徑對應到哪個新路徑，請查 `溯源/新舊路徑對照.tsv`。`文件/成果報告/` 是歷史紀錄，內文仍使用舊路徑名稱。
+
 ```text
-RADAR-Guard_專題成果_20261125/
+VLAttack/
 ├── README.md                              # 本總覽文件（結構、來源對照、缺漏與外部權重說明）
 ├── requirements.txt                       # 系統網站與推論環境套件清單（來自 VLAttack_Web\.venv，Python 3.10.11 / PyTorch 2.2.2 / sklearn 1.6.1）
 ├── requirements_experiment.txt            # 實驗評估環境套件清單（來自 VLAttack\vlattack_env，Python 3.10.11 / PyTorch 1.13.1 / sklearn 1.7.2）
@@ -29,17 +31,33 @@ RADAR-Guard_專題成果_20261125/
 │   │   ├── static/                        # 樣式表、流程示意圖、7 組案例對照圖片
 │   │   ├── templates/                     # index.html, vlattack_live.html, vlattack_cases.html, vlattack.html, results.html
 │   │   └── scripts/                       # build_vlattack_demo.py, setup-env.ps1, run-gpu.ps1
-│   ├── 2_SDS_軟體設計規格書.md             # 系統架構、模組設計、資料流、API 與規格書
-│   └── 3_MU_系統操作手冊.md               # 系統建置、權重設定、Web 與 CLI 操作手冊
-└── 實驗設計_VLAttack/
-    ├── 1_資料前處理/                       # VQAv2 篩題、候選答案建表、BSA PGD 對抗樣本生成、Exp2/Exp3 建置、11句旋轉 Caption 與 4D 特徵萃取
-    ├── 2_訓練腳本/                         # Stage 1 StandardScaler + RBF-SVM 訓練與 .joblib 匯出腳本（含 5-fold GroupKFold OOF 驗證）
-    ├── 3_評估腳本/                         # 風險分級、SSS 高斯搜尋（σ*=0.8）、答案翻轉偵測（σ_det=1.5）、緩解後 ASR、11/22 Cosine vs Angular 正式對照
-    ├── 4_MU_實驗操作手冊.md               # 實驗重現完整流程與指令手冊
-    ├── 5_資料集/                           # 良性原圖 (300張)、成對良性/對抗影像 (109對)、VQAv2 標註與對照表、Exp1/2/3 與 11/22 特徵 CSV/JSON
-    │   └── DATASET_MANIFEST.md            # 資料集明細、來源路徑與未重複複製之大型檔案說明
-    └── 6_模型參數/                         # 已訓練 .joblib 模型、超參數 JSON、SSS/Flip 最佳參數與外部 BLIP 權重清單
-        └── MODEL_MANIFEST.md              # 模型與參數檔案說明
+├── 實驗/                                  # 實驗程式、資料與模型（導覽見 實驗/README.md）
+│   ├── 程式/
+│   │   ├── 1_攻擊與資料建立/               # BLIP 攻擊整套：VQAv2 篩題、候選答案、BSA PGD、Exp2/Exp3 建置、旋轉 Caption 與 4D 特徵
+│   │   ├── 2_訓練/                         # train_stage1_svm.py：Stage 1 SVM 訓練與 .joblib 匯出
+│   │   ├── 3_評估/                         # 主流程與舊流程評估腳本（互相 import，放同一層；分類見該資料夾 README）
+│   │   ├── 4_報告產生/                     # 結果表、C1～C7 分流報告、c1c7_by_difficulty、實驗二圖表
+│   │   ├── 5_題目難度/                     # 題目難度建表與標註合併
+│   │   ├── Florence/{攻擊,評估}/           # Florence-2 受害模型的攻擊與評估
+│   │   └── _備份_勿執行/                   # 會自動 git push／覆寫輸出的流程備份
+│   ├── 資料/                               # 導覽見 實驗/資料/README.md，明細見 DATASET_MANIFEST.md
+│   │   ├── 輸入/                           # VQAv2 標註、300 張 COCO 良性原圖
+│   │   ├── BLIP/主流程_multi_captioner/    # 報告主流程（Exp1～3 端到端 ASR、C1～C7 來源）
+│   │   ├── BLIP/舊流程/                    # steps100_alpha0.002_run1000、exp1_mixed1000、exp2_success1000（SSS、翻轉偵測、Exp2 40.9%）
+│   │   ├── BLIP/Stage1正式_11-22/          # Stage 1 正式 cos vs 角距（README AUROC 出處）
+│   │   ├── BLIP/攻擊參數搜尋/
+│   │   ├── Florence/florence_vlattack/     # 報告用的 Florence-2 數字
+│   │   ├── Florence/florence_victim/       # 另一組 Florence 研究（白盒 PGD，Exp1 全部攻擊成功，與 Exp2 同一批）
+│   │   ├── 分流分析_C1到C7/  題目難度/  成對樣本圖/  實驗清單/  補充資料表/  release_zips/
+│   │   └── DATASET_MANIFEST.md
+│   └── 模型/                               # 已訓練 .joblib、超參數 JSON、MODEL_MANIFEST.md
+├── 文件/
+│   ├── 實驗操作手冊.md                     # 實驗重現流程與指令
+│   ├── 系統操作手冊.md                     # 系統建置、權重設定、Web 與 CLI 操作
+│   ├── SDS_軟體設計規格書.md               # 系統架構、模組設計、資料流、API
+│   └── 成果報告/                           # 2026-09～11 的書面／週報（歷史紀錄）
+├── 溯源/                                  # SCRIPT_ORIGIN_MAP.tsv、SHA256SUMS_scripts.txt、新舊路徑對照.tsv
+└── 重算工具/                              # 驗證與重算用腳本（含 reproduction_audit/ 重現驗證紀錄）
 ```
 
 ---
@@ -49,10 +67,10 @@ RADAR-Guard_專題成果_20261125/
 | 本資料夾項目 | 原始來源路徑（LAPTOP-3AKL7OUA） | 備註 |
 |---|---|---|
 | `系統/1_系統完整程式/` | `C:\Users\tracy\github\Web`（及 `VLAttack_Web` 之 Poetry/PowerShell 腳本） | 使用最新（2026-11-16 23:09）`Web` 版本；僅在複本中移除 AttackVLM 頁面／路由並加入 `.joblib` 載入與 `radar_guard_cli.py` |
-| `實驗設計_VLAttack/1_資料前處理`～`3_評估腳本` | `C:\Users\tracy\github\VLAttack_final\BLIP_attack\`、`VLAttack_final\cleverhans\`、`VLAttack\BLIP_attack\` | 另含整理之 `train_stage1_svm.py` 與 `compute_rpf1.py` |
-| `實驗設計_VLAttack/5_資料集/` | `C:\Users\tracy\github\VLAttack\BLIP_attack\data\VQAv2\val2014`、`runs\IOPGD-s100-a0002-smoke20`、`VLAttack_final\BLIP_attack\output\VQA\` | 彙整良性、對抗成對影像與三組完整實驗特徵／統計表 |
-| `實驗設計_VLAttack/6_模型參數/` | 由 `2_訓練腳本/train_stage1_svm.py` 實測訓練匯出 + `exp2_success1000/sss_best_theta.json` + `steps100_alpha0.002_run1000/theta_det.json` | 產生三個 `.joblib` 部署／研究模型檔及 `model_metadata.json` |
-| `系統/2_SDS_軟體設計規格書.md`、`3_MU_系統操作手冊.md`、`實驗設計_VLAttack/4_MU_實驗操作手冊.md` | 依實際程式碼與實驗紀錄撰寫 | 原專案無既有 SDS/MU 檔案，本次依實測程式補齊 |
+| `實驗/程式/1_攻擊與資料建立`～`實驗/程式/3_評估` | `C:\Users\tracy\github\VLAttack_final\BLIP_attack\`、`VLAttack_final\cleverhans\`、`VLAttack\BLIP_attack\` | 另含整理之 `train_stage1_svm.py` 與 `compute_rpf1.py` |
+| `實驗/資料/` | `C:\Users\tracy\github\VLAttack\BLIP_attack\data\VQAv2\val2014`、`runs\IOPGD-s100-a0002-smoke20`、`VLAttack_final\BLIP_attack\output\VQA\` | 彙整良性、對抗成對影像與三組完整實驗特徵／統計表 |
+| `實驗/模型/` | 由 `實驗/程式/2_訓練/train_stage1_svm.py` 實測訓練匯出 + `exp2_success1000/sss_best_theta.json` + `steps100_alpha0.002_run1000/theta_det.json` | 產生三個 `.joblib` 部署／研究模型檔及 `model_metadata.json` |
+| `文件/SDS_軟體設計規格書.md`、`文件/系統操作手冊.md`、`文件/實驗操作手冊.md` | 依實際程式碼與實驗紀錄撰寫 | 原專案無既有 SDS/MU 檔案，本次依實測程式補齊 |
 
 ---
 
@@ -78,9 +96,9 @@ RADAR-Guard_專題成果_20261125/
 
 1. **BLIP 預訓練權重（共 4.46 GB）**：
    - `model_base_14M.pth`（2.12 GB）、`model_vqa.pth`（1.45 GB）、`model_base_caption_capfilt_large.pth`（896 MB）
-   - 實際位於本機 `C:\Users\tracy\github\VLAttack\BLIP_attack\checkpoints\`；`vlattack_engine.py` 已設定自動偵測該路徑，亦可透過環境變數 `VLATTACK_CHECKPOINTS_DIR` 或 `VLATTACK_ROOT` 指定自訂目錄（詳見 `實驗設計_VLAttack/6_模型參數/checkpoints_manifest.json`）。
+   - 實際位於本機 `C:\Users\tracy\github\VLAttack\BLIP_attack\checkpoints\`；`vlattack_engine.py` 已設定自動偵測該路徑，亦可透過環境變數 `VLATTACK_CHECKPOINTS_DIR` 或 `VLATTACK_ROOT` 指定自訂目錄（詳見 `實驗/模型/checkpoints_manifest.json`）。
 2. **COCO val2014 完整壓縮檔（6.64 GB）**：
-   - `C:\Users\tracy\github\VLAttack\BLIP_attack\data\VQAv2\val2014.zip` 未重複複製；本資料夾 `5_資料集/benign_val2014_300/` 已完整收錄實驗實際使用之 **300 張**良性原圖（46.6 MB），並收錄 **109 對**（smoke20 + deep_dive_blip + web_demo_7cases）良性與對抗成對 PNG，以及 **1,000 / 2,000 列完整實驗表格特徵 CSV/JSON**。
+   - `C:\Users\tracy\github\VLAttack\BLIP_attack\data\VQAv2\val2014.zip` 未重複複製；本資料夾 `實驗/資料/輸入/benign_val2014_300/` 已完整收錄實驗實際使用之 **300 張**良性原圖（46.6 MB），並收錄 **109 對**（smoke20 + deep_dive_blip + web_demo_7cases）良性與對抗成對 PNG，以及 **1,000 / 2,000 列完整實驗表格特徵 CSV/JSON**。
 3. **1,000 對全量 PNG 輸出目錄**：
    - `exp1_mixed1000/visual_results` 與 `exp2_success1000/visual_results` 已壓縮為兩個 zip，上傳到 GitHub Release `vlattack-data-v1`（見下方「資料與權重下載」）；`steps100_alpha0.002_run1000/visual_results`（約 16 GB）未上傳，本 repo 保留其特徵 CSV、VQA 攻擊紀錄 JSON 與評估結果。
 4. **HuggingFace 快取模型**：
@@ -109,7 +127,7 @@ RADAR-Guard_專題成果_20261125/
 gh release download vlattack-data-v1 --repo Tracy0Lin/Adversarial_Attack --dir release_zips_download
 ```
 
-- 校驗方式：把兩個 zip 與 `實驗設計_VLAttack/5_資料集/release_zips/SHA256SUMS.txt` 放在同一資料夾後執行：
+- 校驗方式：把兩個 zip 與 `實驗/資料/release_zips/SHA256SUMS.txt` 放在同一資料夾後執行：
 
 ```bash
 sha256sum -c SHA256SUMS.txt          # Linux / macOS / Git Bash
@@ -122,7 +140,7 @@ Get-FileHash .\exp2_success1000_visual_results.zip -Algorithm SHA256
 ```
 
 - 解壓後會得到 `exp1_mixed1000/visual_results/*.png` 與 `exp2_success1000/visual_results/*.png`，檔名格式為 `<question_id>_1_ori.png`、`<question_id>_2_atk.png`。
-- 小檔 CSV 另放在 repo：`實驗設計_VLAttack/5_資料集/question_difficulty/`（`labels.csv`、`samples.csv`、`c1c7_by_difficulty.csv`）、`5_資料集/experiment_manifests/`、`5_資料集/data_supplement/`，以及 `成果報告/2026-11-09_難度與C1到C7.md`。其中 `labels.csv`、`samples.csv` 的 `image_path` 欄為原實驗機（TL）的絕對路徑，僅供追溯，移機後請改用 zip 內的相對路徑。
+- 小檔 CSV 另放在 repo：`實驗/資料/題目難度/`（`labels.csv`、`samples.csv`、`c1c7_by_difficulty.csv`）、`實驗/資料/實驗清單/`、`實驗/資料/補充資料表/`，以及 `文件/成果報告/2026-11-09_難度與C1到C7.md`。其中 `labels.csv`、`samples.csv` 的 `image_path` 欄為原實驗機（TL）的絕對路徑，僅供追溯，移機後請改用 zip 內的相對路徑。
 
 ### 2. BLIP 預訓練權重（官方下載，不在 repo 內）
 
@@ -155,8 +173,8 @@ export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
 
 ### 3. 未包含的資料
 
-- `steps100_alpha0.002_run1000/visual_results`：4,423 組 × 12 種變化共 53,076 張 PNG、約 16 GB，體積過大，未上傳；其統計與特徵表已在 `實驗設計_VLAttack/5_資料集/tabular_features_and_logs/steps100_alpha0.002_run1000/`。
-- COCO val2014 完整影像（40,504 張，約 6.18 GB）：請自行從 COCO 官方網站下載（https://cocodataset.org/#download）；實驗實際用到的 300 張已收錄在 `實驗設計_VLAttack/5_資料集/benign_val2014_300/`。
+- `steps100_alpha0.002_run1000/visual_results`：4,423 組 × 12 種變化共 53,076 張 PNG、約 16 GB，體積過大，未上傳；其統計與特徵表已在 `實驗/資料/BLIP/舊流程/steps100_alpha0.002_run1000/`。
+- COCO val2014 完整影像（40,504 張，約 6.18 GB）：請自行從 COCO 官方網站下載（https://cocodataset.org/#download）；實驗實際用到的 300 張已收錄在 `實驗/資料/輸入/benign_val2014_300/`。
 - Florence 的大型輸出（探針快取 `probe_cache_*.csv`、`screening_log.jsonl`、題目池 JSON、題目難度的裁切圖與標註圖）未上傳；Florence 的腳本與 `sigma08_fixed` 結果表已放進本 repo，見下方「補充：Florence、題目難度、分流分析與重算工具」。
 
 ---
@@ -167,15 +185,15 @@ export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
 
 | 內容 | 腳本位置 | 結果／資料位置 |
 |---|---|---|
-| Florence-2 受害模型：攻擊與資料建立 | `實驗設計_VLAttack/1_資料前處理/florence/`（含 README） | — |
-| Florence-2 評估與分流分析 | `實驗設計_VLAttack/3_評估腳本/florence/`（含 README） | `5_資料集/tabular_features_and_logs/florence_vlattack/exp{1,2,3}/florence2/vqa_florence2_sigma08_fixed/`（`rows_scored.csv`、`summary.json`、`pipeline_variants.csv`、`sss_grid_mid.csv`、`theta_det_grid_mid.csv`） |
-| BLIP 實驗三 `sigma08_fixed` 結果 | `3_評估腳本/analyze.py`、`run_analyze_sigma08.py` | `5_資料集/tabular_features_and_logs/multi_captioner_blip/exp3_blip/sigma08_fixed/` |
-| 題目難度（BLIP / Florence）建表與合併 | `1_資料前處理/question_difficulty/`（`build_samples.py`、`merge_labels.py`、`build_florence_samples.py`、`merge_florence_labels.py`） | `5_資料集/question_difficulty/`：`batches/*.json`、`labels/*.jsonl`、`florence/{samples.csv,labels.csv,batches,labels}` |
-| 檢核表與補充資料表（舊版管線，2026-09-26） | `3_評估腳本/build_checklist_analytics.py`、`build_experiment_data_supplement.py` | `5_資料集/data_supplement/` |
-| 分流深入分析（C1–C7）與答案距離 | `3_評估腳本/stage_routing_deep_dive/`（`build_report.py`、`answer_distance/build_answer_distance.py`、`build_clean_answer_distance.py`） | `5_資料集/tabular_features_and_logs/stage_routing_deep_dive/`（各模型 `REPORT.md`、csv；圖片 PNG 未上傳） |
-| 攻擊甜蜜點分析 | `1_資料前處理/analyze_attack_sweet_spot.py` | `5_資料集/tabular_features_and_logs/attack_param_search/attack_stealth_natural_summary.csv` |
+| Florence-2 受害模型：攻擊與資料建立 | `實驗/程式/Florence/攻擊/`（含 README） | — |
+| Florence-2 評估與分流分析 | `實驗/程式/Florence/評估/`（含 README） | `實驗/資料/Florence/florence_vlattack/exp{1,2,3}/florence2/vqa_florence2_sigma08_fixed/`（`rows_scored.csv`、`summary.json`、`pipeline_variants.csv`、`sss_grid_mid.csv`、`theta_det_grid_mid.csv`） |
+| BLIP 實驗三 `sigma08_fixed` 結果 | `實驗/程式/3_評估/analyze.py`、`run_analyze_sigma08.py` | `實驗/資料/BLIP/主流程_multi_captioner/exp3_blip/sigma08_fixed/` |
+| 題目難度（BLIP / Florence）建表與合併 | `實驗/程式/5_題目難度/`（`build_samples.py`、`merge_labels.py`、`build_florence_samples.py`、`merge_florence_labels.py`） | `實驗/資料/題目難度/`：`batches/*.json`、`labels/*.jsonl`、`florence/{samples.csv,labels.csv,batches,labels}` |
+| 檢核表與補充資料表（舊版管線，2026-09-26） | `實驗/程式/4_報告產生/build_checklist_analytics.py`、`build_experiment_data_supplement.py` | `實驗/資料/補充資料表/` |
+| 分流深入分析（C1–C7）與答案距離 | `實驗/程式/4_報告產生/stage_routing_deep_dive/`（`build_report.py`、`answer_distance/build_answer_distance.py`、`build_clean_answer_distance.py`） | `實驗/資料/分流分析_C1到C7/`（各模型 `REPORT.md`、csv；圖片 PNG 未上傳） |
+| 攻擊甜蜜點分析 | `實驗/程式/1_攻擊與資料建立/analyze_attack_sweet_spot.py` | `實驗/資料/BLIP/攻擊參數搜尋/attack_stealth_natural_summary.csv` |
 | 數字重算工具（為驗證而寫，見其 README） | `重算工具/recompute_c1c4.py`、`重算工具/asr_redefine/compute.py` | — |
-| 流程備份（**請勿執行**，見其 README） | `1_資料前處理/備份_勿執行/`：`run_end_to_end.py`（會自動 git commit/push）、`attack_supervisor.py`（會覆寫攻擊輸出） | — |
+| 流程備份（**請勿執行**，見其 README） | `實驗/程式/_備份_勿執行/`：`run_end_to_end.py`（會自動 git commit/push）、`attack_supervisor.py`（會覆寫攻擊輸出） | — |
 
 ---
 
@@ -187,23 +205,23 @@ export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
 
 | 內容 | 位置 |
 |---|---|
-| Florence_victim 計分表（Exp1–3，`vqa_florence2` 與 `vqa_florence2_sigma08_fixed`）、`probe_gaussian_florence2.csv`、`caption_features.csv`、題目池與篩題紀錄（`eligible_pool.json`、`screening_log.jsonl`、`florence_correct_ans_table.json`、`probe_cache_florence2.csv`） | `5_資料集/tabular_features_and_logs/florence_victim/` |
-| Florence（VLAttack 特徵攻擊）預設 θ 計分表（`vqa_florence2`）、`probe_gaussian_florence2.csv`、探針快取、caption／VQA cache | `5_資料集/tabular_features_and_logs/florence_vlattack/` |
-| BLIP 預設 θ 的 Exp3 計分表、`probe_gaussian.csv`（Exp1–3）、探針快取、各項 log、caption cache | `5_資料集/tabular_features_and_logs/multi_captioner_blip/` |
-| 7 組圖片資料集的 `dataset_manifest.csv`、`dataset_info.txt`、`attack_dual_defense_log.json` | `5_資料集/experiment_manifests/` |
-| 書面／週報等 25 份成果報告 | `成果報告/` |
-| 腳本來源 SHA-256 清單（`SHA256SUMS_scripts.txt`，內容為 repo 內檔案的 LF 版雜湊）與逐檔來源對照（`SCRIPT_ORIGIN_MAP.tsv`） | 本資料夾根目錄 |
-| 還原版腳本 `regen_c1c7_by_difficulty.py` | `實驗設計_VLAttack/3_評估腳本/` |
+| Florence_victim 計分表（Exp1–3，`vqa_florence2` 與 `vqa_florence2_sigma08_fixed`）、`probe_gaussian_florence2.csv`、`caption_features.csv`、題目池與篩題紀錄（`eligible_pool.json`、`screening_log.jsonl`、`florence_correct_ans_table.json`、`probe_cache_florence2.csv`） | `實驗/資料/Florence/florence_victim/` |
+| Florence（VLAttack 特徵攻擊）預設 θ 計分表（`vqa_florence2`）、`probe_gaussian_florence2.csv`、探針快取、caption／VQA cache | `實驗/資料/Florence/florence_vlattack/` |
+| BLIP 預設 θ 的 Exp3 計分表、`probe_gaussian.csv`（Exp1–3）、探針快取、各項 log、caption cache | `實驗/資料/BLIP/主流程_multi_captioner/` |
+| 7 組圖片資料集的 `dataset_manifest.csv`、`dataset_info.txt`、`attack_dual_defense_log.json` | `實驗/資料/實驗清單/` |
+| 書面／週報等 25 份成果報告 | `文件/成果報告/` |
+| 腳本來源 SHA-256 清單（`溯源/SHA256SUMS_scripts.txt`，內容為 repo 內檔案的 LF 版雜湊）與逐檔來源對照（`溯源/SCRIPT_ORIGIN_MAP.tsv`） | 本資料夾根目錄 |
+| 還原版腳本 `regen_c1c7_by_difficulty.py` | `實驗/程式/3_評估/` |
 
-`SCRIPT_ORIGIN_MAP.tsv` 的狀態：28 個與原檔逐位元相同、518 個只差換行（CRLF／LF）、14 個內容不同、8 個在原電腦找不到原檔，另有 1 個還原版腳本（`RECONSTRUCTED_NO_ORIGINAL`）。內容不同的 14 個主要是系統網站（移除 AttackVLM 後修改過）與 `requirements.txt`。
+`溯源/SCRIPT_ORIGIN_MAP.tsv` 的狀態：28 個與原檔逐位元相同、518 個只差換行（CRLF／LF）、14 個內容不同、8 個在原電腦找不到原檔，另有 1 個還原版腳本（`RECONSTRUCTED_NO_ORIGINAL`）。內容不同的 14 個主要是系統網站（移除 AttackVLM 後修改過）與 `requirements.txt`。
 
 ### 還原版腳本（不是原檔）
 
-`regen_c1c7_by_difficulty.py` 是 **2026-11-27 還原的版本，不是原始產生程式**。產生 `question_difficulty/c1c7_by_difficulty.csv` 的原始腳本已遺失（原電腦所有 `.py`／`.ipynb`／`.md` 都找不到）。這支腳本依 `成果報告/2026-11-09_難度與C1到C7.md` 的實驗主表規則重建：高風險擋下、低風險放行、中風險只糊 σ = 0.8；BLIP 的答案跟 `original_prediction` 比，Florence 跟 `ground_truth` 比。它用 `rows_scored.csv` 與難度標註重算，**72 列結果與原檔完全一致（0 列不同）**。檔案開頭有「RECONSTRUCTED」標記。
+`regen_c1c7_by_difficulty.py` 是 **2026-11-27 還原的版本，不是原始產生程式**。產生 `question_difficulty/c1c7_by_difficulty.csv` 的原始腳本已遺失（原電腦所有 `.py`／`.ipynb`／`.md` 都找不到）。這支腳本依 `文件/成果報告/2026-11-09_難度與C1到C7.md` 的實驗主表規則重建：高風險擋下、低風險放行、中風險只糊 σ = 0.8；BLIP 的答案跟 `original_prediction` 比，Florence 跟 `ground_truth` 比。它用 `rows_scored.csv` 與難度標註重算，**72 列結果與原檔完全一致（0 列不同）**。檔案開頭有「RECONSTRUCTED」標記。
 
 ### 尚未上傳的 Release 圖片（計畫放進 `vlattack-data-v1`）
 
-下列 9 個 zip 已在原電腦打包並驗證，**尚未上傳**（等 `gh auth login`），雜湊先列在 `5_資料集/release_zips/SHA256SUMS.txt` 的註解區。
+下列 9 個 zip 已在原電腦打包並驗證，**尚未上傳**（等 `gh auth login`），雜湊先列在 `實驗/資料/release_zips/SHA256SUMS.txt` 的註解區。
 
 | 檔案 | 內容 | 大小（bytes） |
 |---|---|---:|
@@ -216,7 +234,7 @@ export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
 ### 無法復原或需要注意的項目
 
 - **五折模型檔與每折測試 ID 當時沒有存檔，找不到。** 可以重新產生：`run_rotation_cos_vs_ang.py`／`analyze.py` 用 `GroupKFold(n_splits=5)`（依 `photo_id` 分組、不洗牌）加 RBF SVC（C=1、`class_weight=balanced`），結果是確定性的。本次**沒有重新訓練**。
-- **8 個腳本在原電腦找不到原檔**：`requirements_experiment.txt`、`2_訓練腳本/train_stage1_svm.py`、`3_評估腳本/compute_rpf1.py`、`3_評估腳本/run_rotation_cos_vs_ang.py`、`實驗二_cos_vs_角距_圖表/build_exp2_excel_and_figures.py`、`系統/1_系統完整程式/radar_guard_cli.py`、`vlattack_gpu_worker.py`、`templates/vlattack.html`。
+- **8 個腳本在原電腦找不到原檔**：`requirements_experiment.txt`、`實驗/程式/2_訓練/train_stage1_svm.py`、`實驗/程式/3_評估/compute_rpf1.py`、`實驗/程式/3_評估/run_rotation_cos_vs_ang.py`、`實驗/程式/4_報告產生/實驗二_cos_vs_角距_圖表/build_exp2_excel_and_figures.py`、`系統/1_系統完整程式/radar_guard_cli.py`、`vlattack_gpu_worker.py`、`templates/vlattack.html`。
 - **Florence_victim 的 Exp1 與 Exp2 計分表逐位元相同**（`vqa_florence2` 與 `sigma08_fixed` 都是），Exp3 不同。
 - **Florence_victim `exp1_mixed1000/visual_results` 有 2,803 張 PNG、涵蓋 1,803 個 question id**（不是 1,000 對），且沒有 `dataset_manifest.csv`。
 - **Exp1 翻轉偵測**不缺資料：`steps100_alpha0.002_run1000/sss_per_theta_raw.csv` 加 `answer_flip_detector.py` 重算後，σ = 1.5 的 TPR 40.66%、FPR 5.32%、`theta_det_sweep.csv`、`flip_count_per_sample.csv`、`theta_det.json` 都與原檔一致。

@@ -274,7 +274,7 @@ class ExperimentEngine:
             svm_candidates = [
                 Path(os.environ["VLATTACK_SVM_MODEL"]) if os.environ.get("VLATTACK_SVM_MODEL") else None,
                 site_dir / "models_params" / "stage1_rbf_svm_rotate5_exp1.joblib",
-                site_dir.parents[1] / "實驗設計_VLAttack" / "6_模型參數" / "stage1_rbf_svm_rotate5_exp1.joblib",
+                site_dir.parents[1] / "實驗" / "模型" / "stage1_rbf_svm_rotate5_exp1.joblib",
             ]
             for svm_path in svm_candidates:
                 if svm_path is not None and svm_path.is_file():
