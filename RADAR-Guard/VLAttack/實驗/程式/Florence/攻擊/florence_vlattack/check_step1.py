@@ -22,7 +22,7 @@ SIDE = Path(os.environ.get("LOCALAPPDATA", "")) / "vlattack_florence_pkgs"
 if SIDE.is_dir() and str(SIDE) not in sys.path:
     sys.path.insert(0, str(SIDE))
 
-IMG_ROOT = Path(r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\vqa_images")
+IMG_ROOT = Path(os.environ.get("VLATTACK_IMG_ROOT", r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\vqa_images"))
 SCREEN = HERE.parent / "VQA" / "florence_victim" / "screening_log.jsonl"
 ANS = HERE.parent / "VQA" / "florence_victim" / "florence_correct_ans_table.json"
 PRETRAIN = "microsoft/Florence-2-large"

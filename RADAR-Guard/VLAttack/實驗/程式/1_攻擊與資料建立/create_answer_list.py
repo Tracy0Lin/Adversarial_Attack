@@ -3,7 +3,7 @@ import os
 from collections import Counter
 
 # 設定你的路徑 (請依實際情況修改)
-ann_root = r'C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\annotation'
+ann_root = os.environ.get('VLATTACK_ANN_ROOT', r'C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\annotation')
 train_json_path = os.path.join(ann_root, 'vqa_train.json')
 output_path = os.path.join(ann_root, 'answer_list.json')
 

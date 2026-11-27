@@ -6,6 +6,7 @@
 """
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 import numpy as np
@@ -38,7 +39,7 @@ from openpyxl.chart.label import DataLabelList
 # ---------------------------------------------------------------------------
 # Paths (read-only sources)
 # ---------------------------------------------------------------------------
-ARCHIVE = Path("/workspace/radar_dossier/cos_vs_angular_20261123_archive/05_formal_1122_rerun")
+ARCHIVE = Path(os.environ.get("VLATTACK_COSANG_ARCHIVE", "/workspace/radar_dossier/cos_vs_angular_20261123_archive/05_formal_1122_rerun"))
 SRC_FEAT = ARCHIVE / "outputs" / "exp2_features.csv"
 SRC_OOF = ARCHIVE / "outputs" / "oof_scores.csv"
 SRC_BOOT = ARCHIVE / "outputs" / "bootstrap_delta.csv"

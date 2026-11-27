@@ -87,5 +87,5 @@ def analyze_pure_attack_stealth(base_path):
     print(f"📊 權衡數據已成功儲存至: {output_file}\n")
 
 if __name__ == "__main__":
-    base_dir = r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack\BLIP_attack\output\VQA"
+    base_dir = os.environ.get("VLATTACK_VQA_OUT", r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack\BLIP_attack\output\VQA")
     analyze_pure_attack_stealth(base_dir)

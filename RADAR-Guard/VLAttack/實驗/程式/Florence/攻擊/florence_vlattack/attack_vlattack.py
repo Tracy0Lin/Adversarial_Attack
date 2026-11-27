@@ -30,11 +30,11 @@ from data.utils import pre_question
 from models.blip_pretrain import blip_pretrain
 import cleverhans.torch.attacks.BLIP.projected_gradient_descent as pgd
 
-IMG_ROOT = Path(r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\vqa_images")
+IMG_ROOT = Path(os.environ.get("VLATTACK_IMG_ROOT", r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\vqa_images"))
 POOL = BLIP_ROOT / "output" / "VQA" / "florence_victim" / "eligible_pool.json"
 SCREEN = BLIP_ROOT / "output" / "VQA" / "florence_victim" / "screening_log.jsonl"
 ANS = BLIP_ROOT / "output" / "VQA" / "florence_victim" / "florence_correct_ans_table.json"
-WEIGHTS = Path(r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\models\model_base.pth")
+WEIGHTS = Path(os.environ.get("VLATTACK_BLIP_PRETRAIN", r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\models\model_base.pth"))
 CUDA_RESTART_EXIT = 75
 
 

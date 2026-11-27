@@ -9,6 +9,7 @@ stage-1 RBF SVM.
 
 No captions are invented. A blank sentence aborts the run.
 """
+import os
 import math
 import random
 import sys
@@ -29,10 +30,10 @@ THIS_FILE = Path(__file__).resolve()
 BLIP_OUTPUT = THIS_FILE.parent
 ROOT = BLIP_OUTPUT / "VQA" / "multi_captioner"
 OUT_DIR = BLIP_OUTPUT / "VQA" / "rotation_cos_vs_ang"
-MODEL_DIR = Path(
+MODEL_DIR = Path(os.environ.get("VLATTACK_MINILM_DIR") or (
     r"C:\Users\tracy\.cache\huggingface\hub\models--sentence-transformers--all-MiniLM-L6-v2"
     r"\snapshots\1110a243fdf4706b3f48f1d95db1a4f5529b4d41"
-)
+))
 EXPS = ("exp1", "exp2", "exp3")
 STATS = ("d_center", "d_iqr", "d_tail", "d_q95")
 COS_COLS = [f"{name}_cos" for name in STATS]

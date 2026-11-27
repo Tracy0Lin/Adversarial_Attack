@@ -7,6 +7,7 @@
 | `recompute_c1c4.py` | 由 BLIP `sigma08_fixed/rows_scored.csv`（multi_captioner exp1/2/3）重算表 4.28 的 C1–C4 數量。 |
 | `asr_redefine/compute.py` | 以 VQAv2 人工答案（soft accuracy）重新定義 ASR，輸出新舊 ASR 對照。 |
 | `rerun_florence_routing.py` | 2026-11-27 新增。呼叫未修改的 `實驗/程式/4_報告產生/stage_routing_deep_dive/build_report.py`，只重新產生 `Florence_victim/`（讀 repo 內計分表、不複製圖片），輸出到指定的暫存資料夾。 |
+| `build_workspace.py` | 2026-11-28 新增。在 repo 外建立「工作區」，把程式與資料放回原作者電腦的排列（`BLIP_attack/output/VQA/...`），讓原始實驗腳本不改路徑就能執行。BLIP Exp2 的攻擊紀錄不在 repo，會依 Exp2 題號清單從 2,298 題紀錄重建。用法見 `文件/實驗操作手冊.md` 步驟 D。 |
 | `reproduction_audit/verify_reported_numbers.py` | 2026-11-27 新增。從 repo 內 CSV／JSON／`.joblib` 重算根目錄 README 的所有主要數字，結果寫入 `reproduction_audit.json`，說明見該資料夾 README。路徑皆相對於 repo，不需改路徑。 |
 
 注意：

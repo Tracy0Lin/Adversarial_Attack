@@ -2,6 +2,7 @@
 
 Questions already labeled for BLIP are copied. Only the rest are batched.
 """
+import os
 import json
 from pathlib import Path
 
@@ -11,7 +12,7 @@ VQA = Path(__file__).resolve().parents[1]
 OUT = Path(__file__).resolve().parent / "florence"
 BLIP_LABELS = Path(__file__).resolve().parent / "labels.csv"
 SCREEN = VQA / "florence_victim" / "screening_log.jsonl"
-IMG_ROOT = Path(r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\vqa_images")
+IMG_ROOT = Path(os.environ.get("VLATTACK_IMG_ROOT", r"C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_Data\vqa_images"))
 STUDIES = {
     "victim": {
         "exp1": VQA / "florence_victim" / "exp1_mixed1000",
