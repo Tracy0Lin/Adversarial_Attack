@@ -1,0 +1,32 @@
+{
+  "done": [
+    "probe_commit",
+    "cap_exp1_blip",
+    "cap_exp2_blip",
+    "cap_exp1_vitgpt2",
+    "cap_exp2_vitgpt2",
+    "cap_exp1_git",
+    "cap_exp2_git",
+    "cap_exp1_gemma3",
+    "cap_exp2_gemma3",
+    "analyze_exp1_blip",
+    "analyze_exp2_blip",
+    "analyze_exp1_vitgpt2",
+    "analyze_exp2_vitgpt2",
+    "analyze_exp1_git",
+    "analyze_exp2_git",
+    "analyze_exp1_gemma3",
+    "analyze_exp2_gemma3",
+    "exp3_attack",
+    "exp3_build",
+    "cap_exp3_blip",
+    "cap_exp3_vitgpt2",
+    "cap_exp3_git",
+    "cap_exp3_gemma3",
+    "analyze_exp3_blip",
+    "analyze_exp3_vitgpt2",
+    "analyze_exp3_git",
+    "analyze_exp3_gemma3",
+    "complete"
+  ]
+}

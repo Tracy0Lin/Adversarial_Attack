@@ -1,0 +1,15 @@
+[
+  {
+    "question_id": 132288000,
+    "question_original": "what is the boy doing?",
+    "question_attack": "what is the boy doing?",
+    "ground_truth": "skateboarding",
+    "original_prediction": "skateboarding",
+    "adversarial_prediction": "play ball",
+    "attack_success": true,
+    "attack_type": "FlorencePGD",
+    "pgd_steps": 100,
+    "pgd_alpha": 0.002,
+    "pgd_epsilon": 0.125
+  }
+]

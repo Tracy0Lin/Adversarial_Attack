@@ -1,0 +1,44 @@
+[2026-10-22 07:48:07] ===== Florence victim E2E start =====
+[2026-10-22 07:48:07] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u prepare_eligible.py --max_pool 25000
+[2026-10-22 09:58:41] ===== Florence victim E2E start =====
+[2026-10-22 09:58:41] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 10:02:14] ===== Florence victim E2E start =====
+[2026-10-22 10:02:14] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:12:34] ===== Florence victim E2E start =====
+[2026-10-22 11:12:34] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:13:29] ===== Florence victim E2E start =====
+[2026-10-22 11:13:29] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:13:47] ===== Florence victim E2E start =====
+[2026-10-22 11:13:47] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:15:16] ===== Florence victim E2E start =====
+[2026-10-22 11:15:16] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:17:58] ===== Florence victim E2E start =====
+[2026-10-22 11:17:58] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:20:12] ===== Florence victim E2E start =====
+[2026-10-22 11:20:12] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-22 11:22:13] ===== Florence victim E2E start =====
+[2026-10-22 11:22:13] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-23 04:14:18] ===== Florence victim E2E start =====
+[2026-10-23 04:14:18] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000 --num_samples 1000
+[2026-10-23 13:21:05] git pushed: florence_victim: experiment 1 PGD attack log (1000).
+[2026-10-23 13:21:05] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u run_defense_pipeline.py --exp exp1
+[2026-10-23 16:26:24] git pushed: florence_victim: experiment 1 defense metrics.
+[2026-10-23 16:26:24] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u build_exp2.py --n 1000
+[2026-10-23 16:26:31] git pushed: florence_victim: experiment 2 dataset.
+[2026-10-23 16:26:31] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u run_defense_pipeline.py --exp exp2
+[2026-10-23 16:31:16] git pushed: florence_victim: experiment 2 defense + ablation.
+[2026-10-23 16:31:16] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 150 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-23 18:03:59] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 300 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-23 19:37:28] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 450 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-23 21:10:26] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 600 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-23 22:43:32] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 750 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-24 00:16:49] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 900 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-24 01:50:03] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u attack_florence_pgd.py --experiment_root C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\master_attack --num_samples 1050 --exclude_log C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_victim\exp1_mixed1000\attack_dual_defense_log.json
+[2026-10-24 03:22:47] git pushed: florence_victim: master attack pool for experiment 3.
+[2026-10-24 03:22:47] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u build_exp3.py --target 1000
+[2026-10-24 03:24:18] ===== Florence victim E2E start =====
+[2026-10-24 03:24:18] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u build_exp3.py --target 1000
+[2026-10-24 03:24:33] git pushed: florence_victim: experiment 3 dataset.
+[2026-10-24 03:24:33] RUN C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\vlattack_gpu\Scripts\python.exe -u run_defense_pipeline.py --exp exp3
+[2026-10-24 05:36:33] git pushed: florence_victim: experiment 3 defense metrics.
+[2026-10-24 05:36:33] ===== Florence victim E2E COMPLETE =====

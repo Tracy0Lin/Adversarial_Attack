@@ -1,0 +1,4 @@
+source=exp3_success1000 log after one-for-one replacement
+dropped=263163002 reason=beams3 re-ask of saved PNG matches ground_truth yes
+added=132288000 photo=132288 gt='skateboarding' adv='play ball'
+selected=1000

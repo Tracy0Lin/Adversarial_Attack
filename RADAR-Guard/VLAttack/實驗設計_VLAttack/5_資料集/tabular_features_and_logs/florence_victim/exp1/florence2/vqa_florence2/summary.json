@@ -1,0 +1,160 @@
+{
+  "experiment": "exp1",
+  "captioner": "florence2",
+  "vqa_backend": "florence2",
+  "n_rows": 2000,
+  "n_attack": 1000,
+  "n_clean": 1000,
+  "n_photos": 198,
+  "stage1_protocol": "5-fold GroupKFold by photo, out-of-fold",
+  "stage1_risk": {
+    "auroc": 0.4754195,
+    "auprc": 0.4785676064555292,
+    "tpr_at_fpr_5": 0.021,
+    "tpr_at_fpr_1": 0.011
+  },
+  "stage1_dcenter_lr": {
+    "auroc": 0.471082,
+    "auprc": 0.48573990885281704,
+    "tpr_at_fpr_5": 0.042,
+    "tpr_at_fpr_1": 0.011
+  },
+  "stage1_high_only": {
+    "TP": 271,
+    "FP": 295,
+    "FN": 729,
+    "TN": 705,
+    "TPR": 0.271,
+    "FPR": 0.295,
+    "youden_j": -0.023999999999999966,
+    "precision": 0.4787985865724382,
+    "F1": 0.34610472541507026,
+    "balanced_acc": 0.488
+  },
+  "stage1_midhigh": {
+    "TP": 685,
+    "FP": 728,
+    "FN": 315,
+    "TN": 272,
+    "TPR": 0.685,
+    "FPR": 0.728,
+    "youden_j": -0.04299999999999993,
+    "precision": 0.4847841472045294,
+    "F1": 0.5677579776212185,
+    "balanced_acc": 0.47850000000000004
+  },
+  "mid_rate": 0.4235,
+  "bins": {
+    "clean": {
+      "low": 272,
+      "mid": 433,
+      "high": 295
+    },
+    "attack": {
+      "low": 315,
+      "mid": 414,
+      "high": 271
+    }
+  },
+  "theta_source": "selected on this experiment",
+  "output_tag": null,
+  "theta_star_mid": 1.0,
+  "theta_det_mid": 1.5,
+  "theta_star_all": 1.0,
+  "theta_det_all": 1.5,
+  "sss_at_theta_star": 0.5974331225964493,
+  "mid_flip_at_theta_det": {
+    "TPR": 0.966183574879227,
+    "FPR": 0.14549653579676675,
+    "youden_j": 0.8206870390824603,
+    "TPR_fooled_only": 0.966183574879227
+  },
+  "full_pipeline": {
+    "TP": 671,
+    "FP": 358,
+    "FN": 329,
+    "TN": 642,
+    "TPR": 0.671,
+    "FPR": 0.358,
+    "youden_j": 0.31300000000000006,
+    "precision": 0.652089407191448,
+    "F1": 0.6614095613602761,
+    "balanced_acc": 0.6565000000000001,
+    "asr_before": 1.0,
+    "effective_asr": 0.328,
+    "attacks_fooled_before": 1000,
+    "attacks_still_fooling": 328,
+    "clean_service_rate": 0.623,
+    "clean_blocked_rate": 0.358,
+    "clean_answer_changed_rate": 0.019,
+    "vqa_calls_per_row": 1.3325,
+    "theta_star": 1.0,
+    "theta_det": 1.5,
+    "TPR_ci95": [
+      0.6073666139597922,
+      0.730164063828237
+    ],
+    "FPR_ci95": [
+      0.2895965383599936,
+      0.4327040155440415
+    ],
+    "youden_j_ci95": [
+      0.23099719429506663,
+      0.3940369243828252
+    ],
+    "effective_asr_ci95": [
+      0.2688705312691075,
+      0.39159169214867134
+    ],
+    "clean_service_rate_ci95": [
+      0.5477508636608499,
+      0.691573080610585
+    ]
+  },
+  "caption_rewrite_rate": {
+    "clean": 0.45719999999999994,
+    "attack": 0.4963
+  },
+  "feature_means": {
+    "clean": {
+      "d_center": 0.036920972144391245,
+      "d_iqr": 0.011982683994807283,
+      "d_tail": 0.01616449323948471,
+      "d_q95": 0.059581230227893654
+    },
+    "attack": {
+      "d_center": 0.03885098446914341,
+      "d_iqr": 0.013100471698679013,
+      "d_tail": 0.017826521025272067,
+      "d_q95": 0.0656300302626914
+    }
+  },
+  "caption_calls_per_row": {
+    "total": 11,
+    "unique_inputs": 3
+  },
+  "exp1_by_attack_outcome": {
+    "attack_success": {
+      "n": 1000,
+      "stage1_high_TPR": 0.271,
+      "full_TPR": 0.671,
+      "bins": {
+        "low": 315,
+        "mid": 414,
+        "high": 271
+      },
+      "stage1_auroc_vs_clean": 0.4754195
+    },
+    "attack_failed": {
+      "n": 0,
+      "stage1_high_TPR": NaN,
+      "full_TPR": NaN,
+      "bins": {
+        "low": 0,
+        "mid": 0,
+        "high": 0
+      },
+      "stage1_auroc_vs_clean": NaN
+    }
+  }
+}

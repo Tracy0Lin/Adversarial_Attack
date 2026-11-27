@@ -1,0 +1,12 @@
+{
+  "done": [
+    "prepare",
+    "attack_exp1",
+    "defense_exp1",
+    "build_exp2",
+    "defense_exp2",
+    "attack_master_exp3",
+    "build_exp3",
+    "defense_exp3"
+  ]
+}

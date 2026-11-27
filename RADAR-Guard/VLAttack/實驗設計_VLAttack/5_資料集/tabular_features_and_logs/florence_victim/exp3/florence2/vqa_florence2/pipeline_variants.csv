@@ -1,0 +1,8 @@
+TP,FP,FN,TN,TPR,FPR,youden_j,precision,F1,balanced_acc,asr_before,effective_asr,attacks_fooled_before,attacks_still_fooling,clean_service_rate,clean_blocked_rate,clean_answer_changed_rate,vqa_calls_per_row,variant,theta_star,theta_det,TPR_ci95,FPR_ci95,youden_j_ci95,effective_asr_ci95,clean_service_rate_ci95
+0,0,1000,0,0.0,,,,0.0,,1.0,1.0,1000,1000,,,,1.0,A0_no_defense,,,,,,,
+176,0,824,0,0.176,,,1.0,0.29931972789115646,,1.0,0.824,1000,824,,,,0.824,A1_stage1_high_block,,,"[0.14656945210613417, 0.20913777990037238]","[nan, nan]","[nan, nan]","[0.7908622200996277, 0.8534305478938659]","[nan, nan]"
+459,0,541,0,0.459,,,1.0,0.6291980808773132,,1.0,0.541,1000,541,,,,0.541,A1b_stage1_mid_high_block,,,,,,,
+953,0,47,0,0.953,,,1.0,0.9759344598054276,,1.0,0.045,1000,45,,,,2.047,A2_stage2_only,1.0,1.5,"[0.9388179482505212, 0.9676114353597438]","[nan, nan]","[nan, nan]","[0.03131337343479811, 0.0587724582263894]","[nan, nan]"
+0,0,1000,0,0.0,,,,0.0,,1.0,0.451,1000,451,,,,1.0,A2b_stage2_mitigate_only,1.0,,,,,,
+176,0,824,0,0.176,,,1.0,0.29931972789115646,,1.0,0.679,1000,679,,,,0.824,A3_full_mitigate_only,1.0,,,,,,
+449,0,551,0,0.449,,,1.0,0.6197377501725327,,1.0,0.551,1000,551,,,,1.117,A3_full_pipeline,1.0,1.5,"[0.3948683908107415, 0.5005029300187334]","[nan, nan]","[nan, nan]","[0.49949706998126664, 0.6051316091892585]","[nan, nan]"

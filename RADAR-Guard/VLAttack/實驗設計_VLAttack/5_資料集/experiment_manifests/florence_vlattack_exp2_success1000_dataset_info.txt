@@ -1,0 +1,4 @@
+source=C:\Users\tracy_aboikg6\OneDrive\Desktop\program\VLAttack_zip\BLIP_attack\output\VQA\florence_vlattack\feature_attack
+selected=1000
+attack_success=1000
+include_clean=True

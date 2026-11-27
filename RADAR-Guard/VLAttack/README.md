@@ -176,3 +176,49 @@ export VLATTACK_CHECKPOINTS_DIR=/data/models/blip    # Linux / macOS
 | 攻擊甜蜜點分析 | `1_資料前處理/analyze_attack_sweet_spot.py` | `5_資料集/tabular_features_and_logs/attack_param_search/attack_stealth_natural_summary.csv` |
 | 數字重算工具（為驗證而寫，見其 README） | `重算工具/recompute_c1c4.py`、`重算工具/asr_redefine/compute.py` | — |
 | 流程備份（**請勿執行**，見其 README） | `1_資料前處理/備份_勿執行/`：`run_end_to_end.py`（會自動 git commit/push）、`attack_supervisor.py`（會覆寫攻擊輸出） | — |
+
+---
+
+## 補充（第二批補入）：驗證用計分表、探針快取、腳本來源清單與已知缺漏
+
+2026-11-27 第二批補入，全部是原電腦檔案的唯讀複本（只放小檔，不含圖片、zip、權重）。
+
+### 新增檔案
+
+| 內容 | 位置 |
+|---|---|
+| Florence_victim 計分表（Exp1–3，`vqa_florence2` 與 `vqa_florence2_sigma08_fixed`）、`probe_gaussian_florence2.csv`、`caption_features.csv`、題目池與篩題紀錄（`eligible_pool.json`、`screening_log.jsonl`、`florence_correct_ans_table.json`、`probe_cache_florence2.csv`） | `5_資料集/tabular_features_and_logs/florence_victim/` |
+| Florence（VLAttack 特徵攻擊）預設 θ 計分表（`vqa_florence2`）、`probe_gaussian_florence2.csv`、探針快取、caption／VQA cache | `5_資料集/tabular_features_and_logs/florence_vlattack/` |
+| BLIP 預設 θ 的 Exp3 計分表、`probe_gaussian.csv`（Exp1–3）、探針快取、各項 log、caption cache | `5_資料集/tabular_features_and_logs/multi_captioner_blip/` |
+| 7 組圖片資料集的 `dataset_manifest.csv`、`dataset_info.txt`、`attack_dual_defense_log.json` | `5_資料集/experiment_manifests/` |
+| 書面／週報等 25 份成果報告 | `成果報告/` |
+| 腳本來源 SHA-256 清單（`SHA256SUMS_scripts.txt`，內容為 repo 內檔案的 LF 版雜湊）與逐檔來源對照（`SCRIPT_ORIGIN_MAP.tsv`） | 本資料夾根目錄 |
+| 還原版腳本 `regen_c1c7_by_difficulty.py` | `實驗設計_VLAttack/3_評估腳本/` |
+
+`SCRIPT_ORIGIN_MAP.tsv` 的狀態：28 個與原檔逐位元相同、518 個只差換行（CRLF／LF）、14 個內容不同、8 個在原電腦找不到原檔，另有 1 個還原版腳本（`RECONSTRUCTED_NO_ORIGINAL`）。內容不同的 14 個主要是系統網站（移除 AttackVLM 後修改過）與 `requirements.txt`。
+
+### 還原版腳本（不是原檔）
+
+`regen_c1c7_by_difficulty.py` 是 **2026-11-27 還原的版本，不是原始產生程式**。產生 `question_difficulty/c1c7_by_difficulty.csv` 的原始腳本已遺失（原電腦所有 `.py`／`.ipynb`／`.md` 都找不到）。這支腳本依 `成果報告/2026-11-09_難度與C1到C7.md` 的實驗主表規則重建：高風險擋下、低風險放行、中風險只糊 σ = 0.8；BLIP 的答案跟 `original_prediction` 比，Florence 跟 `ground_truth` 比。它用 `rows_scored.csv` 與難度標註重算，**72 列結果與原檔完全一致（0 列不同）**。檔案開頭有「RECONSTRUCTED」標記。
+
+### 尚未上傳的 Release 圖片（計畫放進 `vlattack-data-v1`）
+
+下列 9 個 zip 已在原電腦打包並驗證，**尚未上傳**（等 `gh auth login`），雜湊先列在 `5_資料集/release_zips/SHA256SUMS.txt` 的註解區。
+
+| 檔案 | 內容 | 大小（bytes） |
+|---|---|---:|
+| `exp3_success1000_visual_results.zip` | BLIP 實驗三 1,000 對 | 743,521,497 |
+| `florence_vlattack_exp{1,2,3}_*_visual_results.zip` | Florence（VLAttack 特徵攻擊）三組，各 1,000 對 | 1,960,564,830／1,952,161,486／2,016,374,669 |
+| `florence_victim_exp{1,2,3}_*_visual_results.zip` | Florence_victim 三組（Exp1 的資料夾含 2,803 張） | 1,833,287,129／1,458,855,573／1,470,432,821 |
+| `question_difficulty_images.zip` | 題目難度的裁切圖與標註圖（64 張） | 10,728,102 |
+| `stage_routing_deep_dive_pngs.zip` | C1–C7 分類 PNG（440 張） | 267,284,813 |
+
+### 無法復原或需要注意的項目
+
+- **五折模型檔與每折測試 ID 當時沒有存檔，找不到。** 可以重新產生：`run_rotation_cos_vs_ang.py`／`analyze.py` 用 `GroupKFold(n_splits=5)`（依 `photo_id` 分組、不洗牌）加 RBF SVC（C=1、`class_weight=balanced`），結果是確定性的。本次**沒有重新訓練**。
+- **8 個腳本在原電腦找不到原檔**：`requirements_experiment.txt`、`2_訓練腳本/train_stage1_svm.py`、`3_評估腳本/compute_rpf1.py`、`3_評估腳本/run_rotation_cos_vs_ang.py`、`實驗二_cos_vs_角距_圖表/build_exp2_excel_and_figures.py`、`系統/1_系統完整程式/radar_guard_cli.py`、`vlattack_gpu_worker.py`、`templates/vlattack.html`。
+- **Florence_victim 的 Exp1 與 Exp2 計分表逐位元相同**（`vqa_florence2` 與 `sigma08_fixed` 都是），Exp3 不同。
+- **Florence_victim `exp1_mixed1000/visual_results` 有 2,803 張 PNG、涵蓋 1,803 個 question id**（不是 1,000 對），且沒有 `dataset_manifest.csv`。
+- **Exp1 翻轉偵測**不缺資料：`steps100_alpha0.002_run1000/sss_per_theta_raw.csv` 加 `answer_flip_detector.py` 重算後，σ = 1.5 的 TPR 40.66%、FPR 5.32%、`theta_det_sweep.csv`、`flip_count_per_sample.csv`、`theta_det.json` 都與原檔一致。
+- **VQAv2 官方標註**（`重算工具/asr_redefine` 需要）：`https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Val_mscoco.zip`（10,518,930 bytes，SHA-256 `0caae7c8d1dafd852727f5ac046bc1efca9b72026bd6ffa34fc489f3a7b3291e`），解壓後得 `v2_mscoco_val2014_annotations.json`（171,762,489 bytes）。檔案太大，不放 repo。
+- `steps100_alpha0.002_run1000/visual_results`（53,076 張，約 17 GB）確認存在，但不上傳。

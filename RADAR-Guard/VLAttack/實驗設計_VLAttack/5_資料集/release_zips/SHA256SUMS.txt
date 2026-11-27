@@ -1,2 +1,13 @@
 2740f7b0e036272b3b33df1f5df71c822a40626d2c1c8046cbd096e07862e7ea  exp1_mixed1000_visual_results.zip
 f56dbd2fd82341ce9f6a34c37090c87baa7a066e527f1f99231b00b90512e0ac  exp2_success1000_visual_results.zip
+
+# PLANNED for Release vlattack-data-v1 -- NOT yet uploaded (waiting on gh auth login). Commented out so `sha256sum -c` still passes; uncomment after upload.
+# da28599d629a974d2255b7b85cf02c1b84d2934ebd8215d5f83b6ca6659888e7  exp3_success1000_visual_results.zip   (743,521,497 bytes)
+# 0cea0a6c6c5dab856a30791ccedb1883284071381094902131076f0d1e719af1  florence_vlattack_exp1_mixed1000_visual_results.zip   (1,960,564,830 bytes)
+# 189ad0309bba5ca0f7ff3ba204d4b82ff883672974311f2b0f00878002352ea0  florence_vlattack_exp2_success1000_visual_results.zip   (1,952,161,486 bytes)
+# 6e4858ec41d872e19b8557e011cf2ea7ecb9c2c224becc03a261f6fa38429883  florence_vlattack_exp3_success1000_visual_results.zip   (2,016,374,669 bytes)
+# eadc44980b3f6f294d6ecbd0afd20d6663ab2b2caea71d7503b74d876884b389  florence_victim_exp1_mixed1000_visual_results.zip   (1,833,287,129 bytes)
+# 4699e0995f895203f041e2d3064fc6574203fe8a6dfbf3b45afa5b42614f5e49  florence_victim_exp2_success1000_visual_results.zip   (1,458,855,573 bytes)
+# d07b9ad4bf8e2961c56f22860d0ed4f8e3f835e4f99336cd11aa5cf459d13d53  florence_victim_exp3_success1000_visual_results.zip   (1,470,432,821 bytes)
+# 76e02e5e117758715dfd66ae7e3aa4a1d4b33a308e12208de0aa9187098b8b69  question_difficulty_images.zip   (10,728,102 bytes)
+# 6d13552fb4ec756062db06ffc91a8c0a09976416c65d971556b7c547a0c1de9d  stage_routing_deep_dive_pngs.zip   (267,284,813 bytes)
