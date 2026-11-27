@@ -24,4 +24,8 @@
 | `實驗/程式/3_評估/compute_rpf1.py` | `VLATTACK_OOF_SCORES` |
 | `實驗/程式/4_報告產生/實驗二_cos_vs_角距_圖表/build_exp2_excel_and_figures.py` | `VLATTACK_COSANG_ARCHIVE` |
 
-不設環境變數時，行為與原檔完全相同。其餘檔案的內容和雜湊都沒有變。`實驗設計_VLAttack/2_訓練腳本/` 裡 4 個與 `3_評估腳本/` 完全相同的副本已刪除，清單中也移除了它們的列。
+不設環境變數時，行為與原檔完全相同。
+
+同日修正 `實驗/程式/1_攻擊與資料建立/requirements-gpu.txt` 的格式，狀態改為 `MODIFIED_FORMAT_FIX`：原檔有 4 行把多個套件寫在同一行（例如 `transformers==4.26.1tokenizers==0.13.3` 少了換行），`pip install -r` 會失敗。已改成一行一個套件；torch 那行改成註解，說明要從 CUDA 版網址另外安裝。套件與版本都沒有變。
+
+其餘檔案的內容和雜湊都沒有變。`實驗設計_VLAttack/2_訓練腳本/` 裡 4 個與 `3_評估腳本/` 完全相同的副本已刪除，清單中也移除了它們的列。

@@ -116,7 +116,7 @@ Exp2 的 40.9% 由另一套流程算出：依題號分組三折，中風險攻�
 | 2 | `common.py`、`captioners.py`、`evaluate_best_stage1_new.py` 在 `1_攻擊與資料建立/` 和 `3_評估/` 各有一份 | 這兩份是各自資料夾 import 需要的，刪了會跑不起來，所以保留（`2_訓練/` 的副本已刪除） |
 | 3 | `cleverhans/` 整包 511 個檔案，實際只用到 `cleverhans/torch/attacks/BLIP/` | 可精簡；至少在 README 註明 |
 | 4 | 三份環境檔用途沒寫清楚：`requirements.txt` 給網站、`requirements_experiment.txt` 給實驗、`environment.yaml` 是原專案的舊環境 | README 各加一句用途 |
-| 5 | `實驗/程式/1_攻擊與資料建立/requirements-gpu.txt` 有一行少了換行（`transformers==4.26.1tokenizers==0.13.3`），pip 安裝會失敗 | 補換行 |
+| 5 | ~~`實驗/程式/1_攻擊與資料建立/requirements-gpu.txt` 有一行少了換行，pip 安裝會失敗~~ | ✅ 2026-11-28 已修正：4 行把多個套件寫在同一行，全部拆成一行一個；torch 改成註解說明另外安裝 |
 | 6 | 程式寫死原作者電腦路徑（`vlattack_engine.py` 8 處，Florence 等腳本也有） | 改用環境變數或相對路徑；至少保留目前 README 的說明 |
 | 7 | 網站安全：`job_id` 未檢查格式、對外開放 `0.0.0.0`、錯誤訊息含本機路徑 | 只在本機展示就改綁 `127.0.0.1`；`job_id` 加格式檢查 |
 
